@@ -91,11 +91,11 @@ def build_svg(w, h, cx, cy, spread, n, dense) -> str:
 
 
 def main() -> None:
-    tl = build_svg(w=520, h=420, cx=90, cy=60, spread=260, n=24, dense=False)
+    tl = build_svg(w=620, h=520, cx=110, cy=90, spread=340, n=38, dense=False)
     with open(f"{OUT_DIR}/network-corner-tl.svg", "w", encoding="utf-8") as f:
         f.write(tl)
 
-    br = build_svg(w=680, h=560, cx=560, cy=460, spread=340, n=42, dense=True)
+    br = build_svg(w=760, h=640, cx=620, cy=520, spread=400, n=48, dense=True)
     with open(f"{OUT_DIR}/network-corner-br.svg", "w", encoding="utf-8") as f:
         f.write(br)
 
