@@ -120,7 +120,7 @@ def classify_articles(articles: list) -> list:
     from google import genai
 
     client = genai.Client(api_key=api_key)
-    model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
     cat_desc = "\n".join(f"- {c['id']}: {c['label']}（{c['description']}）" for c in categories)
 
     for i in range(0, len(articles), BATCH_SIZE):
