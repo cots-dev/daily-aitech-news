@@ -19,6 +19,9 @@ GitHub Actions（毎朝 cron）
 - 既読/未読はブラウザの `:visited` 機能で判定します（JS・サーバー管理なし）。
   端末・ブラウザをまたぐと未読表示に戻ります。
 - タブは記事内容ベースで分類します（1記事が複数タブに該当してOK）。
+- 日付ごとのアーカイブページは持ちません（当日分のみ表示）。代わりに記事をブックマークでき、
+  ブックマークした記事は日付を問わず「ブックマーク」タブから見返せます
+  （`localStorage`ベース。既読/未読と同様、端末・ブラウザをまたいでは同期されません）。
 
 ## セットアップ手順
 
@@ -51,9 +54,9 @@ scripts/
   collect.py           … RSS収集・重複除外・Gemini分類
   build_site.py        … data/*.json から docs/ 以下のHTMLを生成
 templates/
-  page.html.jinja       … 日別ページ（総合＋カテゴリタブ）
-  archive_index.html.jinja … 過去の記事一覧ページ
-  style.css.jinja       … タブ・既読/未読の見た目（カテゴリ数に応じて動的生成）
+  page.html.jinja       … 当日ページ（総合＋カテゴリタブ＋ブックマークタブ）
+  style.css.jinja       … タブ・既読/未読・ブックマークの見た目（カテゴリ数に応じて動的生成）
+  app.js                … ブックマークの追加/解除・一覧表示（localStorage、唯一のJS）
 data/
   YYYY-MM-DD.json       … 収集済み記事のアーカイブ（タグ付き）
   seen_urls.json        … 重複収集を防ぐための既収集URL一覧

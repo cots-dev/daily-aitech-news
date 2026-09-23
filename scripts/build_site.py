@@ -1,13 +1,16 @@
 """data/*.json から docs/ 以下に静的HTMLサイトを生成するスクリプト。
 
-- docs/index.html          … 最新日の一覧（総合＋カテゴリタブ）
-- docs/archive/YYYY-MM-DD.html … 日付ごとのアーカイブ
-- docs/archive/index.html  … 過去の記事一覧（日付リンク集）
+- docs/index.html          … 当日分の一覧（総合＋カテゴリタブ＋ブックマークタブ）
 - docs/assets/style.css    … カテゴリ数に応じて動的生成するCSS
+- docs/assets/app.js       … ブックマーク機能（localStorage、クライアント側）
 - docs/robots.txt          … 検索エンジンからの発見を避けるための全面Disallow
+
+過去日付ごとのアーカイブページは持たない（ブックマークした記事だけが
+日付を問わず「ブックマーク」タブから参照できる）。
 """
 import json
-from datetime import datetime
+import shutil
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import yaml
@@ -18,6 +21,9 @@ CONFIG_DIR = ROOT / "config"
 DATA_DIR = ROOT / "data"
 DOCS_DIR = ROOT / "docs"
 TEMPLATES_DIR = ROOT / "templates"
+
+# ブックマークタブから遡って参照できる日数（埋め込みJSONの肥大化を防ぐための上限）
+BOOKMARK_LOOKBACK_DAYS = 90
 
 
 def load_yaml(name: str):
@@ -47,60 +53,47 @@ def build() -> None:
 
     env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
     page_template = env.get_template("page.html.jinja")
-    archive_index_template = env.get_template("archive_index.html.jinja")
     style_template = env.get_template("style.css.jinja")
 
-    (DOCS_DIR / "archive").mkdir(parents=True, exist_ok=True)
+    if (DOCS_DIR / "archive").exists():
+        shutil.rmtree(DOCS_DIR / "archive")
     (DOCS_DIR / "assets").mkdir(parents=True, exist_ok=True)
 
     (DOCS_DIR / "assets" / "style.css").write_text(
         style_template.render(categories=categories), encoding="utf-8"
     )
+    shutil.copyfile(TEMPLATES_DIR / "app.js", DOCS_DIR / "assets" / "app.js")
     (DOCS_DIR / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
 
     day_files = sorted(DATA_DIR.glob("20*-*-*.json"))
-    all_dates = [f.stem for f in day_files]
-
-    for f in day_files:
-        date = f.stem
-        articles = load_day(f)
-        html = page_template.render(
-            date=date,
-            date_display=date_with_dow(date),
-            articles=articles,
-            categories=categories,
-            prompt_links=prompt_links,
-            css_href="../assets/style.css",
-            home_href="../index.html",
-            archive_href="index.html",
-        )
-        (DOCS_DIR / "archive" / f"{date}.html").write_text(html, encoding="utf-8")
-
-    if all_dates:
-        latest_date = all_dates[-1]
-        latest_articles = load_day(DATA_DIR / f"{latest_date}.json")
-        html = page_template.render(
-            date=latest_date,
-            date_display=date_with_dow(latest_date),
-            articles=latest_articles,
-            categories=categories,
-            prompt_links=prompt_links,
-            css_href="assets/style.css",
-            home_href="index.html",
-            archive_href="archive/index.html",
-        )
-        (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
-    else:
+    if not day_files:
         print("[WARN] data/ に日別JSONがまだありません。docs/index.html は生成されません")
+        return
 
-    (DOCS_DIR / "archive" / "index.html").write_text(
-        archive_index_template.render(
-            all_dates=[(d, date_with_dow(d)) for d in reversed(all_dates)]
-        ),
-        encoding="utf-8",
+    latest_date = day_files[-1].stem
+    latest_articles = load_day(day_files[-1])
+
+    cutoff = (datetime.now() - timedelta(days=BOOKMARK_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+    all_articles = []
+    for f in day_files:
+        if f.stem >= cutoff:
+            all_articles.extend(load_day(f))
+    all_articles.sort(key=lambda a: a.get("published", ""), reverse=True)
+
+    all_articles_json = json.dumps(all_articles, ensure_ascii=False)
+    all_articles_json = all_articles_json.replace("</", "<\\/")  # </script> 対策
+
+    html = page_template.render(
+        date=latest_date,
+        date_display=date_with_dow(latest_date),
+        articles=latest_articles,
+        categories=categories,
+        prompt_links=prompt_links,
+        all_articles_json=all_articles_json,
     )
+    (DOCS_DIR / "index.html").write_text(html, encoding="utf-8")
 
-    print(f"ビルド完了: {len(all_dates)}日分のページを生成しました")
+    print(f"ビルド完了: {latest_date}分のページを生成（ブックマーク対象 {len(all_articles)}件）")
 
 
 if __name__ == "__main__":

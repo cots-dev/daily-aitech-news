@@ -4,22 +4,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>AIニュースダイジェスト - {{ date }}</title>
-<link rel="stylesheet" href="{{ css_href }}">
+<title>Daily AI/Tech News - {{ date }}</title>
+<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header class="site-header">
-  <h1><a href="{{ home_href }}">Daily AI/Tech News</a></h1>
+  <h1>Daily AI/Tech News</h1>
   <p class="subtitle">Windows、Copilot、Microsoft365系のアップデート/最新機能/活用Tipsを毎日お届け</p>
   <div class="header-meta">
     <span class="date">{{ date_display }}</span>
-    <nav class="subnav"><a href="{{ archive_href }}">過去の記事一覧</a></nav>
   </div>
 </header>
 
 {% macro article_item(a) %}
 <li>
   <div class="article-row">
+    <button type="button" class="bookmark-btn" data-id="{{ a.id }}" aria-pressed="false" aria-label="ブックマーク">☆</button>
     <div class="article-text">
       <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_ja or a.title }}</a>
       <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
@@ -38,12 +38,14 @@
   {% for c in categories %}
   <input type="radio" name="tabs" id="tab-{{ c.id }}" class="tab-input">
   {% endfor %}
+  <input type="radio" name="tabs" id="tab-bookmark" class="tab-input">
 
   <div class="tabbar">
     <label for="tab-all" class="tab-label">総合</label>
     {% for c in categories %}
     <label for="tab-{{ c.id }}" class="tab-label">{{ c.label }}</label>
     {% endfor %}
+    <label for="tab-bookmark" class="tab-label">ブックマーク</label>
   </div>
 
   <main class="panels">
@@ -68,6 +70,12 @@
       </ul>
     </section>
     {% endfor %}
+
+    <section id="panel-bookmark" class="panel">
+      <ul class="article-list">
+        <li class="empty">読み込み中...</li>
+      </ul>
+    </section>
   </main>
 </div>
 
@@ -81,5 +89,8 @@
   </ul>
 </footer>
 {% endif %}
+
+<script type="application/json" id="all-articles-data">{{ all_articles_json | safe }}</script>
+<script defer src="assets/app.js"></script>
 </body>
 </html>
