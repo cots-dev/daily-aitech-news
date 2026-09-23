@@ -3,6 +3,7 @@ data/YYYY-MM-DD.json に追記するスクリプト。
 
 要約文は生成しない（タイトル・出典・公開日・カテゴリタグのみ）。
 """
+import calendar
 import hashlib
 import json
 import os
@@ -79,6 +80,18 @@ def extract_thumbnail(entry) -> str | None:
     return None
 
 
+def format_published(entry) -> tuple[str, str]:
+    """(ソート用ISO文字列, 表示用「YYYY/M/D Www」文字列) を返す。
+    パース不能な場合は生の文字列をそのまま両方に使う。
+    """
+    parsed = entry.get("published_parsed") or entry.get("updated_parsed")
+    if parsed:
+        dt = datetime.fromtimestamp(calendar.timegm(parsed), tz=timezone.utc).astimezone(JST)
+        return dt.isoformat(), f"{dt.year}/{dt.month}/{dt.day} {dt.strftime('%a')}"
+    raw = entry.get("published") or entry.get("updated") or ""
+    return raw, raw
+
+
 def collect() -> tuple[list, set]:
     sources = load_yaml("sources.yaml")["sources"]
     keywords = load_yaml("keywords.yaml")["keywords"]
@@ -113,7 +126,7 @@ def collect() -> tuple[list, set]:
                 if not matches_keywords(text, keywords):
                     continue
 
-            published = entry.get("published") or entry.get("updated") or ""
+            published, published_display = format_published(entry)
 
             new_articles.append(
                 {
@@ -122,6 +135,7 @@ def collect() -> tuple[list, set]:
                     "url": url,
                     "source": src["name"],
                     "published": published,
+                    "published_display": published_display,
                     "thumbnail": extract_thumbnail(entry),
                 }
             )
@@ -131,8 +145,8 @@ def collect() -> tuple[list, set]:
 
 
 def classify_articles(articles: list) -> list:
-    """Geminiで各記事にカテゴリタグ（複数可）と日本語タイトルを付与する。
-    GEMINI_API_KEY未設定・エラー時は 'other'・原題のままにフォールバックする。
+    """Geminiで各記事にカテゴリタグ（複数可）・日本語タイトル・ハッシュタグを付与する。
+    GEMINI_API_KEY未設定・エラー時は 'other'・原題のまま・ハッシュタグなしにフォールバックする。
     """
     if not articles:
         return articles
@@ -157,9 +171,11 @@ def classify_articles(articles: list) -> list:
         batch = articles[i : i + BATCH_SIZE]
         titles_block = "\n".join(f"{idx}. {a['title']}" for idx, a in enumerate(batch))
         prompt = f"""以下は生成AI・Microsoft 365関連ニュースのタイトル一覧です。
-各記事について、次の2つを行ってください。
+各記事について、次の3つを行ってください。
 1. 下記カテゴリIDのうち該当するものを全て割り当てる（複数可）。どれにも当てはまらない場合は "other" のみ。
 2. タイトルが日本語以外の場合は自然な日本語に翻訳する。すでに日本語の場合はそのまま返す。
+3. 記事の内容を端的に表すハッシュタグを2〜3個抽出する（例: Excel, Copilot, プロンプト, 生成AI）。
+   #記号は付けない。固有の製品名・サービス名・トピック名を優先する。
 
 カテゴリ一覧:
 {cat_desc}
@@ -168,7 +184,7 @@ def classify_articles(articles: list) -> list:
 {titles_block}
 
 出力は次のJSON形式のみを返してください（説明文・コードブロック不要）:
-{{"0": {{"tags": ["excel"], "title_ja": "日本語タイトル"}}, "1": {{"tags": ["msofficial", "teams"], "title_ja": "..."}}}}
+{{"0": {{"tags": ["excel"], "title_ja": "日本語タイトル", "hashtags": ["Excel", "プロンプト"]}}, "1": {{"tags": ["llm"], "title_ja": "...", "hashtags": ["ChatGPT", "アップデート"]}}}}
 """
         try:
             resp = client.models.generate_content(model=model, contents=prompt)
@@ -183,6 +199,8 @@ def classify_articles(articles: list) -> list:
                 title_ja = entry_result.get("title_ja")
                 if title_ja:
                     a["title_ja"] = title_ja
+                hashtags = entry_result.get("hashtags") or []
+                a["hashtags"] = [str(h).lstrip("#").strip() for h in hashtags if str(h).strip()][:3]
         except Exception as e:  # noqa: BLE001 - フォールバックのため広く捕捉
             print(f"[WARN] 分類APIエラー、このバッチは'other'・原題のまま扱います: {e}")
             for a in batch:

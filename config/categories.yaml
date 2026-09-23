@@ -1,36 +1,18 @@
 # 表示タブの一覧。id は HTML の id / Gemini分類プロンプトの両方で使う。
-# 「総合」タブはここには含めない（build_site.py 側で全件表示として別途扱う）。
+# 「総合」「ブックマーク」タブはここには含めない（build_site.py 側で別途扱う特別タブ）。
 categories:
-  - id: msofficial
-    label: Microsoft公式
-    description: Microsoft公式ブログ・一次情報（ロードマップ・機能発表）
+  - id: official
+    label: 公式ニュース
+    description: OpenAI・Anthropic・Google・Microsoftなど各社の公式発表・一次情報
+  - id: llm
+    label: LLMモデル
+    description: Copilot・Claude・ChatGPT・Geminiなど、各社LLMサービスの機能・アップデートに関する話題
   - id: domestic
     label: 国内トレンド
-    description: 国内メディア・はてなブックマーク発の一般ニュース・話題
-  - id: teams
-    label: Teams
-    description: Microsoft Teamsに関する話題
-  - id: outlook
-    label: Outlook
-    description: Outlookに関する話題
-  - id: powerpoint
-    label: PowerPoint
-    description: PowerPointに関する話題
-  - id: excel
-    label: Excel
-    description: Excelに関する話題
-  - id: word
-    label: Word
-    description: Wordに関する話題
-  - id: sharepoint
-    label: SharePoint
-    description: SharePointに関する話題
-  - id: powerautomate
-    label: Power Automate
-    description: Power Automateに関する話題
-  - id: windows
-    label: Windows
-    description: Windows OSに関する話題
+    description: 国内メディア・はてなブックマーク発のAI関連の主要ニュース・話題
+  - id: office_tips
+    label: Office系Tips
+    description: Windows・Excel・Word・PowerPoint・Teams・Outlook・OneNote・SharePoint・Power Automateなど、Office/Windows関連のニュース・活用Tips
   - id: other
     label: その他
     description: 上記どれにも該当しない生成AI全般の話題

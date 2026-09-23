@@ -22,7 +22,7 @@
     <button type="button" class="bookmark-btn" data-id="{{ a.id }}" aria-pressed="false" aria-label="ブックマーク">☆</button>
     <div class="article-text">
       <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_ja or a.title }}</a>
-      <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
+      <div class="meta">{% if a.published_display %}{{ a.published_display }}{% endif %}{% if a.source %} ・ {{ a.source }}{% endif %}{% if a.hashtags %} ・ {% for h in a.hashtags[:3] %}#{{ h }}{% if not loop.last %} {% endif %}{% endfor %}{% endif %}</div>
     </div>
     {% if a.thumbnail %}
     <a href="{{ a.url }}" target="_blank" rel="noopener" class="thumb-link">

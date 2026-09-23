@@ -84,9 +84,22 @@
     link.textContent = a.title_ja || a.title;
     textDiv.appendChild(link);
 
+    var metaParts = [];
+    if (a.published_display) metaParts.push(a.published_display);
+    if (a.source) metaParts.push(a.source);
+    if (a.hashtags && a.hashtags.length) {
+      metaParts.push(
+        a.hashtags
+          .slice(0, 3)
+          .map(function (h) {
+            return "#" + h;
+          })
+          .join(" ")
+      );
+    }
     var meta = document.createElement("div");
     meta.className = "meta";
-    meta.textContent = a.source + (a.published ? " ・ " + a.published : "");
+    meta.textContent = metaParts.join(" ・ ");
     textDiv.appendChild(meta);
 
     row.appendChild(textDiv);
