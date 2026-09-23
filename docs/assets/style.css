@@ -148,7 +148,70 @@ body {
 #tab-powerpoint:checked ~ .panels #panel-powerpoint { display: block; }
 #tab-excel:checked ~ .panels #panel-excel { display: block; }
 #tab-word:checked ~ .panels #panel-word { display: block; }
-#tab-onenote:checked ~ .panels #panel-onenote { display: block; }
 #tab-sharepoint:checked ~ .panels #panel-sharepoint { display: block; }
 #tab-powerautomate:checked ~ .panels #panel-powerautomate { display: block; }
+#tab-windows:checked ~ .panels #panel-windows { display: block; }
 #tab-other:checked ~ .panels #panel-other { display: block; }
+
+
+/* 選択中タブのハイライト */
+#tab-all:checked ~ .tabbar label[for="tab-all"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-msofficial:checked ~ .tabbar label[for="tab-msofficial"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-domestic:checked ~ .tabbar label[for="tab-domestic"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-teams:checked ~ .tabbar label[for="tab-teams"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-outlook:checked ~ .tabbar label[for="tab-outlook"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-powerpoint:checked ~ .tabbar label[for="tab-powerpoint"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-excel:checked ~ .tabbar label[for="tab-excel"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-word:checked ~ .tabbar label[for="tab-word"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-sharepoint:checked ~ .tabbar label[for="tab-sharepoint"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-powerautomate:checked ~ .tabbar label[for="tab-powerautomate"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-windows:checked ~ .tabbar label[for="tab-windows"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-other:checked ~ .tabbar label[for="tab-other"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
