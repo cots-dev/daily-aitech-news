@@ -19,7 +19,10 @@ JST = timezone(timedelta(hours=9))
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_DIR = ROOT / "config"
 DATA_DIR = ROOT / "data"
-BATCH_SIZE = 20
+# Gemini無料枠はモデルによって1日あたりのリクエスト数上限が厳しい
+# （gemini-3.6-flashは20リクエスト/日）。1リクエストあたりの記事数を増やし、
+# 通常運用（1日1回のcron実行）でのリクエスト数に余裕を持たせる。
+BATCH_SIZE = 40
 
 
 def load_yaml(name: str):
