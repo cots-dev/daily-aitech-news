@@ -9,9 +9,12 @@
 </head>
 <body>
 <header class="site-header">
-  <h1><a href="{{ home_href }}">AIニュースダイジェスト</a></h1>
-  <div class="date">{{ date }}</div>
-  <nav class="subnav"><a href="{{ archive_href }}">過去の記事一覧</a></nav>
+  <h1><a href="{{ home_href }}">Daily AI/Tech News</a></h1>
+  <p class="subtitle">Windows、Copilot、Microsoft365系のアップデート/最新機能/活用Tipsを毎日お届け</p>
+  <div class="header-meta">
+    <span class="date">{{ date_display }}</span>
+    <nav class="subnav"><a href="{{ archive_href }}">過去の記事一覧</a></nav>
+  </div>
 </header>
 
 {% macro article_item(a) %}

@@ -14,8 +14,8 @@
 <main class="archive-list">
   <h2>過去の記事一覧</h2>
   <ul>
-    {% for d in all_dates %}
-    <li><a href="{{ d }}.html">{{ d }}</a></li>
+    {% for d, d_display in all_dates %}
+    <li><a href="{{ d }}.html">{{ d_display }}</a></li>
     {% else %}
     <li class="empty">まだアーカイブがありません</li>
     {% endfor %}

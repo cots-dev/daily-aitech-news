@@ -36,9 +36,22 @@ body {
   border-bottom: 1px solid var(--border);
   background: var(--card-bg);
 }
-.site-header h1 { margin: 0; font-size: 1.2rem; }
+.site-header h1 { margin: 0; font-size: 1.3rem; }
 .site-header h1 a { color: var(--text); text-decoration: none; }
-.site-header .date { color: var(--text-muted); font-size: 0.9rem; margin-top: 4px; }
+.site-header .subtitle {
+  margin: 6px 0 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+.site-header .header-meta {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 10px;
+}
+.site-header .date { color: var(--text-muted); font-size: 0.9rem; }
 .subnav a { color: var(--accent); font-size: 0.85rem; text-decoration: none; }
 .subnav a:hover { text-decoration: underline; }
 

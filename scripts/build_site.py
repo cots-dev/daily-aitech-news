@@ -7,6 +7,7 @@
 - docs/robots.txt          … 検索エンジンからの発見を避けるための全面Disallow
 """
 import json
+from datetime import datetime
 from pathlib import Path
 
 import yaml
@@ -31,6 +32,11 @@ def load_day(path: Path) -> list:
     articles = json.loads(path.read_text(encoding="utf-8"))
     articles.sort(key=lambda a: a.get("published", ""), reverse=True)
     return articles
+
+
+def date_with_dow(date: str) -> str:
+    dow = datetime.strptime(date, "%Y-%m-%d").strftime("%a").lower()
+    return f"{date} ({dow})"
 
 
 def build() -> None:
@@ -60,6 +66,7 @@ def build() -> None:
         articles = load_day(f)
         html = page_template.render(
             date=date,
+            date_display=date_with_dow(date),
             articles=articles,
             categories=categories,
             prompt_links=prompt_links,
@@ -74,6 +81,7 @@ def build() -> None:
         latest_articles = load_day(DATA_DIR / f"{latest_date}.json")
         html = page_template.render(
             date=latest_date,
+            date_display=date_with_dow(latest_date),
             articles=latest_articles,
             categories=categories,
             prompt_links=prompt_links,
@@ -86,7 +94,9 @@ def build() -> None:
         print("[WARN] data/ に日別JSONがまだありません。docs/index.html は生成されません")
 
     (DOCS_DIR / "archive" / "index.html").write_text(
-        archive_index_template.render(all_dates=list(reversed(all_dates))),
+        archive_index_template.render(
+            all_dates=[(d, date_with_dow(d)) for d in reversed(all_dates)]
+        ),
         encoding="utf-8",
     )
 
