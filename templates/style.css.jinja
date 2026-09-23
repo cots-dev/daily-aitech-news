@@ -62,7 +62,10 @@ body::before {
   z-index: 1;
   padding: 18px 16px;
   border-bottom: 3px solid var(--blue);
-  background: var(--card-bg);
+  background: rgba(255, 255, 255, 0.5);
+}
+@media (prefers-color-scheme: dark) {
+  .site-header { background: rgba(11, 18, 32, 0.5); }
 }
 .site-header h1 {
   margin: 0;
