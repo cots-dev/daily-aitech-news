@@ -22,15 +22,15 @@ categories:
   - id: word
     label: Word
     description: Wordに関する話題
-  - id: onenote
-    label: OneNote
-    description: OneNoteに関する話題
   - id: sharepoint
     label: SharePoint
     description: SharePointに関する話題
   - id: powerautomate
     label: Power Automate
     description: Power Automateに関する話題
+  - id: windows
+    label: Windows
+    description: Windows OSに関する話題
   - id: other
     label: その他
     description: 上記どれにも該当しない生成AI全般の話題

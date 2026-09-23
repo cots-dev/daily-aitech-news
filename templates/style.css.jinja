@@ -143,3 +143,16 @@ body {
 #tab-all:checked ~ .panels #panel-all { display: block; }
 {% for c in categories %}#tab-{{ c.id }}:checked ~ .panels #panel-{{ c.id }} { display: block; }
 {% endfor %}
+
+/* 選択中タブのハイライト */
+#tab-all:checked ~ .tabbar label[for="tab-all"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+{% for c in categories %}#tab-{{ c.id }}:checked ~ .tabbar label[for="tab-{{ c.id }}"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+{% endfor %}
