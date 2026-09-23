@@ -52,8 +52,6 @@ body {
   margin-top: 10px;
 }
 .site-header .date { color: var(--text-muted); font-size: 0.9rem; }
-.subnav a { color: var(--accent); font-size: 0.85rem; text-decoration: none; }
-.subnav a:hover { text-decoration: underline; }
 
 .tab-input { display: none; }
 
@@ -108,6 +106,20 @@ body {
   display: block;
 }
 
+.bookmark-btn {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: none;
+  background: none;
+  font-size: 1.3rem;
+  line-height: 1;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+.bookmark-btn.is-bookmarked { color: #f5a623; }
+
 .article-link:link {
   color: var(--unread);
   font-weight: 600;
@@ -136,10 +148,6 @@ body {
 .prompt-links { padding-left: 20px; font-size: 0.9rem; color: var(--text-muted); }
 .prompt-links a { color: var(--accent); }
 
-.archive-list { max-width: 720px; margin: 0 auto; padding: 16px; }
-.archive-list ul { padding-left: 20px; }
-.archive-list a { color: var(--accent); }
-
 #tab-all:checked ~ .panels #panel-all { display: block; }
 #tab-msofficial:checked ~ .panels #panel-msofficial { display: block; }
 #tab-domestic:checked ~ .panels #panel-domestic { display: block; }
@@ -152,7 +160,7 @@ body {
 #tab-powerautomate:checked ~ .panels #panel-powerautomate { display: block; }
 #tab-windows:checked ~ .panels #panel-windows { display: block; }
 #tab-other:checked ~ .panels #panel-other { display: block; }
-
+#tab-bookmark:checked ~ .panels #panel-bookmark { display: block; }
 
 /* 選択中タブのハイライト */
 #tab-all:checked ~ .tabbar label[for="tab-all"] {
@@ -211,6 +219,11 @@ body {
   border-color: var(--accent);
 }
 #tab-other:checked ~ .tabbar label[for="tab-other"] {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+#tab-bookmark:checked ~ .tabbar label[for="tab-bookmark"] {
   background: var(--accent);
   color: #ffffff;
   border-color: var(--accent);
