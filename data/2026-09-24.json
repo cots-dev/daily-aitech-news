@@ -1,0 +1,944 @@
+[
+  {
+    "id": "78790af422f6014d573fb40ed52f34e44874ecee",
+    "title": "GitHub Copilotの使えるコマンド20選",
+    "url": "https://qiita.com/kamome_susume/items/549422f725553baf429f",
+    "source": "Qiita（タグ: copilot）",
+    "published": "2026-09-23T21:01:10+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "GitHub Copilotの使えるコマンド20選",
+    "hashtags": [
+      "GitHubCopilot",
+      "コマンド",
+      "プロンプト"
+    ]
+  },
+  {
+    "id": "c29d9226ae8e6c4ad9294d5cef0d8410b2f2a719",
+    "title": "【SE必見】仕様書・設計書のたたき台をCopilotに作らせる方法まとめ3選",
+    "url": "https://qiita.com/kamome_susume/items/1ac6ee25f1e3c1b7162b",
+    "source": "Qiita（タグ: copilot）",
+    "published": "2026-09-23T20:52:32+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "【SE必見】仕様書・設計書のたたき台をCopilotに作らせる方法まとめ3選",
+    "hashtags": [
+      "Copilot",
+      "仕様書",
+      "設計書"
+    ]
+  },
+  {
+    "id": "0a93c87805d4af19d5bdb8235c2d414fb7f71b57",
+    "title": "Copilotを設計レビューの壁打ち相手にする方法とおすすめのやり方5選",
+    "url": "https://qiita.com/kamome_susume/items/c768be98f8506926f8c7",
+    "source": "Qiita（タグ: copilot）",
+    "published": "2026-09-23T20:43:58+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "Copilotを設計レビューの壁打ち相手にする方法とおすすめのやり方5選",
+    "hashtags": [
+      "Copilot",
+      "設計レビュー",
+      "壁打ち"
+    ]
+  },
+  {
+    "id": "e3251f19c6dde3bc66c744e1f0c32e74d1022d16",
+    "title": "やりたい集計を言葉で伝えて、表計算の数式をAIに作らせる",
+    "url": "https://qiita.com/okssusucha/items/633594fb7ff549591eb1",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-09-23T21:07:28+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "やりたい集計を言葉で伝えて、表計算の数式をAIに作らせる",
+    "hashtags": [
+      "Excel",
+      "表計算",
+      "AI"
+    ]
+  },
+  {
+    "id": "b377e7f00d97b2a7fa28e434cb2eee1576e2cdfd",
+    "title": "Excel LAMBDA：動的配列関数は最小いくつの部品で作れるか —— TAKE / DROP / CHOOSEROWS / CHOOSECOLS",
+    "url": "https://qiita.com/madilloar/items/abb17540921b7f69ae0e",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-09-23T20:10:05+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "office_tips"
+    ],
+    "title_ja": "Excel LAMBDA：動的配列関数は最小いくつの部品で作れるか —— TAKE / DROP / CHOOSEROWS / CHOOSECOLS",
+    "hashtags": [
+      "Excel",
+      "LAMBDA",
+      "関数"
+    ]
+  },
+  {
+    "id": "f1f9fd798c107c2ff0d3bb355b102fef4d6fdfec",
+    "title": "Copilot Studio に必要なプロンプトを業務内容の入力だけで自動生成する",
+    "url": "https://zenn.dev/leannacreate/articles/f5dc52e9a09b5a",
+    "source": "Zenn（トピック: copilot）",
+    "published": "2026-09-23T20:47:01+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "Copilot Studio に必要なプロンプトを業務内容の入力だけで自動生成する",
+    "hashtags": [
+      "CopilotStudio",
+      "プロンプト",
+      "自動生成"
+    ]
+  },
+  {
+    "id": "7d4641e2089736c88cc87bf41faa629343922deb",
+    "title": "Copilot Studio 入門 — 2026年8月GA対応版",
+    "url": "https://zenn.dev/leannacreate/books/7596a457623b95",
+    "source": "Zenn（トピック: copilot）",
+    "published": "2026-09-14T21:18:30+09:00",
+    "published_display": "2026/9/14 Mon",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "Copilot Studio 入門 — 2026年8月GA対応版",
+    "hashtags": [
+      "CopilotStudio",
+      "GA対応",
+      "入門"
+    ]
+  },
+  {
+    "id": "d5c2801f111aa7de2c569f5753406ce030e432d4",
+    "title": "【AIニュース9/23】｜GPT-6 Sol/Luna登場、Copilot・Claude Codeが企業向けの管理・安全機能を一斉強化",
+    "url": "https://note.com/fair_godwit407/n/ncf30751bfdc6",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-24T05:56:32+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316876068/rectangle_large_type_2_a7a161d3a257ce0170fc6711ebd8b8a4.png?width=800",
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "【AIニュース9/23】｜GPT-6 Sol/Luna登場、Copilot・Claude Codeが企業向けの管理・安全機能を一斉強化",
+    "hashtags": [
+      "GPT6",
+      "Copilot",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "31e8594f1b715038cdf6f8bc65e5c911d0c9b8c6",
+    "title": "【2026年9月最新】Windows 11】大型プレビュー更新「KB5124010」登場！Copilotキー機能変更/便利機能まとめ【適用すべき？】",
+    "url": "https://note.com/vast_flax7410/n/nef0df32c9e1f",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-24T05:31:22+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316586470/rectangle_large_type_2_15bcb5f59b7ce3a5fda92fb73f746ff8.jpeg?width=800",
+    "tags": [
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "【2026年9月最新】Windows 11】大型プレビュー更新「KB5124010」登場！Copilotキー機能変更/便利機能まとめ【適用すべき？】",
+    "hashtags": [
+      "Windows11",
+      "Copilotキー",
+      "アップデート"
+    ]
+  },
+  {
+    "id": "004cc4e6d60e497dfe2fef6c195237599e486b02",
+    "title": "CopilotでClaude Opus 5.5・GPT-6 Solが選べない時──確認手順とWord・Excel・PowerPointの使い分け",
+    "url": "https://note.com/menext/n/nf9e7af5d41b9",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-24T03:10:44+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316860013/rectangle_large_type_2_575b98e88eaac875f2e186fa833ec1a7.png?width=800",
+    "tags": [
+      "llm",
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "CopilotでClaude Opus 5.5・GPT-6 Solが選べない時──確認手順とWord・Excel・PowerPointの使い分け",
+    "hashtags": [
+      "Copilot",
+      "Claude",
+      "GPT6"
+    ]
+  },
+  {
+    "id": "3f5ee523480b7b35d2d70076da5c4a825077d2d3",
+    "title": "設計開発の仕事で生成AIをどう使っているか｜グラフ、自動化、資料づくりの変化",
+    "url": "https://note.com/wise_bee4925/n/n1525210a6aab",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-24T00:39:10+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316609008/rectangle_large_type_2_c675e83604bbd897a81fb34960a3a0a9.png?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "設計開発の仕事で生成AIをどう使っているか｜グラフ、自動化、資料づくりの変化",
+    "hashtags": [
+      "生成AI",
+      "設計開発",
+      "業務自動化"
+    ]
+  },
+  {
+    "id": "fbb1c179169fda2c6fdf58f9fce3782f07d670ec",
+    "title": "【noteデビュー】AIツールざっくり比較 | Copilot・Gemini・Perplexityの使い分け",
+    "url": "https://note.com/iwa_iikoto/n/nb917642d4c01",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-24T00:02:48+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "【noteデビュー】AIツールざっくり比較 | Copilot・Gemini・Perplexityの使い分け",
+    "hashtags": [
+      "Copilot",
+      "Gemini",
+      "Perplexity"
+    ]
+  },
+  {
+    "id": "e82e1d019a7adf6839f3ab8b8c5add4590fdb829",
+    "title": "AI協業小説エッセイ：「黒猫太郎ものがたり」猫妖怪館　絵画付き簡易版③　　ー音のない部屋－",
+    "url": "https://note.com/shintaro57/n/nc665e701adb5",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-24T00:00:44+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316752705/rectangle_large_type_2_ce09f75e27dd969545c957a94e3d0cf6.jpeg?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "AI協業小説エッセイ：「黒猫太郎ものがたり」猫妖怪館　絵画付き簡易版③　　ー音のない部屋－",
+    "hashtags": [
+      "AI小説",
+      "エッセイ",
+      "AIイラスト"
+    ]
+  },
+  {
+    "id": "32e287ddc3bce8562438b325fce0d7195fe5cdeb",
+    "title": "Copilotの「GPT 5.6 Think Deeper」はSol・Terra・Lunaのどれ？ 公開情報を調べてみた",
+    "url": "https://note.com/sales2se/n/n3fff81dbbf25",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T23:05:03+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316812553/rectangle_large_type_2_9a1cfafe77534fd2414e142298b183c5.png?width=800",
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "Copilotの「GPT 5.6 Think Deeper」はSol・Terra・Lunaのどれ？ 公開情報を調べてみた",
+    "hashtags": [
+      "Copilot",
+      "GPT56",
+      "LLM"
+    ]
+  },
+  {
+    "id": "aaf57ddc7329f80ed7e028cbbf87b8dc82a97f50",
+    "title": "9月23日",
+    "url": "https://note.com/dynamo581/n/nfc40fe16474f",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T22:10:10+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ],
+    "title_ja": "9月23日",
+    "hashtags": [
+      "日記",
+      "雑記"
+    ]
+  },
+  {
+    "id": "d625851bc2bf1ecb0ae532cff7c076018cc792d1",
+    "title": "AIでシステムは作れた。でも1件も売れなかった。",
+    "url": "https://note.com/fond_lemur8401/n/nb740e361b066",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T21:56:03+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316788234/rectangle_large_type_2_127568e48c5e857219090d21e0fc7f66.png?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "AIでシステムは作れた。でも1件も売れなかった。",
+    "hashtags": [
+      "生成AI",
+      "個人開発",
+      "システム開発"
+    ]
+  },
+  {
+    "id": "47bf2883f38b5024839b01a471afdd6cc9c1cf96",
+    "title": "朔夜のPC紹介｜静かで落ち着いた作業環境を支える自作PC（2026年版）",
+    "url": "https://note.com/sakuyahime358/n/n1d7d90b8d8cf",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T21:08:41+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316767632/rectangle_large_type_2_62d586a236d317f8bbc1e9d625da1eed.jpeg?width=800",
+    "tags": [
+      "other"
+    ],
+    "title_ja": "朔夜のPC紹介｜静かで落ち着いた作業環境を支える自作PC（2026年版）",
+    "hashtags": [
+      "自作PC",
+      "作業環境"
+    ]
+  },
+  {
+    "id": "ea03d0d29216b0025ec35a686622b2f9271a376b",
+    "title": "Copilotで集めて、別のAIで組み直す",
+    "url": "https://note.com/hachi4066/n/n4954ab1a899a",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T20:34:07+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316752572/rectangle_large_type_2_fa06479a2c1c31092f8fd50da2f3bd07.png?width=800",
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "Copilotで集めて、別のAIで組み直す",
+    "hashtags": [
+      "Copilot",
+      "生成AI",
+      "活用法"
+    ]
+  },
+  {
+    "id": "3e1cdf100ebcac3ea77af39bd20069ae618f2a30",
+    "title": "ふわもこレトロ ｜ ダンス",
+    "url": "https://note.com/sub_marine_417/n/necb45b343ed8",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T20:29:07+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/300330978/rectangle_large_type_2_3a010036b15dc75849bc9cb84b470db5.jpeg?width=800",
+    "tags": [
+      "other"
+    ],
+    "title_ja": "ふわもこレトロ ｜ ダンス",
+    "hashtags": [
+      "AIイラスト",
+      "画像生成AI"
+    ]
+  },
+  {
+    "id": "2951418c9f305cdcae62282a37627c7583206aed",
+    "title": "社内メールなのに丁寧すぎる…｜Copilotへの指示を変えたら手直しが不要になった",
+    "url": "https://note.com/prime_turtle9307/n/nfafe3922508a",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T20:27:27+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316252751/rectangle_large_type_2_80fed9d9c49dfd9b5850fa2f7658a2b1.png?width=800",
+    "tags": [
+      "llm",
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "社内メールなのに丁寧すぎる…｜Copilotへの指示を変えたら手直しが不要になった",
+    "hashtags": [
+      "Copilot",
+      "プロンプト",
+      "メール作成"
+    ]
+  },
+  {
+    "id": "21467450f00cbad7bc6982e857d914ab3fbf3cdb",
+    "title": "MicrosoftもAI値引きへ――Copilotは「普及」から「収益性」の勝負へ",
+    "url": "https://note.com/takachaneru/n/n8a6129a09f1b",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T20:19:50+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316750438/rectangle_large_type_2_717e927fbcdd4222a3c26d035a52222c.png?width=800",
+    "tags": [
+      "official",
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "MicrosoftもAI値引きへ――Copilotは「普及」から「収益性」の勝負へ",
+    "hashtags": [
+      "Microsoft",
+      "Copilot",
+      "AIビジネス"
+    ]
+  },
+  {
+    "id": "9a0d74b3cce65c842268fe25f570fd139f2bc228",
+    "title": "弱点、優先度つけて出せてますか",
+    "url": "https://note.com/quiet_snail9618/n/ndb205c71a6f6",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-23T20:17:21+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316743806/rectangle_large_type_2_df16bfdb2227af30b048412dd3249a47.png?width=800",
+    "tags": [
+      "other"
+    ],
+    "title_ja": "弱点、優先度つけて出せてますか",
+    "hashtags": [
+      "タスク管理",
+      "自己改善"
+    ]
+  },
+  {
+    "id": "fb1647f852bad43d49f1b2c64d2686f562b0cd8f",
+    "title": "UTAKOさん、いつもありがとにゃー🐾　そして800人おめでとー🎉🎉🎉",
+    "url": "https://note.com/large_hosta3387/n/n32817a3b2175",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T06:11:21+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316310092/rectangle_large_type_2_9c4d676e831e2c83df38a21f515bdd43.png?width=800",
+    "tags": [
+      "other"
+    ],
+    "title_ja": "UTAKOさん、いつもありがとにゃー🐾　そして800人おめでとー🎉🎉🎉",
+    "hashtags": [
+      "note",
+      "感謝"
+    ]
+  },
+  {
+    "id": "4ae6d20efc1bbf0e2faf0b53b27223555da47151",
+    "title": "同じプロンプトで3枚生成したら、3枚目だけ別人だった。画像生成AIでキャラの一貫性を保つコツ",
+    "url": "https://note.com/tried_ai/n/n6a8b7a697608",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T06:07:00+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316877347/rectangle_large_type_2_c95436c2ddd3d9a2b1b368e3f07bbe0e.png?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "同じプロンプトで3枚生成したら、3枚目だけ別人だった。画像生成AIでキャラの一貫性を保つコツ",
+    "hashtags": [
+      "画像生成AI",
+      "プロンプト",
+      "キャラクター"
+    ]
+  },
+  {
+    "id": "8d01e34308f6c52077ca44662f411397e932222d",
+    "title": "トトさんの「柱カード」プロンプトで遊ばせていただきました！｜ICC所長への制裁解除を求める署名記事",
+    "url": "https://note.com/kamponightowl/n/nf334385c6a8f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T06:02:37+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316852587/rectangle_large_type_2_340e1a11473d7ae4cd88c47eec275033.png?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "トトさんの「柱カード」プロンプトで遊ばせていただきました！｜ICC所長への制裁解除を求める署名記事",
+    "hashtags": [
+      "プロンプト",
+      "生成AI"
+    ]
+  },
+  {
+    "id": "0421909ca97c80ec604530f474ea4f372118be0c",
+    "title": "【AIイラストの考え方】模様は壁で止まると思っていました｜投影光",
+    "url": "https://note.com/green_donguri/n/n6d95d933fd1f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:54:10+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314154343/rectangle_large_type_2_2b46092b86064d8c9b33ac52399f57c7.png?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "【AIイラストの考え方】模様は壁で止まると思っていました｜投影光",
+    "hashtags": [
+      "AIイラスト",
+      "画像生成AI"
+    ]
+  },
+  {
+    "id": "88285e114d3ded415ed99f810676d13e4481a0c6",
+    "title": "AIの回答が「普通」と感じたら。たった一言で劇的に変わる魔法のフレーズ",
+    "url": "https://note.com/hoshizoramochi/n/nfc9aaa5289a6",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:47:22+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/315834425/rectangle_large_type_2_f90682654e0139b5e67f53419dfb0340.jpeg?width=800",
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "AIの回答が「普通」と感じたら。たった一言で劇的に変わる魔法のフレーズ",
+    "hashtags": [
+      "プロンプト",
+      "生成AI",
+      "対話型AI"
+    ]
+  },
+  {
+    "id": "2763ed3df80e1a0ef85ebfa8fa6d374387d64b7e",
+    "title": "Google VidsのAI動画が1080p・秒数指定に対応──研修・商品紹介動画でどこまで任せられるか",
+    "url": "https://note.com/menext/n/n5f099c9f660f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:35:20+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316873164/rectangle_large_type_2_1dd250f9d996b3ad667339eb41ebb841.png?width=800",
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "Google VidsのAI動画が1080p・秒数指定に対応──研修・商品紹介動画でどこまで任せられるか",
+    "hashtags": [
+      "GoogleVids",
+      "動画生成AI",
+      "Google"
+    ]
+  },
+  {
+    "id": "742bc3003fbee2e368d2f7e208eed0ce1d5eba11",
+    "title": "ChatGPTのチャットだけで仕事爆速術｜月3万円のWork契約なしで回す5つの型",
+    "url": "https://note.com/turuto/n/nfef0f61a425c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:32:29+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "ChatGPTのチャットだけで仕事爆速術｜月3万円のWork契約なしで回す5つの型",
+    "hashtags": [
+      "ChatGPT",
+      "プロンプト",
+      "業務効率化"
+    ]
+  },
+  {
+    "id": "eda908530f08977fd2072d4585bb5ca90d87a0b2",
+    "title": "ChatGPTで指示が伝わらないを防ぐ｜仕事が進む「完成条件5行」の書き方",
+    "url": "https://note.com/turuto/n/nc9eb93749749",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:32:13+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316397179/rectangle_large_type_2_8b85e8194284067e84c8c62d2bde2a23.png?width=800",
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "ChatGPTで指示が伝わらないを防ぐ｜仕事が進む「完成条件5行」の書き方",
+    "hashtags": [
+      "ChatGPT",
+      "プロンプト",
+      "指示文"
+    ]
+  },
+  {
+    "id": "8315c260d0d96e2cc28ecf4683211dd64c397f9e",
+    "title": "広報の「伝わらない」を卒業！公共サービス担当者が\"3つの要素\"で集客の迷いを整理できる",
+    "url": "https://note.com/ichigonme/n/nce34107f91d8",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:27:34+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/315303307/rectangle_large_type_2_fbc4e959a9794f62b265ec7bbde19502.jpeg?width=800",
+    "tags": [
+      "other"
+    ],
+    "title_ja": "広報の「伝わらない」を卒業！公共サービス担当者が\"3つの要素\"で集客の迷いを整理できる",
+    "hashtags": [
+      "広報",
+      "集客",
+      "マーケティング"
+    ]
+  },
+  {
+    "id": "38c251c98fc184eea2787367dcc408fd750d23db",
+    "title": "企画書の一枚目で伝えるのは、アイデアではなく「決めてほしいこと」",
+    "url": "https://note.com/loots/n/na1ea03af8bbf",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T06:00:00+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ],
+    "title_ja": "企画書の一枚目で伝えるのは、アイデアではなく「決めてほしいこと」",
+    "hashtags": [
+      "企画書",
+      "資料作成",
+      "ビジネススキル"
+    ]
+  },
+  {
+    "id": "411195474f9e944cc1b9594207d3c972fb687d3b",
+    "title": "議事録はきれいなのに仕事が進まない。「決定」と「提案」を混ぜない記録術",
+    "url": "https://note.com/loots/n/n6d7d39f4c3eb",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T06:00:00+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ],
+    "title_ja": "議事録はきれいなのに仕事が進まない。「決定」と「提案」を混ぜない記録術",
+    "hashtags": [
+      "議事録",
+      "仕事術",
+      "業務効率化"
+    ]
+  },
+  {
+    "id": "648930c3172cd6c8484cf154af3117532569f4c3",
+    "title": "依頼メールの返事が来ない。「丁寧さ」より先に確かめたい、相手の作業量",
+    "url": "https://note.com/loots/n/na8a25ab7a8f5",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:30:00+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ],
+    "title_ja": "依頼メールの返事が来ない。「丁寧さ」より先に確かめたい、相手の作業量",
+    "hashtags": [
+      "メール術",
+      "コミュニケーション",
+      "仕事術"
+    ]
+  },
+  {
+    "id": "3b35c6113e0e4dd6a01c8ce0e16a0aadef8a4dd4",
+    "title": "朝のタスク整理で止まる人へ。「全部やる」をやめる前に決めたい三つの欄",
+    "url": "https://note.com/loots/n/n2e2d1d5be275",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:30:00+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ],
+    "title_ja": "朝のタスク整理で止まる人へ。「全部やる」をやめる前に決めたい三つの欄",
+    "hashtags": [
+      "タスク管理",
+      "時間管理",
+      "仕事術"
+    ]
+  },
+  {
+    "id": "b4bfd3f238eacc2ff750c52b8813a7803cf4e1aa",
+    "title": "ChatGPTと作る｜画像生成プロンプト10選",
+    "url": "https://note.com/juicy_skink6439/n/nf9890308ff02",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:18:02+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/312190533/rectangle_large_type_2_19d72ee0c0cef5972221b925035f2e08.jpeg?width=800",
+    "tags": [
+      "llm",
+      "domestic"
+    ],
+    "title_ja": "ChatGPTと作る｜画像生成プロンプト10選",
+    "hashtags": [
+      "ChatGPT",
+      "画像生成AI",
+      "プロンプト"
+    ]
+  },
+  {
+    "id": "8452443e8ccc65b4e2a23c979abaf945793c2486",
+    "title": "BASIC世代のためのAIプロンプト入門",
+    "url": "https://note.com/ample_nerine8313/n/n7dfc7d101547",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-24T05:17:32+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "domestic"
+    ],
+    "title_ja": "BASIC世代のためのAIプロンプト入門",
+    "hashtags": [
+      "AIプロンプト",
+      "生成AI",
+      "プログラミング"
+    ]
+  },
+  {
+    "id": "d08b0c81772958bb4288eb4384b4b4aca57478cb",
+    "title": "VBA ユーザーフォームで住所録④　～別フォームから都道府県→市区町村→町域～",
+    "url": "https://note.com/light_tiger7153/n/n58a9826eae46",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T05:30:15+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314170640/rectangle_large_type_2_8f1b1c653c56e6f2c8bfc8ac447c9d2b.jpeg?width=800",
+    "tags": [
+      "office_tips"
+    ],
+    "title_ja": "VBA ユーザーフォームで住所録④　～別フォームから都道府県→市区町村→町域～",
+    "hashtags": [
+      "Excel",
+      "VBA",
+      "ユーザーフォーム"
+    ]
+  },
+  {
+    "id": "2262f33ba43951df01429bc31db7c7bc2e7614d5",
+    "title": "Excelが苦手でもChatGPTを使える｜関数より「やりたいこと」を伝える",
+    "url": "https://note.com/hiro_invester/n/n405f2395d4be",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T02:42:42+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "llm",
+      "office_tips",
+      "domestic"
+    ],
+    "title_ja": "Excelが苦手でもChatGPTを使える｜関数より「やりたいこと」を伝える",
+    "hashtags": [
+      "Excel",
+      "ChatGPT",
+      "プロンプト"
+    ]
+  },
+  {
+    "id": "26db18893d6fd8f79428a26332aa701161e017bb",
+    "title": "同じ情報を何回入力しているか数えたら、1件あたり4回だった",
+    "url": "https://note.com/aurore_tech/n/nd52b6d366213",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T01:44:35+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316749117/rectangle_large_type_2_7e215c1f00761de87c0aae727b1a47da.jpeg?width=800",
+    "tags": [
+      "other"
+    ],
+    "title_ja": "同じ情報を何回入力しているか数えたら、1件あたり4回だった",
+    "hashtags": [
+      "業務改善",
+      "データ入力",
+      "効率化"
+    ]
+  },
+  {
+    "id": "11b99ce071511b47ee0d3bea39a9162f9a0affd1",
+    "title": "履歴書はWordとExcelどちらが向くか｜作成のコツと比較",
+    "url": "https://note.com/haru_sakai473/n/n14fb49641254",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T01:37:04+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316848074/rectangle_large_type_2_7a6c14d46483b336603acc4d34466186.jpeg?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "40928827d2e4e734dee018963a5d29dc0d1aff03",
+    "title": "合計はSUMで一瞬。はじめての関数",
+    "url": "https://note.com/marcy_works/n/n6b410f0de396",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T01:29:16+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316130279/rectangle_large_type_2_3f6c0ae52b61357474b5f6a6c5ead6e1.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "682962859c2c6e19d279d93e5cc2109281e11800",
+    "title": "Excelを使った製造原価計算のやり方",
+    "url": "https://note.com/puradonaracchi/n/n0cc813328c76",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T00:10:33+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "6ab94dc794033cfafdafcbf03e276188d63d60d7",
+    "title": "Excel関数 基礎セミナー(夜間4回)",
+    "url": "https://note.com/puradonaracchi/n/n0f185fa5d1c5",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T00:10:12+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "d661853f3c51fb15af80bd414ddee9ff7b301858",
+    "title": "【9月23日版】競艇データExcel — 展示4種・得点率・BI順位・3連単配当つき（23会場×11日・10,152艇）",
+    "url": "https://note.com/leal_poppy3530/n/n261f1cdc6461",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T00:09:04+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316831656/rectangle_large_type_2_0506abedf54c61db726835a9c2d41e9c.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "7cbc9643707c9b5714718964f1d8e129183b7ca2",
+    "title": "「うちの担当が何とかします」の、5年後",
+    "url": "https://note.com/centro119/n/n1a17a558ed5f",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T00:06:26+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316830328/rectangle_large_type_2_d1586cb5915a91d94fd80a275a63d09f.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "2417dcd6363184d42d06d6c59be66721ffba0f47",
+    "title": "AIに「Excelで作って」と頼んでもうまくいかない人へ。表を受け取る3つの方法",
+    "url": "https://note.com/ai_partners_jp/n/nbaedae7318be",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-24T00:01:08+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316829455/rectangle_large_type_2_70ac35b2efc7a77bc8b68b617134c2b4.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "37613123c4c61e968162e99583afe8c17fab4caf",
+    "title": "高卒40代、ひとりDXはじめました",
+    "url": "https://note.com/a6m2zeke/n/n42e7ec33b6f5",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-23T23:37:17+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316822522/rectangle_large_type_2_b01a9dd4308a0f4704a27291cc144e53.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "c34b98fa3e1283ae94494ff98859c1d6462c3c5e",
+    "title": "Excelって万能じゃん！と思っていた私が、いつの間にかセル結合を嫌いになった話",
+    "url": "https://note.com/eat_shioms/n/n7ebb2df7f980",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-23T23:34:04+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316279186/rectangle_large_type_2_7925f6c5fd71443a4394b58bd852868e.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "4079467655b14cbd1b23759da0f1bde51d5b0e21",
+    "title": "返金依頼は承認済み。でも返金した？｜Excel管理を仕組みに変える判断基準",
+    "url": "https://note.com/moral_canna2356/n/n86df78c12af8",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-23T23:26:12+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316818328/rectangle_large_type_2_95baa92fee08a08db6a5cfe052ee2bd0.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "4cad4a5e2db67adab5674b7865c93a11fe2f35da",
+    "title": "【検証】Office97(Excel 97)はWindows 11で開けるのか？",
+    "url": "https://note.com/medilabo/n/n60e640b847de",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-23T23:26:02+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316802334/rectangle_large_type_2_9224764992bd04ed3963555867e02c6b.png?width=800",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "75abb7ef62364720d2b703ca63870565c3c40593",
+    "title": "結局、Microsoft 365ってみんな使ってるの？",
+    "url": "https://ascii.jp/elem/000/004/433/4433897/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-09-24T06:00:00+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://ascii.jp/img/2026/09/10/4524147/s/8edeff2964b74b24.png",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "e2a0046cc67ddbec6581f04c629210c6570d1fb7",
+    "title": "主張：「超知能」近づく？ AI企業の誇大宣伝にだまされるな",
+    "url": "https://ascii.jp/elem/000/004/436/4436693/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-09-24T05:22:40+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "150a0bfc0f5dec5b92d6d02a760f9c90a3f768ac",
+    "title": "「今の結婚って本当に個人ベースなのかなー」息子の結婚にあたり、両家顔合わせの場でモヤモヤを感じてしまった、という人のポストに賛否さまざま",
+    "url": "https://togetter.com/li/2749339",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-23T18:08:43+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "ac7d2de6af56788f8dd6800a2e43b59285a442a6",
+    "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
+    "url": "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-23T19:28:23+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "d41b4ed1fcc05295be1bdb003e69c64c8bd4bae7",
+    "title": "Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する",
+    "url": "https://portablecode.info/2026/09/23/herdr-annotate-ai-review/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-23T22:13:17+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "id": "2219be660a796324e5758c764480ca694fe5eabd",
+    "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
+    "url": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-23T23:32:07+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null,
+    "tags": [
+      "other"
+    ]
+  }
+]
