@@ -168,16 +168,10 @@ body {
 .prompt-links a { color: var(--text); font-weight: 700; }
 
 #tab-all:checked ~ .panels #panel-all { display: block; }
-#tab-msofficial:checked ~ .panels #panel-msofficial { display: block; }
+#tab-official:checked ~ .panels #panel-official { display: block; }
+#tab-llm:checked ~ .panels #panel-llm { display: block; }
 #tab-domestic:checked ~ .panels #panel-domestic { display: block; }
-#tab-teams:checked ~ .panels #panel-teams { display: block; }
-#tab-outlook:checked ~ .panels #panel-outlook { display: block; }
-#tab-powerpoint:checked ~ .panels #panel-powerpoint { display: block; }
-#tab-excel:checked ~ .panels #panel-excel { display: block; }
-#tab-word:checked ~ .panels #panel-word { display: block; }
-#tab-sharepoint:checked ~ .panels #panel-sharepoint { display: block; }
-#tab-powerautomate:checked ~ .panels #panel-powerautomate { display: block; }
-#tab-windows:checked ~ .panels #panel-windows { display: block; }
+#tab-office_tips:checked ~ .panels #panel-office_tips { display: block; }
 #tab-other:checked ~ .panels #panel-other { display: block; }
 #tab-bookmark:checked ~ .panels #panel-bookmark { display: block; }
 
@@ -187,7 +181,12 @@ body {
   color: var(--accent-text);
   border-color: var(--border);
 }
-#tab-msofficial:checked ~ .tabbar label[for="tab-msofficial"] {
+#tab-official:checked ~ .tabbar label[for="tab-official"] {
+  background: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
+}
+#tab-llm:checked ~ .tabbar label[for="tab-llm"] {
   background: var(--accent);
   color: var(--accent-text);
   border-color: var(--border);
@@ -197,42 +196,7 @@ body {
   color: var(--accent-text);
   border-color: var(--border);
 }
-#tab-teams:checked ~ .tabbar label[for="tab-teams"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-outlook:checked ~ .tabbar label[for="tab-outlook"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-powerpoint:checked ~ .tabbar label[for="tab-powerpoint"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-excel:checked ~ .tabbar label[for="tab-excel"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-word:checked ~ .tabbar label[for="tab-word"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-sharepoint:checked ~ .tabbar label[for="tab-sharepoint"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-powerautomate:checked ~ .tabbar label[for="tab-powerautomate"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
-}
-#tab-windows:checked ~ .tabbar label[for="tab-windows"] {
+#tab-office_tips:checked ~ .tabbar label[for="tab-office_tips"] {
   background: var(--accent);
   color: var(--accent-text);
   border-color: var(--border);
