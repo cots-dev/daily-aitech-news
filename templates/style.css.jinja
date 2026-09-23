@@ -1,46 +1,67 @@
 :root {
-  --bg: #f1e9d8;
-  --card-bg: #fbf7ec;
-  --text: #17140f;
-  --text-muted: #6f6656;
-  --accent: #f7d417;
-  --accent-text: #17140f;
-  --border: #17140f;
-  --divider: rgba(23, 20, 15, 0.14);
-  --unread: #17140f;
-  --visited: #a39c8a;
-  --star: #e0a300;
+  --bg: #f4f8fd;
+  --card-bg: #ffffff;
+  --text: #101a33;
+  --text-muted: #64748b;
+  --blue: #2563eb;
+  --blue-dark: #1d4ed8;
+  --orange: #f97316;
+  --border: #dbe4f3;
+  --divider: #e6ecf6;
+  --unread: #101a33;
+  --visited: #9aa6bb;
+  --star: #f97316;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #1c1912;
-    --card-bg: #26221a;
-    --text: #f3ecda;
-    --text-muted: #a89d84;
-    --accent: #f7d417;
-    --accent-text: #17140f;
-    --border: #f3ecda;
-    --divider: rgba(243, 236, 218, 0.16);
-    --unread: #f3ecda;
-    --visited: #756a52;
-    --star: #f2c34a;
+    --bg: #0b1220;
+    --card-bg: #131c30;
+    --text: #eef2f9;
+    --text-muted: #93a0b8;
+    --blue: #60a5fa;
+    --blue-dark: #3b82f6;
+    --orange: #fb923c;
+    --border: #24314c;
+    --divider: #1c273e;
+    --unread: #eef2f9;
+    --visited: #5b6780;
+    --star: #fb923c;
   }
 }
 
 * { box-sizing: border-box; }
 
 body {
+  position: relative;
   margin: 0;
   background-color: var(--bg);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
   line-height: 1.6;
 }
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("network-corner-tl.svg"), url("network-corner-br.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: top -30px left -30px, bottom -30px right -30px;
+  background-size: 220px 178px, 360px 296px;
+  opacity: 0.65;
+}
+@media (min-width: 720px) {
+  body::before {
+    background-size: 300px 242px, 480px 395px;
+  }
+}
 
 .site-header {
+  position: relative;
+  z-index: 1;
   padding: 18px 16px;
-  border-bottom: 4px double var(--border);
+  border-bottom: 3px solid var(--blue);
   background: var(--card-bg);
 }
 .site-header h1 {
@@ -48,7 +69,7 @@ body {
   font-size: 1.7rem;
   font-weight: 800;
   letter-spacing: -0.02em;
-  color: var(--text);
+  color: var(--blue-dark);
 }
 .site-header .subtitle {
   margin: 6px 0 0;
@@ -64,12 +85,14 @@ body {
   margin-top: 10px;
 }
 .site-header .date {
-  color: var(--text);
+  color: var(--orange);
   font-size: 0.85rem;
   font-weight: 700;
 }
 
 .tab-input { display: none; }
+
+.tabs-wrapper { position: relative; z-index: 1; }
 
 .tabbar {
   display: flex;
@@ -86,7 +109,7 @@ body {
   border-radius: 999px;
   font-size: 0.85rem;
   font-weight: 700;
-  color: var(--text);
+  color: var(--blue-dark);
   cursor: pointer;
   white-space: nowrap;
   border: 2px solid var(--border);
@@ -94,7 +117,14 @@ body {
   user-select: none;
 }
 
-.panels { max-width: 720px; margin: 0 auto; }
+.panels {
+  max-width: 720px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.85);
+}
+@media (prefers-color-scheme: dark) {
+  .panels { background: rgba(11, 18, 32, 0.78); }
+}
 .panel { display: none; padding: 8px 16px 40px; }
 
 .article-list { list-style: none; margin: 0; padding: 0; }
@@ -120,7 +150,7 @@ body {
   height: 72px;
   object-fit: cover;
   border-radius: 8px;
-  border: 2px solid var(--border);
+  border: 1px solid var(--border);
   background: var(--card-bg);
   display: block;
 }
@@ -149,7 +179,7 @@ body {
   color: var(--visited);
   font-weight: 400;
 }
-.article-link:hover { text-decoration: underline; }
+.article-link:hover { text-decoration: underline; color: var(--blue); }
 
 .meta {
   margin-top: 4px;
@@ -158,41 +188,53 @@ body {
 }
 
 .site-footer {
+  position: relative;
+  z-index: 1;
   max-width: 720px;
   margin: 0 auto;
-  padding: 24px 16px 48px;
+  padding: 24px 16px 16px;
+  background: rgba(255, 255, 255, 0.92);
   border-top: 1px solid var(--divider);
 }
-.site-footer h2 { font-size: 1rem; font-weight: 800; }
+@media (prefers-color-scheme: dark) {
+  .site-footer { background: rgba(11, 18, 32, 0.86); }
+}
+.site-footer h2 { font-size: 1rem; font-weight: 800; color: var(--blue-dark); }
 .prompt-links { padding-left: 20px; font-size: 0.9rem; color: var(--text-muted); }
-.prompt-links a { color: var(--text); font-weight: 700; }
+.prompt-links a { color: var(--blue); font-weight: 700; }
 
 .copyright {
+  position: relative;
+  z-index: 1;
   max-width: 720px;
   margin: 0 auto;
-  padding: 0 16px 32px;
+  padding: 12px 16px 32px;
   font-size: 0.78rem;
   color: var(--text-muted);
   text-align: center;
+  background: rgba(255, 255, 255, 0.92);
+}
+@media (prefers-color-scheme: dark) {
+  .copyright { background: rgba(11, 18, 32, 0.86); }
 }
 
 #tab-all:checked ~ .panels #panel-all { display: block; }
 {% for c in categories %}#tab-{{ c.id }}:checked ~ .panels #panel-{{ c.id }} { display: block; }
 {% endfor %}#tab-bookmark:checked ~ .panels #panel-bookmark { display: block; }
 
-/* 選択中タブのハイライト（黒枠はそのまま、塗りだけイエローに） */
+/* 選択中タブのハイライト（オレンジ塗り） */
 #tab-all:checked ~ .tabbar label[for="tab-all"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
+  background: var(--orange);
+  color: #ffffff;
+  border-color: var(--orange);
 }
 {% for c in categories %}#tab-{{ c.id }}:checked ~ .tabbar label[for="tab-{{ c.id }}"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
+  background: var(--orange);
+  color: #ffffff;
+  border-color: var(--orange);
 }
 {% endfor %}#tab-bookmark:checked ~ .tabbar label[for="tab-bookmark"] {
-  background: var(--accent);
-  color: var(--accent-text);
-  border-color: var(--border);
+  background: var(--orange);
+  color: #ffffff;
+  border-color: var(--orange);
 }

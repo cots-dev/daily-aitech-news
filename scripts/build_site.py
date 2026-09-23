@@ -63,6 +63,8 @@ def build() -> None:
         style_template.render(categories=categories), encoding="utf-8"
     )
     shutil.copyfile(TEMPLATES_DIR / "app.js", DOCS_DIR / "assets" / "app.js")
+    for svg_name in ("network-corner-tl.svg", "network-corner-br.svg"):
+        shutil.copyfile(TEMPLATES_DIR / "assets" / svg_name, DOCS_DIR / "assets" / svg_name)
     (DOCS_DIR / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
 
     day_files = sorted(DATA_DIR.glob("20*-*-*.json"))
