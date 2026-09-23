@@ -1,0 +1,121 @@
+# RSS収集元の一覧。
+# enabled: false のものは要件定義で挙がったがURL未確定のもの。
+# README「未検証・要確認のソース」の説明も合わせて参照。
+sources:
+  # --- 現場・即戦力ノウハウ ---
+  - name: 窓の杜
+    url: https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+    enabled: true
+    keyword_filter: true   # 汎用フリーソフトサイトのため、AI/Office関連のみ抽出
+    max_items: 20
+
+  - name: できるネット
+    url: https://dekiru.net/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 20
+
+  - name: "Qiita（タグ: copilot）"
+    url: https://qiita.com/tags/copilot/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "Qiita（タグ: excel）"
+    url: https://qiita.com/tags/excel/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "Qiita（タグ: powerautomate）"
+    url: https://qiita.com/tags/powerautomate/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "Zenn（トピック: copilot）"
+    url: https://zenn.dev/topics/copilot/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "Zenn（トピック: excel）"
+    url: https://zenn.dev/topics/excel/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "Zenn（トピック: power-automate）"
+    url: https://zenn.dev/topics/power-automate/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "note（ハッシュタグ: Copilot）"
+    url: https://note.com/hashtag/copilot/rss
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "note（ハッシュタグ: プロンプト）"
+    url: https://note.com/hashtag/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/rss
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: "note（ハッシュタグ: Excel）"
+    url: https://note.com/hashtag/Excel/rss
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  # --- プロンプト共有・活用例（RSS配信ありのみ。Promptn AIは実在・RSS配信未確認） ---
+  - name: Promptn AI
+    url: ""  # TODO: サイトの実在・RSSフィードURLを確認できていない
+    enabled: false
+    keyword_filter: false
+    max_items: 15
+
+  # --- 国内トレンド・ビジネスニュース ---
+  - name: ITmedia AI+
+    url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
+    enabled: true
+    keyword_filter: false
+    max_items: 20
+
+  - name: ASCII.jp
+    url: https://ascii.jp/rss.xml
+    enabled: true
+    keyword_filter: true   # サイト全体RSSのため、AI関連のみ抽出（AI専用RSSは未確認）
+    max_items: 20
+
+  - name: はてなブックマーク（総合 人気エントリ）
+    url: https://b.hatena.ne.jp/hotentry/all.rss
+    enabled: true
+    keyword_filter: true
+    max_items: 30
+
+  # --- Microsoft公式・一次情報 ---
+  - name: Microsoft 365 Blog
+    url: https://www.microsoft.com/en-us/microsoft-365/blog/feed
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: Microsoft 365 Insider Blog
+    url: https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365InsiderBlog
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
+  - name: Microsoft AI Blog / Copilot Blog
+    url: ""  # TODO: 公式RSSの所在を未確認（blogs.microsoft.com/ai は410、Tech CommunityのボードIDも要確認）
+    enabled: false
+    keyword_filter: false
+    max_items: 15
+
+  - name: Tech Community (M365)
+    url: ""  # TODO: 対象ボードID・一般社員向けフィルタ条件を未確定
+    enabled: false
+    keyword_filter: true
+    max_items: 15

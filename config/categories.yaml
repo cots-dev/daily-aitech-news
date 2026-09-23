@@ -1,0 +1,36 @@
+# 表示タブの一覧。id は HTML の id / Gemini分類プロンプトの両方で使う。
+# 「総合」タブはここには含めない（build_site.py 側で全件表示として別途扱う）。
+categories:
+  - id: msofficial
+    label: Microsoft公式
+    description: Microsoft公式ブログ・一次情報（ロードマップ・機能発表）
+  - id: domestic
+    label: 国内トレンド
+    description: 国内メディア・はてなブックマーク発の一般ニュース・話題
+  - id: teams
+    label: Teams
+    description: Microsoft Teamsに関する話題
+  - id: outlook
+    label: Outlook
+    description: Outlookに関する話題
+  - id: powerpoint
+    label: PowerPoint
+    description: PowerPointに関する話題
+  - id: excel
+    label: Excel
+    description: Excelに関する話題
+  - id: word
+    label: Word
+    description: Wordに関する話題
+  - id: onenote
+    label: OneNote
+    description: OneNoteに関する話題
+  - id: sharepoint
+    label: SharePoint
+    description: SharePointに関する話題
+  - id: powerautomate
+    label: Power Automate
+    description: Power Automateに関する話題
+  - id: other
+    label: その他
+    description: 上記どれにも該当しない生成AI全般の話題

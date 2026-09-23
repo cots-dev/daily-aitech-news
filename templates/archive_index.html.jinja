@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>過去の記事一覧 - AIニュースダイジェスト</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1><a href="../index.html">AIニュースダイジェスト</a></h1>
+</header>
+<main class="archive-list">
+  <h2>過去の記事一覧</h2>
+  <ul>
+    {% for d in all_dates %}
+    <li><a href="{{ d }}.html">{{ d }}</a></li>
+    {% else %}
+    <li class="empty">まだアーカイブがありません</li>
+    {% endfor %}
+  </ul>
+</main>
+</body>
+</html>

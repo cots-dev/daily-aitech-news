@@ -1,0 +1,23 @@
+# keyword_filter: true のソース（窓の杜・ASCII.jp・はてなブックマーク等の
+# 汎用メディア）に適用する、AI/Office関連キーワード。
+# タイトル or 概要にいずれか1つでも含まれれば収集対象とする。
+keywords:
+  - AI
+  - 生成AI
+  - Copilot
+  - ChatGPT
+  - Gemini
+  - Claude
+  - LLM
+  - Microsoft
+  - Office
+  - Excel
+  - Word
+  - PowerPoint
+  - Teams
+  - Outlook
+  - OneNote
+  - SharePoint
+  - Power Automate
+  - M365
+  - "365"

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>AIニュースダイジェスト - {{ date }}</title>
+<link rel="stylesheet" href="{{ css_href }}">
+</head>
+<body>
+<header class="site-header">
+  <h1><a href="{{ home_href }}">AIニュースダイジェスト</a></h1>
+  <div class="date">{{ date }}</div>
+  <nav class="subnav"><a href="{{ archive_href }}">過去の記事一覧</a></nav>
+</header>
+
+<div class="tabs-wrapper">
+  <input type="radio" name="tabs" id="tab-all" class="tab-input" checked>
+  {% for c in categories %}
+  <input type="radio" name="tabs" id="tab-{{ c.id }}" class="tab-input">
+  {% endfor %}
+
+  <div class="tabbar">
+    <label for="tab-all" class="tab-label">総合</label>
+    {% for c in categories %}
+    <label for="tab-{{ c.id }}" class="tab-label">{{ c.label }}</label>
+    {% endfor %}
+  </div>
+
+  <main class="panels">
+    <section id="panel-all" class="panel">
+      <ul class="article-list">
+        {% for a in articles %}
+        <li>
+          <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+          <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
+        </li>
+        {% else %}
+        <li class="empty">この日の記事はまだありません</li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    {% for c in categories %}
+    <section id="panel-{{ c.id }}" class="panel">
+      <ul class="article-list">
+        {% for a in articles if c.id in a.tags %}
+        <li>
+          <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+          <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
+        </li>
+        {% else %}
+        <li class="empty">該当する記事はまだありません</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endfor %}
+  </main>
+</div>
+
+{% if prompt_links %}
+<footer class="site-footer">
+  <h2>おすすめプロンプト集リンク</h2>
+  <ul class="prompt-links">
+    {% for link in prompt_links %}
+    <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a> - {{ link.description }}</li>
+    {% endfor %}
+  </ul>
+</footer>
+{% endif %}
+</body>
+</html>
