@@ -1,23 +1,29 @@
 :root {
-  --bg: #f7f7f8;
-  --card-bg: #ffffff;
-  --text: #1a1a1a;
-  --text-muted: #6b7280;
-  --accent: #2563eb;
-  --border: #e5e7eb;
-  --unread: #111827;
-  --visited: #9aa0a6;
+  --bg: #f1e9d8;
+  --card-bg: #fbf7ec;
+  --text: #17140f;
+  --text-muted: #6f6656;
+  --accent: #f7d417;
+  --accent-text: #17140f;
+  --border: #17140f;
+  --divider: rgba(23, 20, 15, 0.14);
+  --unread: #17140f;
+  --visited: #a39c8a;
+  --star: #e0a300;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #16181c;
-    --card-bg: #1f2227;
-    --text: #f2f2f2;
-    --text-muted: #9aa0a6;
-    --accent: #60a5fa;
-    --border: #33363c;
-    --unread: #f2f2f2;
-    --visited: #6b7280;
+    --bg: #1c1912;
+    --card-bg: #26221a;
+    --text: #f3ecda;
+    --text-muted: #a89d84;
+    --accent: #f7d417;
+    --accent-text: #17140f;
+    --border: #f3ecda;
+    --divider: rgba(243, 236, 218, 0.16);
+    --unread: #f3ecda;
+    --visited: #756a52;
+    --star: #f2c34a;
   }
 }
 
@@ -25,19 +31,25 @@
 
 body {
   margin: 0;
-  background: var(--bg);
+  background-color: var(--bg);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
   line-height: 1.6;
 }
 
 .site-header {
-  padding: 16px;
-  border-bottom: 1px solid var(--border);
+  padding: 18px 16px;
+  border-bottom: 4px double var(--border);
   background: var(--card-bg);
 }
-.site-header h1 { margin: 0; font-size: 1.3rem; }
-.site-header h1 a { color: var(--text); text-decoration: none; }
+.site-header h1 {
+  margin: 0;
+  font-size: 1.7rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
 .site-header .subtitle {
   margin: 6px 0 0;
   color: var(--text-muted);
@@ -51,17 +63,21 @@ body {
   gap: 12px;
   margin-top: 10px;
 }
-.site-header .date { color: var(--text-muted); font-size: 0.9rem; }
+.site-header .date {
+  color: var(--text);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
 
 .tab-input { display: none; }
 
 .tabbar {
   display: flex;
   overflow-x: auto;
-  gap: 6px;
-  padding: 10px 12px;
+  gap: 8px;
+  padding: 12px;
   background: var(--card-bg);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--divider);
   -webkit-overflow-scrolling: touch;
 }
 .tab-label {
@@ -69,10 +85,12 @@ body {
   padding: 6px 14px;
   border-radius: 999px;
   font-size: 0.85rem;
-  color: var(--text-muted);
+  font-weight: 700;
+  color: var(--text);
   cursor: pointer;
   white-space: nowrap;
-  border: 1px solid var(--border);
+  border: 2px solid var(--border);
+  background: var(--card-bg);
   user-select: none;
 }
 
@@ -82,7 +100,7 @@ body {
 .article-list { list-style: none; margin: 0; padding: 0; }
 .article-list li {
   padding: 12px 0;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--divider);
 }
 .article-list li.empty {
   color: var(--text-muted);
@@ -102,7 +120,8 @@ body {
   height: 72px;
   object-fit: cover;
   border-radius: 8px;
-  background: var(--border);
+  border: 2px solid var(--border);
+  background: var(--card-bg);
   display: block;
 }
 
@@ -118,11 +137,11 @@ body {
   color: var(--text-muted);
   cursor: pointer;
 }
-.bookmark-btn.is-bookmarked { color: #f5a623; }
+.bookmark-btn.is-bookmarked { color: var(--star); }
 
 .article-link:link {
   color: var(--unread);
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
   font-size: 1rem;
 }
@@ -142,11 +161,11 @@ body {
   max-width: 720px;
   margin: 0 auto;
   padding: 24px 16px 48px;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--divider);
 }
-.site-footer h2 { font-size: 1rem; }
+.site-footer h2 { font-size: 1rem; font-weight: 800; }
 .prompt-links { padding-left: 20px; font-size: 0.9rem; color: var(--text-muted); }
-.prompt-links a { color: var(--accent); }
+.prompt-links a { color: var(--text); font-weight: 700; }
 
 #tab-all:checked ~ .panels #panel-all { display: block; }
 #tab-msofficial:checked ~ .panels #panel-msofficial { display: block; }
@@ -162,69 +181,69 @@ body {
 #tab-other:checked ~ .panels #panel-other { display: block; }
 #tab-bookmark:checked ~ .panels #panel-bookmark { display: block; }
 
-/* 選択中タブのハイライト */
+/* 選択中タブのハイライト（黒枠はそのまま、塗りだけイエローに） */
 #tab-all:checked ~ .tabbar label[for="tab-all"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-msofficial:checked ~ .tabbar label[for="tab-msofficial"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-domestic:checked ~ .tabbar label[for="tab-domestic"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-teams:checked ~ .tabbar label[for="tab-teams"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-outlook:checked ~ .tabbar label[for="tab-outlook"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-powerpoint:checked ~ .tabbar label[for="tab-powerpoint"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-excel:checked ~ .tabbar label[for="tab-excel"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-word:checked ~ .tabbar label[for="tab-word"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-sharepoint:checked ~ .tabbar label[for="tab-sharepoint"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-powerautomate:checked ~ .tabbar label[for="tab-powerautomate"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-windows:checked ~ .tabbar label[for="tab-windows"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-other:checked ~ .tabbar label[for="tab-other"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
 #tab-bookmark:checked ~ .tabbar label[for="tab-bookmark"] {
   background: var(--accent);
-  color: #ffffff;
-  border-color: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--border);
 }
