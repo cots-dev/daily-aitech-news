@@ -50,6 +50,35 @@ def matches_keywords(text: str, keywords: list) -> bool:
     return any(kw.lower() in lowered for kw in keywords)
 
 
+def extract_thumbnail(entry) -> str | None:
+    """RSSエントリからサムネイル画像URLをベストエフォートで抽出する。
+    見つからない場合はNone（テンプレート側で画像なし表示になる）。
+    """
+    media_thumb = entry.get("media_thumbnail")
+    if media_thumb:
+        url = media_thumb[0].get("url")
+        if url:
+            return url
+
+    media_content = entry.get("media_content")
+    if media_content:
+        for m in media_content:
+            mtype = (m.get("medium") or m.get("type") or "")
+            if ("image" in mtype) and m.get("url"):
+                return m["url"]
+
+    for link in entry.get("links", []):
+        if link.get("rel") == "enclosure" and "image" in (link.get("type") or ""):
+            return link.get("href")
+
+    html = entry.get("summary") or entry.get("description") or ""
+    match = re.search(r'<img[^>]+src="([^"]+)"', html)
+    if match:
+        return match.group(1)
+
+    return None
+
+
 def collect() -> tuple[list, set]:
     sources = load_yaml("sources.yaml")["sources"]
     keywords = load_yaml("keywords.yaml")["keywords"]
@@ -93,6 +122,7 @@ def collect() -> tuple[list, set]:
                     "url": url,
                     "source": src["name"],
                     "published": published,
+                    "thumbnail": extract_thumbnail(entry),
                 }
             )
             seen.add(h)
@@ -101,8 +131,8 @@ def collect() -> tuple[list, set]:
 
 
 def classify_articles(articles: list) -> list:
-    """Geminiで各記事にカテゴリタグ（複数可）を付与する。
-    GEMINI_API_KEY未設定・エラー時は 'other' にフォールバックする。
+    """Geminiで各記事にカテゴリタグ（複数可）と日本語タイトルを付与する。
+    GEMINI_API_KEY未設定・エラー時は 'other'・原題のままにフォールバックする。
     """
     if not articles:
         return articles
@@ -127,8 +157,9 @@ def classify_articles(articles: list) -> list:
         batch = articles[i : i + BATCH_SIZE]
         titles_block = "\n".join(f"{idx}. {a['title']}" for idx, a in enumerate(batch))
         prompt = f"""以下は生成AI・Microsoft 365関連ニュースのタイトル一覧です。
-各記事に、下記カテゴリIDのうち該当するものを全て割り当ててください（複数可）。
-どれにも当てはまらない場合は "other" のみを割り当ててください。
+各記事について、次の2つを行ってください。
+1. 下記カテゴリIDのうち該当するものを全て割り当てる（複数可）。どれにも当てはまらない場合は "other" のみ。
+2. タイトルが日本語以外の場合は自然な日本語に翻訳する。すでに日本語の場合はそのまま返す。
 
 カテゴリ一覧:
 {cat_desc}
@@ -137,7 +168,7 @@ def classify_articles(articles: list) -> list:
 {titles_block}
 
 出力は次のJSON形式のみを返してください（説明文・コードブロック不要）:
-{{"0": ["excel"], "1": ["msofficial", "teams"]}}
+{{"0": {{"tags": ["excel"], "title_ja": "日本語タイトル"}}, "1": {{"tags": ["msofficial", "teams"], "title_ja": "..."}}}}
 """
         try:
             resp = client.models.generate_content(model=model, contents=prompt)
@@ -145,11 +176,15 @@ def classify_articles(articles: list) -> list:
             text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
             result = json.loads(text)
             for idx, a in enumerate(batch):
-                tags = result.get(str(idx)) or ["other"]
+                entry_result = result.get(str(idx)) or {}
+                tags = entry_result.get("tags") or ["other"]
                 tags = [t for t in tags if t in cat_ids] or ["other"]
                 a["tags"] = tags
+                title_ja = entry_result.get("title_ja")
+                if title_ja:
+                    a["title_ja"] = title_ja
         except Exception as e:  # noqa: BLE001 - フォールバックのため広く捕捉
-            print(f"[WARN] 分類APIエラー、このバッチは'other'として扱います: {e}")
+            print(f"[WARN] 分類APIエラー、このバッチは'other'・原題のまま扱います: {e}")
             for a in batch:
                 a["tags"] = ["other"]
         time.sleep(1)  # 無料枠のレート制限対策

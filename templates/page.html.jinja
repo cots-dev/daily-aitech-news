@@ -14,6 +14,22 @@
   <nav class="subnav"><a href="{{ archive_href }}">過去の記事一覧</a></nav>
 </header>
 
+{% macro article_item(a) %}
+<li>
+  <div class="article-row">
+    <div class="article-text">
+      <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_ja or a.title }}</a>
+      <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
+    </div>
+    {% if a.thumbnail %}
+    <a href="{{ a.url }}" target="_blank" rel="noopener" class="thumb-link">
+      <img class="article-thumb" src="{{ a.thumbnail }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb-link').remove()">
+    </a>
+    {% endif %}
+  </div>
+</li>
+{% endmacro %}
+
 <div class="tabs-wrapper">
   <input type="radio" name="tabs" id="tab-all" class="tab-input" checked>
   {% for c in categories %}
@@ -31,10 +47,7 @@
     <section id="panel-all" class="panel">
       <ul class="article-list">
         {% for a in articles %}
-        <li>
-          <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
-          <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
-        </li>
+        {{ article_item(a) }}
         {% else %}
         <li class="empty">この日の記事はまだありません</li>
         {% endfor %}
@@ -45,10 +58,7 @@
     <section id="panel-{{ c.id }}" class="panel">
       <ul class="article-list">
         {% for a in articles if c.id in a.tags %}
-        <li>
-          <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
-          <div class="meta">{{ a.source }}{% if a.published %} ・ {{ a.published }}{% endif %}</div>
-        </li>
+        {{ article_item(a) }}
         {% else %}
         <li class="empty">該当する記事はまだありません</li>
         {% endfor %}

@@ -78,6 +78,23 @@ body {
   font-size: 0.9rem;
 }
 
+.article-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.article-text { flex: 1; min-width: 0; }
+.thumb-link { flex-shrink: 0; }
+.article-thumb {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: var(--border);
+  display: block;
+}
+
 .article-link:link {
   color: var(--unread);
   font-weight: 600;
