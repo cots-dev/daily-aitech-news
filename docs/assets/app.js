@@ -160,6 +160,25 @@
     });
   }
 
+  var THEME_KEY = "daily-aitech-news-theme";
+
+  function currentTheme() {
+    var t = document.documentElement.dataset.theme;
+    if (t === "light" || t === "dark") return t;
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  }
+
+  document.addEventListener("click", function (e) {
+    if (!e.target.closest(".theme-toggle")) return;
+    var next = currentTheme() === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    try {
+      localStorage.setItem(THEME_KEY, next);
+    } catch (err) {
+      /* 保存できない環境では、このページを開いている間だけ切り替える */
+    }
+  });
+
   // <details> のメニューは標準では外側を押しても閉じないため補う
   document.addEventListener("click", function (e) {
     document.querySelectorAll(".site-menu[open]").forEach(function (menu) {

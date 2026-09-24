@@ -16,9 +16,10 @@
   --panel-bg: rgba(255, 255, 255, 0.85);
   --star-bg: rgba(255, 255, 255, 0.92);
   --menu-shadow: 0 12px 32px rgba(16, 26, 51, 0.18);
+  color-scheme: light;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
+{#- ダーク配色。OS設定（利用者が未選択のとき）と切替ボタン（data-theme="dark"）の両方で使う -#}
+{% set dark_tokens %}
     --bg: #0b1220;
     --card-bg: #131c30;
     --text: #eef2f9;
@@ -36,8 +37,14 @@
     --panel-bg: rgba(11, 18, 32, 0.78);
     --star-bg: rgba(19, 28, 48, 0.88);
     --menu-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
-  }
+    color-scheme: dark;
+{% endset %}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+{{- dark_tokens }}  }
 }
+:root[data-theme="dark"] {
+{{- dark_tokens }}}
 
 * { box-sizing: border-box; }
 
@@ -116,21 +123,33 @@ body::before {
 
 /* ---- メニュー（<details>で開閉。JSなしでも動く） ---- */
 .site-menu { position: relative; flex-shrink: 0; }
-.menu-button {
+.header-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+.icon-button {
   list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 42px;
   height: 42px;
+  padding: 0;
   border-radius: 50%;
   border: 2px solid var(--border);
   background: var(--card-bg);
   color: var(--blue-dark);
   cursor: pointer;
 }
+.icon-button:focus-visible { outline: 3px solid var(--orange); outline-offset: 2px; }
+
+/* テーマ切替：いまライトなら月（ダークへ）、ダークなら太陽（ライトへ）を表示 */
+.theme-toggle .icon-sun { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: block; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+}
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+
 .menu-button::-webkit-details-marker { display: none; }
-.menu-button:focus-visible { outline: 3px solid var(--orange); outline-offset: 2px; }
 .site-menu .icon-close { display: none; }
 .site-menu[open] .icon-open { display: none; }
 .site-menu[open] .icon-close { display: block; }

@@ -16,9 +16,10 @@
   --panel-bg: rgba(255, 255, 255, 0.85);
   --star-bg: rgba(255, 255, 255, 0.92);
   --menu-shadow: 0 12px 32px rgba(16, 26, 51, 0.18);
+  color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #0b1220;
     --card-bg: #131c30;
     --text: #eef2f9;
@@ -36,7 +37,28 @@
     --panel-bg: rgba(11, 18, 32, 0.78);
     --star-bg: rgba(19, 28, 48, 0.88);
     --menu-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
+    color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+    --bg: #0b1220;
+    --card-bg: #131c30;
+    --text: #eef2f9;
+    --text-muted: #93a0b8;
+    --title: #ffffff;
+    --blue: #60a5fa;
+    --blue-dark: #3b82f6;
+    --orange: #fb923c;
+    --border: #24314c;
+    --divider: #1c273e;
+    --unread: #eef2f9;
+    --visited: #5b6780;
+    --star: #fb923c;
+    --header-bg: rgba(11, 18, 32, 0.5);
+    --panel-bg: rgba(11, 18, 32, 0.78);
+    --star-bg: rgba(19, 28, 48, 0.88);
+    --menu-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
+    color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -116,21 +138,33 @@ body::before {
 
 /* ---- メニュー（<details>で開閉。JSなしでも動く） ---- */
 .site-menu { position: relative; flex-shrink: 0; }
-.menu-button {
+.header-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+.icon-button {
   list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 42px;
   height: 42px;
+  padding: 0;
   border-radius: 50%;
   border: 2px solid var(--border);
   background: var(--card-bg);
   color: var(--blue-dark);
   cursor: pointer;
 }
+.icon-button:focus-visible { outline: 3px solid var(--orange); outline-offset: 2px; }
+
+/* テーマ切替：いまライトなら月（ダークへ）、ダークなら太陽（ライトへ）を表示 */
+.theme-toggle .icon-sun { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: block; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+}
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+
 .menu-button::-webkit-details-marker { display: none; }
-.menu-button:focus-visible { outline: 3px solid var(--orange); outline-offset: 2px; }
 .site-menu .icon-close { display: none; }
 .site-menu[open] .icon-open { display: none; }
 .site-menu[open] .icon-close { display: block; }

@@ -9,13 +9,25 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
+<script>
+  // 描画前に保存済みのテーマを反映し、読み込み時の色のちらつきを防ぐ
+  try {
+    var savedTheme = localStorage.getItem("daily-aitech-news-theme");
+    if (savedTheme === "light" || savedTheme === "dark") document.documentElement.dataset.theme = savedTheme;
+  } catch (e) {}
+</script>
 </head>
 <body>
 <header class="site-header">
   <div class="header-top">
     <h1 class="site-title"><a href="index.html">Daily AI/Tech News</a></h1>
+    <div class="header-actions">
+    <button type="button" class="icon-button theme-toggle" aria-label="ライト／ダーク表示を切り替える">
+      <svg class="icon-moon" viewBox="0 0 24 24" width="21" height="21" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" fill="none"/></svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
     <details class="site-menu">
-      <summary class="menu-button" aria-label="メニューを開く">
+      <summary class="icon-button menu-button" aria-label="メニューを開く">
         <svg class="icon-open" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" fill="none"/></svg>
         <svg class="icon-close" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" fill="none"/></svg>
       </summary>
@@ -26,6 +38,7 @@
         {% endfor %}
       </nav>
     </details>
+    </div>
   </div>
   <p class="subtitle">毎朝6時更新｜Windows・Copilot・M365の最新機能＆活用Tipsをお届け</p>
   <div class="header-meta">
