@@ -32,6 +32,8 @@ BATCH_SIZE = 40
 MAX_REQUESTS_PER_RUN = 12
 # 未分類の記事を分類し直す対象期間
 RECLASSIFY_DAYS = 7
+# モデル混雑（503 UNAVAILABLE）時の再試行までの待ち秒数
+OVERLOAD_RETRY_WAITS = [20, 60]
 
 
 def load_yaml(name: str):
@@ -207,17 +209,33 @@ AI・Office・Windowsの情報を届けるニュースサイトの編集者で�
 出力は次のJSON形式のみを返してください（説明文・コードブロック不要）:
 {{"0": {{"exclude": false, "tags": ["office"], "howto": true, "title_ja": "日本語タイトル", "hashtags": ["Excel", "関数"]}}, "1": {{"exclude": true, "tags": [], "howto": false, "title_ja": "...", "hashtags": []}}}}
 """
-        requests += 1
-        try:
-            resp = client.models.generate_content(model=model, contents=prompt)
-            text = (resp.text or "").strip()
-            text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
-            result = json.loads(text)
-        except Exception as e:  # noqa: BLE001 - 失敗したバッチは次回に再分類する
-            print(f"[WARN] 分類APIエラー、このバッチ{len(batch)}件は次回分類します: {e}")
-            if "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e):
-                print("[WARN] API無料枠の上限に達したため、今回の分類を打ち切ります")
+        result = None
+        overloaded = False
+        for attempt in range(len(OVERLOAD_RETRY_WAITS) + 1):
+            requests += 1
+            try:
+                resp = client.models.generate_content(model=model, contents=prompt)
+                text = (resp.text or "").strip()
+                text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
+                result = json.loads(text)
                 break
+            except Exception as e:  # noqa: BLE001 - 失敗したバッチは次回に再分類する
+                msg = str(e)
+                if "RESOURCE_EXHAUSTED" in msg or "429" in msg:
+                    print(f"[WARN] API無料枠の上限に達したため、今回の分類を打ち切ります: {msg[:120]}")
+                    return
+                overloaded = "UNAVAILABLE" in msg or "503" in msg
+                if overloaded and attempt < len(OVERLOAD_RETRY_WAITS):
+                    wait = OVERLOAD_RETRY_WAITS[attempt]
+                    print(f"[INFO] モデルが混雑中のため{wait}秒待って再試行します（{attempt + 1}回目）")
+                    time.sleep(wait)
+                    continue
+                print(f"[WARN] 分類APIエラー、このバッチ{len(batch)}件は次回分類します: {msg[:200]}")
+                break
+        if result is None:
+            if overloaded:
+                print("[WARN] モデルの混雑が続いているため、今回の分類を打ち切ります（次回に再分類）")
+                return
             continue
 
         for idx, a in enumerate(batch):
