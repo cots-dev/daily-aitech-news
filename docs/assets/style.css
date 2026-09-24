@@ -314,6 +314,18 @@ body::before {
   font-size: 0.8rem;
   color: var(--text-muted);
 }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 4px; }
+.badge {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.6;
+}
+.badge-howto { background: var(--orange); color: #ffffff; }
+.badge-en { border: 1px solid var(--border); color: var(--text-muted); }
+
 .hashtags { color: var(--blue); font-weight: 500; }
 .hashtags .tag { white-space: nowrap; }
 
@@ -428,20 +440,18 @@ a.source-name { color: var(--blue); }
 }
 
 #tab-all:checked ~ .panels #panel-all { display: block; }
-#tab-official:checked ~ .panels #panel-official { display: block; }
-#tab-llm:checked ~ .panels #panel-llm { display: block; }
-#tab-domestic:checked ~ .panels #panel-domestic { display: block; }
-#tab-office_tips:checked ~ .panels #panel-office_tips { display: block; }
-#tab-other:checked ~ .panels #panel-other { display: block; }
+#tab-news:checked ~ .panels #panel-news { display: block; }
+#tab-ai:checked ~ .panels #panel-ai { display: block; }
+#tab-office:checked ~ .panels #panel-office { display: block; }
+#tab-windows:checked ~ .panels #panel-windows { display: block; }
 #tab-bookmark:checked ~ .panels #panel-bookmark { display: block; }
 
 /* 選択中タブのハイライト（オレンジ塗り） */
 #tab-all:checked ~ .tabbar label[for="tab-all"],
-#tab-official:checked ~ .tabbar label[for="tab-official"],
-#tab-llm:checked ~ .tabbar label[for="tab-llm"],
-#tab-domestic:checked ~ .tabbar label[for="tab-domestic"],
-#tab-office_tips:checked ~ .tabbar label[for="tab-office_tips"],
-#tab-other:checked ~ .tabbar label[for="tab-other"],
+#tab-news:checked ~ .tabbar label[for="tab-news"],
+#tab-ai:checked ~ .tabbar label[for="tab-ai"],
+#tab-office:checked ~ .tabbar label[for="tab-office"],
+#tab-windows:checked ~ .tabbar label[for="tab-windows"],
 #tab-bookmark:checked ~ .tabbar label[for="tab-bookmark"] {
   background: var(--orange);
   color: #ffffff;
