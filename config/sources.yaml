@@ -1,119 +1,145 @@
 # RSS収集元の一覧。
-# enabled: false のものは要件定義で挙がったがURL未確定のもの。
-# README「未検証・要確認のソース」の説明も合わせて参照。
+# 利用者は日本語話者のため、原則として日本語で読める記事の収集先に限定する。
+# enabled: false のものは停止中・URL未確定のもの（理由をコメントに記載）。
 # group / site は「出典サイト一覧」ページの表示用（site はRSSではなく人が見るページのURL）。
 # name の（ハッシュタグ: ○○）等は記事一覧では媒体名から外し、#○○ のハッシュタグとして表示する。
+# 収集後、Geminiが「会社員が仕事で試せる・知っておくべき内容か」を判定し、該当しない記事は掲載しない。
 sources:
-  # --- 現場・即戦力ノウハウ ---
-  - name: 窓の杜
-    url: https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
-    site: https://forest.watch.impress.co.jp/
-    group: 現場・即戦力ノウハウ
-    enabled: true
-    keyword_filter: true   # 汎用フリーソフトサイトのため、AI/Office関連のみ抽出
-    max_items: 20
-
+  # --- Office・Windowsの使い方 ---
   - name: できるネット
     url: https://dekiru.net/feed
     site: https://dekiru.net/
-    group: 現場・即戦力ノウハウ
+    group: Office・Windowsの使い方
     enabled: true
     keyword_filter: false
     max_items: 20
 
-  - name: "Qiita（タグ: copilot）"
-    url: https://qiita.com/tags/copilot/feed
-    site: https://qiita.com/tags/copilot
-    group: 現場・即戦力ノウハウ
+  - name: 窓の杜
+    url: https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+    site: https://forest.watch.impress.co.jp/
+    group: Office・Windowsの使い方
     enabled: true
-    keyword_filter: false
-    max_items: 15
+    keyword_filter: true   # 汎用フリーソフトサイトのため、AI/Office/Windows関連のみ抽出
+    max_items: 20
+
+  - name: ITmedia PC USER
+    url: https://rss.itmedia.co.jp/rss/2.0/pcuser.xml
+    site: https://www.itmedia.co.jp/pcuser/
+    group: Office・Windowsの使い方
+    enabled: true
+    keyword_filter: true   # PC製品レビューが多いため、AI/Office/Windows関連のみ抽出
+    max_items: 20
+
+  - name: PC Watch
+    url: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
+    site: https://pc.watch.impress.co.jp/
+    group: Office・Windowsの使い方
+    enabled: true
+    keyword_filter: true   # ハードウェア記事が多いため、AI/Office/Windows関連のみ抽出
+    max_items: 20
 
   - name: "Qiita（タグ: excel）"
     url: https://qiita.com/tags/excel/feed
     site: https://qiita.com/tags/excel
-    group: 現場・即戦力ノウハウ
+    group: Office・Windowsの使い方
     enabled: true
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
   - name: "Qiita（タグ: powerautomate）"
     url: https://qiita.com/tags/powerautomate/feed
     site: https://qiita.com/tags/powerautomate
-    group: 現場・即戦力ノウハウ
+    group: Office・Windowsの使い方
     enabled: true
     keyword_filter: false
-    max_items: 15
+    max_items: 10
+
+  - name: "Qiita（タグ: copilot）"
+    url: https://qiita.com/tags/copilot/feed
+    site: https://qiita.com/tags/copilot
+    group: Office・Windowsの使い方
+    enabled: false   # GitHub Copilot（プログラミング向け）の記事が中心のため停止
+    keyword_filter: false
+    max_items: 10
 
   - name: "Zenn（トピック: copilot）"
     url: https://zenn.dev/topics/copilot/feed
     site: https://zenn.dev/topics/copilot
-    group: 現場・即戦力ノウハウ
-    enabled: true
+    group: Office・Windowsの使い方
+    enabled: false   # エンジニア向けの記事が中心のため停止
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
   - name: "Zenn（トピック: excel）"
     url: https://zenn.dev/topics/excel/feed
     site: https://zenn.dev/topics/excel
-    group: 現場・即戦力ノウハウ
-    enabled: true
+    group: Office・Windowsの使い方
+    enabled: false   # エンジニア向けの記事が中心のため停止
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
   - name: "Zenn（トピック: power-automate）"
     url: https://zenn.dev/topics/power-automate/feed
     site: https://zenn.dev/topics/power-automate
-    group: 現場・即戦力ノウハウ
-    enabled: true
+    group: Office・Windowsの使い方
+    enabled: false   # エンジニア向けの記事が中心のため停止
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
+  # --- AI活用・プロンプト ---
+  # noteは個人の日記的な投稿も多いため件数を絞り、Geminiの判定で残ったものだけ掲載する。
   - name: "note（ハッシュタグ: Copilot）"
     url: https://note.com/hashtag/copilot/rss
     site: https://note.com/hashtag/copilot
-    group: プロンプト共有・活用例
+    group: AI活用・プロンプト
     enabled: true
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
   - name: "note（ハッシュタグ: プロンプト）"
     url: https://note.com/hashtag/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88/rss
     site: https://note.com/hashtag/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88
-    group: プロンプト共有・活用例
+    group: AI活用・プロンプト
     enabled: true
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
   - name: "note（ハッシュタグ: Excel）"
     url: https://note.com/hashtag/Excel/rss
     site: https://note.com/hashtag/Excel
-    group: プロンプト共有・活用例
+    group: AI活用・プロンプト
     enabled: true
     keyword_filter: false
-    max_items: 15
+    max_items: 10
 
-  # --- プロンプト共有・活用例（RSS配信ありのみ。Promptn AIは実在・RSS配信未確認） ---
   - name: Promptn AI
     url: ""  # TODO: サイトの実在・RSSフィードURLを確認できていない
-    group: プロンプト共有・活用例
+    group: AI活用・プロンプト
     enabled: false
     keyword_filter: false
     max_items: 15
 
-  # --- 国内トレンド・ビジネスニュース ---
+  # --- 国内ニュース ---
   - name: ITmedia AI+
     url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
     site: https://www.itmedia.co.jp/aiplus/
-    group: 国内トレンド・ビジネスニュース
+    group: 国内ニュース
     enabled: true
     keyword_filter: false
+    max_items: 20
+
+  - name: ITmedia エンタープライズ
+    url: https://rss.itmedia.co.jp/rss/2.0/enterprise.xml
+    site: https://www.itmedia.co.jp/enterprise/
+    group: 国内ニュース
+    enabled: true
+    keyword_filter: true   # 企業IT全般のため、AI/Office/Windows関連のみ抽出
     max_items: 20
 
   - name: ASCII.jp
     url: https://ascii.jp/rss.xml
     site: https://ascii.jp/
-    group: 国内トレンド・ビジネスニュース
+    group: 国内ニュース
     enabled: true
     keyword_filter: true   # サイト全体RSSのため、AI関連のみ抽出（AI専用RSSは未確認）
     max_items: 20
@@ -121,38 +147,40 @@ sources:
   - name: はてなブックマーク（総合 人気エントリ）
     url: https://b.hatena.ne.jp/hotentry/all.rss
     site: https://b.hatena.ne.jp/hotentry/all
-    group: 国内トレンド・ビジネスニュース
+    group: 国内ニュース
     enabled: true
     keyword_filter: true
     max_items: 30
 
-  # --- Microsoft公式・一次情報 ---
+  # --- Microsoft公式（日本語） ---
+  - name: 日本マイクロソフト ニュースセンター
+    url: https://news.microsoft.com/ja-jp/feed/
+    site: https://news.microsoft.com/ja-jp/
+    group: Microsoft公式（日本語）
+    enabled: true
+    keyword_filter: true   # 企業発表全般のため、AI/Office/Windows関連のみ抽出
+    max_items: 15
+
+  - name: Windows Blog for Japan
+    url: https://blogs.windows.com/japan/feed/
+    site: https://blogs.windows.com/japan/
+    group: Microsoft公式（日本語）
+    enabled: true
+    keyword_filter: false
+    max_items: 15
+
   - name: Microsoft 365 Blog
     url: https://www.microsoft.com/en-us/microsoft-365/blog/feed
     site: https://www.microsoft.com/en-us/microsoft-365/blog/
-    group: Microsoft公式・一次情報
-    enabled: true
+    group: Microsoft公式（日本語）
+    enabled: false   # 英語記事のため停止（日本語の公式発信・国内メディアで代替）
     keyword_filter: false
     max_items: 15
 
   - name: Microsoft 365 Insider Blog
     url: https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365InsiderBlog
     site: https://techcommunity.microsoft.com/
-    group: Microsoft公式・一次情報
-    enabled: true
+    group: Microsoft公式（日本語）
+    enabled: false   # 英語記事のため停止（日本語の公式発信・国内メディアで代替）
     keyword_filter: false
-    max_items: 15
-
-  - name: Microsoft AI Blog / Copilot Blog
-    url: ""  # TODO: 公式RSSの所在を未確認（blogs.microsoft.com/ai は410、Tech CommunityのボードIDも要確認）
-    group: Microsoft公式・一次情報
-    enabled: false
-    keyword_filter: false
-    max_items: 15
-
-  - name: Tech Community (M365)
-    url: ""  # TODO: 対象ボードID・一般社員向けフィルタ条件を未確定
-    group: Microsoft公式・一次情報
-    enabled: false
-    keyword_filter: true
     max_items: 15

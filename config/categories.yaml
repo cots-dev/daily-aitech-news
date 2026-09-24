@@ -1,18 +1,16 @@
 # 表示タブの一覧。id は HTML の id / Gemini分類プロンプトの両方で使う。
 # 「総合」「ブックマーク」タブはここには含めない（build_site.py 側で別途扱う特別タブ）。
+# どのカテゴリにも当てはまらない記事は「その他」に入れず、掲載対象から外す（collect.py の exclude 判定）。
 categories:
-  - id: official
-    label: 公式ニュース
-    description: OpenAI・Anthropic・Google・Microsoftなど各社の公式発表・一次情報
-  - id: llm
-    label: LLMモデル
-    description: Copilot・Claude・ChatGPT・Geminiなど、各社LLMサービスの機能・アップデートに関する話題
-  - id: domestic
-    label: 国内トレンド
-    description: 国内メディア・はてなブックマーク発のAI関連の主要ニュース・話題
-  - id: office_tips
-    label: Office系Tips
-    description: Windows・Excel・Word・PowerPoint・Teams・Outlook・OneNote・SharePoint・Power Automateなど、Office/Windows関連のニュース・活用Tips
-  - id: other
-    label: その他
-    description: 上記どれにも該当しない生成AI全般の話題
+  - id: news
+    label: ニュース
+    description: Microsoft・OpenAI・Google・Anthropicなどの新機能・アップデート・発表や、ビジネスで使うAI・ITツールに関する主要ニュース（知っておくべき情報）
+  - id: ai
+    label: AI活用
+    description: Copilot・ChatGPT・Gemini・Claudeなど生成AIの使い方、プロンプト例、業務での活用事例（自分で試せる内容）
+  - id: office
+    label: Office Tips
+    description: Excel・Word・PowerPoint・Outlook・Teams・OneNote・SharePoint・Power Automateなど、Officeアプリの操作方法・関数・時短ワザ（自分で試せる内容）
+  - id: windows
+    label: Windows Tips
+    description: Windows 11の設定・ショートカット・便利機能・トラブル対処・Edgeなど標準アプリの使い方（自分で試せる内容）

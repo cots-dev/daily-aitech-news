@@ -12,6 +12,7 @@
 import json
 import re
 import shutil
+from urllib.parse import quote
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -39,6 +40,9 @@ INFO_PAGES = [
 SOURCE_NAME_RE = re.compile(r"^(.*?)（(.+)）$")
 # 補足部分のうち、ハッシュタグとして表示できるもの（タグ名だけを取り出す）
 SOURCE_TAG_RE = re.compile(r"^(?:ハッシュタグ|タグ|トピック)[:：]\s*(.+)$")
+JAPANESE_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
+# 英語記事はGoogle翻訳のWebページ翻訳を経由して開き、日本語で読めるようにする
+TRANSLATE_URL = "https://translate.google.com/translate?sl=auto&tl=ja&u="
 
 
 def load_yaml(name: str):
@@ -72,11 +76,18 @@ def normalize_for_display(a: dict) -> dict:
             seen.add(h.lower())
             tags.append(h)
     a["hashtags"] = tags[:MAX_HASHTAGS]
+
+    a["is_english"] = not JAPANESE_RE.search(a.get("title", ""))
+    a["open_url"] = TRANSLATE_URL + quote(a["url"], safe="") if a["is_english"] else a["url"]
     return a
 
 
 def load_day(path: Path) -> list:
-    articles = [normalize_for_display(a) for a in json.loads(path.read_text(encoding="utf-8"))]
+    articles = [
+        normalize_for_display(a)
+        for a in json.loads(path.read_text(encoding="utf-8"))
+        if not a.get("excluded")
+    ]
     articles.sort(key=lambda a: a.get("published", ""), reverse=True)
     return articles
 

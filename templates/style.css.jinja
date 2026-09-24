@@ -299,6 +299,18 @@ body::before {
   font-size: 0.8rem;
   color: var(--text-muted);
 }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 4px; }
+.badge {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.6;
+}
+.badge-howto { background: var(--orange); color: #ffffff; }
+.badge-en { border: 1px solid var(--border); color: var(--text-muted); }
+
 .hashtags { color: var(--blue); font-weight: 500; }
 .hashtags .tag { white-space: nowrap; }
 

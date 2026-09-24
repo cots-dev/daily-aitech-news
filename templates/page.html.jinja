@@ -4,12 +4,18 @@
 <li>
   <div class="article-row">
     <div class="article-text">
-      <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_ja or a.title }}</a>
+      {% if a.howto or a.is_english %}
+      <div class="badges">
+        {%- if a.howto %}<span class="badge badge-howto">すぐ試せる</span>{% endif -%}
+        {%- if a.is_english %}<span class="badge badge-en" title="英語の記事です。Google翻訳で日本語に訳して開きます">英語・翻訳で開く</span>{% endif -%}
+      </div>
+      {% endif %}
+      <a class="article-link" href="{{ a.open_url }}" target="_blank" rel="noopener">{{ a.title_ja or a.title }}</a>
       <div class="meta">{{ a.published_display }}{% if a.source %} ・ {{ a.source }}{% endif %}{% if a.hashtags %} ・ <span class="hashtags">{% for h in a.hashtags %}<span class="tag">#{{ h }}</span>{% if not loop.last %} {% endif %}{% endfor %}</span>{% endif %}</div>
     </div>
     <div class="article-side">
       {% if a.thumbnail %}
-      <a href="{{ a.url }}" target="_blank" rel="noopener" class="thumb-link">
+      <a href="{{ a.open_url }}" target="_blank" rel="noopener" class="thumb-link">
         <img class="article-thumb" src="{{ a.thumbnail }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb-link').remove()">
       </a>
       {% endif %}

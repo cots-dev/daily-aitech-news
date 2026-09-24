@@ -1,7 +1,12 @@
-"""RSSソースから新着記事を収集し、Gemini APIでカテゴリタグを付けて
-data/YYYY-MM-DD.json に追記するスクリプト。
+"""RSSソースから新着記事を収集し、Gemini APIで分類して data/YYYY-MM-DD.json に追記するスクリプト。
 
-要約文は生成しない（タイトル・出典・公開日・カテゴリタグのみ）。
+Geminiには次を判定させる（要約文は生成しない）。
+- カテゴリ（複数可）・日本語タイトル・ハッシュタグ
+- exclude: 会社員が仕事で試せる／知っておくべき内容でなければ true（サイトに掲載しない）
+- howto: 手順やプロンプト例など、読んですぐ試せる内容なら true（「すぐ試せる」バッジ）
+
+分類できなかった記事（API無料枠の上限など）は classified が付かないまま保存し、
+次回以降の実行で直近 RECLASSIFY_DAYS 日分をまとめて分類し直す。
 """
 import calendar
 import hashlib
@@ -23,6 +28,10 @@ DATA_DIR = ROOT / "data"
 # （gemini-3.6-flashは20リクエスト/日）。1リクエストあたりの記事数を増やし、
 # 通常運用（1日1回のcron実行）でのリクエスト数に余裕を持たせる。
 BATCH_SIZE = 40
+# 1回の実行で使うリクエスト数の上限（無料枠20回/日のうち、手動実行の余地を残す）
+MAX_REQUESTS_PER_RUN = 12
+# 未分類の記事を分類し直す対象期間
+RECLASSIFY_DAYS = 7
 
 
 def load_yaml(name: str):
@@ -147,38 +156,47 @@ def collect() -> tuple[list, set]:
     return new_articles, seen
 
 
-def classify_articles(articles: list) -> list:
-    """Geminiで各記事にカテゴリタグ（複数可）・日本語タイトル・ハッシュタグを付与する。
-    GEMINI_API_KEY未設定・エラー時は 'other'・原題のまま・ハッシュタグなしにフォールバックする。
-    """
+def classify_articles(articles: list) -> None:
+    """記事リストをその場で分類する。分類できたものだけ classified=True を付ける。"""
     if not articles:
-        return articles
+        return
 
     api_key = os.environ.get("GEMINI_API_KEY")
-    categories = load_yaml("categories.yaml")["categories"]
-    cat_ids = {c["id"] for c in categories}
-
     if not api_key:
-        print("[WARN] GEMINI_API_KEY未設定のため分類をスキップし、'other'を付与します")
-        for a in articles:
-            a["tags"] = ["other"]
-        return articles
+        print("[WARN] GEMINI_API_KEY未設定のため分類をスキップします（次回以降に再分類）")
+        return
 
     from google import genai
 
-    client = genai.Client(api_key=api_key)
-    model = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+    categories = load_yaml("categories.yaml")["categories"]
+    cat_ids = {c["id"] for c in categories}
     cat_desc = "\n".join(f"- {c['id']}: {c['label']}（{c['description']}）" for c in categories)
 
+    client = genai.Client(api_key=api_key)
+    model = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+
+    requests = 0
     for i in range(0, len(articles), BATCH_SIZE):
+        if requests >= MAX_REQUESTS_PER_RUN:
+            print(f"[INFO] 1回あたりのリクエスト上限に達したため、残り{len(articles) - i}件は次回分類します")
+            break
         batch = articles[i : i + BATCH_SIZE]
-        titles_block = "\n".join(f"{idx}. {a['title']}" for idx, a in enumerate(batch))
-        prompt = f"""以下は生成AI・Microsoft 365関連ニュースのタイトル一覧です。
-各記事について、次の3つを行ってください。
-1. 下記カテゴリIDのうち該当するものを全て割り当てる（複数可）。どれにも当てはまらない場合は "other" のみ。
-2. タイトルが日本語以外の場合は自然な日本語に翻訳する。すでに日本語の場合はそのまま返す。
-3. 記事の内容を端的に表すハッシュタグを2〜3個抽出する（例: Excel, Copilot, プロンプト, 生成AI）。
-   #記号は付けない。固有の製品名・サービス名・トピック名を優先する。
+        titles_block = "\n".join(
+            f"{idx}. [{a.get('source', '')}] {a['title']}" for idx, a in enumerate(batch)
+        )
+        prompt = f"""あなたは、Windows環境でOffice（Microsoft 365）を使う日本の会社員向けに、
+AI・Office・Windowsの情報を届けるニュースサイトの編集者です。
+以下の記事一覧（[媒体名] タイトル）について、それぞれ次を判定してください。
+
+1. exclude: 読者が「仕事で試してみたい」「知っておくべき」と思える記事でなければ true。
+   例: 個人の日記・雑談・挨拶や近況報告、エンジニア向けのプログラミング・開発・インフラの記事、
+   PC・スマホなどハードウェア製品の紹介やレビュー、セール・キャンペーン情報、
+   AI・Office・Windowsと関係の薄い記事。迷う場合は false。
+2. tags: 下記カテゴリIDのうち該当するものを全て（複数可）。exclude が true なら空配列。
+3. howto: 操作手順・設定方法・関数の使い方・プロンプト例など、読んですぐ自分で試せる具体的な内容なら true。
+4. title_ja: タイトルが日本語以外なら自然な日本語に翻訳。日本語ならそのまま。
+5. hashtags: 記事の内容を端的に表すハッシュタグを2〜3個（例: Excel, Copilot, プロンプト, Windows11）。
+   #記号やスペースは付けない。製品名・機能名・トピック名を優先する。
 
 カテゴリ一覧:
 {cat_desc}
@@ -187,56 +205,75 @@ def classify_articles(articles: list) -> list:
 {titles_block}
 
 出力は次のJSON形式のみを返してください（説明文・コードブロック不要）:
-{{"0": {{"tags": ["excel"], "title_ja": "日本語タイトル", "hashtags": ["Excel", "プロンプト"]}}, "1": {{"tags": ["llm"], "title_ja": "...", "hashtags": ["ChatGPT", "アップデート"]}}}}
+{{"0": {{"exclude": false, "tags": ["office"], "howto": true, "title_ja": "日本語タイトル", "hashtags": ["Excel", "関数"]}}, "1": {{"exclude": true, "tags": [], "howto": false, "title_ja": "...", "hashtags": []}}}}
 """
+        requests += 1
         try:
             resp = client.models.generate_content(model=model, contents=prompt)
             text = (resp.text or "").strip()
             text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
             result = json.loads(text)
-            for idx, a in enumerate(batch):
-                entry_result = result.get(str(idx)) or {}
-                tags = entry_result.get("tags") or ["other"]
-                tags = [t for t in tags if t in cat_ids] or ["other"]
-                a["tags"] = tags
-                title_ja = entry_result.get("title_ja")
-                if title_ja:
-                    a["title_ja"] = title_ja
-                hashtags = entry_result.get("hashtags") or []
-                a["hashtags"] = [str(h).lstrip("#").strip() for h in hashtags if str(h).strip()][:3]
-        except Exception as e:  # noqa: BLE001 - フォールバックのため広く捕捉
-            print(f"[WARN] 分類APIエラー、このバッチは'other'・原題のまま扱います: {e}")
-            for a in batch:
-                a["tags"] = ["other"]
+        except Exception as e:  # noqa: BLE001 - 失敗したバッチは次回に再分類する
+            print(f"[WARN] 分類APIエラー、このバッチ{len(batch)}件は次回分類します: {e}")
+            if "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e):
+                print("[WARN] API無料枠の上限に達したため、今回の分類を打ち切ります")
+                break
+            continue
+
+        for idx, a in enumerate(batch):
+            r = result.get(str(idx))
+            if not isinstance(r, dict):
+                continue
+            a["excluded"] = bool(r.get("exclude"))
+            a["tags"] = [t for t in (r.get("tags") or []) if t in cat_ids]
+            a["howto"] = bool(r.get("howto"))
+            if r.get("title_ja"):
+                a["title_ja"] = r["title_ja"]
+            a["hashtags"] = [
+                re.sub(r"\s+", "", str(h).lstrip("#")) for h in (r.get("hashtags") or []) if str(h).strip()
+            ][:3]
+            # カテゴリが1つも付かない記事は掲載しても行き場がないため除外扱いにする
+            if not a["tags"]:
+                a["excluded"] = True
+            a["classified"] = True
         time.sleep(1)  # 無料枠のレート制限対策
 
-    return articles
+
+def load_recent_days(today: str) -> dict:
+    """直近 RECLASSIFY_DAYS 日分の {Path: 記事リスト}（新しい日付順）。"""
+    cutoff = (datetime.strptime(today, "%Y-%m-%d") - timedelta(days=RECLASSIFY_DAYS)).strftime("%Y-%m-%d")
+    days = {}
+    for f in sorted(DATA_DIR.glob("20*-*-*.json"), reverse=True):
+        if f.stem >= cutoff:
+            days[f] = json.loads(f.read_text(encoding="utf-8"))
+    return days
 
 
 def main() -> None:
     new_articles, seen = collect()
 
-    if not new_articles:
-        print("新着記事なし")
-        save_seen(seen)
-        return
-
-    new_articles = classify_articles(new_articles)
-
     today = datetime.now(JST).strftime("%Y-%m-%d")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = DATA_DIR / f"{today}.json"
+    days = load_recent_days(today)
+    today_path = DATA_DIR / f"{today}.json"
+    days.setdefault(today_path, []).extend(new_articles)
 
-    existing = []
-    if out_path.exists():
-        existing = json.loads(out_path.read_text(encoding="utf-8"))
+    # 当日の新着を優先し、その後に過去の未分類分（新しい日付順）を分類する
+    new_ids = {id(a) for a in new_articles}
+    pending = new_articles + [
+        a for arts in days.values() for a in arts if not a.get("classified") and id(a) not in new_ids
+    ]
+    print(f"新着{len(new_articles)}件 / 分類対象{len(pending)}件")
+    classify_articles(pending)
 
-    existing.extend(new_articles)
-    out_path.write_text(
-        json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
+    for path, arts in days.items():
+        if arts:
+            path.write_text(json.dumps(arts, ensure_ascii=False, indent=2), encoding="utf-8")
     save_seen(seen)
-    print(f"{len(new_articles)}件を追加しました: {out_path}")
+
+    done = sum(1 for a in pending if a.get("classified"))
+    excluded = sum(1 for a in pending if a.get("excluded"))
+    print(f"分類完了{done}件（うち掲載対象外{excluded}件）/ 未分類のまま{len(pending) - done}件")
 
 
 if __name__ == "__main__":

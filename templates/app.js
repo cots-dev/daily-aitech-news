@@ -59,6 +59,13 @@
     }
   }
 
+  function makeBadge(className, text) {
+    var span = document.createElement("span");
+    span.className = className;
+    span.textContent = text;
+    return span;
+  }
+
   function buildArticleLi(a) {
     var li = document.createElement("li");
     var row = document.createElement("div");
@@ -67,9 +74,17 @@
     var textDiv = document.createElement("div");
     textDiv.className = "article-text";
 
+    if (a.howto || a.is_english) {
+      var badges = document.createElement("div");
+      badges.className = "badges";
+      if (a.howto) badges.appendChild(makeBadge("badge badge-howto", "すぐ試せる"));
+      if (a.is_english) badges.appendChild(makeBadge("badge badge-en", "英語・翻訳で開く"));
+      textDiv.appendChild(badges);
+    }
+
     var link = document.createElement("a");
     link.className = "article-link";
-    link.href = a.url;
+    link.href = a.open_url || a.url;
     link.target = "_blank";
     link.rel = "noopener";
     link.textContent = a.title_ja || a.title;
@@ -103,7 +118,7 @@
 
     if (a.thumbnail) {
       var thumbLink = document.createElement("a");
-      thumbLink.href = a.url;
+      thumbLink.href = a.open_url || a.url;
       thumbLink.target = "_blank";
       thumbLink.rel = "noopener";
       thumbLink.className = "thumb-link";
