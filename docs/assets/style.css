@@ -3,6 +3,7 @@
   --card-bg: #ffffff;
   --text: #101a33;
   --text-muted: #64748b;
+  --title: #1d4ed8;
   --blue: #2563eb;
   --blue-dark: #1d4ed8;
   --orange: #f97316;
@@ -11,6 +12,10 @@
   --unread: #101a33;
   --visited: #9aa6bb;
   --star: #f97316;
+  --header-bg: rgba(255, 255, 255, 0.5);
+  --panel-bg: rgba(255, 255, 255, 0.85);
+  --star-bg: rgba(255, 255, 255, 0.92);
+  --menu-shadow: 0 12px 32px rgba(16, 26, 51, 0.18);
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -18,6 +23,7 @@
     --card-bg: #131c30;
     --text: #eef2f9;
     --text-muted: #93a0b8;
+    --title: #ffffff;
     --blue: #60a5fa;
     --blue-dark: #3b82f6;
     --orange: #fb923c;
@@ -26,6 +32,10 @@
     --unread: #eef2f9;
     --visited: #5b6780;
     --star: #fb923c;
+    --header-bg: rgba(11, 18, 32, 0.5);
+    --panel-bg: rgba(11, 18, 32, 0.78);
+    --star-bg: rgba(19, 28, 48, 0.88);
+    --menu-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
   }
 }
 
@@ -48,31 +58,39 @@ body::before {
   background-image: url("network-corner-tl.svg"), url("network-corner-br.svg");
   background-repeat: no-repeat, no-repeat;
   background-position: top -30px left -30px, bottom -30px right -30px;
-  background-size: 380px 320px, 500px 420px;
-  opacity: 0.65;
+  background-size: 470px 394px, 620px 522px;
+  opacity: 0.9;
 }
 @media (min-width: 720px) {
   body::before {
-    background-size: 620px 520px, 760px 640px;
+    background-size: 780px 654px, 960px 808px;
   }
 }
 
+/* ---- ヘッダー ---- */
 .site-header {
   position: relative;
-  z-index: 1;
+  z-index: 3;
   padding: 18px 16px;
   border-bottom: 3px solid var(--blue);
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--header-bg);
 }
-@media (prefers-color-scheme: dark) {
-  .site-header { background: rgba(11, 18, 32, 0.5); }
+.header-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
 }
-.site-header h1 {
+.site-title {
   margin: 0;
   font-size: 1.7rem;
   font-weight: 800;
   letter-spacing: -0.02em;
-  color: var(--blue-dark);
+  line-height: 1.3;
+}
+.site-title a {
+  color: var(--title);
+  text-decoration: none;
 }
 .site-header .subtitle {
   margin: 6px 0 0;
@@ -83,7 +101,6 @@ body::before {
 .site-header .header-meta {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
   gap: 12px;
   margin-top: 10px;
 }
@@ -92,7 +109,67 @@ body::before {
   font-size: 0.85rem;
   font-weight: 700;
 }
+/* 背景のコネクター柄が文字に重なっても読めるよう、背景色でふち取りする */
+.site-title a, .site-header .subtitle, .site-header .date {
+  text-shadow: 0 0 1px var(--bg), 0 0 3px var(--bg), 0 0 6px var(--bg), 0 0 10px var(--bg);
+}
 
+/* ---- メニュー（<details>で開閉。JSなしでも動く） ---- */
+.site-menu { position: relative; flex-shrink: 0; }
+.menu-button {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  background: var(--card-bg);
+  color: var(--blue-dark);
+  cursor: pointer;
+}
+.menu-button::-webkit-details-marker { display: none; }
+.menu-button:focus-visible { outline: 3px solid var(--orange); outline-offset: 2px; }
+.site-menu .icon-close { display: none; }
+.site-menu[open] .icon-open { display: none; }
+.site-menu[open] .icon-close { display: block; }
+.site-menu[open] .menu-button {
+  background: var(--orange);
+  border-color: var(--orange);
+  color: #ffffff;
+}
+.menu-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  width: 250px;
+  max-width: calc(100vw - 32px);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--menu-shadow);
+  overflow: hidden;
+  z-index: 10;
+}
+.menu-item {
+  display: block;
+  padding: 13px 16px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--divider);
+}
+.menu-item:last-child { border-bottom: none; }
+.menu-item:hover, .menu-item:focus-visible { background: var(--bg); outline: none; }
+.menu-item-top { color: var(--blue-dark); }
+.menu-item[aria-current="page"] {
+  color: var(--orange);
+  box-shadow: inset 3px 0 0 var(--orange);
+}
+
+/* ---- タブ ---- */
 .tab-input { display: none; }
 
 .tabs-wrapper { position: relative; z-index: 1; }
@@ -120,13 +197,11 @@ body::before {
   user-select: none;
 }
 
+/* ---- 記事一覧 ---- */
 .panels {
   max-width: 720px;
   margin: 0 auto;
-  background: rgba(255, 255, 255, 0.85);
-}
-@media (prefers-color-scheme: dark) {
-  .panels { background: rgba(11, 18, 32, 0.78); }
+  background: var(--panel-bg);
 }
 .panel { display: none; padding: 8px 16px 40px; }
 
@@ -142,12 +217,13 @@ body::before {
 
 .article-row {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 12px;
 }
 .article-text { flex: 1; min-width: 0; }
-.thumb-link { flex-shrink: 0; }
+.article-side { position: relative; flex-shrink: 0; }
+.thumb-link { display: block; }
 .article-thumb {
   width: 72px;
   height: 72px;
@@ -159,18 +235,33 @@ body::before {
 }
 
 .bookmark-btn {
-  flex-shrink: 0;
+  display: block;
   width: 32px;
   height: 32px;
+  margin-top: -4px;
   padding: 0;
   border: none;
   background: none;
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   line-height: 1;
   color: var(--text-muted);
   cursor: pointer;
 }
+/* サムネイルがある記事は、★をサムネイルの右上に重ねる */
+.thumb-link + .bookmark-btn {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 28px;
+  height: 28px;
+  margin: 0;
+  border-radius: 50%;
+  background: var(--star-bg);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  font-size: 1rem;
+}
 .bookmark-btn.is-bookmarked { color: var(--star); }
+.bookmark-btn:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
 
 .article-link:link {
   color: var(--unread);
@@ -189,23 +280,107 @@ body::before {
   font-size: 0.8rem;
   color: var(--text-muted);
 }
+.hashtags { color: var(--blue); font-weight: 500; }
+.hashtags .tag { white-space: nowrap; }
 
-.site-footer {
+/* ---- 案内ページ（メニューから遷移） ---- */
+.info-page {
   position: relative;
   z-index: 1;
   max-width: 720px;
   margin: 0 auto;
-  padding: 24px 16px 16px;
-  background: rgba(255, 255, 255, 0.92);
-  border-top: 1px solid var(--divider);
+  padding: 16px 16px 32px;
+  background: var(--panel-bg);
 }
-@media (prefers-color-scheme: dark) {
-  .site-footer { background: rgba(11, 18, 32, 0.86); }
+.back-link {
+  display: inline-block;
+  padding: 4px 0;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--blue);
+  text-decoration: none;
 }
-.site-footer h2 { font-size: 1rem; font-weight: 800; color: var(--blue-dark); }
-.prompt-links { padding-left: 20px; font-size: 0.9rem; color: var(--text-muted); }
-.prompt-links a { color: var(--blue); font-weight: 700; }
+.back-link:hover { text-decoration: underline; }
+.info-title {
+  margin: 12px 0 8px;
+  padding-bottom: 10px;
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--text);
+  border-bottom: 2px solid var(--orange);
+}
+.info-body h3 {
+  margin: 24px 0 8px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--blue-dark);
+}
+.info-body p, .info-body li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+}
+.info-body p { margin: 8px 0; }
+.info-body ul { padding-left: 1.2em; margin: 8px 0; }
+.info-body li { margin-bottom: 6px; }
 
+.source-list { list-style: none; padding: 0 !important; }
+.source-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--divider);
+}
+.source-name { font-weight: 700; color: var(--text); text-decoration: none; }
+a.source-name { color: var(--blue); }
+.source-feeds { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.source-feeds a {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--blue);
+  text-decoration: none;
+}
+.source-name:hover, .source-feeds a:hover { text-decoration: underline; }
+.source-note {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0 8px;
+}
+
+.info-footer-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  margin-top: 32px;
+}
+.back-button {
+  display: inline-block;
+  padding: 10px 22px;
+  border-radius: 999px;
+  background: var(--orange);
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+}
+.back-button:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
+.info-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.info-links a {
+  padding: 4px 12px;
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  background: var(--card-bg);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--blue-dark);
+  text-decoration: none;
+}
+
+/* ---- フッター ---- */
 .copyright {
   position: relative;
   z-index: 1;
@@ -215,10 +390,7 @@ body::before {
   font-size: 0.78rem;
   color: var(--text-muted);
   text-align: center;
-  background: rgba(255, 255, 255, 0.92);
-}
-@media (prefers-color-scheme: dark) {
-  .copyright { background: rgba(11, 18, 32, 0.86); }
+  background: var(--panel-bg);
 }
 
 #tab-all:checked ~ .panels #panel-all { display: block; }
@@ -230,36 +402,12 @@ body::before {
 #tab-bookmark:checked ~ .panels #panel-bookmark { display: block; }
 
 /* 選択中タブのハイライト（オレンジ塗り） */
-#tab-all:checked ~ .tabbar label[for="tab-all"] {
-  background: var(--orange);
-  color: #ffffff;
-  border-color: var(--orange);
-}
-#tab-official:checked ~ .tabbar label[for="tab-official"] {
-  background: var(--orange);
-  color: #ffffff;
-  border-color: var(--orange);
-}
-#tab-llm:checked ~ .tabbar label[for="tab-llm"] {
-  background: var(--orange);
-  color: #ffffff;
-  border-color: var(--orange);
-}
-#tab-domestic:checked ~ .tabbar label[for="tab-domestic"] {
-  background: var(--orange);
-  color: #ffffff;
-  border-color: var(--orange);
-}
-#tab-office_tips:checked ~ .tabbar label[for="tab-office_tips"] {
-  background: var(--orange);
-  color: #ffffff;
-  border-color: var(--orange);
-}
-#tab-other:checked ~ .tabbar label[for="tab-other"] {
-  background: var(--orange);
-  color: #ffffff;
-  border-color: var(--orange);
-}
+#tab-all:checked ~ .tabbar label[for="tab-all"],
+#tab-official:checked ~ .tabbar label[for="tab-official"],
+#tab-llm:checked ~ .tabbar label[for="tab-llm"],
+#tab-domestic:checked ~ .tabbar label[for="tab-domestic"],
+#tab-office_tips:checked ~ .tabbar label[for="tab-office_tips"],
+#tab-other:checked ~ .tabbar label[for="tab-other"],
 #tab-bookmark:checked ~ .tabbar label[for="tab-bookmark"] {
   background: var(--orange);
   color: #ffffff;

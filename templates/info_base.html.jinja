@@ -1,0 +1,22 @@
+{% extends "base.html.jinja" %}
+
+{% block title %}{{ page_title }} | Daily AI/Tech News{% endblock %}
+
+{% block content %}
+<main class="info-page">
+  <a class="back-link" href="index.html">← 記事一覧（TOP）に戻る</a>
+  <h2 class="info-title">{{ page_title }}</h2>
+  <div class="info-body">
+    {% block info_body %}{% endblock %}
+  </div>
+
+  <div class="info-footer-nav">
+    <a class="back-button" href="index.html">記事一覧（TOP）に戻る</a>
+    <nav class="info-links" aria-label="ほかのページ">
+      {% for p in info_pages if p.slug != current_page %}
+      <a href="{{ p.slug }}.html">{{ p.label }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</main>
+{% endblock %}

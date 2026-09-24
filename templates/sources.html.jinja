@@ -1,0 +1,24 @@
+{% extends "info_base.html.jinja" %}
+
+{% block info_body %}
+<p>以下のサイトで配信されている記事を、毎朝6時に自動で収集しています。記事の内容・著作権は各配信元に帰属します。「AI・Office関連のみ」と記載のあるサイトは、キーワードで関連する記事だけを抜き出して掲載しています。</p>
+
+{% for g in source_groups %}
+<h3>{{ g.label }}</h3>
+<ul class="source-list">
+  {% for s in g.sites %}
+  <li>
+    {% if s.feeds | length == 1 and not s.feeds[0].label %}
+    <a class="source-name" href="{{ s.feeds[0].site }}" target="_blank" rel="noopener">{{ s.name }}</a>
+    {% else %}
+    <span class="source-name">{{ s.name }}</span>
+    <span class="source-feeds">
+      {% for f in s.feeds %}<a href="{{ f.site }}" target="_blank" rel="noopener">{{ f.label }}</a>{% endfor %}
+    </span>
+    {% endif %}
+    {% if s.keyword_filter %}<span class="source-note">AI・Office関連のみ</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}
+{% endblock %}

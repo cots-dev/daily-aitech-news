@@ -59,14 +59,18 @@ config/
   sources.yaml       … RSS収集元の一覧（enabled: false のものは未検証・要確認）
   categories.yaml     … 表示タブの一覧（分類プロンプトにもそのまま使う）
   keywords.yaml        … 一般メディア（窓の杜・ASCII.jp・はてブ）向けのAI/Office関連キーワード
-  prompt_links.yaml    … RSS配信のないプロンプトポータルの静的リンク集
 scripts/
   collect.py           … RSS収集・重複除外・Gemini分類
   build_site.py        … data/*.json から docs/ 以下のHTMLを生成
+  generate_network_bg.py … 背景のコネクター柄SVG（templates/assets/）を生成する一度きりのツール
 templates/
+  base.html.jinja       … 全ページ共通の枠（ヘッダー・メニュー・フッター）
   page.html.jinja       … 当日ページ（総合＋カテゴリタブ＋ブックマークタブ）
-  style.css.jinja       … タブ・既読/未読・ブックマークの見た目（カテゴリ数に応じて動的生成）
-  app.js                … ブックマークの追加/解除・一覧表示（localStorage、唯一のJS）
+  info_base.html.jinja  … メニューから辿る案内ページの共通枠（TOPへ戻る導線つき）
+  about / usage / sources / disclaimer.html.jinja … 案内ページ本文（出典一覧は sources.yaml から自動生成）
+  style.css.jinja       … 見た目一式（カテゴリ数に応じて動的生成）
+  app.js                … ブックマークの追加/解除・一覧表示（localStorage）とメニュー開閉
+  assets/               … 背景のコネクター柄SVG
 data/
   YYYY-MM-DD.json       … 収集済み記事のアーカイブ（タグ付き）
   seen_urls.json        … 重複収集を防ぐための既収集URL一覧
@@ -78,8 +82,10 @@ docs/                  … GitHub Pagesの公開対象（ビルド成果物）
 `config/sources.yaml` に1件追加するだけで収集対象を増やせる。
 
 ```yaml
-- name: ソース表示名
+- name: ソース表示名        # 「媒体名（ハッシュタグ: ○○）」形式なら記事一覧では #○○ として表示
   url: https://example.com/feed
+  site: https://example.com/  # 出典サイト一覧ページからのリンク先
+  group: 現場・即戦力ノウハウ   # 出典サイト一覧ページでの区分
   enabled: true
   keyword_filter: false   # true にすると config/keywords.yaml のキーワードでフィルタする
   max_items: 15
@@ -94,7 +100,6 @@ URLが判明次第 `enabled: true` にして修正すること。
 - Microsoft AI Blog / Copilot Blog（公式RSSが見つからず。Tech Communityの該当ボードIDを要確認）
 - Tech Community (M365)（対象ボードID・フィルタ条件が未確定）
 - Promptn AI（サイトの実在・RSS配信の有無が未確認）
-- Prompters（サイトURLが未確認。`config/prompt_links.yaml` は仮URLのため要修正）
 - ASCII.jp AI関連（AI専用RSSが見つからず、サイト全体RSS + キーワードフィルタで代用中）
 
 初回のAction実行ログで「フィード取得失敗の可能性」が出たソースも合わせて確認する。

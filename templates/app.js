@@ -64,15 +64,6 @@
     var row = document.createElement("div");
     row.className = "article-row";
 
-    var btn = document.createElement("button");
-    btn.type = "button";
-    btn.className = "bookmark-btn is-bookmarked";
-    btn.dataset.id = a.id;
-    btn.setAttribute("aria-pressed", "true");
-    btn.setAttribute("aria-label", "ブックマーク");
-    btn.textContent = "★";
-    row.appendChild(btn);
-
     var textDiv = document.createElement("div");
     textDiv.className = "article-text";
 
@@ -87,22 +78,28 @@
     var metaParts = [];
     if (a.published_display) metaParts.push(a.published_display);
     if (a.source) metaParts.push(a.source);
-    if (a.hashtags && a.hashtags.length) {
-      metaParts.push(
-        a.hashtags
-          .slice(0, 3)
-          .map(function (h) {
-            return "#" + h;
-          })
-          .join(" ")
-      );
-    }
     var meta = document.createElement("div");
     meta.className = "meta";
     meta.textContent = metaParts.join(" ・ ");
+    if (a.hashtags && a.hashtags.length) {
+      meta.appendChild(document.createTextNode(" ・ "));
+      var tags = document.createElement("span");
+      tags.className = "hashtags";
+      a.hashtags.forEach(function (h, i) {
+        if (i > 0) tags.appendChild(document.createTextNode(" "));
+        var tag = document.createElement("span");
+        tag.className = "tag";
+        tag.textContent = "#" + h;
+        tags.appendChild(tag);
+      });
+      meta.appendChild(tags);
+    }
     textDiv.appendChild(meta);
 
     row.appendChild(textDiv);
+
+    var side = document.createElement("div");
+    side.className = "article-side";
 
     if (a.thumbnail) {
       var thumbLink = document.createElement("a");
@@ -122,9 +119,19 @@
       });
 
       thumbLink.appendChild(img);
-      row.appendChild(thumbLink);
+      side.appendChild(thumbLink);
     }
 
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "bookmark-btn is-bookmarked";
+    btn.dataset.id = a.id;
+    btn.setAttribute("aria-pressed", "true");
+    btn.setAttribute("aria-label", "ブックマーク");
+    btn.textContent = "★";
+    side.appendChild(btn);
+
+    row.appendChild(side);
     li.appendChild(row);
     return li;
   }
@@ -152,6 +159,20 @@
       list.appendChild(buildArticleLi(a));
     });
   }
+
+  // <details> のメニューは標準では外側を押しても閉じないため補う
+  document.addEventListener("click", function (e) {
+    document.querySelectorAll(".site-menu[open]").forEach(function (menu) {
+      if (!menu.contains(e.target)) menu.removeAttribute("open");
+    });
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key !== "Escape") return;
+    document.querySelectorAll(".site-menu[open]").forEach(function (menu) {
+      menu.removeAttribute("open");
+      menu.querySelector("summary").focus();
+    });
+  });
 
   document.addEventListener("DOMContentLoaded", function () {
     syncButtons();

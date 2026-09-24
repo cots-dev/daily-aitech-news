@@ -57,7 +57,7 @@ def render(pts, edges, node_color, line_color, node_r, line_opacity, node_opacit
         x2, y2 = pts[j]
         parts.append(
             f'<line x1="{x1:.1f}" y1="{y1:.1f}" x2="{x2:.1f}" y2="{y2:.1f}" '
-            f'stroke="{line_color}" stroke-width="1.2" stroke-opacity="{line_opacity}"/>'
+            f'stroke="{line_color}" stroke-width="1.4" stroke-opacity="{line_opacity}"/>'
         )
     for (x, y) in pts:
         r = node_r * rng.uniform(0.6, 1.6)
@@ -74,14 +74,14 @@ def build_svg(w, h, cx, cy, spread, n, dense) -> str:
 
     main = cluster(cx, cy, spread, n, rng)
     main_edges = connections(main, spread * 0.4, 3 if dense else 2, rng)
-    parts.append(render(main, main_edges, DARK, MID, 5 if dense else 4, 0.5, 0.85, rng))
+    parts.append(render(main, main_edges, DARK, MID, 5 if dense else 4, 0.7, 0.95, rng))
 
     sub = cluster(cx, cy, spread * 0.75, int(n * 0.4), rng)
     sub_edges = connections(sub, spread * 0.3, 2, rng)
-    parts.append(render(sub, sub_edges, MID, LIGHT, 4, 0.35, 0.65, rng))
+    parts.append(render(sub, sub_edges, MID, LIGHT, 4, 0.5, 0.8, rng))
 
     scatter = cluster(cx, cy, spread * 1.3, int(n * 0.25), rng)
-    parts.append(render(scatter, [], PALE, PALE, 3, 0, 0.45, rng))
+    parts.append(render(scatter, [], LIGHT, LIGHT, 3, 0, 0.55, rng))
 
     body = "\n".join(parts)
     return (

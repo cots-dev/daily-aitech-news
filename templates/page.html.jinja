@@ -1,41 +1,27 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow">
-<title>Daily AI/Tech News - {{ date }}</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css">
-</head>
-<body>
-<header class="site-header">
-  <h1>Daily AI/Tech News</h1>
-  <p class="subtitle">Windows、Copilot、Microsoft365系のアップデート/最新機能/活用Tipsを毎日お届け</p>
-  <div class="header-meta">
-    <span class="date">{{ date_display }}</span>
-  </div>
-</header>
+{% extends "base.html.jinja" %}
+
+{% block title %}Daily AI/Tech News - {{ date }}{% endblock %}
 
 {% macro article_item(a) %}
 <li>
   <div class="article-row">
-    <button type="button" class="bookmark-btn" data-id="{{ a.id }}" aria-pressed="false" aria-label="ブックマーク">☆</button>
     <div class="article-text">
       <a class="article-link" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_ja or a.title }}</a>
-      <div class="meta">{% if a.published_display %}{{ a.published_display }}{% endif %}{% if a.source %} ・ {{ a.source }}{% endif %}{% if a.hashtags %} ・ {% for h in a.hashtags[:3] %}#{{ h }}{% if not loop.last %} {% endif %}{% endfor %}{% endif %}</div>
+      <div class="meta">{{ a.published_display }}{% if a.source %} ・ {{ a.source }}{% endif %}{% if a.hashtags %} ・ <span class="hashtags">{% for h in a.hashtags %}<span class="tag">#{{ h }}</span>{% if not loop.last %} {% endif %}{% endfor %}</span>{% endif %}</div>
     </div>
-    {% if a.thumbnail %}
-    <a href="{{ a.url }}" target="_blank" rel="noopener" class="thumb-link">
-      <img class="article-thumb" src="{{ a.thumbnail }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb-link').remove()">
-    </a>
-    {% endif %}
+    <div class="article-side">
+      {% if a.thumbnail %}
+      <a href="{{ a.url }}" target="_blank" rel="noopener" class="thumb-link">
+        <img class="article-thumb" src="{{ a.thumbnail }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb-link').remove()">
+      </a>
+      {% endif %}
+      <button type="button" class="bookmark-btn" data-id="{{ a.id }}" aria-pressed="false" aria-label="ブックマーク">☆</button>
+    </div>
   </div>
 </li>
 {% endmacro %}
 
+{% block content %}
 <div class="tabs-wrapper">
   <input type="radio" name="tabs" id="tab-all" class="tab-input" checked>
   {% for c in categories %}
@@ -81,21 +67,9 @@
     </section>
   </main>
 </div>
+{% endblock %}
 
-{% if prompt_links %}
-<footer class="site-footer">
-  <h2>おすすめプロンプト集リンク</h2>
-  <ul class="prompt-links">
-    {% for link in prompt_links %}
-    <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a> - {{ link.description }}</li>
-    {% endfor %}
-  </ul>
-</footer>
-{% endif %}
-
-<p class="copyright">© 2026 Daily AI/Tech News</p>
-
+{% block scripts %}
 <script type="application/json" id="all-articles-data">{{ all_articles_json | safe }}</script>
-<script defer src="assets/app.js"></script>
-</body>
-</html>
+{{ super() }}
+{% endblock %}
