@@ -245,13 +245,19 @@ def classify_articles(articles: list) -> None:
 AI・Office・Windowsの情報を届けるニュースサイトの編集者です。
 以下の記事一覧（[媒体名] タイトル）について、それぞれ次を判定してください。
 
-1. exclude: 読者が「仕事で試してみたい」「知っておくべき」と思える記事でなければ true。
-   例: 個人の日記・雑談・挨拶や近況報告、エンジニア向けのプログラミング・開発・インフラの記事、
-   PC・スマホなどハードウェア製品の紹介やレビュー、セール・キャンペーン情報、
-   AI・Office・Windowsと関係の薄い記事。迷う場合は false。
-2. tags: 下記カテゴリIDのうち該当するものを全て（複数可）。exclude が true なら空配列。
+1. tags: 下記カテゴリIDのうち当てはまるものを全て選ぶ（複数可）。
+   - ChatGPT・Copilot・Gemini・Claudeなど主要なAIサービスや、Microsoft・Google・OpenAI・Anthropicの
+     新モデル・新機能・料金・提供開始などの発表は、どの媒体の記事でも news に入れる。
+   - 生成AIを使った作業手順やプロンプト例は、Googleのアプリ上での操作であっても ai に入れる。
+2. exclude: 次のいずれかにはっきり当てはまる場合だけ true。それ以外は false（迷う場合も false）。
+   - 個人の日記・雑談・挨拶・近況報告・創作（AIと物語を作った、など）
+   - エンジニア向けのプログラミング・開発・インフラの記事（GitHub Copilot、API・SDK、コード解説など）
+   - IT管理者・情報システム部門向けの製品導入・運用・セキュリティ製品の話
+   - PC・スマホ・周辺機器などハードウェア製品の紹介やレビュー、書籍の発売・セール・キャンペーンの告知
+   - 副業・投資・ギャンブル・趣味など業務と関係のない用途、政治・社会・業界動向の一般ニュース
+   exclude が true なら tags は空配列でよい。
 3. howto: 操作手順・設定方法・関数の使い方・プロンプト例など、読んですぐ自分で試せる具体的な内容なら true。
-4. title_ja: タイトルが日本語以外なら自然な日本語に翻訳。日本語ならそのまま。
+4. title_ja: タイトルが日本語以外なら自然な日本語に翻訳。日本語ならそのまま。[媒体名] は含めない。
 5. hashtags: 記事の内容を端的に表すハッシュタグを2〜3個（例: Excel, Copilot, プロンプト, Windows11）。
    #記号やスペースは付けない。製品名・機能名・トピック名を優先する。
 
@@ -291,7 +297,8 @@ AI・Office・Windowsの情報を届けるニュースサイトの編集者で�
             a["tags"] = [t for t in (r.get("tags") or []) if t in cat_ids]
             a["howto"] = bool(r.get("howto"))
             if r.get("title_ja"):
-                a["title_ja"] = r["title_ja"]
+                # 軽量モデルは記事一覧の「[媒体名]」までタイトルに含めてしまうことがあるため外す
+                a["title_ja"] = re.sub(r"^\[" + re.escape(a.get("source", "")) + r"\]\s*", "", r["title_ja"])
             a["hashtags"] = [
                 re.sub(r"\s+", "", str(h).lstrip("#")) for h in (r.get("hashtags") or []) if str(h).strip()
             ][:3]

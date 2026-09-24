@@ -607,8 +607,7 @@
       "議事録"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "648930c3172cd6c8484cf154af3117532569f4c3",
@@ -622,8 +621,7 @@
     "title_ja": "依頼メールの返事が来ない。「丁寧さ」より先に確かめたい、相手の作業量",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "3b35c6113e0e4dd6a01c8ce0e16a0aadef8a4dd4",
@@ -637,8 +635,7 @@
     "title_ja": "朝のタスク整理で止まる人へ。「全部やる」をやめる前に決めたい三つの欄",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "b4bfd3f238eacc2ff750c52b8813a7803cf4e1aa",
@@ -658,8 +655,7 @@
       "画像生成"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "8452443e8ccc65b4e2a23c979abaf945793c2486",
@@ -673,8 +669,7 @@
     "title_ja": "BASIC世代のためのAIプロンプト入門",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "d08b0c81772958bb4288eb4384b4b4aca57478cb",
@@ -693,8 +688,7 @@
       "VBA"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "2262f33ba43951df01429bc31db7c7bc2e7614d5",
@@ -715,8 +709,7 @@
       "プロンプト"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "26db18893d6fd8f79428a26332aa701161e017bb",
@@ -730,8 +723,7 @@
     "title_ja": "同じ情報を何回入力しているか数えたら、1件あたり4回だった",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "11b99ce071511b47ee0d3bea39a9162f9a0affd1",
@@ -750,8 +742,7 @@
     "hashtags": [
       "Excel",
       "Word"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "40928827d2e4e734dee018963a5d29dc0d1aff03",
@@ -770,8 +761,7 @@
     "hashtags": [
       "Excel",
       "関数"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "682962859c2c6e19d279d93e5cc2109281e11800",
@@ -790,8 +780,7 @@
     "hashtags": [
       "Excel",
       "原価計算"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "6ab94dc794033cfafdafcbf03e276188d63d60d7",
@@ -805,8 +794,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Excel関数 基礎セミナー(夜間4回)",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "d661853f3c51fb15af80bd414ddee9ff7b301858",
@@ -820,8 +808,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【9月23日版】競艇データExcel — 展示4種・得点率・BI順位・3連単配当つき（23会場×11日・10,152艇）",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7cbc9643707c9b5714718964f1d8e129183b7ca2",
@@ -835,8 +822,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "「うちの担当が何とかします」の、5年後",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "2417dcd6363184d42d06d6c59be66721ffba0f47",
@@ -857,8 +843,7 @@
       "Excel",
       "AI",
       "プロンプト"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "37613123c4c61e968162e99583afe8c17fab4caf",
@@ -872,8 +857,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "高卒40代、ひとりDXはじめました",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "c34b98fa3e1283ae94494ff98859c1d6462c3c5e",
@@ -887,8 +871,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Excelって万能じゃん！と思っていた私が、いつの間にかセル結合を嫌いになった話",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "4079467655b14cbd1b23759da0f1bde51d5b0e21",
@@ -902,8 +885,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "返金依頼は承認済み。でも返金した？｜Excel管理を仕組みに変える判断基準",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "4cad4a5e2db67adab5674b7865c93a11fe2f35da",
@@ -917,8 +899,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【検証】Office97(Excel 97)はWindows 11で開けるのか？",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "75abb7ef62364720d2b703ca63870565c3c40593",
@@ -939,8 +920,7 @@
       "Microsoft365",
       "Excel",
       "Word"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "e2a0046cc67ddbec6581f04c629210c6570d1fb7",
@@ -954,8 +934,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "主張：「超知能」近づく？ AI企業の誇大宣伝にだまされるな",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "150a0bfc0f5dec5b92d6d02a760f9c90a3f768ac",
@@ -969,8 +948,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "「今の結婚って本当に個人ベースなのかなー」息子の結婚にあたり、両家顔合わせの場でモヤモヤを感じてしまった、という人のポストに賛否さまざま",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "ac7d2de6af56788f8dd6800a2e43b59285a442a6",
@@ -984,8 +962,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "d41b4ed1fcc05295be1bdb003e69c64c8bd4bae7",
@@ -999,8 +976,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "2219be660a796324e5758c764480ca694fe5eabd",
@@ -1014,7 +990,6 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   }
 ]

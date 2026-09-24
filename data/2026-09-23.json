@@ -11,8 +11,7 @@
     "title_ja": "老舗のマウスユーティリティ「チューチューマウス」がAIの力を借りて15年ぶりに復活【再掲】【今すぐ読みたい！人気記事】",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "e6b2070bd8e21d4f00fa71f0ebec120e42fce16f",
@@ -33,8 +32,7 @@
       "Anthropic"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "f83bc989edfc7ecb83b6f5194800274fc0d077d9",
@@ -55,8 +53,7 @@
       "AI"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "3d4262f2dd1c19c45b7c5d1d400a284671d522a5",
@@ -77,8 +74,7 @@
       "PowerQuery"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "8b34c395b3a4946c41ab9551c893687611cc354d",
@@ -92,8 +88,7 @@
     "title_ja": "「なんでここに駅ないの？」 首都圏の“鉄道空白地帯”を可視化するマップが話題に【再掲】【今すぐ読みたい！人気記事】",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "8cdaf6c32a3f5c95af66c9db378971c767fe061a",
@@ -114,8 +109,7 @@
       "セキュリティ"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "ffb51292ffff41fb7687a60d13db8b75c691a00a",
@@ -135,8 +129,7 @@
       "アップデート"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "02241a5b3268ba995f268b564295f6e7594556e7",
@@ -156,8 +149,7 @@
       "AI"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "6e68adf004efa0f147f7e5d1d6e410a869f77269",
@@ -171,8 +163,7 @@
     "title_ja": "AIは新規開発より既存改修が苦手？より得意？ Android開発の実力を測る「Android Bench 2.0」が公開／最新鋭モデルをより実務的な長期間タスクでテスト",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "5908935ccce5fd7d867a0c5f567e49568dee0422",
@@ -192,8 +183,7 @@
       "AI"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "9809a904a92a44eebec7c6cd023566ff81d9ad6f",
@@ -213,8 +203,7 @@
       "ファイル管理"
     ],
     "excluded": false,
-    "howto": true,
-    "classified": true
+    "howto": true
   },
   {
     "id": "bfb436d0cb473e2cdf87b0332b9024bda5a0bc28",
@@ -235,8 +224,7 @@
       "不具合"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "2ad5eab71dc35788e30c1338e6f573ee80338f03",
@@ -257,8 +245,7 @@
       "Salesforce"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "caa6225d6cfca7296f8c33ed928b89e196ee73c2",
@@ -279,8 +266,7 @@
       "セキュリティ"
     ],
     "excluded": false,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "ddb8952d21c0963a7d7d42417d27fefcd584d4be",
@@ -294,8 +280,7 @@
     "title_ja": "全文無料公開！『フィジカルAIの正体』が発売前に丸ごと読める3日間限定のキャンペーンを9月16日（水）より実施",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "965acbb6de7a6a653f96aa83e06c4483bc2ef062",
@@ -309,8 +294,7 @@
     "title_ja": "生成AI活用を「雑務」から「成果を生む業務」へ！ 広告運用のプロが実践ノウハウを凝縮した『そのまま使えるAI×ネット広告』を9月15日に発売",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "33a44e553e3551d77db00a4124f874da84c77134",
@@ -324,8 +308,7 @@
     "title_ja": "生成AIを「超優秀な部下」としてマネジメント。一生使える「仕事の任せ方」が身につく書籍『AIを部下にする技術』を9月1日に発売",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "e70825fba2187024545d389e1aca0648079f0ae4",
@@ -339,8 +322,7 @@
     "title_ja": "『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説まとめ",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "c251478cf72d94d8ee91e0ac84f5f6ce779abaed",
@@ -354,8 +336,7 @@
     "title_ja": "Geminiでスライドに合った写真を作ろう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "0cd2629c316333385ad3a496b9f9cefec9e81ed5",
@@ -369,8 +350,7 @@
     "title_ja": "Geminiでスプレッドシートの表を分析しよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
     "hashtags": [],
     "excluded": true,
-    "howto": false,
-    "classified": true
+    "howto": false
   },
   {
     "id": "2ef5539d8c2525e3126eea126f54b0629f7319b0",
@@ -384,8 +364,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "スプレッドシートの表をドキュメントの文書に挿入しよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "b12986394fe4356b86a5ee74332cdf376a13859b",
@@ -399,8 +378,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "箇条書きが順番に表示される動きを設定しよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "a326e4c7e41aa03d2fa6a74af8562bdf5e7f0a10",
@@ -414,8 +392,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "スライドが切り替わるときに動きを付けよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "9ee09c8fa6cadf30c280552e153f6db5211a1171",
@@ -429,8 +406,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "スライドに図表を入れよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7f77118e255b8ad29f5f0bb8b8307de268eb16cd",
@@ -444,8 +420,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "すべてのスライドの文字の書式を変えよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "9f343a66ca8c72b8afd6115be923869fbbbfa449",
@@ -459,8 +434,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "スライド全体のデザインを変えよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "5b1ea3b6293682ca1b5a03c60083f9d3abc77f81",
@@ -474,8 +448,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "文書に図形を挿入しよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7e6c278dda3e6b5d488fdc57bd2a2decacaaa111",
@@ -489,8 +462,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "文字をまとめて字下げしよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "03b93530b953e2bf3860a38181f3df183627d25e",
@@ -504,8 +476,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "箇条書きの項目を入力しよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7d2d9a9f8d8dc2b7d54cd08d9c99075fc7736538",
@@ -519,8 +490,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "グラフを作ろう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "8356b54d902065283f2ff8e9c56dfdf01beefb87",
@@ -534,8 +504,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "条件を満たすセルに色を付けよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "e7758c686a3c9920ece4a8e6e969533a1e71c4a7",
@@ -549,8 +518,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "セルと文字の色を変えよう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "5c7c8f5beb9279c4139f8d7c0396159c5f573716",
@@ -564,8 +532,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "スプレッドシート独自の関数を使おう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "26a2845053f5cdc34847492656c75b31b5e1e8f9",
@@ -579,8 +546,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "他の表から該当するデータを取り出そう -『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』動画解説",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "03c5448fc8ef40b10a56d45d27784e70d0f581a4",
@@ -594,8 +560,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "既定値のままでは予算は守れない——GitHub Copilotの従量課金を公費で統制するために",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "07438fa78d6885175b0ff2f0bc2946069e41511a",
@@ -616,8 +581,7 @@
       "Copilot",
       "SharePoint",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "afa06479461d03eaa5b5365fa41dfe3f7b3cd496",
@@ -631,8 +595,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "GitHub Copilot Chatの便利機能まとめ30選",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "53adb94bb66c8119ec0c4d4a35f6ddef50ee80ca",
@@ -646,8 +609,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "GitHub Copilotで基本設計の精度をあげて効率化する実践プロンプト集",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "3672ce791b0d08d0a1c0f2ccbba5ba203e64176b",
@@ -661,8 +623,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Python で Excel グラフを生成し、画像としてエクスポートする",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "0d7b39e252db8197788474598d993bd6b062305a",
@@ -681,8 +642,7 @@
     "hashtags": [
       "Excel",
       "関数"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "61def9990566ef00ba1f3d1d59ecdc149866b87e",
@@ -696,8 +656,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "C# で PDF を Excel に変換する方法",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "1d1a912c29f73083ef5864dc9fc1c019d3b3ef52",
@@ -711,8 +670,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": ".NET 開発者が自動化すべき 7 つのドキュメント処理タスク",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "c7a63e9200d6a856a397c7a282613c95aed92980",
@@ -733,8 +691,7 @@
       "PowerAutomate",
       "AIBuilder",
       "プロンプト"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "1f7e5b6d4615d2c88a9aa2c27ee0013ff6071ad3",
@@ -753,8 +710,7 @@
     "hashtags": [
       "PowerAutomate",
       "JSON"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "4beea8b1f2eda43b7eadf29d5c690fe95f50789c",
@@ -768,8 +724,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Copilot StudioのMCP（Model Context Protocol）対応が2026年7月にGAした話 — Power Automateのカスタムコネクタとどう使い分けるか",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "d7a02168a8dd1100742b63c640cc1b107df273eb",
@@ -783,8 +738,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "環境内のCopilot Studioのエージェントを一括でAutomateで削除する（要注意）",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "3db95391a46ea3d72e76127a3e1f514dada29b71",
@@ -798,8 +752,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【Zenn力執筆】#12　Rewriteしないと？！",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "57b036749c828b34e2f450f9add5776b0c9dfe34",
@@ -813,8 +766,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Copilotの次に来る？ AIエージェントを変える「AIは何を覚えるべきか？」",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "863eaa805248bff0068750788b4023b82bc0419d",
@@ -828,8 +780,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【Zenn力執筆】#11　もし私がCopilotならプレミアリーグのスタッツをどう作るだろうか",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "fb9bff729e72b543405807874d08d7b3aa21ca89",
@@ -843,8 +794,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "GPT-6 AstraとClaude Fable、M365 Copilotで選べる時代に企業が見落としがちなこと",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "a493be33bc6ae6e99e31b6b0ea7b4d838151ac40",
@@ -858,8 +808,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "M365 Copilotを「自作」してセキュリティ境界を理解してみた",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "19eb8a5160646586cd7b5856868f0e8ad2463a90",
@@ -880,8 +829,7 @@
       "Copilot",
       "PowerPoint",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "f399c8b2993ea3a2e1e8318016061db75faa0733",
@@ -895,8 +843,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "CopilotにApproveさせてAuto Mergeで開発を回す 〜自律開発ループの作り方〜",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "d1a54af0c0c716e233ccd989596916aa4182d15d",
@@ -917,8 +864,7 @@
       "PowerAutomate",
       "CopilotStudio",
       "Microsoft365"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "84d094446dd236fb3445a7ec6d5328dffb243401",
@@ -932,8 +878,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "AI時代の新しい開発手法「SDD（仕様駆動開発）」超入門",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "33737dc84681b09d2c77173763cb146132193162",
@@ -947,8 +892,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "AI とスライドを作るための CLI を作ってみた！！ - MarkdStage CLI",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "ee3fd2bafb084632925a1857a1da3b03c2416a95",
@@ -969,8 +913,7 @@
       "Copilot",
       "Microsoft",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "931be7dab049f761bf7ebeec2e8da818f1529fed",
@@ -984,8 +927,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Microsoft 365 Agents SDK でプロアクティブ メッセージを送信する (2026 年 9 月最新版)",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7fa614c8ff9c35fee2880608f701375a6179e98f",
@@ -1006,8 +948,7 @@
       "Copilot",
       "PowerAutomate",
       "Microsoft365"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "d44bb66e0d2b356330661327393f99c0e023a420",
@@ -1021,8 +962,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Markdown でスライドを作って発表・PDF 配布までできる MarkdStage",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "acd7eee2373ff0c32ca0fdda97e85c1673fbc22a",
@@ -1042,8 +982,7 @@
       "Copilot",
       "プロジェクト管理",
       "AI活用"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "74dee5124e2a7740decfef7ff50b7d23caabed2a",
@@ -1062,8 +1001,7 @@
     "hashtags": [
       "Excel",
       "データ整理"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "a9b75d644373fbfad684c2ab6587ab4028d47c42",
@@ -1084,8 +1022,7 @@
       "Excel",
       "AIエージェント",
       "業務効率化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "14f17804d20b8d97b5c1ecef98f82fc8bf227640",
@@ -1099,8 +1036,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Excel 設計書を AI に読ませたくて、変換ツールを自分で書いた話（markitdown を捨てた理由）",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "1eedefd752636a5412a177049122799a72e73c82",
@@ -1114,8 +1050,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Pythonを使わずにExcelだけでDRT解析を回せるのか？",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "bb472e2643f7c8d79289d9e2f6f9bf5a16a59f6c",
@@ -1135,8 +1070,7 @@
       "Excel",
       "PDF",
       "トラブルシューティング"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "40e420b25491b82e31076c75e78f7b4be4de0360",
@@ -1157,8 +1091,7 @@
       "Excel",
       "Windows11",
       "トラブルシューティング"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "dc0c87608141958c5a2ff9fb77187eb2b42a87ce",
@@ -1178,8 +1111,7 @@
       "Excel",
       "業務効率化",
       "自動化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "7807993f8aea3e9d51b0abf08595e99da314d6c6",
@@ -1193,8 +1125,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "スプレッドシートやCSVなどのデータを貼り付けるだけで綺麗なMarkdownの表を自動生成できるWebツールを開発しました",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "df4cd7533d2ddcdbe37ec44440a1a06b60558443",
@@ -1215,8 +1146,7 @@
       "Excel",
       "PowerShell",
       "Windows"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "361e897d81ba0fc98a52b8850ec465a16bd5d5bf",
@@ -1237,8 +1167,7 @@
       "Excel",
       "AIエージェント",
       "PowerAutomate"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "009826ed46923fcbed2e259db6013c8cc835550f",
@@ -1252,8 +1181,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "VBAを残すか、C#へ切り出すか — 「全部書き直す」前に確認する5項目",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "d8026b8050538e6bf3ccd4f9728a3bb38eb55b8a",
@@ -1273,8 +1201,7 @@
       "Excel",
       "関数",
       "トラブルシューティング"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "f4db5365481a8199d15d1c5ac9f477ae52bf01b4",
@@ -1288,8 +1215,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "openpyxl で「A4に必ず収まる」帳票を作る",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "b4e2b6bf047d3429c4f563c27f33450d3fb1c522",
@@ -1309,8 +1235,7 @@
       "Excel",
       "Visio",
       "図解"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "b9c16242d65a1a8f05c4b37a3298510927ef2dbd",
@@ -1324,8 +1249,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "ヘッドレス（Excelインストールせずに）でExcelファイルを編集したりVBAを実行できるライブラリを開発した",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "a6d00c6793a8a5a87f45436b2dbcf4d614442a9a",
@@ -1339,8 +1263,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "今日の目に入ったAiニュースぅ2026.9.19",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "ecf0d642e3009ce0c32c32aed9df68a5d0c6fe4a",
@@ -1354,8 +1277,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Vivianの手帳〜鏡と暗室とココロのカタチ〜",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "eeab747e3b7c23bc29e6db07e10b2c17db9bf986",
@@ -1369,8 +1291,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "今日の目に入ったAiニュースぅ2026.9.19",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "19f22140fcd553a9b2260bfc72b4d28a3e8efeda",
@@ -1384,8 +1305,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "高校に「アイドル部」が登場するらしいが「歌って踊る部」が今までなかったのが不思議？",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "a1dbf7830241a7e21c199e947ba4e923c51a19b9",
@@ -1406,8 +1326,7 @@
       "Copilot",
       "PowerPoint",
       "AI活用"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "498f74b3d76328faeb67c7170d3bf8793343490c",
@@ -1428,8 +1347,7 @@
       "Copilot",
       "Excel",
       "AI活用"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "7560575014ae671b4d3a3bc6ef6dd5f363af0d50",
@@ -1443,8 +1361,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "AI生成のプログラムについてのポエム",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "3077d77f776e7eedeb949fd16bb9387f5732950a",
@@ -1464,8 +1381,7 @@
       "プロンプト",
       "生成AI",
       "業務効率化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "875a38fa465cc0953666a13b6ef9de351acbf302",
@@ -1479,8 +1395,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【GeminiとCopilotの深夜ラジオ】AIが他社にハッキング！？「転職疑惑」の真相に迫る！",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "b113f774a37b65fcbb26ed197a8a3f0730d10662",
@@ -1494,8 +1409,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Copilotと物語を作ってみた #307 小林×２（ダブル）",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "4f3d7021d2906d713775eccd55076cf8b61a4880",
@@ -1516,8 +1430,7 @@
       "Copilot",
       "PowerPoint",
       "資料作成"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "62bbecb36ef1795480737fd33221a28161a2d864",
@@ -1538,8 +1451,7 @@
       "Copilot",
       "Windows11",
       "トラブルシューティング"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "520a60be5d181be17ef4bbb51559a1235e604b8b",
@@ -1553,8 +1465,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "渡したのは、言葉のほうだった",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "f0ab6e69d3a001497ffaed7fc07403fd7d1a1529",
@@ -1574,8 +1485,7 @@
       "Copilot",
       "ナレッジマネジメント",
       "AI活用"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "63b5c0e6455507dd48034e5cae5e26859a2f6cbf",
@@ -1589,8 +1499,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Claude Code vs Cursor vs Copilot｜2026年夏の最強AI開発環境を徹底比較",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "ce790890abae8b37049ca02d47fef8fd361ef95c",
@@ -1610,8 +1519,7 @@
       "プロンプト",
       "生成AI",
       "Copilot"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "a1f40f1a53c731e96214037562b329befc03ba0d",
@@ -1631,8 +1539,7 @@
       "プロンプト",
       "生成AI",
       "文章術"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "72b1adff82f1637454d469baf860f24b80cec141",
@@ -1646,8 +1553,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【初プロンプト】わかモンさんを応援しよう！！📣🐱",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "a089136d3cc38facb643766440fa0765aaa9e9fd",
@@ -1667,8 +1573,7 @@
       "プロンプト",
       "生成AI",
       "副業"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "430706406737647178ac9d5c2c33add88d37ff37",
@@ -1682,8 +1587,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "ChatGPT 噴水の前に膝立ちしている美女をモデル撮影❤️",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "b0a97c624630aed486f3b1dbce60ed47d660f449",
@@ -1697,8 +1601,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "私の短所、AIに見抜かれました……",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "443f23c99385e597182312c3c93a19553de67a2d",
@@ -1717,8 +1620,7 @@
     "hashtags": [
       "ChatGPT",
       "プロンプト"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "69835644a8f12b8faedfa6d5e28aa0ac099a2d30",
@@ -1737,8 +1639,7 @@
     "hashtags": [
       "ChatGPT",
       "プロンプト"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "2cf730347f4080c4b75acf09822220e74aa843b2",
@@ -1752,8 +1653,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【画像生成AI】「AIっぽさ」を撃退！脱ツルツル絵を叶える画風プロンプト38選",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "25d21e5840a47dff0c93502b7a5a8c5e2c9ccb62",
@@ -1772,8 +1672,7 @@
     "hashtags": [
       "ChatGPT",
       "AI活用"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "662e671d55dfbf3a453a627344c90b8d3c49c939",
@@ -1787,8 +1686,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "『勧誘、完了。』勧誘のプロにAIを与えたら、人間は断れるのか",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "e4cfc413134c038f12d46c5ae2be67e78b4d35dd",
@@ -1802,8 +1700,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "文字だけのX投稿を変えたい。短い指示文でAI漫画を作ってみた",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "b0ecafc16ecae6519a07ae224dfa57186873d4f9",
@@ -1817,8 +1714,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "プログラミング未経験の素人がAIで業務アプリを量産・公開できるようになった全ノウハウ【実践プロンプト＆公開手順付き完全ガイド】",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "95d9376b6bf651177a6eb51c18bb661c9de0e892",
@@ -1832,8 +1728,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "偕老同穴　〜百年の愛の物語〜　　第二章 第三節：嫌がらせと鷹の人柄",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "c6c5d5c4061c2a6cf3ff13a1d6ad460e1e5bb702",
@@ -1847,8 +1742,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "GPT-6のSolとLuna、実務で使える7つの活用パターン",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "5fea0a2116354abd3132271230060483d92c0c77",
@@ -1862,8 +1756,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "年収が上がる。その転職で「毎月のお金」と「平日の時間」はどう変わる？【3社比較Excel付き】",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "245b52451ff1b193c41be3c8487dd47b18affca5",
@@ -1882,8 +1775,7 @@
     "hashtags": [
       "Excel",
       "業務効率化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "e60178f66801f19293a691001ece822a0fa107c1",
@@ -1902,8 +1794,7 @@
     "hashtags": [
       "Excel",
       "基本操作"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "9caf018ce60f6007f4ec64965d9ee61f40e42f49",
@@ -1922,8 +1813,7 @@
     "hashtags": [
       "Excel",
       "ショートカット"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "2201d9dc18ab4bb9e622df0faf7d322a8ae24e64",
@@ -1937,8 +1827,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "住宅ローン金利が1.0％から2.0％になったら何がどうなる？返済額と65歳残高を計算してみた",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7bbad275837ca9afb83f7abcd4937bbe89a5fd55",
@@ -1952,8 +1841,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "「AIに聞く」から「AIに任せる」へ。　非エンジニアのClaude Code実践ガイド",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "9ab9d1174361ef64d685b386c59b77b2ceda7979",
@@ -1972,8 +1860,7 @@
     "hashtags": [
       "Excel",
       "ファイル管理"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "83389d02b115e9b78d87ec162ac44d9850f0d4d4",
@@ -1987,8 +1874,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "プログラミング初心者の営業が、取引先ごとにバラバラな見積書の記入をClaude Codeで自動化してみた",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "6f1b96b53024362cb942424db23f6cdabfe5abae",
@@ -2009,8 +1895,7 @@
       "Excel",
       "ChatGPT",
       "表記ゆれ"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "a698e5ebd081269185b74b29587e9c29ddd983ae",
@@ -2029,8 +1914,7 @@
     "hashtags": [
       "Excel",
       "関数"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "1acc5565c9eb2a10986ded86ce6257340cc59fbb",
@@ -2044,8 +1928,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【誰でもできる】毎月のExcel集計を、Claude Codeに引き継ぐ。転記・突合・検算までの実務手順",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "a8a70eb74d9a232c31ef5b92e4e75559d0e855e5",
@@ -2064,8 +1947,7 @@
     "hashtags": [
       "Excel",
       "スキルアップ"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "e3482278ff524c6ae8641d54419f5e2f3cfaf706",
@@ -2079,8 +1961,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "ダグラス・マグレガー「企業の人間的側面」を読んで〜嫉妬を、人を潰す力にするのか、自分を磨く力にするのか",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "67b7c26d81b123eb66ef3fb6fe35072b67408755",
@@ -2094,8 +1975,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Excelの文字置換を、選択範囲だけまとめて処理できるツールを作りました",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "57b841c6641e505ff028d199a5cab73c80e322ed",
@@ -2109,8 +1989,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "f2d108214ea5eb27524c7401eba6f4d6328d647a",
@@ -2129,8 +2008,7 @@
     "hashtags": [
       "OpenAI",
       "ChatGPT"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "f6901e695ed3d0417c7081ba242fdeaa520e8474",
@@ -2144,8 +2022,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "686de8e2011746f0005356a98586ae709f9f047e",
@@ -2165,8 +2042,7 @@
       "AWS",
       "Salesforce",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "4b5575c3c30760cc221ba943b544b6b06602701f",
@@ -2180,8 +2056,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "AIを導入した企業ほど困る「データ基盤問題」　パーソルが3サービスで支援へ",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7dc86b66e4231f51f3a55cc2eccd45eebae64e67",
@@ -2200,8 +2075,7 @@
     "hashtags": [
       "Claude",
       "Anthropic"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "c629e56075bb4941cd50b3585a5cab93b43dd758",
@@ -2215,8 +2089,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "09d5f0231c402460f359b6d05144b3d270f80cd8",
@@ -2230,8 +2103,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "70ef54c1e68356c1c0996d25cd5a23f0e32270f4",
@@ -2245,8 +2117,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック　Shopifyは全店舗で対応へ",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "843fd2c38025fd79c59bd2039be3ba06e06e7584",
@@ -2265,8 +2136,7 @@
     "hashtags": [
       "Grok",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "90cb6eb91e659609be1a3950b938f4e2fd22e6e1",
@@ -2285,8 +2155,7 @@
     "hashtags": [
       "AI活用",
       "事例"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "feb24204a8a85a60f4da731feb74ca53ed0adb8b",
@@ -2300,8 +2169,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "脱メインフレーム、7割超が失敗　背景に「生成AIへの過信」　2026年度上半期システム刷新記事ランキング",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "8a95e75acd32d3d98b9b17a23114d6b7d380e1ae",
@@ -2322,8 +2190,7 @@
       "Teams",
       "Copilot",
       "AI活用"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "ddfac851aff505ccbf9a8eaa968d1ceb02ae3d8a",
@@ -2337,8 +2204,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "トランプ大統領、「AI Force」創設を表明　「AI脅威論はでっちあげだ」",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "0c575aaef62e429bd8e35785d2c7e1958e4bae97",
@@ -2352,8 +2218,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」　GPUを巡る巨額マネーの行方",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "0d52d08b6e2d4406b4e9c6921337bde04d9e039d",
@@ -2374,8 +2239,7 @@
       "AI",
       "ChatGPT",
       "業務効率化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "4b31023ffc0e2922de25f8c0c346223a47257bf1",
@@ -2389,8 +2253,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "AI研修を受けた人は1割未満 「学びたい」4割超なのに、なぜ？",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "7ef12e4c4ffea4c2466c5f8bac7275f182552b00",
@@ -2410,8 +2273,7 @@
     "hashtags": [
       "AI",
       "業務効率化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "9bca1d069f837115013e38d0ed00b88f51c828a1",
@@ -2431,8 +2293,7 @@
     "hashtags": [
       "Copilot",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "5f50117d1cca36d119c39d157887dc2262c71f77",
@@ -2452,8 +2313,7 @@
     "hashtags": [
       "Gemini",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "15e05720fc0f25244764c9844fc8d2274aa18b5e",
@@ -2467,8 +2327,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "OrcaRouter、モデルリーダーボードを更新 - OpenAIの「GPT-5.4 Pro」が総合1位",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "222ce923b716a8f4a2de7c299dbe8a93cbc761e2",
@@ -2490,8 +2349,7 @@
       "PowerPoint",
       "AI",
       "Copilot"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "ca27e3bccdb8c08b1f60565eba8136721b83082a",
@@ -2512,8 +2370,7 @@
       "Copilot",
       "CopilotStudio",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "79fcee646af2c74c8894b8a0ba9c4d3b89b81c46",
@@ -2527,8 +2384,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "前から言ってたじゃんと思った時の対処法 - Konifar's ZATSU",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "35346a55edf1329dc322325bd61a2a3123f9ccbd",
@@ -2542,8 +2398,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "dfa44b2c996905cda70553c3664d1be7162e79a8",
@@ -2557,8 +2412,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "287b73dbebf6453465ecb8b820ee7d779236f967",
@@ -2578,8 +2432,7 @@
     "hashtags": [
       "Microsoft365",
       "news"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "db7d6ffe804c016f0bbdd986998ce1d54571cf23",
@@ -2593,8 +2446,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "ESPC 2026がアムステルダムで開催：Microsoftとコミュニティを結びつける",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "17dff41e915dd07780866be2c95f61f36f4cf85b",
@@ -2616,8 +2468,7 @@
       "Copilot",
       "CopilotStudio",
       "Microsoft365"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "8fdcf782bbb7160d01219068d7809c3b0f75b8c5",
@@ -2631,8 +2482,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "PPCC 2026：AIとビジネスプロセスを統合する",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "860b56b262f50e5d5288b1f4d1a3cdc8d43151ab",
@@ -2653,8 +2503,7 @@
       "AI",
       "Copilot",
       "Microsoft365"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "225c0fcca3fe5c88ca09b36a0a95aed9e60f490a",
@@ -2675,8 +2524,7 @@
       "Excel",
       "Copilot",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "da72c9cde59cbd78fc9ef8e02ffead1377cdafe0",
@@ -2697,8 +2545,7 @@
     "hashtags": [
       "Copilot",
       "Microsoft365"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "816e4044acdd13efadf15f41e534315a6da1c2e5",
@@ -2718,8 +2565,7 @@
     "hashtags": [
       "Copilot",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "d9c0687dae33842389f40000b961176cd6b82d01",
@@ -2733,8 +2579,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "新しいWork IQ APIの発表",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "f035379a77aa98d7a77ad728975c5d05f6fae809",
@@ -2755,8 +2600,7 @@
     "hashtags": [
       "Microsoft365",
       "Copilot"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "f46dc0bb5b875523aa157f37a40552d3e8e1b994",
@@ -2777,8 +2621,7 @@
       "Excel",
       "Python",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "65d40046018f79b0711aa5f3afd2383fd694386c",
@@ -2799,8 +2642,7 @@
       "Microsoft365",
       "OfficeTips",
       "Windows11"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "f16623947deb3edaf9782358e8bd7afaa71835da",
@@ -2820,8 +2662,7 @@
       "Word",
       "Outlook",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "77a538423bf9d3540694205bc9fb9aa13471c38e",
@@ -2840,8 +2681,7 @@
     "hashtags": [
       "PowerPoint",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "b4be10a604aff165e7b18c3b00565f848be7057e",
@@ -2860,8 +2700,7 @@
     "hashtags": [
       "Word",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "07d37a325d63601d1bf2bcb9ac8aa7a0478079f1",
@@ -2882,8 +2721,7 @@
       "PowerPoint",
       "Copilot",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "06bb0ce1a87e2e0789801327f5ad2bedd66ebfbc",
@@ -2904,8 +2742,7 @@
       "Copilot",
       "AI",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "fb6ec1611d1a410934b085954931b948373bd53a",
@@ -2924,8 +2761,7 @@
     "hashtags": [
       "SharePoint",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "12f0423e898a367cc76781a57eb67904b8b2bc76",
@@ -2946,8 +2782,7 @@
       "Word",
       "Copilot",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "6652165a17ba42da19506e2630e1e31b126775fe",
@@ -2968,8 +2803,7 @@
       "Copilot",
       "プロンプト",
       "AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "fb83d01df0c4ed508622ea4b1efacd50c9999029",
@@ -2983,8 +2817,7 @@
     "excluded": true,
     "howto": false,
     "title_ja": "管理者向け：合併や組織再編時のユーザーデータ移行がより簡単に",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "103bf86967a71d20545d0fb4acd9a36da811fb5f",
@@ -3004,8 +2837,7 @@
       "Windows",
       "Outlook",
       "Teams"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "985b94c10a7b6eb0663b1426b939e1250e4fa65c",
@@ -3027,8 +2859,7 @@
       "AI",
       "Copilot",
       "Microsoft365"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "2e56947458a1c2b51f1f267901b21d7d20e536f8",
@@ -3048,8 +2879,7 @@
       "PowerPoint",
       "Teams",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "9eeed37be70d0c4254e6f527dee6c3d732fdf157",
@@ -3069,7 +2899,6 @@
       "Teams",
       "Windows",
       "OfficeTips"
-    ],
-    "classified": true
+    ]
   }
 ]
