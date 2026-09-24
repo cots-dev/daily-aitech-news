@@ -158,6 +158,60 @@ def collect() -> tuple[list, set]:
     return new_articles, seen
 
 
+def call_with_retries(client, model: str, prompt: str, batch_len: int):
+    """(状態, 結果JSON, 使ったリクエスト数) を返す。状態は ok / overloaded / quota / error。"""
+    used = 0
+    for attempt in range(len(OVERLOAD_RETRY_WAITS) + 1):
+        used += 1
+        try:
+            resp = client.models.generate_content(model=model, contents=prompt)
+            text = (resp.text or "").strip()
+            text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
+            return "ok", json.loads(text), used
+        except Exception as e:  # noqa: BLE001 - 失敗したバッチは次回に再分類する
+            msg = str(e)
+            if "RESOURCE_EXHAUSTED" in msg or "429" in msg:
+                print(f"[WARN] {model} の無料枠の上限に達しました: {msg[:120]}")
+                return "quota", None, used
+            if "UNAVAILABLE" in msg or "503" in msg:
+                if attempt < len(OVERLOAD_RETRY_WAITS):
+                    wait = OVERLOAD_RETRY_WAITS[attempt]
+                    print(f"[INFO] {model} が混雑中のため{wait}秒待って再試行します（{attempt + 1}回目）")
+                    time.sleep(wait)
+                    continue
+                print(f"[WARN] {model} の混雑が続いています")
+                return "overloaded", None, used
+            print(f"[WARN] 分類APIエラー、このバッチ{batch_len}件は次回分類します: {msg[:200]}")
+            return "error", None, used
+    return "overloaded", None, used
+
+
+def discover_fallback_models(client, primary: str) -> list:
+    """混雑・上限時の切り替え先。GEMINI_FALLBACK_MODELS（カンマ区切り）があればそれを使い、
+    なければAPIキーで使えるテキスト用Flash系モデルから選ぶ（混雑しにくいlite版→新しい版の順）。"""
+    configured = os.environ.get("GEMINI_FALLBACK_MODELS")
+    if configured:
+        return [m.strip() for m in configured.split(",") if m.strip() and m.strip() != primary]
+    try:
+        names = []
+        for m in client.models.list():
+            name = (m.name or "").split("/")[-1]
+            if name == primary or "flash" not in name:
+                continue
+            if any(x in name for x in ("image", "tts", "audio", "live", "embed", "native")):
+                continue
+            if "generateContent" not in (m.supported_actions or []):
+                continue
+            names.append(name)
+    except Exception as e:  # noqa: BLE001
+        print(f"[WARN] 利用可能なモデル一覧を取得できませんでした: {e}")
+        return []
+    names.sort(reverse=True)
+    names.sort(key=lambda n: ("lite" not in n, "preview" in n))
+    print(f"[INFO] 切り替え候補のモデル: {names[:3]}")
+    return names[:3]
+
+
 def classify_articles(articles: list) -> None:
     """記事リストをその場で分類する。分類できたものだけ classified=True を付ける。"""
     if not articles:
@@ -178,6 +232,7 @@ def classify_articles(articles: list) -> None:
     model = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
     requests = 0
+    fallbacks = None  # 混雑時に初めて問い合わせる
     for i in range(0, len(articles), BATCH_SIZE):
         if requests >= MAX_REQUESTS_PER_RUN:
             print(f"[INFO] 1回あたりのリクエスト上限に達したため、残り{len(articles) - i}件は次回分類します")
@@ -210,32 +265,22 @@ AI・Office・Windowsの情報を届けるニュースサイトの編集者で�
 {{"0": {{"exclude": false, "tags": ["office"], "howto": true, "title_ja": "日本語タイトル", "hashtags": ["Excel", "関数"]}}, "1": {{"exclude": true, "tags": [], "howto": false, "title_ja": "...", "hashtags": []}}}}
 """
         result = None
-        overloaded = False
-        for attempt in range(len(OVERLOAD_RETRY_WAITS) + 1):
-            requests += 1
-            try:
-                resp = client.models.generate_content(model=model, contents=prompt)
-                text = (resp.text or "").strip()
-                text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
-                result = json.loads(text)
-                break
-            except Exception as e:  # noqa: BLE001 - 失敗したバッチは次回に再分類する
-                msg = str(e)
-                if "RESOURCE_EXHAUSTED" in msg or "429" in msg:
-                    print(f"[WARN] API無料枠の上限に達したため、今回の分類を打ち切ります: {msg[:120]}")
+        while result is None:
+            status, result, used = call_with_retries(client, model, prompt, len(batch))
+            requests += used
+            if status in ("overloaded", "quota"):
+                if fallbacks is None:
+                    fallbacks = discover_fallback_models(client, model)
+                if not fallbacks:
+                    print("[WARN] 切り替え先のモデルがないため、今回の分類を打ち切ります（次回に再分類）")
                     return
-                overloaded = "UNAVAILABLE" in msg or "503" in msg
-                if overloaded and attempt < len(OVERLOAD_RETRY_WAITS):
-                    wait = OVERLOAD_RETRY_WAITS[attempt]
-                    print(f"[INFO] モデルが混雑中のため{wait}秒待って再試行します（{attempt + 1}回目）")
-                    time.sleep(wait)
-                    continue
-                print(f"[WARN] 分類APIエラー、このバッチ{len(batch)}件は次回分類します: {msg[:200]}")
-                break
+                reason = "混雑" if status == "overloaded" else "無料枠の上限"
+                next_model = fallbacks.pop(0)
+                print(f"[INFO] {model} が{reason}のため {next_model} に切り替えて分類します")
+                model = next_model
+                continue
+            break
         if result is None:
-            if overloaded:
-                print("[WARN] モデルの混雑が続いているため、今回の分類を打ち切ります（次回に再分類）")
-                return
             continue
 
         for idx, a in enumerate(batch):
