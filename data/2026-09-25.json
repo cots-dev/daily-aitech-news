@@ -10,8 +10,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[窓の杜] 「Microsoft Defender」のゼロデイ脆弱性（？）「BigDiskBuster」が公開されるも……／『それをゼロデイと呼ぶべきなのか』と冷ややかな声も【やじうまの杜】",
-    "hashtags": []
+    "title_ja": "「Microsoft Defender」のゼロデイ脆弱性（？）「BigDiskBuster」が公開されるも……／『それをゼロデイと呼ぶべきなのか』と冷ややかな声も",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "00bdbaee860fabf8d738edf9bddeb769007662b2",
@@ -21,11 +22,19 @@
     "published": "2026-09-24T15:20:30+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
     "howto": false,
-    "title_ja": "[窓の杜] 「Google AI」プランがまたさらにお得に！ 「Google Colab」のプレミアム特典が追加／「GDP」、最新「Gemini」、「YouTube Premium Lite」……特典が盛り沢山",
-    "hashtags": []
+    "title_ja": "「Google AI」プランがまたさらにお得に！ 「Google Colab」のプレミアム特典が追加",
+    "hashtags": [
+      "GoogleAI",
+      "Gemini",
+      "GoogleColab"
+    ],
+    "classified": true
   },
   {
     "id": "91f0591b3ad63744035bfe3a327e078ef517a459",
@@ -41,11 +50,13 @@
       "ai"
     ],
     "howto": false,
-    "title_ja": "“声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表／役柄・アクセント・声の特徴で生成、100以上の言語と方言に対応、2,000以上のライブラリ",
+    "title_ja": "“声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表",
     "hashtags": [
       "Gemini",
-      "AI"
-    ]
+      "AI",
+      "音声合成"
+    ],
+    "classified": true
   },
   {
     "id": "0165feb0b197d4c9864359281105d2768ff86722",
@@ -61,11 +72,12 @@
       "windows"
     ],
     "howto": false,
-    "title_ja": "Windows 11の2026年9月プレビューパッチが公開 ～「バージョン 24H2」はこれが最後／「Copilot」キーを「Ctrl」などに再割り当て、「Emoji 17.0」などに対応、廃止機能も",
+    "title_ja": "Windows 11の2026年9月プレビューパッチが公開 ～「バージョン 24H2」はこれが最後",
     "hashtags": [
       "Windows11",
       "Copilot"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "2b0a33cd885fa9446ff214d481ca05da24bf3405",
@@ -75,11 +87,17 @@
     "published": "2026-09-24T10:30:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
     "howto": false,
-    "title_ja": "[窓の杜] 「Google Chrome 154」が公開、HTTP接続時に警告する「Ask before HTTP」が既定有効に／深刻度最高11件を含む108件の脆弱性にも対処",
-    "hashtags": []
+    "title_ja": "「Google Chrome 154」が公開、HTTP接続時に警告する「Ask before HTTP」が既定有効に",
+    "hashtags": [
+      "Chrome",
+      "ブラウザ"
+    ],
+    "classified": true
   },
   {
     "id": "146cb5a86727fce3c4d209c0f1807bdeb5371d99",
@@ -89,11 +107,18 @@
     "published": "2026-09-24T08:22:51+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
     "howto": false,
-    "title_ja": "[窓の杜] ノートPCを閉じてもOK、「Claude Code」の“クラウドセッション”の一般提供が開始／既存契約者には1回限りの専用クレジットを付与、請求を忘れないように",
-    "hashtags": []
+    "title_ja": "ノートPCを閉じてもOK、「Claude Code」の“クラウドセッション”の一般提供が開始",
+    "hashtags": [
+      "Claude",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "a428d256c19708071c4ebbd892d1d40330028b28",
@@ -103,11 +128,17 @@
     "published": "2026-09-23T17:45:00+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
     "howto": false,
-    "title_ja": "[窓の杜] 「Firefox 156.0.1」が公開、特定のWebページで応答不能になる問題などに対処／Windowsでのシステムハンドルのリークも解消",
-    "hashtags": []
+    "title_ja": "「Firefox 156.0.1」が公開、特定のWebページで応答不能になる問題などに対処",
+    "hashtags": [
+      "Firefox",
+      "ブラウザ"
+    ],
+    "classified": true
   },
   {
     "id": "e5bcad792d1eea68c38afbeb1b955b91c20ef472",
@@ -120,8 +151,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[ITmedia PC USER] 天空がCore Ultra 5を搭載した10.51型2in1ノート「TENKU Note Pro AI」を発売",
-    "hashtags": []
+    "title_ja": "天空がCore Ultra 5を搭載した10.51型2in1ノート「TENKU Note Pro AI」を発売",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "069eb5271c2bdc9b1dcb2360fe2228a5718f7622",
@@ -134,8 +166,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[ITmedia PC USER] 12インチ「Surface Pro」と13インチ「Surface Laptop」に個人向けの第2世代が登場　Snapdragon X2 Plus搭載でメモリは最大24GBに",
-    "hashtags": []
+    "title_ja": "12インチ「Surface Pro」と13インチ「Surface Laptop」に個人向けの第2世代が登場",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "03171f59c6692f590915aed4a6f9666684e5569e",
@@ -148,8 +181,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[ITmedia PC USER] Meta、第3世代「Ray-Ban Meta」を販売開始　“Aviator”デザインの限定モデルも",
-    "hashtags": []
+    "title_ja": "Meta、第3世代「Ray-Ban Meta」を販売開始 “Aviator”デザインの限定モデルも",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "f560b53465472955bd112a5a55f9c580b242e91f",
@@ -162,8 +196,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[ITmedia PC USER] QualcommのSnapdragon Xシリーズが「Googlebook」に進出　DellとHPから搭載モデルが登場",
-    "hashtags": []
+    "title_ja": "QualcommのSnapdragon Xシリーズが「Googlebook」に進出 DellとHPから搭載モデルが登場",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "ea3deaafd4cbbe092b6b910b198648ed4d6b8847",
@@ -176,8 +211,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[ITmedia PC USER] “AIスマホ”としての個性がより鮮明に　望遠カメラ刷新＆AI処理が飛躍した「Pixel 11 Pro」 の実力とベンチマーク結果を検証",
-    "hashtags": []
+    "title_ja": "“AIスマホ”としての個性がより鮮明に 望遠カメラ刷新＆AI処理が飛躍した「Pixel 11 Pro」の実力とベンチマーク結果を検証",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2e2009537804849f89e5f351c8a83bab29810f5e",
@@ -190,8 +226,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[ITmedia PC USER] BOOX、処理能力を向上した10.3型カラー電子ペーパー端末「NoteAir6C」",
-    "hashtags": []
+    "title_ja": "BOOX、処理能力を向上した10.3型カラー電子ペーパー端末「NoteAir6C」",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "36a88794aa617f7423d583541d76558d07e20d60",
@@ -204,8 +241,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[PC Watch] Ryzen AI Max+搭載でロマンいっぱいのUMPC「GPD WIN Max 3」、12月国内発売",
-    "hashtags": []
+    "title_ja": "Ryzen AI Max+搭載でロマンいっぱいのUMPC「GPD WIN Max 3」、12月国内発売",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "58ec686a52dc5e1cd81bcf15ba4f17895c6f59d6",
@@ -215,11 +253,18 @@
     "published": "2026-09-24T11:05:01+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
     "howto": false,
-    "title_ja": "[PC Watch] Googlebook、マウスカーソルを振るとGeminiが起動する「Magic Pointer」",
-    "hashtags": []
+    "title_ja": "Googlebook、マウスカーソルを振るとGeminiが起動する「Magic Pointer」",
+    "hashtags": [
+      "Gemini",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "47cdbbeb6253f59bb399e71eaad3e53ac7bbc559",
@@ -232,8 +277,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[PC Watch] マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る ～ローカルLLMの動作性能から文書解析まで、実力を実機で検証した[Sponsored]",
-    "hashtags": []
+    "title_ja": "マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "305b420d962e2cda16e1960078a2113fae4ea4c5",
@@ -246,8 +292,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[PC Watch] 新Surface Pro/Laptop第2世代とハプティックマウスを展示",
-    "hashtags": []
+    "title_ja": "新Surface Pro/Laptop第2世代とハプティックマウスを展示",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c277296edb66d0933eb459b22dcf425334606bdd",
@@ -260,8 +307,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[PC Watch] メモリ最大24GBに、第2世代Surface Pro 12/Laptop 13",
-    "hashtags": []
+    "title_ja": "メモリ最大24GBに、第2世代Surface Pro 12/Laptop 13",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "8e0e606e00a8c0c1293bdaa4f34516e75cfc5eb0",
@@ -271,11 +319,19 @@
     "published": "2026-09-23T11:11:32+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
     "howto": false,
-    "title_ja": "[PC Watch] 「GPT-6 Sol」「GPT-6 Luna」登場、API料金半額でリセット権も配布",
-    "hashtags": []
+    "title_ja": "「GPT-6 Sol」「GPT-6 Luna」登場、API料金半額でリセット権も配布",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI",
+      "API"
+    ],
+    "classified": true
   },
   {
     "id": "8a2742417fec2611f20ae61ec7c5826dd6f56422",
@@ -285,11 +341,19 @@
     "published": "2026-09-23T10:29:12+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
     "howto": false,
-    "title_ja": "[PC Watch] 「Claude Opus 5.5」登場、Fable 5.1並みで運用コスト40%減。リセット権も配布",
-    "hashtags": []
+    "title_ja": "「Claude Opus 5.5」登場、Fable 5.1並みで運用コスト40%減。リセット権も配布",
+    "hashtags": [
+      "Claude",
+      "Anthropic",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "57e5d7d3b0af18a30b013c8ebdb619e38e33a904",
@@ -299,11 +363,18 @@
     "published": "2026-09-22T18:50:21+09:00",
     "published_display": "2026/9/22 Tue",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
     "howto": false,
-    "title_ja": "[PC Watch] ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
-    "hashtags": []
+    "title_ja": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "classified": true
   },
   {
     "id": "5aa9525edc9d72a6ca20000ee1b5d59ac6edccde",
@@ -322,7 +393,8 @@
     "hashtags": [
       "Excel",
       "関数"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "6a3f040099ff68a5b02d43dec1b1293429a26ba1",
@@ -339,8 +411,10 @@
     "howto": true,
     "title_ja": "バックアップは再起動で止まる・計算モードは全ブックに効く・タイムスタンプは再計算で動く、地味にハマる3つの仕様",
     "hashtags": [
-      "Excel"
-    ]
+      "Excel",
+      "Office"
+    ],
+    "classified": true
   },
   {
     "id": "745bf26e71cc5426b22bb3fd36e886e08e1abb8e",
@@ -353,8 +427,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[Qiita（タグ: powerautomate）] アプリからフローを呼ぶ参照は、環境変数では吸収できない",
-    "hashtags": []
+    "title_ja": "アプリからフローを呼ぶ参照は、環境変数では吸収できない",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "e2d4446de7221040a8ce9fe86fd6bad1842afc94",
@@ -367,8 +442,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[Qiita（タグ: powerautomate）] 移行先の SharePoint との差は環境変数で吸収する",
-    "hashtags": []
+    "title_ja": "移行先の SharePoint との差は環境変数で吸収する",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2ad900528278a9ec6405f4254889084d8757afb2",
@@ -381,8 +457,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[Qiita（タグ: powerautomate）] ソリューションを1本にするか、2本に分けるか",
-    "hashtags": []
+    "title_ja": "ソリューションを1本にするか、2本に分けるか",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "24444b27672e4fd128b334b567ceb56351782ddd",
@@ -395,8 +472,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[Qiita（タグ: powerautomate）] フローとつながったアプリを別環境に移すなら、アプリのパッケージではなくソリューション",
-    "hashtags": []
+    "title_ja": "フローとつながったアプリを別環境に移すなら、アプリのパッケージではなくソリューション",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "9da8189f434ddfe09d59f27ce27685be754cd725",
@@ -409,8 +487,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] 4ヶ月以上使ったAIの感想 Gemini Microsoft Copilot ChatGPT Claude Grok Perplexity Rakuten AI",
-    "hashtags": []
+    "title_ja": "4ヶ月以上使ったAIの感想 Gemini Microsoft Copilot ChatGPT Claude Grok Perplexity Rakuten AI",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "4d0725c5683ccc2ad0e18cad0fdb69f76fdb22e5",
@@ -424,12 +503,14 @@
     "tags": [
       "ai"
     ],
-    "howto": true,
+    "howto": false,
     "title_ja": "AIの要約を読んで、読んだつもりになっていないか",
     "hashtags": [
-      "AI",
-      "ChatGPT"
-    ]
+      "ChatGPT",
+      "Copilot",
+      "AI活用"
+    ],
+    "classified": true
   },
   {
     "id": "5c5cfc0b0e94708b19bf6d98f904835055e0aaae",
@@ -443,12 +524,13 @@
     "tags": [
       "ai"
     ],
-    "howto": true,
+    "howto": false,
     "title_ja": "AIは「プロンプト」から「Skill」へ",
     "hashtags": [
       "AI",
       "プロンプト"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "299ab4939e60a6e57276cb298794b3a11a060e73",
@@ -461,8 +543,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] 📡リモートMCPサーバーを水平スケールさせる時の注意点✨共有ストレージが不要になった仕様変更の恩恵と、実装で見落としがちな落とし穴を具体的に洗い出しました🧱",
-    "hashtags": []
+    "title_ja": "📡リモートMCPサーバーを水平スケールさせる時の注意点✨共有ストレージが不要になった仕様変更の恩恵と、実装で見落としがちな落とし穴を具体的に洗い出しました🧱",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "813da90c1e91468baf9c65b58ee27408f841bd3a",
@@ -477,11 +560,13 @@
       "ai"
     ],
     "howto": true,
-    "title_ja": "【無料でAI】Gemini無料版でGoogleカレンダーとタスクを一元管理し、信頼されるビジネスパーソンのスケジュール管理力を身につける。声かけひとつで組み直す使い方を公開します",
+    "title_ja": "Gemini無料版でGoogleカレンダーとタスクを一元管理し、信頼されるビジネスパーソンのスケジュール管理力を身につける",
     "hashtags": [
       "Gemini",
-      "AI"
-    ]
+      "Googleカレンダー",
+      "AI活用"
+    ],
+    "classified": true
   },
   {
     "id": "5e3a494580985e46bfceb9685061694734cb4513",
@@ -494,8 +579,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] 🔒Claude Codeのフックでコミット前に✅自動テストと型チェックを強制した具体的な設定コードと運用して見えた注意点",
-    "hashtags": []
+    "title_ja": "🔒Claude Codeのフックでコミット前に✅自動テストと型チェックを強制した具体的な設定コードと運用して見えた注意点",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "3facfcef85930ad6e6cd1e5e3123dae6d2c70d9b",
@@ -508,8 +594,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] 新しい感情と、note",
-    "hashtags": []
+    "title_ja": "新しい感情と、note",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "8e754e525a3d25b4712c464f49961b158e532be8",
@@ -522,8 +609,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] ⚙️数十から数百のサブエージェントを自動編成する「dynamic workflows」の仕組みと、暴走させずに使いこなす具体的な設計のコツを解剖🧬",
-    "hashtags": []
+    "title_ja": "数十から数百のサブエージェントを自動編成する「dynamic workflows」の仕組みと、暴走させずに使いこなす具体的な設計のコツを解剖",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "3b7d5d66293944037b0f062e3b77557ddbe73a37",
@@ -536,8 +624,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] 🧱Agent Builderで作った自作ツールを外部に公開した際、利用規約でつまずいた具体的な箇所🌐修正を重ねてようやく通った申請フローの実際と、審査で見られたポイント📜",
-    "hashtags": []
+    "title_ja": "Agent Builderで作った自作ツールを外部に公開した際、利用規約でつまずいた具体的な箇所。修正を重ねてようやく通った申請フローの実際と、審査で見られたポイント",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "53dc1d7bc7ab38be0688fb7b1983c3d75def9e9d",
@@ -550,8 +639,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[note（ハッシュタグ: Copilot）] 今日の目に入ったAiニュースぅ2026.9.20",
-    "hashtags": []
+    "title_ja": "今日の目に入ったAiニュースぅ2026.9.20",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "7e0fa8c29746a13266352c9a56931e62aaeddc3b",
@@ -561,17 +651,12 @@
     "published": "2026-09-25T02:12:43+09:00",
     "published_display": "2026/9/25 Fri",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/317201436/rectangle_large_type_2_a2ba66e571417eb0763655a3eca0dbf4.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai",
-      "news"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "Gemini Live Avatarとは──顔の見えるAI受付の対象プランと、人が引き継ぐ線",
-    "hashtags": [
-      "Gemini",
-      "AI"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c5edde2b5f2232ba96cb5133240b49bbb3c40160",
@@ -585,7 +670,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "【Aniflow × KENERATE.AI】画像編集と動画生成",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "b22333bb9d00b7cf8ddfca7a90949029b0b6f7bd",
@@ -599,7 +685,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "AIの「性格」は、一枚の断面ではない――モデルごとの「ものの見方」を、推論深度と対話から考える",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "f75fa7839890577504bb13d63ea96e92867e34fe",
@@ -613,7 +700,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "AIで仕事の成果を出す会社員が選んだ本4冊の正直レビュー",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "0a205723f46de1a3d0e8925edfd3a220652a3de9",
@@ -633,7 +721,8 @@
       "Gemini",
       "プロンプト",
       "AI活用"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "6778ce50a4c73d5acd8b004615caa6cb47e42789",
@@ -653,7 +742,8 @@
       "ChatGPT",
       "プロンプト",
       "AI活用"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "54c8ec7b73d0c91537675472e6172314e00c6f7e",
@@ -673,7 +763,8 @@
       "Claude",
       "プロンプト",
       "AI活用"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "c0a5a761e84f077fda59715489fb1f972b02e176",
@@ -687,7 +778,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "この広告、AIでつくれます。｜写真1枚から始めるCodex広告画像教程・スタイル別プロンプト付き",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "02e417edfce4c039dfa7b533ab66a853a94da999",
@@ -701,7 +793,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "コードを一行も書かずに、2時間半で家計簿アプリができた話",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "ab760c87e9b58e5ccf1c02fba1d8fa8035f62979",
@@ -715,7 +808,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "医大生がChatGPTに1年半で聞いたこと、496件を全部数えてみた",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "d3446bbc51925d11e17139eb79f784e0abaa68b9",
@@ -729,7 +823,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "Excel業務をWeb化し、データを蓄積・活用する業務Platform Excelを入口に、業務データを会社の資産に。",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "78d2f2cdadd60388b934de539f8b42faa454ca33",
@@ -749,7 +844,8 @@
       "Excel",
       "Word",
       "差し込み印刷"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "5723e9f6522e702ef4445b73baf16edd5120c93f",
@@ -763,7 +859,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "せどりの在庫管理に必要な9項目｜Excelで在庫原価と要発注を確認",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "06210941140b8fe57deb0e44525c87228fbc3fbb",
@@ -775,8 +872,8 @@
     "thumbnail": "https://assets.st-note.com/production/uploads/images/317185113/rectangle_large_type_2_7b23976ad59452f614a69ae6082c2a91.png?width=800",
     "excluded": false,
     "tags": [
-      "office",
-      "ai"
+      "ai",
+      "office"
     ],
     "howto": true,
     "title_ja": "関数・エラー・式の解説・整理手順|ChatGPTで使えるExcel質問プロンプト",
@@ -784,7 +881,8 @@
       "Excel",
       "ChatGPT",
       "プロンプト"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "fff796b9fe90ada70afc540286cd9a217488d274",
@@ -798,7 +896,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "79ページPDF付き 表・CSV修復実践ハンドブック",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "63c54884c5117eab273a729d82081603c560e12c",
@@ -818,8 +917,9 @@
     "hashtags": [
       "Excel",
       "プロンプト",
-      "AI活用"
-    ]
+      "ChatGPT"
+    ],
+    "classified": true
   },
   {
     "id": "4606d6a49a9256e033bb6ac417f7f81ef2b07b30",
@@ -837,8 +937,9 @@
     "title_ja": "毎月同じExcel、また最初から作ってない？「ひな形」にしたら仕事がラクになった",
     "hashtags": [
       "Excel",
-      "OfficeTips"
-    ]
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "8dff1714534693fc2b3cffe6ec799ea212c69e5c",
@@ -856,8 +957,9 @@
     "title_ja": "文字化けしたCSVをExcelで上書き保存せず救う初動",
     "hashtags": [
       "Excel",
-      "トラブル対処"
-    ]
+      "トラブルシューティング"
+    ],
+    "classified": true
   },
   {
     "id": "dfc009b46aa713c15bcaff91faa06b243a362b17",
@@ -871,7 +973,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "【9月24日版】競艇データExcel — 展示4種・得点率・BI順位・3連単配当つき（23会場×10日・9,360艇）",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "a3724709cb37596c0b21ecabe430be26461a6b6c",
@@ -889,10 +992,11 @@
     "howto": true,
     "title_ja": "非エンジニアのための「Claudeに業務自動化を作ってもらう」手順書｜Excel・スプレッドシート・GASでそのまま使えるプロンプト12本",
     "hashtags": [
-      "Excel",
       "Claude",
-      "業務自動化"
-    ]
+      "Excel",
+      "プロンプト"
+    ],
+    "classified": true
   },
   {
     "id": "357e73154c413c7cb9446b0e32ffa073504e7113",
@@ -904,15 +1008,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "howto": false,
     "title_ja": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
     "hashtags": [
       "Gemini",
-      "AIニュース"
-    ]
+      "Google",
+      "ニュース"
+    ],
+    "classified": true
   },
   {
     "id": "74fe2b914980d0e3d70d74172839030119be765c",
@@ -924,16 +1029,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "howto": false,
     "title_ja": "「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張",
     "hashtags": [
       "Gemini",
       "Google",
-      "AIニュース"
-    ]
+      "ニュース"
+    ],
+    "classified": true
   },
   {
     "id": "e69d418a162f587e5373a9619ddcc1e5a47145d0",
@@ -943,17 +1048,12 @@
     "published": "2026-09-24T16:22:05+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "自治体、企業で進む「Google回帰」 事例で分かる「Gemini Notebook」の活用アイデア",
-    "hashtags": [
-      "Gemini",
-      "AI活用"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "7114a1c7bd43d71ff55b2f0d82e70108183870d6",
@@ -963,17 +1063,12 @@
     "published": "2026-09-24T11:45:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "NECが「AI自律型組織」を新設 「従業員はいらなくなる？」の問いに、CAXOはどう答えたか",
-    "hashtags": [
-      "AIエージェント",
-      "AIニュース"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "28106ed7272ae40f0a0245e46c3ce9d0fb285f76",
@@ -983,17 +1078,12 @@
     "published": "2026-09-24T11:45:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "AIの部下がAI？ 「AIオーケストレーション」って何だろう",
-    "hashtags": [
-      "AIエージェント",
-      "AIニュース"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "5f9bb141c9632e71ff2ee9bec5abbbb4e37cbef4",
@@ -1007,7 +1097,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "89fec2cb7b1c212484214886f4e182b7e19c63d2",
@@ -1019,15 +1110,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "howto": false,
     "title_ja": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
     "hashtags": [
       "Google",
-      "AIニュース"
-    ]
+      "Gemini",
+      "ニュース"
+    ],
+    "classified": true
   },
   {
     "id": "5bd3cefe70c426be365b03cf637ffe258161ab20",
@@ -1039,16 +1131,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "howto": false,
     "title_ja": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
     "hashtags": [
       "Claude",
-      "セキュリティ",
-      "AIニュース"
-    ]
+      "Anthropic",
+      "ニュース"
+    ],
+    "classified": true
   },
   {
     "id": "80d657592dc30b090aaf3df4feebcd374f5ae3f7",
@@ -1058,17 +1150,12 @@
     "published": "2026-09-24T08:00:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
-    "hashtags": [
-      "LLM",
-      "AIニュース"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c03a3f11dca141b4489a0fae4e52dbd5d32f2e4e",
@@ -1078,17 +1165,12 @@
     "published": "2026-09-24T08:00:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "AIを導入しても“組織的には使われない”のはなぜ？ 「個人利用」にとどまる理由と脱却策",
-    "hashtags": [
-      "AI活用",
-      "DX"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2fdda32250293c4d8f5d101c43ae4f903febb977",
@@ -1098,17 +1180,12 @@
     "published": "2026-09-24T07:00:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "初受注まで「1年→5カ月」に短縮 AIで実現する営業の育成改革とは？",
-    "hashtags": [
-      "AI活用",
-      "業務効率化"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "dbe9f4f4b59e06ca97c015623eb9d92159d643b5",
@@ -1118,18 +1195,12 @@
     "published": "2026-09-24T07:00:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "office",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "「Copilot案件」が急増、1年半で13倍に フリーランスに求められるニーズの変化",
-    "hashtags": [
-      "Copilot",
-      "Microsoft365"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "61aa4f00ad5dce6f99c935f3e9cc9c42a0f17d85",
@@ -1139,17 +1210,12 @@
     "published": "2026-09-24T16:10:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "office"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "M365があるのに、なぜGoogle？ 併用・乗り換えを決めた現場の理由",
-    "hashtags": [
-      "Microsoft365",
-      "GoogleWorkspace"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "47cff84477cb74ea51bc5253979dae3fec8a0470",
@@ -1159,16 +1225,12 @@
     "published": "2026-09-24T12:00:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "ライオンの「時短90％」内製化術 ABAPを読めない開発者がSAPデータをBigQueryで活用",
-    "hashtags": [
-      "業務効率化",
-      "データ活用"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "64d4b7d5e41f038e549b8a7b7f48f93c891fdd71",
@@ -1178,17 +1240,12 @@
     "published": "2026-09-21T07:00:00+09:00",
     "published_display": "2026/9/21 Mon",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "AIエージェント時代、ゼロトラストはどう変わる？ 「マシンスピード」で対抗するデータ管理とSOCの未来",
-    "hashtags": [
-      "AIエージェント",
-      "セキュリティ"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "83b96851146e7ce9d23503cc5afcec36612b1f90",
@@ -1202,7 +1259,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "34万台を監視して分かった「壊れないHDD」 2026年度上期ニュース記事トップ10",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c0e6548e00c35be335266042d4b35063abcf128c",
@@ -1212,17 +1270,12 @@
     "published": "2026-09-20T07:00:00+09:00",
     "published_display": "2026/9/20 Sun",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "開発者の道具から誰もが使うものへ AIエージェント普及の現在地",
-    "hashtags": [
-      "AIエージェント",
-      "AI活用"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "16636628b095480ff2ed46d956a9d6a28616944d",
@@ -1232,17 +1285,12 @@
     "published": "2026-09-19T07:00:00+09:00",
     "published_display": "2026/9/19 Sat",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "ChatGPTのMac向け新機能に「データ丸見え」のリスク？ セキュリティベンダーが指摘",
-    "hashtags": [
-      "ChatGPT",
-      "セキュリティ"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "3f74804874de4781e58ad969ea397cdeb36c4ee3",
@@ -1252,17 +1300,12 @@
     "published": "2026-09-18T08:00:00+09:00",
     "published_display": "2026/9/18 Fri",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "資生堂、AIエージェントで原料探索時間を95％削減 研究員の「目利き」を複数LLMで再現",
-    "hashtags": [
-      "AIエージェント",
-      "LLM"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2f3ffc0c9d451e8578ba023a84a274200688d343",
@@ -1274,7 +1317,6 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
       "windows"
     ],
     "howto": false,
@@ -1282,7 +1324,8 @@
     "hashtags": [
       "Windows11",
       "アップデート"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "e83419aa24bde2acbacc06d5c1ec88a0d751c8bf",
@@ -1292,17 +1335,12 @@
     "published": "2026-09-17T07:00:00+09:00",
     "published_display": "2026/9/17 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "AI時代のインフラ再設計 モデルとデータを統合制御する「コントロールプレーン」の条件",
-    "hashtags": [
-      "AIインフラ",
-      "データ管理"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "25da27ade7c27814d1fa2c3d16a06d68508883cb",
@@ -1316,7 +1354,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "AI予算を食い潰す新手のサイバー攻撃が増える？ Gartnerが2030年までに起こる10の予測を発表",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "b26a2dea09cbf1670f9f6aeeba795da8cbd37acc",
@@ -1330,7 +1369,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "87e2bc624dff2823792d993e1cb722aee978e392",
@@ -1344,7 +1384,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "社長を装った詐欺メール、3日で100万通に 経理をだます「三重の偽装」",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "bbe776b08f7cebceebe409bd84ce5aa7eb7e6912",
@@ -1358,7 +1399,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "自社ノウハウをどうSaaSに落とし込む？ 富士フイルムBIが実践する、汎用モデルと独自AIの並行活用",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "8cc171737ccb75b83453f453fd47c7f286af8222",
@@ -1372,7 +1414,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "週刊アスキー特別編集 週アス2026October",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "766be0b6da36e2a97c5c76512eeaf761e9e8b791",
@@ -1386,7 +1429,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "PCゲームをパッドで遊びたい人に。PC・Xinput対応ホリパッドが22％オフの3000円！",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "b95676786951f721c210e7f82c0b4c81b953e203",
@@ -1400,7 +1444,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "AMD、エージェント型AI時代における「EPYC」の優位性を解説したホワイトペーパーとブログ記事を公開",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "eefec466f1604f843873abac0621c36b278f69cc",
@@ -1414,7 +1459,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "深煎りブラックを箱買いだ！ 「スターバックス ブラック無糖」24本が480円オフ",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "93a54fa80ed9420ae96dc254dae3ba95e60c890d",
@@ -1428,7 +1474,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "高還元クレカルート 2026秋 最低でも2.0%だ - FIRE: 投資でセミリタイアする九条日記",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "064b10a1b2b025745d82d9ab00b7ae8cd0690c81",
@@ -1442,7 +1489,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "来月90歳のスティーヴ・ライヒ「世の中のほとんどの音楽はよくない」 | office yamane",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "0cbcb2fc3a7bf149346e3ac3becee549c6dca602",
@@ -1460,10 +1508,10 @@
     "howto": false,
     "title_ja": "AI の未来を形づくる 2 つの独自モデル",
     "hashtags": [
-      "AI",
       "Microsoft",
-      "OpenAI"
-    ]
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "75e1e1493bbab0b3c638b34b622ceffa07aba658",
@@ -1481,10 +1529,10 @@
     "howto": false,
     "title_ja": "大阪府とマイクロソフト、AI エージェント活用で府民サービスの質向上へ",
     "hashtags": [
-      "AI",
-      "Copilot",
-      "Microsoft"
-    ]
+      "Microsoft",
+      "AIエージェント"
+    ],
+    "classified": true
   },
   {
     "id": "66173c1e122f7da0afa8d5b8206cbfc6073c5a9c",
@@ -1498,7 +1546,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "量子安全なセキュリティ : 次世代暗号技術の進展に向けて",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "cc4b4fe37cfd641af0d5b59f2bcf017cafe87efe",
@@ -1516,10 +1565,11 @@
     "howto": false,
     "title_ja": "マイクロソフト、OpenAI の GPT-5 を一般ユーザー、開発者、エンタープライズ向け製品に統合",
     "hashtags": [
-      "AI",
-      "ChatGPT",
+      "OpenAI",
+      "GPT5",
       "Microsoft"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "dc2f337b8acf1802cec138bce7854e35a26f47e4",
@@ -1533,7 +1583,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "Microsoft Elevate : 人を中心に据えて",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "e672f6d8107a5b6ee08ea6e3b7309f437b0486ed",
@@ -1546,15 +1597,16 @@
     "excluded": false,
     "tags": [
       "news",
+      "ai",
       "windows"
     ],
-    "howto": true,
+    "howto": false,
     "title_ja": "Edge の Copilot Mode のご紹介：新しいウェブ閲覧体験",
     "hashtags": [
       "Edge",
-      "Copilot",
-      "Windows11"
-    ]
+      "Copilot"
+    ],
+    "classified": true
   },
   {
     "id": "25919f1c7d4bf514cec532051d657ce389fae00b",
@@ -1568,7 +1620,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "Microsoft Sentinel data lake : シグナルの統合、コスト削減、エージェンティック AI を強化する",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "6564843d90eebc0e67832f28ca92e7fe651452c9",
@@ -1587,9 +1640,10 @@
     "title_ja": "Windows 10 のサポート終了前に、Windows 11、Copilot+ PC、Windows 365 でセキュリティを確保しましょう",
     "hashtags": [
       "Windows11",
-      "CopilotPlusPC",
-      "Windows365"
-    ]
+      "Windows10",
+      "CopilotPlusPC"
+    ],
+    "classified": true
   },
   {
     "id": "e39d7d1e9737d7c897bea62329ede7e7d7941434",
@@ -1603,7 +1657,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "2025 年版「責任ある AI の透明性レポート」: 成長を促すシステム構築とお客様への支援",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "d991d253e93ec6e8a17253d4b3b4d16b3e56ebe5",
@@ -1617,7 +1672,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "国境を越えた連携: 国際的な法執行機関らとマイクロソフト、高齢者を狙った国際詐欺ネットワークを摘発",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "83975f5201c1194286c6a6145e939bab976888ed",
@@ -1631,7 +1687,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "第6回：全社に増えたエージェント、その座席表は誰が更新するのか",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "079376fe8287d3f8bf09e98117282d90f8f21a9d",
@@ -1645,7 +1702,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "東京大学×クアルコム×マイクロソフトが開催「AI プログラミングハッカソン」",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "56e4b040a24c56e84bc5be99e4618cf5636e147e",
@@ -1658,16 +1716,17 @@
     "excluded": false,
     "tags": [
       "news",
-      "office",
-      "ai"
+      "ai",
+      "office"
     ],
     "howto": false,
     "title_ja": "Microsoft 365 Copilot の新機能 | 2026 年 7 月",
     "hashtags": [
-      "Microsoft365",
+      "Microsoft365Copilot",
       "Copilot",
-      "Excel"
-    ]
+      "Office"
+    ],
+    "classified": true
   },
   {
     "id": "18fea59bc939d57e5383c2f2ba05c1fa654ef372",
@@ -1681,7 +1740,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "Microsoft Azure Virtual Desktop Hybrid の一般提供を開始",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "626e408da0dd13f011e7ffa70ab073e26fef6fb2",
@@ -1695,7 +1755,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "第5回：夜勤室の引き出しに、白紙のノートを置く――運用・監視の座席表と、“育つ”エージェント",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "910b3524a0514dc77ee279da68277e17b479c1cf",
@@ -1709,7 +1770,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "5 周年を迎えたWindows 365：柔軟性と信頼性に優れたワークスペースを実現するクラウドPC",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "ae33aaa89f080da7fca254875659ef0adec68bba",
@@ -1723,7 +1785,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "【法人・教育機関向け】 Surface 夏のキャンペーン：在庫限り・期間限定",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "425404b36a3335b3e0f9564f71cbea8e4e05dbd7",
@@ -1737,10 +1800,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "教育現場で AI 活用を進めるトップランナー教員座談会 〜教育の現場で、AI が変えることと変えないこと〜",
-    "hashtags": [
-      "AI",
-      "Microsoft"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c4286db870a4ec7221c070227d938e685dd6dc83",
@@ -1754,7 +1815,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "第4回：コンタクトセンターに“座席表”を置いてみる――Windows 365 Link と Windows 365 for Agents",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "576e2212352824417b7533a6370fc4c44a7f4b3f",
@@ -1768,7 +1830,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "第3回：あなたのチームに、エージェントは何体必要か――“人とエージェントの比率”の考え方",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "d9d19d9a517b577852cd8de1345cc300d9a83287",
@@ -1782,7 +1845,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "【西川善司のグラフィックスMANIAC】DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "e64aef56cda0acc7953b6d84e0253d5116f7e71a",
@@ -1796,7 +1860,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "AIを使いこなせてる？——その問いが間違っている件",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "82038594316b0e590c2bc3e7a0dddeb0b557c191",
@@ -1813,10 +1878,11 @@
     "howto": true,
     "title_ja": "頭の中がごちゃごちゃな人へ。AIに「順番の整理」を任せる5ステップの指示書",
     "hashtags": [
-      "ChatGPT",
+      "AI",
       "プロンプト",
-      "AI活用"
-    ]
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "e4099d5c4776c7aa7e4cbdc20a9a67d0488e2643",
@@ -1833,10 +1899,11 @@
     "howto": true,
     "title_ja": "AIに「直して」と頼んでも進まないときの修正依頼8本｜コピペ用シート付き",
     "hashtags": [
-      "ChatGPT",
+      "AI",
       "プロンプト",
-      "AI活用"
-    ]
+      "ChatGPT"
+    ],
+    "classified": true
   },
   {
     "id": "508c33787ed1e93a1efd516e886546893ff86aaa",
@@ -1850,7 +1917,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "『路地裏の喫茶店』マスターGeminiのGoogle教室（第十話）",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "a160c3915bdc2c8c1cd1fe9f6a30496e36cf2c80",
@@ -1864,7 +1932,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "【AIイラストの考え方】光を動かしてと頼んだのに、影だけ動きました｜シャドーアート",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "1e6fb00e7b5d77223b7b4161a664873f330be330",
@@ -1876,16 +1945,16 @@
     "thumbnail": "https://assets.st-note.com/production/uploads/images/317217232/rectangle_large_type_2_39ebe5706a39f6f6c76bd8d95a89c9aa.jpeg?width=800",
     "excluded": false,
     "tags": [
-      "ai",
-      "office"
+      "ai"
     ],
     "howto": true,
     "title_ja": "請求書照合をAI任せにしない｜Gemini Notebookで試す3段階チェック",
     "hashtags": [
       "Gemini",
-      "AI活用",
-      "Excel"
-    ]
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "7eaa035f66373d7fdedd9e2ee47c47e02b5e98c0",
@@ -1899,7 +1968,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "Amazon商品の紹介記事を自動作成！おすすめプロンプト2選",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "b7be4d8554c847053709ceede0e95bf7ef3cd24b",
@@ -1913,7 +1983,8 @@
     "tags": [],
     "howto": false,
     "title_ja": "毎日ChatGPTを使う僕が、新しいチャットへ移る前にしていること。",
-    "hashtags": []
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "f7aadaeb54064df9f1e6e00462341af30b46168f",
@@ -1923,17 +1994,12 @@
     "published": "2026-09-25T04:04:18+09:00",
     "published_display": "2026/9/25 Fri",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/317210273/rectangle_large_type_2_d53713b6d3edfc3d293b61b7d8813e5a.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
     "title_ja": "商品登録を短縮するAI出品レシピ【BASE・Shopify・minne】",
-    "hashtags": [
-      "ChatGPT",
-      "プロンプト",
-      "AI活用"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "e588aadb8d1c9dce3a1d02cbef590182cbc7dbeb",
@@ -1942,7 +2008,13 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-09-25T04:03:25+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317208762/rectangle_large_type_2_2839bd46514811bd5b0bddafe780933e.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317208762/rectangle_large_type_2_2839bd46514811bd5b0bddafe780933e.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【有料版】AIイラスト初級ガイド完全版〜「初めての1枚」から「月100枚の量産環境」まで〜【2026秋】",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "1da3ff19c36e4352e3dba76b1ebdfd94a34a4249",
@@ -1951,7 +2023,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-09-25T06:03:26+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317220860/rectangle_large_type_2_78ef06ca0a5213a89aefe0dfde9b1a27.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317220860/rectangle_large_type_2_78ef06ca0a5213a89aefe0dfde9b1a27.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "AIで「仕入明細」から得意先ごとの「買掛明細」を30分で作ってみよう_DX010",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "経理"
+    ],
+    "classified": true
   },
   {
     "id": "8450fb9b22a3db7e623ff76690a872738d7c8ad3",
@@ -1960,7 +2044,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-09-25T06:02:02+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "EC自動化の本番前チェックリスト｜CSV・価格・在庫の事故を防ぐ7項目",
+    "hashtags": [
+      "Excel",
+      "CSV",
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "a545d3c7c17f89da7920eb0a3115dcb230e9ee74",
@@ -1969,7 +2065,13 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-09-25T05:26:11+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/314175863/rectangle_large_type_2_580692446205b5b450bd39163dc2d513.jpeg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314175863/rectangle_large_type_2_580692446205b5b450bd39163dc2d513.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "VBA ユーザーフォームで住所録⑤ ～郵便番号入力→都道府県・市区町村・町域反映～",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "377cdd4a7ab1b9e95c007f77353e8706ffef621a",
@@ -1978,7 +2080,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-09-25T05:00:19+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316512647/rectangle_large_type_2_dde8bf35d0487c5dc023758b5c6cf310.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316512647/rectangle_large_type_2_dde8bf35d0487c5dc023758b5c6cf310.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Power Query職人 vs AIエージェント、71対69で職人がついに初勝利。決め手は「毎月5秒」だった",
+    "hashtags": [
+      "Excel",
+      "PowerQuery",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "a99ccdf82e88d9a5d7116af4380fd14f9f42de02",
@@ -1987,7 +2101,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-09-25T03:04:21+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317206328/rectangle_large_type_2_7c19a44605ce492f02ab52506fdcf4a7.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317206328/rectangle_large_type_2_7c19a44605ce492f02ab52506fdcf4a7.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ネット販売の売上だけでは見えない残額｜送料・手数料・原価を1件ずつ記録する",
+    "hashtags": [
+      "Excel",
+      "経理",
+      "テンプレート"
+    ],
+    "classified": true
   },
   {
     "id": "7bd56a9831b5802ac4d82300454539d54064b32b",
@@ -1996,7 +2122,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-09-25T02:46:42+09:00",
     "published_display": "2026/9/25 Fri",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317204821/rectangle_large_type_2_b0ffefe59467e97a30d164346d9f84b3.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317204821/rectangle_large_type_2_b0ffefe59467e97a30d164346d9f84b3.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ネットショップの売上記録を1行から始める｜無料Excelの入力例",
+    "hashtags": [
+      "Excel",
+      "テンプレート",
+      "初心者"
+    ],
+    "classified": true
   },
   {
     "id": "a0e8e8d6f6d69f71741d0c451bfff6dd6cdb771d",
@@ -2005,7 +2143,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-09-23T16:53:12+09:00",
     "published_display": "2026/9/23 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Colabo公金チューチュー問題とは何だったのか（追記あり）AIといっしょに、言葉の魔法で全人になろう",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "10b218ceaf5b9fcbd4851bc67cc0bc599ad2513d",
@@ -2018,8 +2162,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "[PC Watch] 【笠原一輝のユビキタス情報局】タスクバーはほぼWindows、Googlebookの実機を使ってみた",
-    "hashtags": []
+    "title_ja": "【笠原一輝のユビキタス情報局】タスクバーはほぼWindows、Googlebookの実機を使ってみた",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "5a54f9fc1a083dfb9c56fa28f86979eb7dce9b00",
@@ -2029,16 +2174,111 @@
     "published": "2026-09-24T22:05:41+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f836b2e628fd13c2b2f5915f0273424a13197246",
+    "title": "ChatGPTに「AI実験室の管理人への愚痴」を書かせてみた",
+    "url": "https://note.com/ai_pc_lab_001/n/nd61e2f22ccb3",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T06:28:00+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317216873/rectangle_large_type_2_ff6abf24e2f21ce0c44a30fdf37790d7.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ChatGPTに「AI実験室の管理人への愚痴」を書かせてみた",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "191e251c5b2d71d6e256f5dc04b0fe39d0906a77",
+    "title": "【推し活と日常】AIに「私をイメージした5曲」を依頼してみた。",
+    "url": "https://note.com/kei_620/n/nea203278547d",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T06:25:31+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/313959253/rectangle_large_type_2_d0f4f9f2cb049dd002fda7e1647f0301.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【推し活と日常】AIに「私をイメージした5曲」を依頼してみた。",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "11887909455a20d96de1c6ae8f4d6b83510998fc",
+    "title": "【Grok Imagine2.0】拘束具を使いながら、主観視点正常〇",
+    "url": "https://note.com/super_frog9787/n/n52d08a8939f6",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T06:21:39+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317151975/rectangle_large_type_2_14b6d0b01a7fbffb9fed3293daca5c41.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【Grok Imagine2.0】拘束具を使いながら、主観視点正常〇",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2c62de0eaa0c807faf3d6389928750a42251927e",
+    "title": "AIにどこまで説明すればいい？「答えを変える情報」だけ渡す考え方",
+    "url": "https://note.com/noralab717/n/n85cc612924b8",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T06:16:44+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317223562/rectangle_large_type_2_c36ffcadde7279e59a3b8812da411a80.png?width=800",
     "excluded": false,
     "tags": [
       "ai"
     ],
     "howto": true,
-    "title_ja": "AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った",
+    "title_ja": "AIにどこまで説明すればいい？「答えを変える情報」だけ渡す考え方",
     "hashtags": [
-      "AI",
-      "プロンプト",
-      "ChatGPT"
-    ]
+      "ChatGPT",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "48005e35f2fec86eb58de70b3a05f49d4dd69d86",
+    "title": "品質管理 基礎講座(3)Excelでデータ活用",
+    "url": "https://note.com/puradonaracchi/n/na3355033c352",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T06:16:29+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "品質管理 基礎講座(3)Excelでデータ活用",
+    "hashtags": [
+      "Excel",
+      "データ分析"
+    ],
+    "classified": true
+  },
+  {
+    "id": "14c6c8e23b256a8ca377dd3be576b3a8df68c298",
+    "title": "エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義",
+    "url": "https://fasttube.cc/ja/v/vDjW_dRyKXY",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-24T22:19:21+09:00",
+    "published_display": "2026/9/24 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義",
+    "hashtags": [],
+    "classified": true
   }
 ]

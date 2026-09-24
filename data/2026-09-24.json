@@ -7,16 +7,12 @@
     "published": "2026-09-23T21:01:10+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "llm",
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "GitHub Copilotの使えるコマンド20選",
-    "hashtags": [
-      "GitHubCopilot",
-      "コマンド",
-      "プロンプト"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "c29d9226ae8e6c4ad9294d5cef0d8410b2f2a719",
@@ -26,16 +22,12 @@
     "published": "2026-09-23T20:52:32+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "llm",
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "【SE必見】仕様書・設計書のたたき台をCopilotに作らせる方法まとめ3選",
-    "hashtags": [
-      "Copilot",
-      "仕様書",
-      "設計書"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "0a93c87805d4af19d5bdb8235c2d414fb7f71b57",
@@ -45,16 +37,12 @@
     "published": "2026-09-23T20:43:58+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "llm",
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "Copilotを設計レビューの壁打ち相手にする方法とおすすめのやり方5選",
-    "hashtags": [
-      "Copilot",
-      "設計レビュー",
-      "壁打ち"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "e3251f19c6dde3bc66c744e1f0c32e74d1022d16",
@@ -65,15 +53,17 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
     "tags": [
-      "office_tips",
-      "domestic"
+      "office"
     ],
     "title_ja": "やりたい集計を言葉で伝えて、表計算の数式をAIに作らせる",
     "hashtags": [
       "Excel",
-      "表計算",
-      "AI"
-    ]
+      "AI",
+      "関数"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "b377e7f00d97b2a7fa28e434cb2eee1576e2cdfd",
@@ -83,15 +73,12 @@
     "published": "2026-09-23T20:10:05+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "office_tips"
-    ],
+    "tags": [],
     "title_ja": "Excel LAMBDA：動的配列関数は最小いくつの部品で作れるか —— TAKE / DROP / CHOOSEROWS / CHOOSECOLS",
-    "hashtags": [
-      "Excel",
-      "LAMBDA",
-      "関数"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "f1f9fd798c107c2ff0d3bb355b102fef4d6fdfec",
@@ -101,17 +88,12 @@
     "published": "2026-09-23T20:47:01+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "llm",
-      "office_tips",
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "Copilot Studio に必要なプロンプトを業務内容の入力だけで自動生成する",
-    "hashtags": [
-      "CopilotStudio",
-      "プロンプト",
-      "自動生成"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "7d4641e2089736c88cc87bf41faa629343922deb",
@@ -121,17 +103,12 @@
     "published": "2026-09-14T21:18:30+09:00",
     "published_display": "2026/9/14 Mon",
     "thumbnail": null,
-    "tags": [
-      "llm",
-      "office_tips",
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "Copilot Studio 入門 — 2026年8月GA対応版",
-    "hashtags": [
-      "CopilotStudio",
-      "GA対応",
-      "入門"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "d5c2801f111aa7de2c569f5753406ce030e432d4",
@@ -142,15 +119,17 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316876068/rectangle_large_type_2_a7a161d3a257ce0170fc6711ebd8b8a4.png?width=800",
     "tags": [
-      "llm",
-      "domestic"
+      "news"
     ],
-    "title_ja": "【AIニュース9/23】｜GPT-6 Sol/Luna登場、Copilot・Claude Codeが企業向けの管理・安全機能を一斉強化",
+    "title_ja": "【AIニュース9/23】GPT-6 Sol/Luna登場、Copilot・Claude Codeが企業向けの管理・安全機能を一斉強化",
     "hashtags": [
-      "GPT6",
       "Copilot",
-      "ClaudeCode"
-    ]
+      "AIニュース",
+      "セキュリティ"
+    ],
+    "excluded": false,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "31e8594f1b715038cdf6f8bc65e5c911d0c9b8c6",
@@ -161,15 +140,17 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316586470/rectangle_large_type_2_15bcb5f59b7ce3a5fda92fb73f746ff8.jpeg?width=800",
     "tags": [
-      "office_tips",
-      "domestic"
+      "windows"
     ],
-    "title_ja": "【2026年9月最新】Windows 11】大型プレビュー更新「KB5124010」登場！Copilotキー機能変更/便利機能まとめ【適用すべき？】",
+    "title_ja": "【2026年9月最新】Windows 11 大型プレビュー更新「KB5124010」登場！Copilotキー機能変更/便利機能まとめ【適用すべき？】",
     "hashtags": [
       "Windows11",
-      "Copilotキー",
+      "Copilot",
       "アップデート"
-    ]
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "004cc4e6d60e497dfe2fef6c195237599e486b02",
@@ -180,16 +161,18 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316860013/rectangle_large_type_2_575b98e88eaac875f2e186fa833ec1a7.png?width=800",
     "tags": [
-      "llm",
-      "office_tips",
-      "domestic"
+      "ai",
+      "office"
     ],
     "title_ja": "CopilotでClaude Opus 5.5・GPT-6 Solが選べない時──確認手順とWord・Excel・PowerPointの使い分け",
     "hashtags": [
       "Copilot",
-      "Claude",
-      "GPT6"
-    ]
+      "Word",
+      "Excel"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "3f5ee523480b7b35d2d70076da5c4a825077d2d3",
@@ -200,14 +183,17 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316609008/rectangle_large_type_2_c675e83604bbd897a81fb34960a3a0a9.png?width=800",
     "tags": [
-      "domestic"
+      "ai"
     ],
     "title_ja": "設計開発の仕事で生成AIをどう使っているか｜グラフ、自動化、資料づくりの変化",
     "hashtags": [
       "生成AI",
-      "設計開発",
-      "業務自動化"
-    ]
+      "業務効率化",
+      "PowerPoint"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "fbb1c179169fda2c6fdf58f9fce3782f07d670ec",
@@ -218,15 +204,17 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
     "tags": [
-      "llm",
-      "domestic"
+      "ai"
     ],
     "title_ja": "【noteデビュー】AIツールざっくり比較 | Copilot・Gemini・Perplexityの使い分け",
     "hashtags": [
       "Copilot",
       "Gemini",
-      "Perplexity"
-    ]
+      "AIツール"
+    ],
+    "excluded": false,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "e82e1d019a7adf6839f3ab8b8c5add4590fdb829",
@@ -236,15 +224,12 @@
     "published": "2026-09-24T00:00:44+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316752705/rectangle_large_type_2_ce09f75e27dd969545c957a94e3d0cf6.jpeg?width=800",
-    "tags": [
-      "domestic"
-    ],
-    "title_ja": "AI協業小説エッセイ：「黒猫太郎ものがたり」猫妖怪館　絵画付き簡易版③　　ー音のない部屋－",
-    "hashtags": [
-      "AI小説",
-      "エッセイ",
-      "AIイラスト"
-    ]
+    "tags": [],
+    "title_ja": "AI協業小説エッセイ：「黒猫太郎ものがたり」猫妖怪館 絵画付き簡易版③ ー音のない部屋－",
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "32e287ddc3bce8562438b325fce0d7195fe5cdeb",
@@ -255,15 +240,17 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316812553/rectangle_large_type_2_9a1cfafe77534fd2414e142298b183c5.png?width=800",
     "tags": [
-      "llm",
-      "domestic"
+      "news"
     ],
     "title_ja": "Copilotの「GPT 5.6 Think Deeper」はSol・Terra・Lunaのどれ？ 公開情報を調べてみた",
     "hashtags": [
       "Copilot",
-      "GPT56",
-      "LLM"
-    ]
+      "OpenAI",
+      "AIニュース"
+    ],
+    "excluded": false,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "aaf57ddc7329f80ed7e028cbbf87b8dc82a97f50",
@@ -273,14 +260,12 @@
     "published": "2026-09-23T22:10:10+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "9月23日",
-    "hashtags": [
-      "日記",
-      "雑記"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "d625851bc2bf1ecb0ae532cff7c076018cc792d1",
@@ -290,15 +275,12 @@
     "published": "2026-09-23T21:56:03+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316788234/rectangle_large_type_2_127568e48c5e857219090d21e0fc7f66.png?width=800",
-    "tags": [
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "AIでシステムは作れた。でも1件も売れなかった。",
-    "hashtags": [
-      "生成AI",
-      "個人開発",
-      "システム開発"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "47bf2883f38b5024839b01a471afdd6cc9c1cf96",
@@ -308,14 +290,12 @@
     "published": "2026-09-23T21:08:41+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316767632/rectangle_large_type_2_62d586a236d317f8bbc1e9d625da1eed.jpeg?width=800",
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "朔夜のPC紹介｜静かで落ち着いた作業環境を支える自作PC（2026年版）",
-    "hashtags": [
-      "自作PC",
-      "作業環境"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "ea03d0d29216b0025ec35a686622b2f9271a376b",
@@ -326,15 +306,17 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316752572/rectangle_large_type_2_fa06479a2c1c31092f8fd50da2f3bd07.png?width=800",
     "tags": [
-      "llm",
-      "domestic"
+      "ai"
     ],
     "title_ja": "Copilotで集めて、別のAIで組み直す",
     "hashtags": [
       "Copilot",
       "生成AI",
-      "活用法"
-    ]
+      "プロンプト"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "3e1cdf100ebcac3ea77af39bd20069ae618f2a30",
@@ -344,14 +326,12 @@
     "published": "2026-09-23T20:29:07+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/300330978/rectangle_large_type_2_3a010036b15dc75849bc9cb84b470db5.jpeg?width=800",
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "ふわもこレトロ ｜ ダンス",
-    "hashtags": [
-      "AIイラスト",
-      "画像生成AI"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "2951418c9f305cdcae62282a37627c7583206aed",
@@ -362,16 +342,18 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316252751/rectangle_large_type_2_80fed9d9c49dfd9b5850fa2f7658a2b1.png?width=800",
     "tags": [
-      "llm",
-      "office_tips",
-      "domestic"
+      "ai",
+      "office"
     ],
     "title_ja": "社内メールなのに丁寧すぎる…｜Copilotへの指示を変えたら手直しが不要になった",
     "hashtags": [
       "Copilot",
-      "プロンプト",
-      "メール作成"
-    ]
+      "Outlook",
+      "プロンプト"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "21467450f00cbad7bc6982e857d914ab3fbf3cdb",
@@ -382,16 +364,17 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316750438/rectangle_large_type_2_717e927fbcdd4222a3c26d035a52222c.png?width=800",
     "tags": [
-      "official",
-      "llm",
-      "domestic"
+      "news"
     ],
     "title_ja": "MicrosoftもAI値引きへ――Copilotは「普及」から「収益性」の勝負へ",
     "hashtags": [
       "Microsoft",
       "Copilot",
-      "AIビジネス"
-    ]
+      "ビジネス"
+    ],
+    "excluded": false,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "9a0d74b3cce65c842268fe25f570fd139f2bc228",
@@ -401,14 +384,12 @@
     "published": "2026-09-23T20:17:21+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316743806/rectangle_large_type_2_df16bfdb2227af30b048412dd3249a47.png?width=800",
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "弱点、優先度つけて出せてますか",
-    "hashtags": [
-      "タスク管理",
-      "自己改善"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "fb1647f852bad43d49f1b2c64d2686f562b0cd8f",
@@ -418,14 +399,12 @@
     "published": "2026-09-24T06:11:21+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316310092/rectangle_large_type_2_9c4d676e831e2c83df38a21f515bdd43.png?width=800",
-    "tags": [
-      "other"
-    ],
-    "title_ja": "UTAKOさん、いつもありがとにゃー🐾　そして800人おめでとー🎉🎉🎉",
-    "hashtags": [
-      "note",
-      "感謝"
-    ]
+    "tags": [],
+    "title_ja": "UTAKOさん、いつもありがとにゃー🐾 そして800人おめでとー",
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "4ae6d20efc1bbf0e2faf0b53b27223555da47151",
@@ -435,15 +414,12 @@
     "published": "2026-09-24T06:07:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316877347/rectangle_large_type_2_c95436c2ddd3d9a2b1b368e3f07bbe0e.png?width=800",
-    "tags": [
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "同じプロンプトで3枚生成したら、3枚目だけ別人だった。画像生成AIでキャラの一貫性を保つコツ",
-    "hashtags": [
-      "画像生成AI",
-      "プロンプト",
-      "キャラクター"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "8d01e34308f6c52077ca44662f411397e932222d",
@@ -453,14 +429,12 @@
     "published": "2026-09-24T06:02:37+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316852587/rectangle_large_type_2_340e1a11473d7ae4cd88c47eec275033.png?width=800",
-    "tags": [
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "トトさんの「柱カード」プロンプトで遊ばせていただきました！｜ICC所長への制裁解除を求める署名記事",
-    "hashtags": [
-      "プロンプト",
-      "生成AI"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "0421909ca97c80ec604530f474ea4f372118be0c",
@@ -470,14 +444,12 @@
     "published": "2026-09-24T05:54:10+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/314154343/rectangle_large_type_2_2b46092b86064d8c9b33ac52399f57c7.png?width=800",
-    "tags": [
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "【AIイラストの考え方】模様は壁で止まると思っていました｜投影光",
-    "hashtags": [
-      "AIイラスト",
-      "画像生成AI"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "88285e114d3ded415ed99f810676d13e4481a0c6",
