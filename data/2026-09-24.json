@@ -599,14 +599,16 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
     "tags": [
-      "other"
+      "office"
     ],
     "title_ja": "議事録はきれいなのに仕事が進まない。「決定」と「提案」を混ぜない記録術",
     "hashtags": [
-      "議事録",
       "仕事術",
-      "業務効率化"
-    ]
+      "議事録"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "648930c3172cd6c8484cf154af3117532569f4c3",
@@ -616,15 +618,12 @@
     "published": "2026-09-24T05:30:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "依頼メールの返事が来ない。「丁寧さ」より先に確かめたい、相手の作業量",
-    "hashtags": [
-      "メール術",
-      "コミュニケーション",
-      "仕事術"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "3b35c6113e0e4dd6a01c8ce0e16a0aadef8a4dd4",
@@ -634,15 +633,12 @@
     "published": "2026-09-24T05:30:00+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "朝のタスク整理で止まる人へ。「全部やる」をやめる前に決めたい三つの欄",
-    "hashtags": [
-      "タスク管理",
-      "時間管理",
-      "仕事術"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "b4bfd3f238eacc2ff750c52b8813a7803cf4e1aa",
@@ -653,15 +649,17 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/312190533/rectangle_large_type_2_19d72ee0c0cef5972221b925035f2e08.jpeg?width=800",
     "tags": [
-      "llm",
-      "domestic"
+      "ai"
     ],
     "title_ja": "ChatGPTと作る｜画像生成プロンプト10選",
     "hashtags": [
       "ChatGPT",
-      "画像生成AI",
-      "プロンプト"
-    ]
+      "プロンプト",
+      "画像生成"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "8452443e8ccc65b4e2a23c979abaf945793c2486",
@@ -671,15 +669,12 @@
     "published": "2026-09-24T05:17:32+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "tags": [
-      "domestic"
-    ],
+    "tags": [],
     "title_ja": "BASIC世代のためのAIプロンプト入門",
-    "hashtags": [
-      "AIプロンプト",
-      "生成AI",
-      "プログラミング"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "d08b0c81772958bb4288eb4384b4b4aca57478cb",
@@ -690,14 +685,16 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/314170640/rectangle_large_type_2_8f1b1c653c56e6f2c8bfc8ac447c9d2b.jpeg?width=800",
     "tags": [
-      "office_tips"
+      "office"
     ],
-    "title_ja": "VBA ユーザーフォームで住所録④　～別フォームから都道府県→市区町村→町域～",
+    "title_ja": "VBA ユーザーフォームで住所録④ ～別フォームから都道府県→市区町村→町域～",
     "hashtags": [
       "Excel",
-      "VBA",
-      "ユーザーフォーム"
-    ]
+      "VBA"
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "2262f33ba43951df01429bc31db7c7bc2e7614d5",
@@ -708,16 +705,18 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
     "tags": [
-      "llm",
-      "office_tips",
-      "domestic"
+      "ai",
+      "office"
     ],
     "title_ja": "Excelが苦手でもChatGPTを使える｜関数より「やりたいこと」を伝える",
     "hashtags": [
       "Excel",
       "ChatGPT",
       "プロンプト"
-    ]
+    ],
+    "excluded": false,
+    "howto": true,
+    "classified": true
   },
   {
     "id": "26db18893d6fd8f79428a26332aa701161e017bb",
@@ -727,15 +726,12 @@
     "published": "2026-09-24T01:44:35+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316749117/rectangle_large_type_2_7e215c1f00761de87c0aae727b1a47da.jpeg?width=800",
-    "tags": [
-      "other"
-    ],
+    "tags": [],
     "title_ja": "同じ情報を何回入力しているか数えたら、1件あたり4回だった",
-    "hashtags": [
-      "業務改善",
-      "データ入力",
-      "効率化"
-    ]
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "11b99ce071511b47ee0d3bea39a9162f9a0affd1",
@@ -746,8 +742,16 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316848074/rectangle_large_type_2_7a6c14d46483b336603acc4d34466186.jpeg?width=800",
     "tags": [
-      "other"
-    ]
+      "office"
+    ],
+    "excluded": false,
+    "howto": true,
+    "title_ja": "履歴書はWordとExcelどちらが向くか｜作成のコツと比較",
+    "hashtags": [
+      "Excel",
+      "Word"
+    ],
+    "classified": true
   },
   {
     "id": "40928827d2e4e734dee018963a5d29dc0d1aff03",
@@ -758,8 +762,16 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316130279/rectangle_large_type_2_3f6c0ae52b61357474b5f6a6c5ead6e1.png?width=800",
     "tags": [
-      "other"
-    ]
+      "office"
+    ],
+    "excluded": false,
+    "howto": true,
+    "title_ja": "合計はSUMで一瞬。はじめての関数",
+    "hashtags": [
+      "Excel",
+      "関数"
+    ],
+    "classified": true
   },
   {
     "id": "682962859c2c6e19d279d93e5cc2109281e11800",
@@ -770,8 +782,16 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
     "tags": [
-      "other"
-    ]
+      "office"
+    ],
+    "excluded": false,
+    "howto": true,
+    "title_ja": "Excelを使った製造原価計算のやり方",
+    "hashtags": [
+      "Excel",
+      "原価計算"
+    ],
+    "classified": true
   },
   {
     "id": "6ab94dc794033cfafdafcbf03e276188d63d60d7",
@@ -781,9 +801,12 @@
     "published": "2026-09-24T00:10:12+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "Excel関数 基礎セミナー(夜間4回)",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "d661853f3c51fb15af80bd414ddee9ff7b301858",
@@ -793,9 +816,12 @@
     "published": "2026-09-24T00:09:04+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316831656/rectangle_large_type_2_0506abedf54c61db726835a9c2d41e9c.png?width=800",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "【9月23日版】競艇データExcel — 展示4種・得点率・BI順位・3連単配当つき（23会場×11日・10,152艇）",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "7cbc9643707c9b5714718964f1d8e129183b7ca2",
@@ -805,9 +831,12 @@
     "published": "2026-09-24T00:06:26+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316830328/rectangle_large_type_2_d1586cb5915a91d94fd80a275a63d09f.png?width=800",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "「うちの担当が何とかします」の、5年後",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2417dcd6363184d42d06d6c59be66721ffba0f47",
@@ -818,8 +847,18 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316829455/rectangle_large_type_2_70ac35b2efc7a77bc8b68b617134c2b4.png?width=800",
     "tags": [
-      "other"
-    ]
+      "ai",
+      "office"
+    ],
+    "excluded": false,
+    "howto": true,
+    "title_ja": "AIに「Excelで作って」と頼んでもうまくいかない人へ。表を受け取る3つの方法",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "プロンプト"
+    ],
+    "classified": true
   },
   {
     "id": "37613123c4c61e968162e99583afe8c17fab4caf",
@@ -829,9 +868,12 @@
     "published": "2026-09-23T23:37:17+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316822522/rectangle_large_type_2_b01a9dd4308a0f4704a27291cc144e53.png?width=800",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "高卒40代、ひとりDXはじめました",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c34b98fa3e1283ae94494ff98859c1d6462c3c5e",
@@ -841,9 +883,12 @@
     "published": "2026-09-23T23:34:04+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316279186/rectangle_large_type_2_7925f6c5fd71443a4394b58bd852868e.png?width=800",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "Excelって万能じゃん！と思っていた私が、いつの間にかセル結合を嫌いになった話",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "4079467655b14cbd1b23759da0f1bde51d5b0e21",
@@ -853,9 +898,12 @@
     "published": "2026-09-23T23:26:12+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316818328/rectangle_large_type_2_95baa92fee08a08db6a5cfe052ee2bd0.png?width=800",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "返金依頼は承認済み。でも返金した？｜Excel管理を仕組みに変える判断基準",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "4cad4a5e2db67adab5674b7865c93a11fe2f35da",
@@ -865,9 +913,12 @@
     "published": "2026-09-23T23:26:02+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/316802334/rectangle_large_type_2_9224764992bd04ed3963555867e02c6b.png?width=800",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "【検証】Office97(Excel 97)はWindows 11で開けるのか？",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "75abb7ef62364720d2b703ca63870565c3c40593",
@@ -878,8 +929,18 @@
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://ascii.jp/img/2026/09/10/4524147/s/8edeff2964b74b24.png",
     "tags": [
-      "other"
-    ]
+      "news",
+      "office"
+    ],
+    "excluded": false,
+    "howto": false,
+    "title_ja": "結局、Microsoft 365ってみんな使ってるの？",
+    "hashtags": [
+      "Microsoft365",
+      "Excel",
+      "Word"
+    ],
+    "classified": true
   },
   {
     "id": "e2a0046cc67ddbec6581f04c629210c6570d1fb7",
@@ -889,9 +950,12 @@
     "published": "2026-09-24T05:22:40+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "主張：「超知能」近づく？ AI企業の誇大宣伝にだまされるな",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "150a0bfc0f5dec5b92d6d02a760f9c90a3f768ac",
@@ -901,9 +965,12 @@
     "published": "2026-09-23T18:08:43+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "「今の結婚って本当に個人ベースなのかなー」息子の結婚にあたり、両家顔合わせの場でモヤモヤを感じてしまった、という人のポストに賛否さまざま",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "ac7d2de6af56788f8dd6800a2e43b59285a442a6",
@@ -913,9 +980,12 @@
     "published": "2026-09-23T19:28:23+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "d41b4ed1fcc05295be1bdb003e69c64c8bd4bae7",
@@ -925,9 +995,12 @@
     "published": "2026-09-23T22:13:17+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2219be660a796324e5758c764480ca694fe5eabd",
@@ -937,8 +1010,11 @@
     "published": "2026-09-23T23:32:07+09:00",
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
-    "tags": [
-      "other"
-    ]
+    "tags": [],
+    "excluded": true,
+    "howto": false,
+    "title_ja": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
+    "hashtags": [],
+    "classified": true
   }
 ]
