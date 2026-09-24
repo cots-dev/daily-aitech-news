@@ -970,5 +970,167 @@
     "published": "2026-08-01T09:00:35+09:00",
     "published_display": "2026/8/1 Sat",
     "thumbnail": null
+  },
+  {
+    "id": "d9d19d9a517b577852cd8de1345cc300d9a83287",
+    "title": "【西川善司のグラフィックスMANIAC】DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは",
+    "url": "https://pc.watch.impress.co.jp/docs/column/zenji/2142631.html",
+    "source": "PC Watch",
+    "published": "2026-09-25T06:01:00+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": null
+  },
+  {
+    "id": "e64aef56cda0acc7953b6d84e0253d5116f7e71a",
+    "title": "AIを使いこなせてる？——その問いが間違っている件",
+    "url": "https://note.com/izumi_kemuno/n/n310103d6afe6",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T06:09:46+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314809250/rectangle_large_type_2_d02f9e20f4297aea0254e6613b398e43.jpg?width=800"
+  },
+  {
+    "id": "82038594316b0e590c2bc3e7a0dddeb0b557c191",
+    "title": "頭の中がごちゃごちゃな人へ。AIに「順番の整理」を任せる5ステップの指示書",
+    "url": "https://note.com/ichigonme/n/nd7cbf1c21b05",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T06:00:53+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/315429624/rectangle_large_type_2_f8e01716c204ce50eb9d6fe46434d325.jpeg?width=800"
+  },
+  {
+    "id": "e4099d5c4776c7aa7e4cbdc20a9a67d0488e2643",
+    "title": "AIに「直して」と頼んでも進まないときの修正依頼8本｜コピペ用シート付き",
+    "url": "https://note.com/witty_crab6098/n/n2e76c402907c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T05:59:02+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317220687/rectangle_large_type_2_9d2cd16c70184e0553ebeffe9ca09e01.png?width=800"
+  },
+  {
+    "id": "508c33787ed1e93a1efd516e886546893ff86aaa",
+    "title": "『路地裏の喫茶店』マスターGeminiのGoogle教室（第十話）",
+    "url": "https://note.com/author_99/n/n21fe9e4e2066",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T05:52:42+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314253198/rectangle_large_type_2_fb4922ef75bfff87098c0c5f0cbafb75.jpg?width=800"
+  },
+  {
+    "id": "a160c3915bdc2c8c1cd1fe9f6a30496e36cf2c80",
+    "title": "【AIイラストの考え方】光を動かしてと頼んだのに、影だけ動きました｜シャドーアート",
+    "url": "https://note.com/green_donguri/n/n878b3dad1bc0",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T05:46:36+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316405271/rectangle_large_type_2_4ed956343cd7ca4e8b48bea06a373535.jpg?width=800"
+  },
+  {
+    "id": "1e6fb00e7b5d77223b7b4161a664873f330be330",
+    "title": "請求書照合をAI任せにしない｜Gemini Notebookで試す3段階チェック",
+    "url": "https://note.com/ai_suki_raku_sho/n/n808f7304e48f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T05:38:55+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317217232/rectangle_large_type_2_39ebe5706a39f6f6c76bd8d95a89c9aa.jpeg?width=800"
+  },
+  {
+    "id": "7eaa035f66373d7fdedd9e2ee47c47e02b5e98c0",
+    "title": "Amazon商品の紹介記事を自動作成！おすすめプロンプト2選",
+    "url": "https://note.com/ai_katsuyooooo/n/n6ddb80bd4373",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T04:24:42+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": null
+  },
+  {
+    "id": "b7be4d8554c847053709ceede0e95bf7ef3cd24b",
+    "title": "毎日ChatGPTを使う僕が、新しいチャットへ移る前にしていること。",
+    "url": "https://note.com/famous_condor411/n/nd7977611227a",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T04:04:24+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317207248/rectangle_large_type_2_9cb112af40bd228ef0862f6ec29f9db6.png?width=800"
+  },
+  {
+    "id": "f7aadaeb54064df9f1e6e00462341af30b46168f",
+    "title": "商品登録を短縮するAI出品レシピ【BASE・Shopify・minne】",
+    "url": "https://note.com/nao_ai_/n/nf08edd5189de",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T04:04:18+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317210273/rectangle_large_type_2_d53713b6d3edfc3d293b61b7d8813e5a.png?width=800"
+  },
+  {
+    "id": "e588aadb8d1c9dce3a1d02cbef590182cbc7dbeb",
+    "title": "【有料版】AIイラスト初級ガイド完全版〜「初めての1枚」から「月100枚の量産環境」まで〜【2026秋】",
+    "url": "https://note.com/panzer03/n/n0ac739a5dfda",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-25T04:03:25+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317208762/rectangle_large_type_2_2839bd46514811bd5b0bddafe780933e.png?width=800"
+  },
+  {
+    "id": "1da3ff19c36e4352e3dba76b1ebdfd94a34a4249",
+    "title": "AIで「仕入明細」から得意先ごとの　「買掛明細」を30分で作ってみよう_DX010",
+    "url": "https://note.com/ken_act/n/n69fbbf30d747",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T06:03:26+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317220860/rectangle_large_type_2_78ef06ca0a5213a89aefe0dfde9b1a27.png?width=800"
+  },
+  {
+    "id": "8450fb9b22a3db7e623ff76690a872738d7c8ad3",
+    "title": "EC自動化の本番前チェックリスト｜CSV・価格・在庫の事故を防ぐ7項目",
+    "url": "https://note.com/okamura_ec/n/n3cf523afd520",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T06:02:02+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": null
+  },
+  {
+    "id": "a545d3c7c17f89da7920eb0a3115dcb230e9ee74",
+    "title": "VBA ユーザーフォームで住所録⑤　～郵便番号入力→都道府県・市区町村・町域反映～",
+    "url": "https://note.com/light_tiger7153/n/ne3977ef68ce2",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T05:26:11+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314175863/rectangle_large_type_2_580692446205b5b450bd39163dc2d513.jpeg?width=800"
+  },
+  {
+    "id": "377cdd4a7ab1b9e95c007f77353e8706ffef621a",
+    "title": "Power Query職人 vs AIエージェント、71対69で職人がついに初勝利。決め手は「毎月5秒」だった",
+    "url": "https://note.com/sionnct/n/n457a40eb9802",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T05:00:19+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316512647/rectangle_large_type_2_dde8bf35d0487c5dc023758b5c6cf310.png?width=800"
+  },
+  {
+    "id": "a99ccdf82e88d9a5d7116af4380fd14f9f42de02",
+    "title": "ネット販売の売上だけでは見えない残額｜送料・手数料・原価を1件ずつ記録する",
+    "url": "https://note.com/viviryu/n/nfb3d0aff6613",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T03:04:21+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317206328/rectangle_large_type_2_7c19a44605ce492f02ab52506fdcf4a7.png?width=800"
+  },
+  {
+    "id": "7bd56a9831b5802ac4d82300454539d54064b32b",
+    "title": "ネットショップの売上記録を1行から始める｜無料Excelの入力例",
+    "url": "https://note.com/viviryu/n/n668c30de7115",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-25T02:46:42+09:00",
+    "published_display": "2026/9/25 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317204821/rectangle_large_type_2_b0ffefe59467e97a30d164346d9f84b3.png?width=800"
+  },
+  {
+    "id": "a0e8e8d6f6d69f71741d0c451bfff6dd6cdb771d",
+    "title": "Colabo公金チューチュー問題とは何だったのか（🌟💖追記あり🌟💖）🌟🤖AIといっしょに、言葉の魔法で✨全人✨になろう‼️",
+    "url": "https://anond.hatelabo.jp/20260923164818",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-23T16:53:12+09:00",
+    "published_display": "2026/9/23 Wed",
+    "thumbnail": null
   }
 ]
