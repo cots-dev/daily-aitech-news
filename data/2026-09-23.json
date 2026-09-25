@@ -11,7 +11,8 @@
     "title_ja": "老舗のマウスユーティリティ「チューチューマウス」がAIの力を借りて15年ぶりに復活【再掲】【今すぐ読みたい！人気記事】",
     "hashtags": [],
     "excluded": true,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "e6b2070bd8e21d4f00fa71f0ebec120e42fce16f",
@@ -22,17 +23,16 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "title_ja": "Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減／5時間あたりの利用上限を引き上げ、好きなときに使えるレート制限リセットも提供",
     "hashtags": [
-      "Claude",
-      "AI",
-      "Anthropic"
+      "Anthropic",
+      "Claude"
     ],
     "excluded": false,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "f83bc989edfc7ecb83b6f5194800274fc0d077d9",
@@ -43,17 +43,16 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "title_ja": "「GPT-6 Sol」「GPT-6 Luna」が登場 ～賢くなったのにAPI価格は「GPT-5.6」の半額以下／「GPT-6 Astra」の成果を受け継いだ普段使い向けモデル",
     "hashtags": [
-      "ChatGPT",
       "OpenAI",
-      "AI"
+      "ChatGPT"
     ],
     "excluded": false,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "3d4262f2dd1c19c45b7c5d1d400a284671d522a5",
@@ -74,7 +73,8 @@
       "PowerQuery"
     ],
     "excluded": false,
-    "howto": true
+    "howto": true,
+    "classified": true
   },
   {
     "id": "8b34c395b3a4946c41ab9551c893687611cc354d",
@@ -85,10 +85,11 @@
     "published_display": "2026/9/23 Wed",
     "thumbnail": null,
     "tags": [],
-    "title_ja": "「なんでここに駅ないの？」 首都圏の“鉄道空白地帯”を可視化するマップが話題に【再掲】【今すぐ読みたい！人気記事】",
+    "title_ja": "「なんでここに駅ないの？」　首都圏の“鉄道空白地帯”を可視化するマップが話題に【再掲】【今すぐ読みたい！人気記事】",
     "hashtags": [],
     "excluded": true,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "8cdaf6c32a3f5c95af66c9db378971c767fe061a",
@@ -98,18 +99,12 @@
     "published": "2026-09-22T17:45:00+09:00",
     "published_display": "2026/9/22 Tue",
     "thumbnail": null,
-    "tags": [
-      "news",
-      "windows"
-    ],
-    "title_ja": "たった1つの拡張機能で5つのWebブラウザーのAIを乗っ取れちゃう!? 「BragJack」脆弱性／「Chrome」「Edge」はすでに修正済みなので、ひとまずご安心を【やじうまの杜】",
-    "hashtags": [
-      "Edge",
-      "Chrome",
-      "セキュリティ"
-    ],
-    "excluded": false,
-    "howto": false
+    "tags": [],
+    "title_ja": "たった1つの拡張機能で5つのWebブラウザーのAIを乗っ取れちゃう!?　「BragJack」脆弱性／「Chrome」「Edge」はすでに修正済みなので、ひとまずご安心を【やじうまの杜】",
+    "hashtags": [],
+    "excluded": true,
+    "howto": false,
+    "classified": true
   },
   {
     "id": "ffb51292ffff41fb7687a60d13db8b75c691a00a",
@@ -126,10 +121,11 @@
     "title_ja": "「拡大鏡」にまぶしさを抑えるテーマ、OS復元機能「クラウド リビルド」はドライブの安全な消去に対応／「Windows 11 Insider Preview」に新しいビルド",
     "hashtags": [
       "Windows11",
-      "アップデート"
+      "InsiderPreview"
     ],
     "excluded": false,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "02241a5b3268ba995f268b564295f6e7594556e7",
@@ -140,16 +136,16 @@
     "published_display": "2026/9/22 Tue",
     "thumbnail": null,
     "tags": [
-      "news",
-      "ai"
+      "news"
     ],
     "title_ja": "SpaceXAI、「Grok 4.7」を発表 ～先代から速度・価格維持で「GPT-5.6」「Fable 5.1」に伍する性能／「Cursor」「Grok Build」で即日利用可能",
     "hashtags": [
       "Grok",
-      "AI"
+      "SpaceXAI"
     ],
     "excluded": false,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "6e68adf004efa0f147f7e5d1d6e410a869f77269",
@@ -160,10 +156,11 @@
     "published_display": "2026/9/22 Tue",
     "thumbnail": null,
     "tags": [],
-    "title_ja": "AIは新規開発より既存改修が苦手？より得意？ Android開発の実力を測る「Android Bench 2.0」が公開／最新鋭モデルをより実務的な長期間タスクでテスト",
+    "title_ja": "AIは新規開発より既存改修が苦手？より得意？　Android開発の実力を測る「Android Bench 2.0」が公開／最新鋭モデルをより実務的な長期間タスクでテスト",
     "hashtags": [],
     "excluded": true,
-    "howto": false
+    "howto": false,
+    "classified": true
   },
   {
     "id": "5908935ccce5fd7d867a0c5f567e49568dee0422",
@@ -3063,16 +3060,17 @@
     "published_display": "2026/6/25 Thu",
     "thumbnail": null,
     "tags": [
+      "news",
       "office"
     ],
     "excluded": false,
-    "howto": true,
+    "howto": false,
     "title_ja": "PowerPoint Liveで同期を維持する",
     "hashtags": [
       "PowerPoint",
-      "Teams",
-      "OfficeTips"
-    ]
+      "Microsoft365"
+    ],
+    "classified": true
   },
   {
     "id": "9eeed37be70d0c4254e6f527dee6c3d732fdf157",
@@ -3087,11 +3085,11 @@
     ],
     "excluded": false,
     "howto": true,
-    "title_ja": "Teams会議に参加する前にオーディオをテストする",
+    "title_ja": "Teamsミーティングに参加する前にオーディオをテストする",
     "hashtags": [
       "Teams",
-      "Windows",
-      "OfficeTips"
-    ]
+      "Microsoft365"
+    ],
+    "classified": true
   }
 ]
