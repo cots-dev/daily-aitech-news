@@ -1,0 +1,691 @@
+[
+  {
+    "id": "b819320e9e57ab2d82e2220a17845df69db621a2",
+    "title": "【VBA】選択した図形内の数値を一括で加算するマクロ",
+    "url": "https://qiita.com/tena-mistudy/items/42c10b7cd1a69258a128",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-09-27T15:58:14+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【VBA】選択した図形内の数値を一括で加算するマクロ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d4c959fb259a9b27924be003a4642a4f71eb2b15",
+    "title": "Claude CodeでPower Automateのフローを自然言語で作る（1）（FlowAgent MCP Server）",
+    "url": "https://qiita.com/ta2c/items/171127f27cd420d6ce99",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-09-28T00:08:04+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Claude CodeでPower Automateのフローを自然言語で作る（1）（FlowAgent MCP Server）",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "617a777533a2e801fb90666c2d1f2bae38222650",
+    "title": "【AIニュース9/27】Copilot、“記憶する”自動修正と管理機能を一斉強化 ――「AIで開発はむしろ難しくなる」警鐘も",
+    "url": "https://note.com/fair_godwit407/n/n730bd7f7ca92",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T06:09:15+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318326490/rectangle_large_type_2_365528a1b2cab54852534cbb4aae2a0e.png?width=800",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "【AIニュース9/27】Copilot、“記憶する”自動修正と管理機能を一斉強化 ――「AIで開発はむしろ難しくなる」警鐘も",
+    "hashtags": [
+      "Copilot",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "20ff27c0cae86e1e54f170f8d5433dd2d8c8460e",
+    "title": "空気で回る組織はAI化できない――主語・述語・動線から始める業務改善とは？⭐Copilot協議共同記事",
+    "url": "https://note.com/tarou_wakamatsu/n/n020e3d5c6124",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T04:24:00+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318317217/rectangle_large_type_2_85f5b6eec9cb01baab4809add427403e.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "空気で回る組織はAI化できない――主語・述語・動線から始める業務改善とは？",
+    "hashtags": [
+      "Copilot",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7d6c475900f7361bce56ec6e47367d746b9c0eed",
+    "title": "初心者向けAIツールおすすめTOP10｜無料で試せる人気ランキング",
+    "url": "https://note.com/note_rytonote/n/n0c3633960f5e",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T02:14:09+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "初心者向けAIツールおすすめTOP10｜無料で試せる人気ランキング",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "a6dd1a52ccdb631a87636b16f4f6691f3c71a684",
+    "title": "Excelの新機能「Edit with Copilot」は事務作業をどう変えるか",
+    "url": "https://note.com/app_capsule_1ab0/n/nbeb187a15d38",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T01:24:03+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318277938/rectangle_large_type_2_1cef9f0363e77caf81e49dca0098dbf1.png?width=800",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Excelの新機能「Edit with Copilot」は事務作業をどう変えるか",
+    "hashtags": [
+      "Excel",
+      "Copilot"
+    ],
+    "classified": true
+  },
+  {
+    "id": "13fd67d450d3c47108c68116d6bb3f23ae1b8360",
+    "title": "チャッピーの感想文が秀逸！…でも挿絵では自分を有利にする？「万物ノート」20260928",
+    "url": "https://note.com/aki_matsubara/n/na9bb04fa5af8",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T00:58:46+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318295725/rectangle_large_type_2_4a2c9a80c3c9482f82cbda808a91a9ac.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "チャッピーの感想文が秀逸！…でも挿絵では自分を有利にする？「万物ノート」20260928",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "214ccd93d24ba876ea71059c88b079e1251e34c7",
+    "title": "パッケージ製品の開発でAIに聞いたら、全然違う答えが「正しい顔」で返ってきた話",
+    "url": "https://note.com/quirky_myrtle999/n/n80073802f59b",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T00:34:17+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318294081/rectangle_large_type_2_bd3721faa2f38da053b6ea8ca7677b18.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "パッケージ製品の開発でAIに聞いたら、全然違う答えが「正しい顔」で返ってきた話",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "0bf16e5c41967bc2c081336414f8b37ee949e8e6",
+    "title": "ClaudeとCopilot統合で会議準備が消える理由",
+    "url": "https://note.com/ai_news_flash/n/n22646cd0dc83",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T00:20:56+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "ClaudeとCopilot統合で会議準備が消える理由",
+    "hashtags": [
+      "Copilot",
+      "Claude",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "eb0065ffa820d8fa5859a91a2f5911e69b657dca",
+    "title": "AIが「会議のフォロー」や「進捗確認」まで代行し始めた話【人がやるべき仕事の輪郭】",
+    "url": "https://note.com/chinu777/n/n4af17a1775a6",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T00:16:42+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318287772/rectangle_large_type_2_ac4761656850bd8de2ff03c5e679c491.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "AIが「会議のフォロー」や「進捗確認」まで代行し始めた話【人がやるべき仕事の輪郭】",
+    "hashtags": [
+      "AI",
+      "Copilot"
+    ],
+    "classified": true
+  },
+  {
+    "id": "faf4a8ed7ed56eab2f4edea8771c6fadc10656bd",
+    "title": "Microsoft、Copilotを3層構造へ刷新：チャットAIから仕事のOSへ進化",
+    "url": "https://note.com/startup_now0708/n/n31fb91a24459",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-28T00:00:52+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318283053/rectangle_large_type_2_651c4772ef471ffdedce7a30dc8341dc.png?width=800",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Microsoft、Copilotを3層構造へ刷新：チャットAIから仕事のOSへ進化",
+    "hashtags": [
+      "Copilot",
+      "Microsoft"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ff0c8969ab1548f41a964dcb03bde01453991f94",
+    "title": "Microsoft Copilotが自律エージェントを束ねる 3画面で変わる仕事",
+    "url": "https://note.com/asuraworks/n/n52c26f8d4e6b",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-27T23:54:32+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318280838/rectangle_large_type_2_f2dd380804aeac3e38be8886606f801a.png?width=800",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Microsoft Copilotが自律エージェントを束ねる 3画面で変わる仕事",
+    "hashtags": [
+      "Copilot",
+      "Microsoft"
+    ],
+    "classified": true
+  },
+  {
+    "id": "74cdb895df256695c8c71c14fb530748a65de33a",
+    "title": "プロンプト",
+    "url": "https://note.com/livedlegna/n/n352b6124020b",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T05:17:01+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318320442/rectangle_large_type_2_7f661bc44d6943417a9a8e92cab087a2.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "プロンプト",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d1eb85704374c796d000e95b4627426beb3876b3",
+    "title": "メール作成に悩んで時間がかかる人へ。AIに「7つの型」を覚えさせれば、仕事はもっと速くなる",
+    "url": "https://note.com/yichi_jim/n/n88fd3c041690",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:59:26+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318319345/rectangle_large_type_2_0570476919fc4095fbe70eb6bd57e9c3.jpg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "メール作成に悩んで時間がかかる人へ。AIに「7つの型」を覚えさせれば、仕事はもっと速くなる",
+    "hashtags": [
+      "プロンプト",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4ec764d166757f5292854b5d5509f14b846a5ea3",
+    "title": "季節企画・衛生管理編｜数字を使わない、飲食店の現場プロンプト81〜100",
+    "url": "https://note.com/human_lotus5832/n/n43a88b66caf6",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:54:35+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314253340/rectangle_large_type_2_6c9cf9159c867443010db90d7ff8505b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "季節企画・衛生管理編｜数字を使わない、飲食店の現場プロンプト81〜100",
+    "hashtags": [
+      "プロンプト",
+      "ChatGPT"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4e72daf6b0e597bf12e0925e341ad89ba0e24624",
+    "title": "「プロのアナリストとして書け」と指示すると失敗する理由〜専門性と生活実感を両立させる「二重構造（看板と店内）」のプロンプト設計〜",
+    "url": "https://note.com/safe_gibbon4261/n/nc8d0d35b2bae",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:52:17+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318318969/rectangle_large_type_2_351c763953248f8eacd43eca44a49167.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "「プロのアナリストとして書け」と指示すると失敗する理由〜専門性と生活実感を両立させる「二重構造（看板と店内）」のプロンプト設計〜",
+    "hashtags": [
+      "プロンプト",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5aa403c6966e40315010cc902ef188c7f6f41ac2",
+    "title": "営業マンがそのまま使えるChatGPTプロンプト10選",
+    "url": "https://note.com/leal_badger1530/n/n30b471198f94",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:44:53+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318318312/rectangle_large_type_2_a55bab6f696b5064f3295cd2c7ea1d08.jpg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "営業マンがそのまま使えるChatGPTプロンプト10選",
+    "hashtags": [
+      "ChatGPT",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8798241aef852038f1050ab6d623662788ec5a1f",
+    "title": "ChatGPTと作る｜情報整理プロンプト10選",
+    "url": "https://note.com/juicy_skink6439/n/n3de7141a0de8",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:31:52+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/312190632/rectangle_large_type_2_c2dd2e0bb0b3e0f91e623f1cbfc820ab.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPTと作る｜情報整理プロンプト10選",
+    "hashtags": [
+      "ChatGPT",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5dcaa56d2e4e86fb502334422b03d106e27f8978",
+    "title": "月額AIだけで作る「競輪予想屋」— 5人格プロンプト設計の全手順",
+    "url": "https://note.com/burningbros/n/n10ec7cf3a428",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:20:10+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "月額AIだけで作る「競輪予想屋」— 5人格プロンプト設計の全手順",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "7a3cd569c2f62f10ab4abb868a8fa1e4c8452dc6",
+    "title": "AI初心者が初めてのツールを作ってみた。ChatGPTに貼る文章を自動で作る「プロンプトメーカー」",
+    "url": "https://note.com/heibon_growth/n/n50e7e441b99f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:10:22+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "AI初心者が初めてのツールを作ってみた。ChatGPTに貼る文章を自動で作る「プロンプトメーカー」",
+    "hashtags": [
+      "ChatGPT",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a752fde2fcdb2e4d9dc484edb246f731a657dd81",
+    "title": "【コピペ一発】指示1回で長文報告書・連絡メール・要約を同時生成する「神プロンプト",
+    "url": "https://note.com/quick_clam9231/n/ne96bfebbee32",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T04:04:37+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318315954/rectangle_large_type_2_662a5e36b285fe917a69daa69b048ea3.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【コピペ一発】指示1回で長文報告書・連絡メール・要約を同時生成する「神プロンプト」",
+    "hashtags": [
+      "プロンプト",
+      "ChatGPT"
+    ],
+    "classified": true
+  },
+  {
+    "id": "75a23ec655c3213edff7124e2768e77f7f63a6db",
+    "title": "太くて大きい棒を…💞",
+    "url": "https://note.com/melold/n/n942d18e18c06",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-28T03:21:50+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318312241/rectangle_large_type_2_a4499b4148f1a746322549528d425f11.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "太くて大きい棒を…💞",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "181ba595f176135bd70adc16a5f03d381b7cc270",
+    "title": "職人連合 vs AIエージェント、最終戦は89対56。負けたのはAIではなく「ひとりで戦ったAI」だった",
+    "url": "https://note.com/sionnct/n/n5a330f90cc25",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T06:08:31+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/316524205/rectangle_large_type_2_51deaacb0ab439be2b52b6a8c40098f1.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "職人連合 vs AIエージェント、最終戦は89対56。負けたのはAIではなく「ひとりで戦ったAI」だった",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "7e3e37689b62138640e54bd347731f4f69e292a7",
+    "title": "その手入力、1件だけでいいかも。Excelの「Ctrl＋E」で繰り返し作業を減らす",
+    "url": "https://note.com/ranmaru_sjb/n/n68a123099957",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T06:08:27+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318326952/rectangle_large_type_2_28b2efc19dd1d328524b0f2b2dcb1667.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "その手入力、1件だけでいいかも。Excelの「Ctrl＋E」で繰り返し作業を減らす",
+    "hashtags": [
+      "Excel",
+      "ショートカット"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4979102f6eb44ad3600dc9aea3ea29c634d812e8",
+    "title": "AIで複数の顧客毎に「資料を添付するメール作成」を30分で自動化してみよう_DX011",
+    "url": "https://note.com/ken_act/n/n1db7e039941e",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T05:56:40+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318273283/rectangle_large_type_2_263aa7ac3decaae84358792856b97e33.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "AIで複数の顧客毎に「資料を添付するメール作成」を30分で自動化してみよう_DX011",
+    "hashtags": [
+      "Excel",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ca6c0483d90d813345b834647d0873f9ce55a307",
+    "title": "草コイン情報のExcel入力を自動化😂｜API×ChatGPTで価格・出来高・流動性を取得するプロンプト付き",
+    "url": "https://note.com/merry_seal8451/n/n2823c3f1ef11",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T04:50:18+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318138591/rectangle_large_type_2_b391e2b45fa510c5b47299aee2ae31f4.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "草コイン情報のExcel入力を自動化😂｜API×ChatGPTで価格・出来高・流動性を取得するプロンプト付き",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "fc7f806a751a2b47d84a495f618b47cc4299f561",
+    "title": "草コインの1h・6h・24h追跡を半自動化📊｜Excel監視表＋ChatGPTプロンプト付き",
+    "url": "https://note.com/merry_seal8451/n/n2d079d517cfc",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T04:49:22+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318132581/rectangle_large_type_2_ba0a2f07c255d5c9f69cfc2154cf75ea.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "草コインの1h・6h・24h追跡を半自動化📊｜Excel監視表＋ChatGPTプロンプト付き",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "b502c827041f6bf8071af243f82b3d89b0632cf1",
+    "title": "UiPath｜アクティビティ｜Excel｜Get Workbook Sheets｜シート一覧を取得して存在判定する",
+    "url": "https://note.com/parus/n/nae7e7328dc44",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T02:04:03+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/284667655/rectangle_large_type_2_d91cc3132ae2b402a28044c2e33f6ff9.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "UiPath｜アクティビティ｜Excel｜Get Workbook Sheets｜シート一覧を取得して存在判定する",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2f55e0b4b2f48a825f262971799d0de9a5624ea6",
+    "title": "PowerShell×Excel×VBAの「歯抜け」を再現したPoCを公開｜NoWait 35件成功・65件失敗、Waitでは100件成功",
+    "url": "https://note.com/ideal_donkey6117/n/n966b0bcdeafd",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T01:52:08+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318303552/rectangle_large_type_2_2d33cb91e5890179d3a240c868766330.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "PowerShell×Excel×VBAの「歯抜け」を再現したPoCを公開｜NoWait 35件成功・65件失敗、Waitでは100件成功",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "527d0d45dfab04069c71e86dbd2c209c88734838",
+    "title": "新卒航海士が一等航海士から信頼されるために｜期限・在庫・点検を確実に回す",
+    "url": "https://note.com/onboard_lab/n/n400c017338fa",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T00:58:19+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318304574/rectangle_large_type_2_f3ea492ae0dd7d9ba88a02e1a3586e4d.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "新卒航海士が一等航海士から信頼されるために｜期限・在庫・点検を確実に回す",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d21e1cb6a8c19206256bcf3abf64549885f55927",
+    "title": "船員の仕事を、もっとシンプルに。ONBOARD LABを始めます。",
+    "url": "https://note.com/onboard_lab/n/n40aa9bbb82c7",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-28T00:51:05+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318304640/rectangle_large_type_2_fac9e05acb90c019f0e5b83d93e41e06.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "船員の仕事を、もっとシンプルに。ONBOARD LABを始めます。",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f582fc7a4533693c6b7dbcbc9e0101c0e9cdb5bc",
+    "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-27T07:00:00+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+    "hashtags": [
+      "AI",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ed43173833462914ed5d1ad1340aa6ae4c982a99",
+    "title": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/27/news006.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-09-27T07:00:00+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIの「見つけた」をうのみにしない Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "9c63eda64d1742da791262bb6e49edee082f98c9",
+    "title": "ChatGPTを“神SaaS”だと思っている人が、こんなにも多いようです。",
+    "url": "https://ascii.jp/elem/000/004/433/4433894/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-09-28T06:00:00+09:00",
+    "published_display": "2026/9/28 Mon",
+    "thumbnail": "https://ascii.jp/img/2026/09/10/4524024/s/f2a1c68bf9ab294b.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ChatGPTを“神SaaS”だと思っている人が、こんなにも多いようです。",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "54b6834bcfd8d6545792cf03343903fe112b2089",
+    "title": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ",
+    "url": "https://www.sunafuki.com/entry/chatgpt_English",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-27T19:01:52+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説",
+    "hashtags": [
+      "ChatGPT",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a4dad26dfd2629a52067c663ca7e9fc827ff4f6e",
+    "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+    "url": "https://note.com/npaka/n/n557fb948c3cf",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-27T16:32:58+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "bf20605b355e786300c440612d3d4635b8526d4b",
+    "title": "「LLMへ渡したくない仕事」を考える",
+    "url": "https://zenn.dev/algoartis/articles/73f4da4aa13dcc",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-27T21:09:53+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「LLMへ渡したくない仕事」を考える",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "e67859ebeb264baf7b6b38f0a53890ce9dad30d9",
+    "title": "グーグル、全アカウント保持者に無料の1080p AI動画生成を開放 — BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-27T18:50:17+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "グーグル、全アカウント保持者に無料の1080p AI動画生成を開放",
+    "hashtags": [
+      "Google",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5710eb286f8e61a8ab51b4a73a493e2de5953de0",
+    "title": "ローカルLLMのためのメモリ基礎知識｜npaka",
+    "url": "https://note.com/npaka/n/n0ee92a316be3",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-27T13:00:05+09:00",
+    "published_display": "2026/9/27 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ローカルLLMのためのメモリ基礎知識",
+    "hashtags": [],
+    "classified": true
+  }
+]
