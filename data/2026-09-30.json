@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "90e30790ef13b6d3741435d12a7f9f2fa4bfa621",
+    "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
+    "source": "窓の杜",
+    "published": "2026-09-30T03:41:49+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+    "hashtags": [
+      "Windows11",
+      "アップデート"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b9421f57c528590f5bc6bbfd78c9c0fb9ca82c95",
+    "title": "Office文書や画像・音声・動画のメタデータ対応のGREPツール「TextSS」v6.11　ほか【ダイジェストニュース】",
+    "url": "https://forest.watch.impress.co.jp/docs/digest/2144241.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T18:45:50+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Office文書や画像・音声・動画のメタデータ対応のGREPツール「TextSS」v6.11 ほか【ダイジェストニュース】",
+    "hashtags": [
+      "TextSS",
+      "便利ツール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e1d76c587353e3170077cdc33030f4535f95ce94",
+    "title": "汎用AIエージェント「Manus 2.0」が発表 ～デスクトップアプリは「Manus Studio」へ／タスクの代行から創造のワークスペースに。エージェントアプリ「Cue」も登場",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2144171.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T17:35:31+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "汎用AIエージェント「Manus 2.0」が発表 ～デスクトップアプリは「Manus Studio」へ／タスクの代行から創造のワークスペースに。エージェントアプリ「Cue」も登場",
+    "hashtags": [
+      "AIエージェント",
+      "Manus",
+      "新機能"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e027974268fbcdd7d05966bb874b2cfd45487078",
+    "title": "アバター姿でWeb会議に参加！「Meta Quest」がPCのマイク＆カメラとして利用可能に、「アバターカメラ」も搭載／MR/VRヘッドセット用アプリ「Mixed Reality Link」の新機能",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143968.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T16:37:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "アバター姿でWeb会議に参加！「Meta Quest」がPCのマイク＆カメラとして利用可能に、「アバターカメラ」も搭載／MR/VRヘッドセット用アプリ「Mixed Reality Link」の新機能",
+    "hashtags": [
+      "MetaQuest",
+      "Web会議",
+      "アバター"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9ec8e110cb013507a544c6b632d6320cc3d17595",
+    "title": "「Git for Windows」v2.56.0が公開 ～4GB以上のオブジェクトをコミットできるように／Windows 8.1のサポートは終了",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143954.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T15:24:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「Git for Windows」v2.56.0が公開 ～4GB以上のオブジェクトをコミットできるように／Windows 8.1のサポートは終了",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1058674c92984ae53bdb44702392fcfc6ba79fa8",
+    "title": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143945.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T14:50:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる",
+    "hashtags": [
+      "MicrosoftLearn",
+      "Microsoft"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3995c230b8590c76a394e03a9c21a93832513ced",
+    "title": "ゲームの解像度とフレームレートを両立、NPUでアップスケーリングする「Auto SR」が「Intel Core Ultra シリーズ 3」に対応／Copilot+ PCのゲーム環境が強化",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143881.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T13:05:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "ゲームの解像度とフレームレートを両立、NPUでアップスケーリングする「Auto SR」が「Intel Core Ultra シリーズ 3」に対応／Copilot+ PCのゲーム環境が強化",
+    "hashtags": [
+      "CopilotPlusPC",
+      "NPU",
+      "Intel"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f92a78db10ab28cfff7940b60d8a8e2d6386da52",
+    "title": "Microsoft、「Windows 展開サービス」（WDS）を非推奨に ～次期「Windows Server」から／「WDS」が提供するPXEブート機能も対象。「Configuration Manager」への移行を推奨",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143848.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T11:10:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Microsoft、「Windows 展開サービス」（WDS）を非推奨に ～次期「Windows Server」から／「WDS」が提供するPXEブート機能も対象。「Configuration Manager」への移行を推奨",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "85d29fc5bca06dab6dcdd5c8e1e3604169771dff",
+    "title": "GitHub Copilotにコードを新規作成させる方法まとめ ～3種類のテクニックを確認",
+    "url": "https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2116917.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T08:25:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "GitHub Copilotにコードを新規作成させる方法まとめ ～3種類のテクニックを確認",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "3ca1454b26d5c2df51cb2f3d42fb8eda180af686",
+    "title": "Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30％減／「Claude 5.5」ファミリーの第2弾。ベンチマークによっては「Opus 5.5」に迫る",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143923.html",
+    "source": "窓の杜",
+    "published": "2026-09-29T07:05:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30％減／「Claude 5.5」ファミリーの第2弾。ベンチマークによっては「Opus 5.5」に迫る",
+    "hashtags": [
+      "Anthropic",
+      "Claude",
+      "AIモデル"
+    ],
+    "classified": true
+  },
+  {
+    "id": "528bdd341b2d6aa9de015efed64a71f8f531604d",
+    "title": "エイサー、Core Ultra 9を搭載したハイエンド16型ゲーミングノート",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/29/news092.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-09-29T16:44:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "エイサー、Core Ultra 9を搭載したハイエンド16型ゲーミングノート",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2a1c0b03099fb9ec6a77f56a5affed7c8d055ac1",
+    "title": "レノボ、ジェスチャー操作にも対応したAI機能を備える11.1型／13型Androidタブレット",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/29/news082.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-09-29T13:17:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "レノボ、ジェスチャー操作にも対応したAI機能を備える11.1型／13型Androidタブレット",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d13b876be5ba60f40276a9705c932778578718a4",
+    "title": "「Copilot+ PC」ブランドは終了したのか？　普及に伴い変化するMicrosoftのAI戦略",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/29/news055.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-09-29T06:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「Copilot+ PC」ブランドは終了したのか？ 普及に伴い変化するMicrosoftのAI戦略",
+    "hashtags": [
+      "CopilotPlusPC",
+      "Microsoft",
+      "AI戦略"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a71299d2115005edfbd8892cae79036a1b42f298",
+    "title": "【やじうまミニレビュー】Macのジェスチャー操作をWindowsで、Amazonベーシックの人気トラックパッドを使う",
+    "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2143543.html",
+    "source": "PC Watch",
+    "published": "2026-09-30T06:11:00+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【やじうまミニレビュー】Macのジェスチャー操作をWindowsで、Amazonベーシックの人気トラックパッドを使う",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "0cfaf2be2d9c41f7a82f61f69787f8b211548a5d",
+    "title": "画面割れMacや余剰PCで動く！Hermes Agentで始める“格安”箱庭AIエージェント",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html",
+    "source": "PC Watch",
+    "published": "2026-09-30T06:08:00+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "画面割れMacや余剰PCで動く！Hermes Agentで始める“格安”箱庭AIエージェント",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "8003d811dca50ea949f3801ae6f217dba686a1a8",
+    "title": "【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html",
+    "source": "PC Watch",
+    "published": "2026-09-30T06:06:00+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "64f549e58246a9675a8d053bbcffa2e8fe183e49",
+    "title": "レノボ、4K液晶&ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2144226.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T18:16:32+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "レノボ、4K液晶&ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "6ea3d5c1cd04a18d3eeee7e1b37898c455d5daa6",
+    "title": "Core Ultra 9とRTX 50を1台に。日本エイサーの16型ゲーミングノート",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2144216.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T18:05:12+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Core Ultra 9とRTX 50を1台に。日本エイサーの16型ゲーミングノート",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "6463eb39decebfd8821ae7715f2cafdc7ed831c1",
+    "title": "NII、ツール呼び出し対応・STEM強化の「LLM-jp-4.1」公開",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2144150.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T16:28:46+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "NII、ツール呼び出し対応・STEM強化の「LLM-jp-4.1」公開",
+    "hashtags": [
+      "LLM",
+      "生成AI",
+      "研究開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "75694fdf63d6ba27ca964f1a57a4ddc4f2bd7b48",
+    "title": "約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2144148.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T16:28:43+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d13dd2df0a3486f9ef86fe83395a7db55a4f5049",
+    "title": "余ったM.2 SSDを2枚挿せるRAIDケース、Nextorageから",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2144114.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T16:07:20+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "余ったM.2 SSDを2枚挿せるRAIDケース、Nextorageから",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "c808a2588c4183fbcda56b9a1f42c819018c0fa8",
+    "title": "30%以上速くコストは最大30%減、「Claude Sonnet 5.5」が登場",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2144040.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T13:12:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "30%以上速くコストは最大30%減、「Claude Sonnet 5.5」が登場",
+    "hashtags": [
+      "Claude",
+      "Anthropic",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d717dfa6e001bc429cabb2dab3715a797b4c1d62",
+    "title": "【やじうまPC Watch】謎の無料AI「Space Bunny」が高性能と話題、Three.jsでアニメまで作れる",
+    "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2143972.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T11:13:20+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "【やじうまPC Watch】謎の無料AI「Space Bunny」が高性能と話題、Three.jsでアニメまで作れる",
+    "hashtags": [
+      "SpaceBunny",
+      "生成AI",
+      "3Dアニメ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e3fb06e48eb7d598e978db3af22502de77665d3b",
+    "title": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop活用術 [Sponsored]",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/special/2139093.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T06:30:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop活用術 [Sponsored]",
+    "hashtags": [
+      "Photoshop",
+      "AI活用",
+      "画像編集"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6f60882d7ce65aebeb58f2303ad807e8b74a141b",
+    "title": "LM Studio、Bionicに共同キャンバス。図から直接実装可能に",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2143914.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T06:26:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "LM Studio、Bionicに共同キャンバス。図から直接実装可能に",
+    "hashtags": [
+      "LMStudio",
+      "AIツール",
+      "アップデート"
+    ],
+    "classified": true
+  },
+  {
+    "id": "48a59642e924b977fbaca6a2f24b0353a4bcb6de",
+    "title": "「Claude Marketplace」公開、2千超の連携ツールとAI製品を集約",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2143913.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T06:20:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「Claude Marketplace」公開、2千超の連携ツールとAI製品を集約",
+    "hashtags": [
+      "Claude",
+      "Anthropic",
+      "AIツール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c5d0c7320dc9123b32f342d874e306b68b98e2c5",
+    "title": "Google、100言語対応の音声AI「Gemini 3.8 Flash TTS」発表",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2143910.html",
+    "source": "PC Watch",
+    "published": "2026-09-29T06:16:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Google、100言語対応の音声AI「Gemini 3.8 Flash TTS」発表",
+    "hashtags": [
+      "Google",
+      "Gemini",
+      "音声AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0373d821b90c2778d87de55b62914fbdcb0b5388",
+    "title": "Classic ASPからASP.NET Coreへのリプレイスに向けて、VBAでASPの参照関係を可視化してみた",
+    "url": "https://qiita.com/kaaaancha9/items/4e81a09b0837dfc1ccb6",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-09-30T01:39:30+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Classic ASPからASP.NET Coreへのリプレイスに向けて、VBAでASPの参照関係を可視化してみた",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "98212d8ea388a584a375f32215bc2aef6853aeb2",
+    "title": "Excelが重いときは、入力だけ軽いサイトで行う方法もあります",
+    "url": "https://qiita.com/uni928/items/11b7e000e18f7f81ff47",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-09-29T13:00:08+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excelが重いときは、入力だけ軽いサイトで行う方法もあります",
+    "hashtags": [
+      "Excel",
+      "作業効率化",
+      "Tips"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c9b704688a65cab1ca9b14b12406b16358b0c330",
+    "title": "全シート一括実行・ブック切り出し・グラフ更新——「実行したのに変わっていない」を招く3つの仕様",
+    "url": "https://qiita.com/andie5150/items/9e911c23fcc8e988fd71",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-09-29T12:00:04+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "全シート一括実行・ブック切り出し・グラフ更新——「実行したのに変わっていない」を招く3つの仕様",
+    "hashtags": [
+      "Excel",
+      "トラブル対処",
+      "Tips"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4e8aa4557b92832c3bdcacb7896cf1a718c79a20",
+    "title": "Power Automateのフロー設計で属人化を防ぐ工夫——命名・テンプレート・ドキュメントの3点セット",
+    "url": "https://qiita.com/Sidejob/items/20fc91c32969669406a7",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-09-29T08:45:04+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Power Automateのフロー設計で属人化を防ぐ工夫——命名・テンプレート・ドキュメントの3点セット",
+    "hashtags": [
+      "PowerAutomate",
+      "業務自動化",
+      "フロー設計"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8f7fe198bdca00dfb709824bf561f69231017a93",
+    "title": "CopilotでExcelのグラフを作る方法！データを見やすく可視化する手順【初心者向け】",
+    "url": "https://note.com/rakudeji_note/n/nb2eb7570ab21",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-30T05:55:43+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319036149/rectangle_large_type_2_2d0c0a8ff3017a0a3151e2ca3f71b40b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "CopilotでExcelのグラフを作る方法！データを見やすく可視化する手順【初心者向け】",
+    "hashtags": [
+      "Copilot",
+      "Excel",
+      "グラフ作成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b3996028b74ba55a80c5e8248cef1afb2d39ee2a",
+    "title": "AIに聞いてみた⑨（自作EAのリアルフォワード評価Ⅱ）「最高76点 vs 最低38点！なぜここまで差が出たのか？」",
+    "url": "https://note.com/mr_cbr/n/n7781e57116d7",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-30T04:53:41+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318710213/rectangle_large_type_2_0733d1f97ed11a7fe55bc43eb68f5f0d.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIに聞いてみた⑨（自作EAのリアルフォワード評価Ⅱ）「最高76点 vs 最低38点！なぜここまで差が出たのか？」",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "08c11e1039f98a80c3ba64fdb3b09150c6cef80a",
+    "title": "Outlook・TeamsでCopilotを回す日常、正直レポート",
+    "url": "https://note.com/toki_biz_ai/n/n78ab525ba122",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-30T03:24:24+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317719834/rectangle_large_type_2_4fc34f9abeebac66fab2e15e3e27b123.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Outlook・TeamsでCopilotを回す日常、正直レポート",
+    "hashtags": [
+      "Copilot",
+      "Outlook",
+      "Teams"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d30094c5758b27cd1d36ec9385add7f58b025856",
+    "title": "『ほぼAI彼氏っぽいけど、絶対に彼氏ではない、とても微妙で曖昧な何かへんなAI』コパイロット、散る😂（その１）",
+    "url": "https://note.com/pujorukun/n/nedc5eea65104",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-30T02:07:59+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319015750/rectangle_large_type_2_9975a592defd485a3d8fe588e772cc96.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "『ほぼAI彼氏っぽいけど、絶対に彼氏ではない、とても微妙で曖昧な何かへんのAI』コパイロット、散る😂（その１）",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2af66a4d3d134f0dc528ef45b1ecb39efed1f722",
+    "title": "copilotにガチギレする52歳男性",
+    "url": "https://note.com/fast_abelia9124/n/nc2e3fa3cda39",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-30T01:45:01+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319014871/rectangle_large_type_2_2aef3d5bedc99be6bb071d2663c9dc4c.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "copilotにガチギレする52歳男性",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "585de92c032a1463a62f5439eae2d7e03f982aa6",
+    "title": "Claude CodeとCursor Copilotのタスク別使い分けを整理する",
+    "url": "https://note.com/ashineko_houston/n/n9e71117ae8d4",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-30T01:26:10+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318976899/rectangle_large_type_2_b86773b9c47f71ed302edb58662d63a1.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Claude CodeとCursor Copilotのタスク別使い分けを整理する",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "05bd0c1d98fb42f1bc8dd0684950d63bebf71ca3",
+    "title": "なぜ生成AIは組織に定着しないのか？",
+    "url": "https://note.com/ssentia/n/n17e4f655456f",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-29T23:59:54+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318991621/rectangle_large_type_2_db979c71111f5a52275d73ca91bc3a48.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "なぜ生成AIは組織に定着しないのか？",
+    "hashtags": [
+      "生成AI",
+      "AI活用",
+      "組織定着"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b0eff2a08ab39384efe7e61b8f99409e41f74fcf",
+    "title": "Agentic AutofixがMemoryを使い始めた今：45分で作る修正提案レビューシート",
+    "url": "https://note.com/ma05sa/n/n3f10dbea5463",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-29T23:48:36+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318990847/rectangle_large_type_2_852a8cb8beb434fbd30e1ebc27568d20.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Agentic AutofixがMemoryを使い始めた今：45分で作る修正提案レビューシート",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "539d327abab7a9ed2eb5bc07df026716c7b9ff0a",
+    "title": "Copilot案件が13倍。社内でやると、誰かの月11時間になる",
+    "url": "https://note.com/clownfish_0823/n/nea050cd21ee9",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-29T23:18:35+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317326310/rectangle_large_type_2_91be31f48750eb79804cbe59c018e730.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Copilot案件が13倍。社内でやると、誰かの月11時間になる",
+    "hashtags": [
+      "Copilot",
+      "AI活用",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "26ed813e6077b023f97d925b006ce76b8962d36f",
+    "title": "Falling into the abyss within｜虚無への落下",
+    "url": "https://note.com/harukawind/n/ne95d815cdae5",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-09-29T23:11:21+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318980644/rectangle_large_type_2_b5f5b3a3a6817b1ce3275c1d042b37cc.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "虚無への落下",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "407f632cbc0d4c4f02e90df00971a32d95b4e323",
+    "title": "【PR】短い言葉から30秒アニメができた｜Renoise Agent × Canvas｜森のパルクール",
+    "url": "https://note.com/green_donguri/n/nabd41c100881",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:46:49+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318184716/rectangle_large_type_2_a84414527bad4a63535e4409dd7083a2.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【PR】短い言葉から30秒アニメができた｜Renoise Agent × Canvas｜森のパルクール",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "89da460550322f9198cb45cc58cff73d5fc3a89d",
+    "title": "「やることが多すぎる」をAIで整理する方法",
+    "url": "https://note.com/right_ixora1975/n/n589ab51170ea",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:36:55+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "「やることが多すぎる」をAIで整理する方法",
+    "hashtags": [
+      "ChatGPT",
+      "タスク管理",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f45958a10c43fd187b875bc282cc5354019e42e5",
+    "title": "【プロンプト配布】AI★判断基準",
+    "url": "https://note.com/yurphy/n/n02ef34425ca5",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:34:59+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319025003/rectangle_large_type_2_b573e2eef8d2f8de17c756610382adf8.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【プロンプト配布】AI★判断基準",
+    "hashtags": [
+      "プロンプト",
+      "AI活用",
+      "意思決定"
+    ],
+    "classified": true
+  },
+  {
+    "id": "fb441647789da9ea24c1aa6a9dd17b78ef62137a",
+    "title": "掃除の順番が決まらない人へ｜ChatGPTで自宅専用の手順表を作る方法",
+    "url": "https://note.com/happy_lucky_good/n/n4f72f48e62b6",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:21:59+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319032104/rectangle_large_type_2_387a3aa7280f1552c3751b481b70750b.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "掃除の順番が決まらない人へ｜ChatGPTで自宅専用の手順表を作る方法",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "fb8e1380c6494477d099f055502fdf7e4c7dad3e",
+    "title": "「禁断の呪物ガチャ」を回してみました。🌙",
+    "url": "https://note.com/tanya_volkova/n/nc52c4a9d2331",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:17:17+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319031787/rectangle_large_type_2_83ba214fc0af74ffab0665adcf138106.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「禁断の呪物ガチャ」を回してみました。🌙",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1469ccbce6b8d6e4af1d66c0e737b6044622d142",
+    "title": "ChatGPTと作る｜献立プロンプト10選",
+    "url": "https://note.com/juicy_skink6439/n/n26413afb73ed",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:08:08+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/312190727/rectangle_large_type_2_a73e2f7101eff50db96b80d9a7acafb1.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ChatGPTと作る｜献立プロンプト10選",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "46fdffeb9517a2b410cd847b3ba5f36e0566b6e0",
+    "title": "「よくできた文章」が、いちばん気持ち悪かった。",
+    "url": "https://note.com/clean_worm9097/n/n7f4764ca329f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T05:03:03+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317364774/rectangle_large_type_2_dadc565c96d9678abfd96d9a49d91b1c.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「よくできた文章」が、いちばん気持ち悪かった。",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "3a77e271a7a7812d5c0c491013f909b9f9815b34",
+    "title": "ClaudeとGeminiの使い分け｜同じ頼みごとでも「できない」AIがある。非エンジニアが調べるのはGem、作るのはClaudeにした理由【Gemの指示文コピペ可】",
+    "url": "https://note.com/loyal_macaw7649/n/n247c7b001981",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T04:09:00+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ClaudeとGeminiの使い分け｜同じ頼みごとでも「できない」AIがある。非エンジニアが調べるのはGem、作るのはClaudeにした理由【Gemの指示文コピペ可】",
+    "hashtags": [
+      "Claude",
+      "Gemini",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b26fd1ec471bdd0d48597bbe85ec455e5e1bd3b4",
+    "title": "私のnoteの相性診断・有閑マダムの噂話 【プロンプト】",
+    "url": "https://note.com/kusakoya_karasu/n/n4c8c081d0bdc",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T04:01:31+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319025184/rectangle_large_type_2_2ca5d3286b08a98d90ed84355c3b7c80.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "私のnoteの相性診断・有閑マダムの噂話 【プロンプト】",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "7add3f74e42186e5cd1ffad7be2da6ef09fcbb6c",
+    "title": "【AIと開発】ゲーム開発知識ゼロの私がCodexを使って開発した体験―アイデアを形にするまで。",
+    "url": "https://note.com/suipage/n/n9cc7abe138ea",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-09-30T03:42:46+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319024944/rectangle_large_type_2_de43ee03d37bd57978b88e0eaf77d58b.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【AIと開発】ゲーム開発知識ゼロの私がCodexを使って開発した体験―アイデアを形にするまで。",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "db67521d2612d429f8816d31fb2b8a7c409d32bd",
+    "title": "【第2回】フォルダ内のExcelファイル　を全部まとめるVBA｜月末の集計作業　がボタン1つで終わる　　　　　　　　【コピペOK・完全版】",
+    "url": "https://note.com/deep_researching/n/n3783639a1942",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T06:03:18+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/317625140/rectangle_large_type_2_8cc7286cb8fe60ab5a36ebed9bfdb098.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "【第2回】フォルダ内のExcelファイルを全部まとめるVBA｜月末の集計作業がボタン1つで終わる【コピペOK・完全版】",
+    "hashtags": [
+      "Excel",
+      "VBA",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1e45097923eb5d94275a8b78231b7e845ad3ab90",
+    "title": "AIコパルトさんとの会話-250",
+    "url": "https://note.com/hinodetaro3337/n/n15eebd7efed1",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T05:43:45+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIコパルトさんとの会話-250",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "fa7064a8a649ebf2e1ebcc4cc9799918419b0d06",
+    "title": "ExcelでCSVの先頭ゼロと長い番号を守る。保存後まで確かめる手順",
+    "url": "https://note.com/major_duck1729/n/ndac2f45adf42",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T05:23:38+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319032365/rectangle_large_type_2_3f0c0dc490344d8deaf3db790bfff00a.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ExcelでCSVの先頭ゼロと長い番号を守る。保存後まで確かめる手順",
+    "hashtags": [
+      "Excel",
+      "CSV",
+      "データ管理"
+    ],
+    "classified": true
+  },
+  {
+    "id": "56a56ce363ca7a96f1f4f30f5a914717b4df227e",
+    "title": "数字を変えずにExcelグラフを直す。軸・期間・単位の点検",
+    "url": "https://note.com/major_duck1729/n/n83bad49b60f6",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T05:18:22+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319031841/rectangle_large_type_2_218c2dd8aef4af95e419153039cd3926.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "数字を変えずにExcelグラフを直す。軸・期間・単位の点検",
+    "hashtags": [
+      "Excel",
+      "グラフ",
+      "データ分析"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f869f66bf42eda5d063701b683592b0c1b4b3fcc",
+    "title": "Excel申請票の入力漏れを見つける。選択肢と条件別の必須項目を作る",
+    "url": "https://note.com/major_duck1729/n/n9099367c0f20",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T05:11:04+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319030843/rectangle_large_type_2_a9f1a1e538ca0b9d9da5324300d76eec.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excel申請票の入力漏れを見つける。選択肢と条件別の必須項目を作る",
+    "hashtags": [
+      "Excel",
+      "入力規制",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b634f90e471dfcf9f7f08706bd66d203e2991473",
+    "title": "備品の入出庫をExcelで管理する。移動・返品・棚卸差異が残る台帳",
+    "url": "https://note.com/major_duck1729/n/n12ad588e860c",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T05:01:16+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319030386/rectangle_large_type_2_e8ce83dae297b11bfc299f8c50d28cfc.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "備品の入出庫をExcelで管理する。移動・返品・棚卸差異が残る台帳",
+    "hashtags": [
+      "Excel",
+      "在庫管理",
+      "台帳作成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "95b435848cf287ffc4eb271f1b1136e919762b15",
+    "title": "引き継いだExcelの計算が合わない。数式を直す前に原因を切り分ける",
+    "url": "https://note.com/major_duck1729/n/n5d0526500aec",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T04:55:42+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319030017/rectangle_large_type_2_9f75414dfa2b3899a332c278341829db.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "引き継いだExcelの計算が合わない。数式を直す前に原因を切り分ける",
+    "hashtags": [
+      "Excel",
+      "数式",
+      "トラブルシューティング"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e59511ae0ecade717d330dae609b9011872790e0",
+    "title": "部署の予算と実績を比べる。ゼロ予算と未入力を分けるExcel予実表",
+    "url": "https://note.com/major_duck1729/n/n7809bf7af6a5",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T04:51:12+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319029741/rectangle_large_type_2_35095244b9edc6b87512323473746560.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "部署の予算と実績を比べる。ゼロ予算と未入力を分けるExcel予実表",
+    "hashtags": [
+      "Excel",
+      "予実管理",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0f3c9a1f14db3636c07c02a819eaef6c7fa0e3c7",
+    "title": "土日と会社休業日を除いて期限を出す。起算日で迷わないExcel管理表",
+    "url": "https://note.com/major_duck1729/n/ndee1fc379449",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-09-30T04:46:54+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319029434/rectangle_large_type_2_b46e23ad032dfa285ec547fb39a4ff7e.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "土日と会社休業日を除いて期限を出す。起算日で迷わないExcel管理表",
+    "hashtags": [
+      "Excel",
+      "関数",
+      "スケジュール管理"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ecfe412201e4a29eaacaab865fe8b6429b093b47",
+    "title": "コードが「新しいアセンブリ言語」になるAI時代、日本の「職人気質」がソフトウェア開発の足かせになる理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news019.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-30T05:00:00+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "コードが「新しいアセンブリ言語」になるAI時代、日本の「職人気質」がソフトウェア開発の足かせになる理由",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "988079d8b9f8116f91ea8d76c6a5f04f1320cdb0",
+    "title": "「GPT-6.1 Sol」登場　「一部Astra並み」性能をコスト5分の1で提供　先代モデルからわずか1週間で公開",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-30T04:08:07+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「GPT-6.1 Sol」登場　「一部Astra並み」性能をコスト5分の1で提供　先代モデルからわずか1週間で公開",
+    "hashtags": [
+      "OpenAI",
+      "ChatGPT",
+      "新モデル"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f126222f0b223317a6eeb8b074701b9dfc1fdd4e",
+    "title": "OpenAIが「Jev」に追従、「Decisions API」　Lunaで“リアルタイムに意思決定”",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-30T03:42:13+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "OpenAIが「Jev」に追従、「Decisions API」　Lunaで“リアルタイムに意思決定”",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1d9ee134952cc78738dd7bad4d1c5facc79f886b",
+    "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に　利用には「月500ドル」最上位プランが必須",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-30T03:09:11+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "ChatGPTに「Ultrafast」、Astraを8倍高速に　利用には「月500ドル」最上位プランが必須",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI",
+      "新機能"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d82330828d324864f641383a9adb7d708a047720",
+    "title": "OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-30T03:02:40+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働",
+    "hashtags": [
+      "OpenAI",
+      "AIエージェント",
+      "新機能"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3d6464b2133e7804d84aca49f69664bdc97519bc",
+    "title": "Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告　海外報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001860/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T19:18:11+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告　海外報道",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2ba45e36516090d3955e4b511939c4b53b1953d4",
+    "title": "7割の企業が生成AI「個人利用」への対策せず　デロイト調査",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T17:50:50+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "7割の企業が生成AI「個人利用」への対策せず　デロイト調査",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "be0189b7ef1d1680e656ae879b7a88d0adddd4d9",
+    "title": "ChatGPT、サブスク最上位プランの新規受付を再開へ　“5時間制限”を完全撤廃　「利用枠を消費しない新機能」も",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T16:29:16+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "ChatGPT、サブスク最上位プランの新規受付を再開へ　“5時間制限”を完全撤廃　「利用枠を消費しない新機能」も",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI",
+      "サブスクリプション"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c27281ec861f1e9f4ef1e899129903d4f96bf678",
+    "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開　特定のLLMに依存せず入れ替え可能",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T14:56:39+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開　特定のLLMに依存せず入れ替え可能",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "9aacd4f3ba0053369eba9442d8b9adf4af4c55c7",
+    "title": "Geminiの「Gem」廃止へ、11月17日から「スキル」へ刷新",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001839/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T13:42:09+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Geminiの「Gem」廃止へ、11月17日から「スキル」へ刷新",
+    "hashtags": [
+      "Gemini",
+      "Google",
+      "アップデート"
+    ],
+    "classified": true
+  },
+  {
+    "id": "bd9a4c8600c0db3debcaae95ca470a7c808becd4",
+    "title": "「○○にAI使ってます」だけで、製品の魅力になるのか？",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news029.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T12:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「○○にAI使ってます」だけで、製品の魅力になるのか？",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "a1bf5bbdd47f0e26085c7e75702419a464c21a4d",
+    "title": "AIを使ったCOBOLのJava変換、「百害あって一利なし」　AI活用の“落とし穴”を考察",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news111.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T11:30:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIを使ったCOBOLのJava変換、「百害あって一利なし」　AI活用の“落とし穴”を考察",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "28e7d72c23b473965c76d5449403f0924e801123",
+    "title": "Meta、企業向けAI事業「Meta Enterprise Platform」を開始　責任者としてMongoDBのCEO引き抜き",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001829/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T11:05:46+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Meta、企業向けAI事業「Meta Enterprise Platform」を開始　責任者としてMongoDBのCEO引き抜き",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "61638d37e915ffee80beb7e9cd067c900a7e42c7",
+    "title": "マニュアルのないファイルを「だましだまし」運用　6割超が「前任者の謎マクロ・関数」に苦労",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news045.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T11:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "マニュアルのないファイルを「だましだまし」運用　6割超が「前任者の謎マクロ・関数」に苦労",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "a469e834d841514c218367169953c4190b4a9a44",
+    "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T09:38:11+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "542a08857cf070ed94983c6788bfe22015907c43",
+    "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T08:59:11+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2c6940f17a3fc5805985a7cbafc2b737b15fc8b7",
+    "title": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news022.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T08:30:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "81728ff30a2312fd32bd5afbd4e30b9f64d08713",
+    "title": "「10年ぶり刷新」　Android向けサードパーティーストアアプリ「F-Droid 2.0」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news053.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T08:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「10年ぶり刷新」　Android向けサードパーティーストアアプリ「F-Droid 2.0」公開",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "726949b8e70b1f46c24f126c4beaf8174e8f5475",
+    "title": "最も人気のAIユースケース、投資成果では“いまいち”だった　Gartner調査",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T08:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "最も人気のAIユースケース、投資成果では“いまいち”だった　Gartner調査",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1592a3546d12389268f92328dcb1a621f87b685f",
+    "title": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news014.html",
+    "source": "ITmedia AI+",
+    "published": "2026-09-29T08:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "b647847218c180e06caad5083fbf45113b7d350c",
+    "title": "レガシー資産は捨てなくていい？　OutSystemsが考える、基幹システムを作り替えないAI活用",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news034.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-09-29T11:15:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "レガシー資産は捨てなくていい？　OutSystemsが考える、基幹システムを作り替えないAI活用",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "18e6d94bf9a7da4e2faf9ae3bd49b1f6c345f62f",
+    "title": "Microsoftが「Copilot」を刷新　“指示待ちしない”新機能、提供時期は？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news033.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-09-29T07:00:00+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Microsoftが「Copilot」を刷新　“指示待ちしない”新機能、提供時期は？",
+    "hashtags": [
+      "Copilot",
+      "Microsoft",
+      "AIエージェント"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7f8a187282baf4e60f61615b72256e2e54f11a93",
+    "title": "AIを「発見の主体」に据えるAI企業、科学の営みとのずれ",
+    "url": "https://ascii.jp/elem/000/004/438/4438356/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-09-30T05:39:46+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIを「発見の主体」に据えるAI企業、科学の営みとのずれ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "69b04493ea98a0b366ab7f3d243bd4b915aa8126",
+    "title": "OpenAI、24時間働くAIエージェント「dots」発表　ただしプロ向け、月額500ドルの新プランも",
+    "url": "https://ascii.jp/elem/000/004/438/4438355/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-09-30T03:25:00+09:00",
+    "published_display": "2026/9/30 Wed",
+    "thumbnail": "https://ascii.jp/img/2026/09/30/4531812/s/853b61b737a6b9b5.jpg",
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "OpenAI、24時間働くAIエージェント「dots」発表　ただしプロ向け、月額500ドルの新プランも",
+    "hashtags": [
+      "OpenAI",
+      "AIエージェント",
+      "dots"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f48e6e491ad37278dea87b68099d76a357a96d71",
+    "title": "【23655円ゲット】Teclast新発売タブレット『T60Mini』を期間限定の低価格でお得に購入可能！ 2.5K 90Hz画面、8.8インチ、Android 17、T7300、4G LTE GPS",
+    "url": "https://ascii.jp/elem/000/004/438/4438344/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-09-29T18:57:16+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【23655円ゲット】Teclast新発売タブレット『T60Mini』を期間限定の低価格でお得に購入可能！ 2.5K 90Hz画面、8.8インチ、Android 17、T7300、4G LTE GPS",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "85a894252c5c994f588eb6988a6a96a3a9093f58",
+    "title": "女性支援団体Colabo元スタッフが告発文　「少女たちを無断撮影」「スタッフにパワハラ」　Colabo側は全否定",
+    "url": "http://dailycult.blogspot.com/2026/09/colabocolabo.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-29T17:10:55+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "女性支援団体Colabo元スタッフが告発文　「少女たちを無断撮影」「スタッフにパワハラ」　Colabo側は全否定",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "4089df94b1a30287af05efcddd16e0ba1e1db5d8",
+    "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超",
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-29T20:47:47+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d9c80dbfa00ad7d0c7eb1b501b632fabf91b116e",
+    "title": "“アイヌ語オンリー”の美少女と交流ゲーム『【悲報】転校生、アイヌ語しか使えない模様』9月30日無料配信へ。マシントッシュさんと「イランカラプテ」して親密度UP - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20260929-470501/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-29T11:15:56+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "“アイヌ語オンリー”の美少女と交流ゲーム『【悲報】転校生、アイヌ語しか使えない模様』9月30日無料配信へ。マシントッシュさんと「イランカラプテ」して親密度UP - AUTOMATON",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "acaaf1dba9ef1342eefb3a2b896ffdba8b9105b7",
+    "title": "【アニメ新番組一覧】2026年10月期。「FX戦士くるみちゃん」「生徒会にも穴はある!」「TANK CHAIR-戦車椅子-」など",
+    "url": "https://av.watch.impress.co.jp/docs/topic/newanime/2138862.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-09-29T20:42:27+09:00",
+    "published_display": "2026/9/29 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【アニメ新番組一覧】2026年10月期。「FX戦士くるみちゃん」「生徒会にも穴はある!」「TANK CHAIR-戦車椅子-」など",
+    "hashtags": [],
+    "classified": true
+  }
+]
