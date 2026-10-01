@@ -197,7 +197,10 @@ def call_with_retries(client, model: str, prompt: str, batch_len: int):
     for attempt in range(len(OVERLOAD_RETRY_WAITS) + 1):
         used += 1
         try:
-            resp = client.models.generate_content(model=model, contents=prompt)
+            # JSONモードを指定し、軽量モデルでも崩れたJSONが返らないようにする
+            resp = client.models.generate_content(
+                model=model, contents=prompt, config={"response_mime_type": "application/json"}
+            )
             text = (resp.text or "").strip()
             text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
             return "ok", json.loads(text), used
