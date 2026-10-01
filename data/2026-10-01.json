@@ -9,16 +9,15 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
       "windows"
     ],
     "howto": false,
-    "title_ja": "アップグレードして大丈夫？　「Windows 11 バージョン 26H2」で確認済みの問題は3件／基本的には問題がないが、いくつか注意点も",
+    "title_ja": "アップグレードして大丈夫？ 「Windows 11 バージョン 26H2」で確認済みの問題は3件／基本的には問題がないが、いくつか注意点も",
     "hashtags": [
       "Windows11",
-      "アップデート",
-      "不具合情報"
-    ]
+      "アップデート"
+    ],
+    "classified": true
   },
   {
     "id": "2875acdf0111dabdd99f07af8337eb7f5bc1749b",
@@ -30,15 +29,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
+      "windows",
       "news"
     ],
     "howto": false,
     "title_ja": "「Google Chrome 154」で32件の脆弱性修正、「Microsoft Edge」も追随／「Critical」（致命的）と評価された脆弱性は1件",
     "hashtags": [
-      "Chrome",
       "Edge",
+      "Chrome",
       "セキュリティ"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "2b8aef405907a892146df8f1612ab26918d81293",
@@ -48,15 +49,18 @@
     "published": "2026-09-30T15:30:00+09:00",
     "published_display": "2026/9/30 Wed",
     "thumbnail": null,
-    "excluded": true,
-    "tags": [],
+    "excluded": false,
+    "tags": [
+      "windows",
+      "news"
+    ],
     "howto": false,
     "title_ja": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
     "hashtags": [
-      "WSL",
-      "Linux",
-      "Docker"
-    ]
+      "Windows",
+      "WSL"
+    ],
+    "classified": true
   },
   {
     "id": "230f7db5dbc03061be7c684f58746d8c289acc91",
@@ -68,16 +72,15 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
       "windows"
     ],
-    "howto": false,
+    "howto": true,
     "title_ja": "デスクトップ付箋の老舗「付箋紙21」に6年ぶりの新作、64bit版が登場／「Delphi 13 CE」と「Claude」の力を借りて復活",
     "hashtags": [
-      "付箋紙21",
       "Windows",
-      "デスクトップアプリ"
-    ]
+      "フリーソフト"
+    ],
+    "classified": true
   },
   {
     "id": "bd972bd68e7ba68405ecb7c148a118e27f77f19f",
@@ -89,15 +92,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "news",
+      "ai"
     ],
     "howto": false,
     "title_ja": "OpenAI、月額200米ドルの「ChatGPT Pro」新規受け付けを再開。月額500米ドル版も追加／使用量計算の変更、プラン間の倍率の見直しも",
     "hashtags": [
-      "OpenAI",
       "ChatGPT",
-      "ChatGPTPro"
-    ]
+      "OpenAI"
+    ],
+    "classified": true
   },
   {
     "id": "43f0e7058045dbf84914ee8c65dbbc67baa90dae",
@@ -115,9 +119,9 @@
     "title_ja": "【Excel】残業の現状を分析したいが自由記述欄が整理できない！ 分析しやすくする方法【いまさら聞けないExcelの使い方講座】",
     "hashtags": [
       "Excel",
-      "データ整理",
-      "業務効率化"
-    ]
+      "データ分析"
+    ],
+    "classified": true
   },
   {
     "id": "51f1860a25f013197440a418daa135d1f177dec0",
@@ -129,15 +133,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "news",
+      "ai"
     ],
     "howto": false,
     "title_ja": "「GPT-6.1 Sol」が登場 ～「GPT-6 Astra」に迫る知能を5分の1の料金で／「Astra Ultrafast」も提供開始、月額500米ドルの新「Pro」ティアも",
     "hashtags": [
-      "OpenAI",
-      "GPT6",
-      "AIニュース"
-    ]
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "classified": true
   },
   {
     "id": "625bff37b47f758f0a9fc382958acba5abf0e4b2",
@@ -2027,7 +2032,18 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:44:27+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Day23｜値切られにくくなった見積もりプロンプト｜根拠を3つ作らせる",
+    "hashtags": [
+      "生成AI",
+      "プロンプト"
+    ],
+    "classified": true
   },
   {
     "id": "06daca957008c3c173fca6a40a90abd7e4a5b42b",
@@ -2036,7 +2052,13 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:42:47+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319724730/rectangle_large_type_2_b7a05d8e560eeaf64edf8bae79a25ac6.jpg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319724730/rectangle_large_type_2_b7a05d8e560eeaf64edf8bae79a25ac6.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "金魚標本",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "1a26996bef56c90d62073d601706ac42fc2c4c38",
@@ -2045,7 +2067,18 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:40:26+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319724104/rectangle_large_type_2_1a1c4f07de83bfbf93c006f2419c242b.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319724104/rectangle_large_type_2_1a1c4f07de83bfbf93c006f2419c242b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "投稿担当者が変わってもブランドイメージを統一するSNS投稿作成術",
+    "hashtags": [
+      "生成AI",
+      "プロンプト"
+    ],
+    "classified": true
   },
   {
     "id": "db4afc39327d2e3adfecd0829c8d261499039e18",
@@ -2054,7 +2087,13 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:39:42+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319723295/rectangle_large_type_2_cabedd0434f95bcb1d0d34780a1ab043.jpg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319723295/rectangle_large_type_2_cabedd0434f95bcb1d0d34780a1ab043.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "深海標本",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "a06b12bf0c8596e4d4ce99909d5d2fb3489aae5d",
@@ -2063,7 +2102,13 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:35:23+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319722828/rectangle_large_type_2_20370735b7b8cb0a4675dba7b3282a7e.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319722828/rectangle_large_type_2_20370735b7b8cb0a4675dba7b3282a7e.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "恐竜×おでかけ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "6e3dfcedc4f057a4f22c40982935ea6868e3f55d",
@@ -2072,7 +2117,13 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:30:38+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319720801/rectangle_large_type_2_534b849bab607a2dc7140c041581431d.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319720801/rectangle_large_type_2_534b849bab607a2dc7140c041581431d.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "和×童話「赤ずきん」",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "6ecc2bee61e48a8d6a6275792e7e4aba6d4a91c9",
@@ -2081,7 +2132,18 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-01T23:25:19+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319719603/rectangle_large_type_2_89bbe9a31e299b7ab5a648f9f6168fbb.jpeg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319719603/rectangle_large_type_2_89bbe9a31e299b7ab5a648f9f6168fbb.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "生成AIに渡す資料の作り方、どこまで整えておけばいいのか",
+    "hashtags": [
+      "生成AI",
+      "プロンプト"
+    ],
+    "classified": true
   },
   {
     "id": "e85a438b23c5be18ec3b8caedff59c8a46a06e72",
