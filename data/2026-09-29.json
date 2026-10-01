@@ -12,12 +12,12 @@
       "windows"
     ],
     "howto": false,
-    "title_ja": "Windows 11のUIを7/10風に戻す「StartAllBack」、次期大型更新「26H2」に正式対応／上下左右どこにでも配置できるようになったタスクバーにも追随",
+    "title_ja": "Windows 11のUIを7/10風に戻す「StartAllBack」、次期大型更新「26H2」に正式対応",
     "hashtags": [
       "Windows11",
-      "StartAllBack",
-      "タスクバー"
-    ]
+      "カスタマイズ"
+    ],
+    "classified": true
   },
   {
     "id": "111acf99385c79f8e6467a5c802a6539ecca1b9b",
@@ -30,8 +30,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "第1回「国際AIクリエイターアワード2026」第2期作品公募を開始 ～11月に幕張メッセで授賞式／生成AI時代の優れたクリエイターとその作品を国際的に発掘・顕彰",
-    "hashtags": []
+    "title_ja": "第1回「国際AIクリエイターアワード2026」第2期作品公募を開始、11月に幕張メッセで授賞式",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "1c74085962c1b3044c52ecc41559b407413ed518",
@@ -43,16 +44,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "office",
-      "windows"
+      "windows",
+      "office"
     ],
-    "howto": false,
-    "title_ja": "墨消しが得意な無料PDF編集ソフト「PDF MARIN」、国会図書館の縦書きAI-OCRでテキスト起こしも強化／写真やスキャンの表を「Excel」へ書き出し、印鑑機能も改善",
+    "howto": true,
+    "title_ja": "墨消しが得意な無料PDF編集ソフト「PDF MARIN」、国会図書館の縦書きAI-OCRでテキスト起こしも強化",
     "hashtags": [
       "PDF",
-      "Excel",
-      "AIOCR"
-    ]
+      "AIOCR",
+      "Excel"
+    ],
+    "classified": true
   },
   {
     "id": "aa82bdd6d667e411a8bdf19ea977161a83444016",
@@ -64,16 +66,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
       "office"
     ],
-    "howto": false,
-    "title_ja": "「Google スプレッドシート」にピボットテーブルの手動・カスタム並べ替え機能が追加／「Microsoft Excel」との互換性も向上",
+    "howto": true,
+    "title_ja": "「Google スプレッドシート」にピボットテーブルの手動・カスタム並べ替え機能が追加",
     "hashtags": [
-      "Googleスプレッドシート",
+      "スプレッドシート",
       "Excel",
       "ピボットテーブル"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "85a6cbfaadb0cc77ca7ac3c5d48731211b0639b3",
@@ -85,16 +87,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "windows"
+      "windows",
+      "news"
     ],
     "howto": false,
-    "title_ja": "クイック設定で省エネの提案、［スタート］画面の「スマートフォン連携」も改善へ／「Windows 11 Insider Preview」に新しいビルド",
+    "title_ja": "クイック設定で省エネの提案、［スタート］画面の「スマートフォン連携」も改善へ",
     "hashtags": [
       "Windows11",
-      "InsiderPreview",
-      "スマホ連携"
-    ]
+      "スマートフォン連携"
+    ],
+    "classified": true
   },
   {
     "id": "3ff265142a5ced323a798610c6f599d71175deca",
@@ -107,8 +109,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "「Python」のWindowsフルインストーラー引退に注目が集まる ～窓の杜アクセスランキング［2026/9/21～2026/9/27］",
-    "hashtags": []
+    "title_ja": "「Python」のWindowsフルインストーラー引退に注目が集まる",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "fae88cfa75c22a39ba8446e2ef290c1df955f812",
@@ -120,8 +123,8 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "windows"
+      "windows",
+      "news"
     ],
     "howto": false,
     "title_ja": "Windowsのデータ移行機能「PC-to-PC Migration」が廃止に、今後は「OneDrive」経由で",
@@ -129,7 +132,8 @@
       "Windows11",
       "OneDrive",
       "データ移行"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "2d2d36cd70e7c1d26de92976fe6a51e334d2eb36",
@@ -141,16 +145,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "office"
+      "office",
+      "news"
     ],
-    "howto": false,
-    "title_ja": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
+    "howto": true,
+    "title_ja": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ",
     "hashtags": [
       "Excel",
-      "新機能",
+      "Microsoft365",
       "関数"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "e5e0925fd223833dffae1502b6d87d6a2cab70cd",
@@ -162,17 +167,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "ai",
-      "windows"
+      "windows",
+      "ai"
     ],
     "howto": false,
-    "title_ja": "無償の動画編集アプリ「Clipchamp」にAIアップスケール機能が追加、低解像度動画を最大4Kに ～処理は手元のPCで完結／「Copilot+ PC」ではNPUを活用",
+    "title_ja": "無償の動画編集アプリ「Clipchamp」にAIアップスケール機能が追加、低解像度動画を最大4Kに",
     "hashtags": [
       "Clipchamp",
       "AI",
-      "CopilotPC"
-    ]
+      "動画編集"
+    ],
+    "classified": true
   },
   {
     "id": "8dcddd0c0d38dd6e1496dacec07bfa07e7b4a9e6",
@@ -184,16 +189,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "ai",
-      "office"
+      "office",
+      "ai"
     ],
     "howto": true,
-    "title_ja": "【PowerPoint】毎回同じ指示を書くのは無駄！ Copilotの「スキル」で資料作成ルールを使い回す",
+    "title_ja": "毎回同じ指示を書くのは無駄！ Copilotの「スキル」で資料作成ルールを使い回す",
     "hashtags": [
       "PowerPoint",
       "Copilot",
-      "プロンプト"
-    ]
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "75b5a5e68540d12818286235581f430273fd115e",

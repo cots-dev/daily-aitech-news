@@ -10,8 +10,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "「Microsoft Defender」のゼロデイ脆弱性（？）「BigDiskBuster」が公開されるも……／『それをゼロデイと呼ぶべきなのか』と冷ややかな声も",
-    "hashtags": []
+    "title_ja": "「Microsoft Defender」のゼロデイ脆弱性（？）「BigDiskBuster」が公開されるも……",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "00bdbaee860fabf8d738edf9bddeb769007662b2",
@@ -32,7 +33,8 @@
       "GoogleAI",
       "Gemini",
       "GoogleColab"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "91f0591b3ad63744035bfe3a327e078ef517a459",
@@ -51,9 +53,10 @@
     "title_ja": "“声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表",
     "hashtags": [
       "Gemini",
-      "AI",
+      "Google",
       "音声合成"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "0165feb0b197d4c9864359281105d2768ff86722",
@@ -65,15 +68,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "windows"
+      "windows",
+      "news"
     ],
     "howto": false,
-    "title_ja": "Windows 11の2026年9月プレビューパッチが公開 ～「バージョン 24H2」はこれが最後",
+    "title_ja": "Windows 11の2026年9月プレビューパッチが公開、「バージョン 24H2」はこれが最後",
     "hashtags": [
       "Windows11",
-      "Copilot"
-    ]
+      "アップデート"
+    ],
+    "classified": true
   },
   {
     "id": "2b0a33cd885fa9446ff214d481ca05da24bf3405",
@@ -85,14 +89,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
+      "windows",
       "news"
     ],
     "howto": false,
     "title_ja": "「Google Chrome 154」が公開、HTTP接続時に警告する「Ask before HTTP」が既定有効に",
     "hashtags": [
-      "Chrome",
-      "ブラウザ"
-    ]
+      "GoogleChrome",
+      "ブラウザ",
+      "セキュリティ"
+    ],
+    "classified": true
   },
   {
     "id": "146cb5a86727fce3c4d209c0f1807bdeb5371d99",
@@ -102,17 +109,12 @@
     "published": "2026-09-24T08:22:51+09:00",
     "published_display": "2026/9/24 Thu",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news",
-      "ai"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
     "title_ja": "ノートPCを閉じてもOK、「Claude Code」の“クラウドセッション”の一般提供が開始",
-    "hashtags": [
-      "Claude",
-      "AI"
-    ]
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "a428d256c19708071c4ebbd892d1d40330028b28",
@@ -124,14 +126,15 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "windows"
     ],
     "howto": false,
     "title_ja": "「Firefox 156.0.1」が公開、特定のWebページで応答不能になる問題などに対処",
     "hashtags": [
       "Firefox",
       "ブラウザ"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "e5bcad792d1eea68c38afbeb1b955b91c20ef472",

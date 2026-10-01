@@ -9,15 +9,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news",
-      "windows"
+      "windows",
+      "news"
     ],
     "howto": false,
-    "title_ja": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+    "title_ja": "「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始、「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
     "hashtags": [
       "Windows11",
       "アップデート"
-    ]
+    ],
+    "classified": true
   },
   {
     "id": "b9421f57c528590f5bc6bbfd78c9c0fb9ca82c95",
@@ -29,14 +30,16 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "windows"
     ],
-    "howto": false,
-    "title_ja": "Office文書や画像・音声・動画のメタデータ対応のGREPツール「TextSS」v6.11 ほか【ダイジェストニュース】",
+    "howto": true,
+    "title_ja": "Office文書や画像・音声・動画のメタデータ対応のGREPツール「TextSS」v6.11",
     "hashtags": [
-      "TextSS",
-      "便利ツール"
-    ]
+      "Windows",
+      "フリーソフト",
+      "ファイル検索"
+    ],
+    "classified": true
   },
   {
     "id": "e1d76c587353e3170077cdc33030f4535f95ce94",
@@ -48,15 +51,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "news",
+      "ai"
     ],
     "howto": false,
-    "title_ja": "汎用AIエージェント「Manus 2.0」が発表 ～デスクトップアプリは「Manus Studio」へ／タスクの代行から創造のワークスペースに。エージェントアプリ「Cue」も登場",
+    "title_ja": "汎用AIエージェント「Manus 2.0」が発表、デスクトップアプリは「Manus Studio」へ",
     "hashtags": [
+      "AI",
       "AIエージェント",
-      "Manus",
-      "新機能"
-    ]
+      "Manus"
+    ],
+    "classified": true
   },
   {
     "id": "e027974268fbcdd7d05966bb874b2cfd45487078",
@@ -66,17 +71,12 @@
     "published": "2026-09-29T16:37:00+09:00",
     "published_display": "2026/9/29 Tue",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
-    "title_ja": "アバター姿でWeb会議に参加！「Meta Quest」がPCのマイク＆カメラとして利用可能に、「アバターカメラ」も搭載／MR/VRヘッドセット用アプリ「Mixed Reality Link」の新機能",
-    "hashtags": [
-      "MetaQuest",
-      "Web会議",
-      "アバター"
-    ]
+    "title_ja": "アバター姿でWeb会議に参加！「Meta Quest」がPCのマイク＆カメラとして利用可能に",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "9ec8e110cb013507a544c6b632d6320cc3d17595",
@@ -89,8 +89,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "「Git for Windows」v2.56.0が公開 ～4GB以上のオブジェクトをコミットできるように／Windows 8.1のサポートは終了",
-    "hashtags": []
+    "title_ja": "「Git for Windows」v2.56.0が公開、4GB以上のオブジェクトをコミット可能に",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "1058674c92984ae53bdb44702392fcfc6ba79fa8",
@@ -100,16 +101,12 @@
     "published": "2026-09-29T14:50:00+09:00",
     "published_display": "2026/9/29 Tue",
     "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "news"
-    ],
+    "excluded": true,
+    "tags": [],
     "howto": false,
-    "title_ja": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる",
-    "hashtags": [
-      "MicrosoftLearn",
-      "Microsoft"
-    ]
+    "title_ja": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "3995c230b8590c76a394e03a9c21a93832513ced",
@@ -121,15 +118,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "news",
+      "windows"
     ],
     "howto": false,
-    "title_ja": "ゲームの解像度とフレームレートを両立、NPUでアップスケーリングする「Auto SR」が「Intel Core Ultra シリーズ 3」に対応／Copilot+ PCのゲーム環境が強化",
+    "title_ja": "ゲームの解像度とフレームレートを両立、NPUでアップスケーリングする「Auto SR」が「Intel Core Ultra シリーズ 3」に対応",
     "hashtags": [
+      "Windows11",
       "CopilotPlusPC",
-      "NPU",
-      "Intel"
-    ]
+      "NPU"
+    ],
+    "classified": true
   },
   {
     "id": "f92a78db10ab28cfff7940b60d8a8e2d6386da52",
@@ -142,8 +141,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "Microsoft、「Windows 展開サービス」（WDS）を非推奨に ～次期「Windows Server」から／「WDS」が提供するPXEブート機能も対象。「Configuration Manager」への移行を推奨",
-    "hashtags": []
+    "title_ja": "Microsoft、「Windows 展開サービス」（WDS）を非推奨に、次期「Windows Server」から",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "85d29fc5bca06dab6dcdd5c8e1e3604169771dff",
@@ -156,8 +156,9 @@
     "excluded": true,
     "tags": [],
     "howto": false,
-    "title_ja": "GitHub Copilotにコードを新規作成させる方法まとめ ～3種類のテクニックを確認",
-    "hashtags": []
+    "title_ja": "GitHub Copilotにコードを新規作成させる方法まとめ、3種類のテクニックを確認",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "3ca1454b26d5c2df51cb2f3d42fb8eda180af686",
@@ -169,15 +170,17 @@
     "thumbnail": null,
     "excluded": false,
     "tags": [
-      "news"
+      "news",
+      "ai"
     ],
     "howto": false,
-    "title_ja": "Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30％減／「Claude 5.5」ファミリーの第2弾。ベンチマークによっては「Opus 5.5」に迫る",
+    "title_ja": "Anthropic、「Claude Sonnet 5.5」を発表、30％以上高速に、コストは最大30％減",
     "hashtags": [
       "Anthropic",
       "Claude",
-      "AIモデル"
-    ]
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "528bdd341b2d6aa9de015efed64a71f8f531604d",
