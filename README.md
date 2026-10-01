@@ -67,6 +67,7 @@ scripts/
   collect.py           … RSS収集・重複除外・Gemini分類
   build_site.py        … data/*.json から docs/ 以下のHTMLを生成
   generate_network_bg.py … 背景のコネクター柄SVG（templates/assets/）を生成する一度きりのツール
+  generate_icons.py    … design/ の元画像からファビコン・アプリアイコン（templates/assets/icons/）を生成する一度きりのツール（要Pillow）
 templates/
   base.html.jinja       … 全ページ共通の枠（ヘッダー・メニュー・フッター）
   page.html.jinja       … 当日ページ（総合＋カテゴリタブ＋ブックマークタブ）
@@ -75,6 +76,8 @@ templates/
   style.css.jinja       … 見た目一式（カテゴリ数に応じて動的生成）
   app.js                … ブックマークの追加/解除・一覧表示（localStorage）とメニュー開閉
   assets/               … 背景のコネクター柄SVG
+  assets/icons/         … ファビコン・スマホのホーム画面用アイコン（生成済みのPNG/ICO）
+design/                … アイコンの元デザイン画像（文字入り＝アプリ用、文字なし＝ファビコン用）
 data/
   YYYY-MM-DD.json       … 収集済み記事のアーカイブ（タグ付き）
   seen_urls.json        … 重複収集を防ぐための既収集URL一覧

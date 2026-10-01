@@ -5,6 +5,8 @@
 - docs/assets/style.css    … カテゴリ数に応じて動的生成するCSS
 - docs/assets/app.js       … ブックマーク機能（localStorage）とメニュー開閉
 - docs/robots.txt          … 検索エンジンからの発見を避けるための全面Disallow
+- docs/favicon.ico, docs/apple-touch-icon.png, docs/assets/icons/ … ファビコン・アプリアイコン
+- docs/manifest.webmanifest … スマホのホーム画面に追加したときのアプリ名・アイコン
 
 過去日付ごとのアーカイブページは持たない（ブックマークした記事だけが
 日付を問わず「ブックマーク」タブから参照できる）。
@@ -113,6 +115,44 @@ def build_source_groups(sources: list) -> list:
     return [{"label": label, "sites": list(sites.values())} for label, sites in groups.items()]
 
 
+ICONS_DIR = TEMPLATES_DIR / "assets" / "icons"
+# アイコン画像は scripts/generate_icons.py で生成済みのものをコピーする
+APP_NAME = "Daily AI/Tech News"
+APP_SHORT_NAME = "AI/Tech News"  # ホーム画面のアイコン下に出る名前（長いと省略されるため短く）
+APP_COLOR = "#031c41"  # アイコンの紺色に合わせる
+
+
+def copy_icons() -> None:
+    (DOCS_DIR / "assets" / "icons").mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(ICONS_DIR / "favicon.ico", DOCS_DIR / "favicon.ico")
+    shutil.copyfile(ICONS_DIR / "apple-touch-icon.png", DOCS_DIR / "apple-touch-icon.png")
+    for name in ("favicon-32.png", "icon-192.png", "icon-512.png", "icon-maskable-512.png"):
+        shutil.copyfile(ICONS_DIR / name, DOCS_DIR / "assets" / "icons" / name)
+    manifest = {
+        "name": APP_NAME,
+        "short_name": APP_SHORT_NAME,
+        "start_url": "./",
+        "scope": "./",
+        "display": "standalone",
+        "background_color": APP_COLOR,
+        "theme_color": APP_COLOR,
+        "lang": "ja",
+        "icons": [
+            {"src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+            {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+            {
+                "src": "assets/icons/icon-maskable-512.png",
+                "sizes": "512x512",
+                "type": "image/png",
+                "purpose": "maskable",
+            },
+        ],
+    }
+    (DOCS_DIR / "manifest.webmanifest").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+
+
 def build() -> None:
     categories = load_yaml("categories.yaml").get("categories", [])
     sources = load_yaml("sources.yaml").get("sources", [])
@@ -131,6 +171,7 @@ def build() -> None:
     for svg_name in ("network-corner-tl.svg", "network-corner-br.svg"):
         shutil.copyfile(TEMPLATES_DIR / "assets" / svg_name, DOCS_DIR / "assets" / svg_name)
     (DOCS_DIR / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
+    copy_icons()
 
     day_files = sorted(DATA_DIR.glob("20*-*-*.json"))
     if not day_files:
