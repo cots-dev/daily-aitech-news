@@ -14,6 +14,7 @@ import json
 import os
 import re
 import time
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -58,6 +59,30 @@ def save_seen(seen: set) -> None:
     path.write_text(
         json.dumps(sorted(seen), ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+
+NOTE_KEY_RE = re.compile(r"note\.com/[^/]+/n/(n[0-9a-z]+)")
+NOTE_API = "https://note.com/api/v3/notes/{key}"
+
+
+def is_locked_note(url: str) -> bool:
+    """noteの有料記事・メンバー限定記事なら True。RSSには価格が載らないため記事APIで確認する。
+    判定できなかった場合は False（取りこぼさない側）に倒す。"""
+    m = NOTE_KEY_RE.search(url)
+    if not m:
+        return False
+    try:
+        req = urllib.request.Request(
+            NOTE_API.format(key=m.group(1)), headers={"User-Agent": "Mozilla/5.0 (daily-aitech-news)"}
+        )
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read())["data"]
+    except Exception as e:  # noqa: BLE001
+        print(f"[WARN] noteの有料判定に失敗したため掲載対象として扱います: {url} - {e}")
+        return False
+    finally:
+        time.sleep(0.3)  # noteのAPIに負荷をかけないよう間隔をあける
+    return bool(data.get("price")) or data.get("can_read") is False
 
 
 def matches_keywords(text: str, keywords: list) -> bool:
@@ -111,6 +136,7 @@ def collect() -> tuple[list, set]:
     keywords = load_yaml("keywords.yaml")["keywords"]
     seen = load_seen()
     new_articles = []
+    skipped_locked = 0
 
     for src in sources:
         if not src.get("enabled", True) or not src.get("url"):
@@ -140,6 +166,11 @@ def collect() -> tuple[list, set]:
                 if not matches_keywords(text, keywords):
                     continue
 
+            if "note.com/" in url and is_locked_note(url):
+                seen.add(h)  # 有料記事は翌日以降も再判定しない
+                skipped_locked += 1
+                continue
+
             published, published_display = format_published(entry)
 
             new_articles.append(
@@ -155,6 +186,8 @@ def collect() -> tuple[list, set]:
             )
             seen.add(h)
 
+    if skipped_locked:
+        print(f"[INFO] noteの有料記事・メンバー限定記事{skipped_locked}件を除外しました")
     return new_articles, seen
 
 
@@ -249,11 +282,13 @@ AI・Office・Windowsの情報を届けるニュースサイトの編集者で�
    - ChatGPT・Copilot・Gemini・Claudeなど主要なAIサービスや、Microsoft・Google・OpenAI・Anthropicの
      新モデル・新機能・料金・提供開始などの発表は、どの媒体の記事でも news に入れる。
    - 生成AIを使った作業手順やプロンプト例は、Googleのアプリ上での操作であっても ai に入れる。
+   - PowerToysやWindowsで使えるフリーソフト（無料ツール）の紹介・新バージョン・使い方は windows に入れる。
 2. exclude: 次のいずれかにはっきり当てはまる場合だけ true。それ以外は false（迷う場合も false）。
    - 個人の日記・雑談・挨拶・近況報告・創作（AIと物語を作った、など）
    - エンジニア向けのプログラミング・開発・インフラの記事（GitHub Copilot、API・SDK、コード解説など）
    - IT管理者・情報システム部門向けの製品導入・運用・セキュリティ製品の話
    - PC・スマホ・周辺機器などハードウェア製品の紹介やレビュー、書籍の発売・セール・キャンペーンの告知
+   - ゲームやエンタメ用途のソフト（仕事で使えるフリーソフト・ユーティリティは除外しない）
    - 副業・投資・ギャンブル・趣味など業務と関係のない用途、政治・社会・業界動向の一般ニュース
    exclude が true なら tags は空配列でよい。
 3. howto: 操作手順・設定方法・関数の使い方・プロンプト例など、読んですぐ自分で試せる具体的な内容なら true。

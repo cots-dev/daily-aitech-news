@@ -17,8 +17,7 @@
     "hashtags": [
       "Windows11",
       "アップデート"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "b9421f57c528590f5bc6bbfd78c9c0fb9ca82c95",
@@ -37,8 +36,7 @@
     "hashtags": [
       "TextSS",
       "便利ツール"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "e1d76c587353e3170077cdc33030f4535f95ce94",
@@ -58,8 +56,7 @@
       "AIエージェント",
       "Manus",
       "新機能"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "e027974268fbcdd7d05966bb874b2cfd45487078",
@@ -79,8 +76,7 @@
       "MetaQuest",
       "Web会議",
       "アバター"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "9ec8e110cb013507a544c6b632d6320cc3d17595",
@@ -94,8 +90,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "「Git for Windows」v2.56.0が公開 ～4GB以上のオブジェクトをコミットできるように／Windows 8.1のサポートは終了",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "1058674c92984ae53bdb44702392fcfc6ba79fa8",
@@ -114,8 +109,7 @@
     "hashtags": [
       "MicrosoftLearn",
       "Microsoft"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "3995c230b8590c76a394e03a9c21a93832513ced",
@@ -135,8 +129,7 @@
       "CopilotPlusPC",
       "NPU",
       "Intel"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "f92a78db10ab28cfff7940b60d8a8e2d6386da52",
@@ -150,8 +143,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "Microsoft、「Windows 展開サービス」（WDS）を非推奨に ～次期「Windows Server」から／「WDS」が提供するPXEブート機能も対象。「Configuration Manager」への移行を推奨",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "85d29fc5bca06dab6dcdd5c8e1e3604169771dff",
@@ -165,8 +157,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "GitHub Copilotにコードを新規作成させる方法まとめ ～3種類のテクニックを確認",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "3ca1454b26d5c2df51cb2f3d42fb8eda180af686",
@@ -186,8 +177,7 @@
       "Anthropic",
       "Claude",
       "AIモデル"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "528bdd341b2d6aa9de015efed64a71f8f531604d",
@@ -696,21 +686,6 @@
     "classified": true
   },
   {
-    "id": "b0eff2a08ab39384efe7e61b8f99409e41f74fcf",
-    "title": "Agentic AutofixがMemoryを使い始めた今：45分で作る修正提案レビューシート",
-    "url": "https://note.com/ma05sa/n/n3f10dbea5463",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-09-29T23:48:36+09:00",
-    "published_display": "2026/9/29 Tue",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/318990847/rectangle_large_type_2_852a8cb8beb434fbd30e1ebc27568d20.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "Agentic AutofixがMemoryを使い始めた今：45分で作る修正提案レビューシート",
-    "hashtags": [],
-    "classified": true
-  },
-  {
     "id": "539d327abab7a9ed2eb5bc07df026716c7b9ff0a",
     "title": "Copilot案件が13倍。社内でやると、誰かの月11時間になる",
     "url": "https://note.com/clownfish_0823/n/nea050cd21ee9",
@@ -849,42 +824,6 @@
     "classified": true
   },
   {
-    "id": "46fdffeb9517a2b410cd847b3ba5f36e0566b6e0",
-    "title": "「よくできた文章」が、いちばん気持ち悪かった。",
-    "url": "https://note.com/clean_worm9097/n/n7f4764ca329f",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-30T05:03:03+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317364774/rectangle_large_type_2_dadc565c96d9678abfd96d9a49d91b1c.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "「よくできた文章」が、いちばん気持ち悪かった。",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "3a77e271a7a7812d5c0c491013f909b9f9815b34",
-    "title": "ClaudeとGeminiの使い分け｜同じ頼みごとでも「できない」AIがある。非エンジニアが調べるのはGem、作るのはClaudeにした理由【Gemの指示文コピペ可】",
-    "url": "https://note.com/loyal_macaw7649/n/n247c7b001981",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-30T04:09:00+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "ClaudeとGeminiの使い分け｜同じ頼みごとでも「できない」AIがある。非エンジニアが調べるのはGem、作るのはClaudeにした理由【Gemの指示文コピペ可】",
-    "hashtags": [
-      "Claude",
-      "Gemini",
-      "プロンプト"
-    ],
-    "classified": true
-  },
-  {
     "id": "b26fd1ec471bdd0d48597bbe85ec455e5e1bd3b4",
     "title": "私のnoteの相性診断・有閑マダムの噂話 【プロンプト】",
     "url": "https://note.com/kusakoya_karasu/n/n4c8c081d0bdc",
@@ -896,21 +835,6 @@
     "tags": [],
     "howto": false,
     "title_ja": "私のnoteの相性診断・有閑マダムの噂話 【プロンプト】",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "7add3f74e42186e5cd1ffad7be2da6ef09fcbb6c",
-    "title": "【AIと開発】ゲーム開発知識ゼロの私がCodexを使って開発した体験―アイデアを形にするまで。",
-    "url": "https://note.com/suipage/n/n9cc7abe138ea",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-30T03:42:46+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319024944/rectangle_large_type_2_de43ee03d37bd57978b88e0eaf77d58b.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "【AIと開発】ゲーム開発知識ゼロの私がCodexを使って開発した体験―アイデアを形にするまで。",
     "hashtags": [],
     "classified": true
   },
@@ -948,153 +872,6 @@
     "howto": false,
     "title_ja": "AIコパルトさんとの会話-250",
     "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "fa7064a8a649ebf2e1ebcc4cc9799918419b0d06",
-    "title": "ExcelでCSVの先頭ゼロと長い番号を守る。保存後まで確かめる手順",
-    "url": "https://note.com/major_duck1729/n/ndac2f45adf42",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T05:23:38+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319032365/rectangle_large_type_2_3f0c0dc490344d8deaf3db790bfff00a.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "ExcelでCSVの先頭ゼロと長い番号を守る。保存後まで確かめる手順",
-    "hashtags": [
-      "Excel",
-      "CSV",
-      "データ管理"
-    ],
-    "classified": true
-  },
-  {
-    "id": "56a56ce363ca7a96f1f4f30f5a914717b4df227e",
-    "title": "数字を変えずにExcelグラフを直す。軸・期間・単位の点検",
-    "url": "https://note.com/major_duck1729/n/n83bad49b60f6",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T05:18:22+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319031841/rectangle_large_type_2_218c2dd8aef4af95e419153039cd3926.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "数字を変えずにExcelグラフを直す。軸・期間・単位の点検",
-    "hashtags": [
-      "Excel",
-      "グラフ",
-      "データ分析"
-    ],
-    "classified": true
-  },
-  {
-    "id": "f869f66bf42eda5d063701b683592b0c1b4b3fcc",
-    "title": "Excel申請票の入力漏れを見つける。選択肢と条件別の必須項目を作る",
-    "url": "https://note.com/major_duck1729/n/n9099367c0f20",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T05:11:04+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319030843/rectangle_large_type_2_a9f1a1e538ca0b9d9da5324300d76eec.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "Excel申請票の入力漏れを見つける。選択肢と条件別の必須項目を作る",
-    "hashtags": [
-      "Excel",
-      "入力規制",
-      "業務効率化"
-    ],
-    "classified": true
-  },
-  {
-    "id": "b634f90e471dfcf9f7f08706bd66d203e2991473",
-    "title": "備品の入出庫をExcelで管理する。移動・返品・棚卸差異が残る台帳",
-    "url": "https://note.com/major_duck1729/n/n12ad588e860c",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T05:01:16+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319030386/rectangle_large_type_2_e8ce83dae297b11bfc299f8c50d28cfc.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "備品の入出庫をExcelで管理する。移動・返品・棚卸差異が残る台帳",
-    "hashtags": [
-      "Excel",
-      "在庫管理",
-      "台帳作成"
-    ],
-    "classified": true
-  },
-  {
-    "id": "95b435848cf287ffc4eb271f1b1136e919762b15",
-    "title": "引き継いだExcelの計算が合わない。数式を直す前に原因を切り分ける",
-    "url": "https://note.com/major_duck1729/n/n5d0526500aec",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T04:55:42+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319030017/rectangle_large_type_2_9f75414dfa2b3899a332c278341829db.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "引き継いだExcelの計算が合わない。数式を直す前に原因を切り分ける",
-    "hashtags": [
-      "Excel",
-      "数式",
-      "トラブルシューティング"
-    ],
-    "classified": true
-  },
-  {
-    "id": "e59511ae0ecade717d330dae609b9011872790e0",
-    "title": "部署の予算と実績を比べる。ゼロ予算と未入力を分けるExcel予実表",
-    "url": "https://note.com/major_duck1729/n/n7809bf7af6a5",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T04:51:12+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319029741/rectangle_large_type_2_35095244b9edc6b87512323473746560.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "部署の予算と実績を比べる。ゼロ予算と未入力を分けるExcel予実表",
-    "hashtags": [
-      "Excel",
-      "予実管理",
-      "業務効率化"
-    ],
-    "classified": true
-  },
-  {
-    "id": "0f3c9a1f14db3636c07c02a819eaef6c7fa0e3c7",
-    "title": "土日と会社休業日を除いて期限を出す。起算日で迷わないExcel管理表",
-    "url": "https://note.com/major_duck1729/n/ndee1fc379449",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-30T04:46:54+09:00",
-    "published_display": "2026/9/30 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319029434/rectangle_large_type_2_b46e23ad032dfa285ec547fb39a4ff7e.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "土日と会社休業日を除いて期限を出す。起算日で迷わないExcel管理表",
-    "hashtags": [
-      "Excel",
-      "関数",
-      "スケジュール管理"
-    ],
     "classified": true
   },
   {

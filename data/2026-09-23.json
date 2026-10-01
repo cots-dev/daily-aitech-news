@@ -1449,50 +1449,6 @@
     "classified": true
   },
   {
-    "id": "a1dbf7830241a7e21c199e947ba4e923c51a19b9",
-    "title": "【保存版】PowerPoint×Copilot完全マスター｜デザインが苦手な人でも「文章を貼るだけ」で見られる資料になる「アウトライン→スライド自動生成」〜前日夜の徹夜資料作成地獄と、崩れないレイアウトの作り方までの実践ガイド",
-    "url": "https://note.com/mainichi_ai_new/n/n446ce5924038",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-09-23T16:23:27+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316669499/rectangle_large_type_2_2cbcb5a035389f1d801857befd8f7641.png?width=800",
-    "tags": [
-      "ai",
-      "office"
-    ],
-    "excluded": false,
-    "howto": true,
-    "title_ja": "【保存版】PowerPoint×Copilot完全マスター｜デザインが苦手な人でも「文章を貼るだけ」で見られる資料になる「アウトライン→スライド自動生成」",
-    "hashtags": [
-      "Copilot",
-      "PowerPoint",
-      "AI活用"
-    ],
-    "classified": true
-  },
-  {
-    "id": "498f74b3d76328faeb67c7170d3bf8793343490c",
-    "title": "【保存版】Excel×Copilot完全マスター｜関数が苦手な人でも「日本語で頼むだけ」で集計・分析ができる「数式を書かせて検算する」〜VLOOKUPで詰まる地獄と、壊れない関数の作り方までの実践ガイド",
-    "url": "https://note.com/mainichi_ai_new/n/nae6046086880",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-09-23T16:16:19+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316666989/rectangle_large_type_2_263b01992ec95bb165e603602b71e7b4.png?width=800",
-    "tags": [
-      "ai",
-      "office"
-    ],
-    "excluded": false,
-    "howto": true,
-    "title_ja": "【保存版】Excel×Copilot完全マスター｜関数が苦手な人でも「日本語で頼むだけ」で集計・分析ができる「数式を書かせて検算する」",
-    "hashtags": [
-      "Copilot",
-      "Excel",
-      "AI活用"
-    ],
-    "classified": true
-  },
-  {
     "id": "7560575014ae671b4d3a3bc6ef6dd5f363af0d50",
     "title": "AI生成のプログラムについてのポエム",
     "url": "https://note.com/amegame_note/n/n737b7cc5334a",
@@ -1660,48 +1616,6 @@
     "classified": true
   },
   {
-    "id": "ce790890abae8b37049ca02d47fef8fd361ef95c",
-    "title": "AIに「どう聞けばいい？」を解決。僕が実際に使っているプロンプト例",
-    "url": "https://note.com/human_aster6794/n/n98db0d3c8c8b",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-23T18:37:41+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316715458/rectangle_large_type_2_57ed389c25b300ddecec8a060e4e18cb.png?width=800",
-    "tags": [
-      "ai"
-    ],
-    "excluded": false,
-    "howto": true,
-    "title_ja": "AIに「どう聞けばいい？」を解決。僕が実際に使っているプロンプト例",
-    "hashtags": [
-      "AI",
-      "プロンプト",
-      "ChatGPT"
-    ],
-    "classified": true
-  },
-  {
-    "id": "a1f40f1a53c731e96214037562b329befc03ba0d",
-    "title": "AIに「記事を書いて」と頼むだけでは売れない。100円払ってもらえる記事へ変える5つの指示",
-    "url": "https://note.com/katayorikenkyu/n/n1f334409c91b",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-23T18:32:32+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": null,
-    "tags": [
-      "ai"
-    ],
-    "excluded": false,
-    "howto": true,
-    "title_ja": "AIに「記事を書いて」と頼むだけでは売れない。100円払ってもらえる記事へ変える5つの指示",
-    "hashtags": [
-      "AI",
-      "プロンプト",
-      "文章術"
-    ],
-    "classified": true
-  },
-  {
     "id": "72b1adff82f1637454d469baf860f24b80cec141",
     "title": "【初プロンプト】わかモンさんを応援しよう！！📣🐱",
     "url": "https://note.com/00irea00/n/n789cdf0ef5cf",
@@ -1713,21 +1627,6 @@
     "excluded": true,
     "howto": false,
     "title_ja": "【初プロンプト】わかモンさんを応援しよう！！📣🐱",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "a089136d3cc38facb643766440fa0765aaa9e9fd",
-    "title": "note100円記事が6日で18件購入された｜AIでnoteとLINEスタンプを作った裏側・依頼文3例",
-    "url": "https://note.com/natty_mimosa8652/n/n949282e5a902",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-23T18:29:38+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316714925/rectangle_large_type_2_e497b6a171dba01aab28097afc6a3f65.jpeg?width=800",
-    "tags": [],
-    "excluded": true,
-    "howto": false,
-    "title_ja": "note100円記事が6日で18件購入された｜AIでnoteとLINEスタンプを作った裏側・依頼文3例",
     "hashtags": [],
     "classified": true
   },
@@ -1875,21 +1774,6 @@
     "classified": true
   },
   {
-    "id": "b0ecafc16ecae6519a07ae224dfa57186873d4f9",
-    "title": "プログラミング未経験の素人がAIで業務アプリを量産・公開できるようになった全ノウハウ【実践プロンプト＆公開手順付き完全ガイド】",
-    "url": "https://note.com/biz_x_ai/n/ne031b7f5625d",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-23T18:02:33+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316703034/rectangle_large_type_2_dea7b908cef3c58e5955200cf8021d8f.jpeg?width=800",
-    "tags": [],
-    "excluded": true,
-    "howto": false,
-    "title_ja": "プログラミング未経験の素人がAIで業務アプリを量産・公開できるようになった全ノウハウ【実践プロンプト＆公開手順付き完全ガイド】",
-    "hashtags": [],
-    "classified": true
-  },
-  {
     "id": "95d9376b6bf651177a6eb51c18bb661c9de0e892",
     "title": "偕老同穴　〜百年の愛の物語〜　　第二章 第三節：嫌がらせと鷹の人柄",
     "url": "https://note.com/ochame_gunshi/n/n35fca7c5d94c",
@@ -1902,63 +1786,6 @@
     "howto": false,
     "title_ja": "偕老同穴　〜百年の愛の物語〜　　第二章 第三節：嫌がらせと鷹の人柄",
     "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "c6c5d5c4061c2a6cf3ff13a1d6ad460e1e5bb702",
-    "title": "GPT-6のSolとLuna、実務で使える7つの活用パターン",
-    "url": "https://note.com/t894he1och06ix/n/n70fee7f99e90",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-23T17:55:54+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316700373/rectangle_large_type_2_ebd402db5f9441172bb5cb2a3ddb9e21.png?width=800",
-    "tags": [
-      "news",
-      "ai"
-    ],
-    "excluded": false,
-    "howto": false,
-    "title_ja": "GPT-6のSolとLuna、実務で使える7つの活用パターン",
-    "hashtags": [
-      "ChatGPT",
-      "AI",
-      "ビジネス"
-    ],
-    "classified": true
-  },
-  {
-    "id": "5fea0a2116354abd3132271230060483d92c0c77",
-    "title": "年収が上がる。その転職で「毎月のお金」と「平日の時間」はどう変わる？【3社比較Excel付き】",
-    "url": "https://note.com/teijimae_ai/n/nf83f6a598aa8",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-23T18:31:02+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316713386/rectangle_large_type_2_6521db097bb5a806b946a493b947dd97.png?width=800",
-    "tags": [],
-    "excluded": true,
-    "howto": false,
-    "title_ja": "年収が上がる。その転職で「毎月のお金」と「平日の時間」はどう変わる？【3社比較Excel付き】",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "245b52451ff1b193c41be3c8487dd47b18affca5",
-    "title": "【コピペで動く】新人への説明、毎回同じことを話していませんか？一瞬で伝わる仕組みを作る方法",
-    "url": "https://note.com/vba_note_jp/n/n0777c3846c40",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-23T18:16:36+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316708124/rectangle_large_type_2_3906d85d7a126b574ef14a6c4c20dc6f.png?width=800",
-    "tags": [
-      "office"
-    ],
-    "excluded": false,
-    "howto": true,
-    "title_ja": "【コピペで動く】新人への説明、毎回同じことを話していませんか？一瞬で伝わる仕組みを作る方法",
-    "hashtags": [
-      "Excel",
-      "業務効率化"
-    ],
     "classified": true
   },
   {
@@ -2014,21 +1841,6 @@
     "excluded": true,
     "howto": false,
     "title_ja": "住宅ローン金利が1.0％から2.0％になったら何がどうなる？返済額と65歳残高を計算してみた",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "7bbad275837ca9afb83f7abcd4937bbe89a5fd55",
-    "title": "「AIに聞く」から「AIに任せる」へ。　非エンジニアのClaude Code実践ガイド",
-    "url": "https://note.com/quirky_ivy4049/n/ncdfbf15f2454",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-23T17:43:26+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316699715/rectangle_large_type_2_52fb476bc0d2ee2dfe99276e7d2afbee.png?width=800",
-    "tags": [],
-    "excluded": true,
-    "howto": false,
-    "title_ja": "「AIに聞く」から「AIに任せる」へ。　非エンジニアのClaude Code実践ガイド",
     "hashtags": [],
     "classified": true
   },
@@ -2117,26 +1929,6 @@
     "howto": false,
     "title_ja": "【誰でもできる】毎月のExcel集計を、Claude Codeに引き継ぐ。転記・突合・検算までの実務手順",
     "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "a8a70eb74d9a232c31ef5b92e4e75559d0e855e5",
-    "title": "「Excelが苦手」を30日で卒業するロードマップ〜初心者から“仕事で使える中級者”になる21スキル〜",
-    "url": "https://note.com/yichi_jim/n/n8f3191c2265e",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-23T16:44:57+09:00",
-    "published_display": "2026/9/23 Wed",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316640949/rectangle_large_type_2_d29fef96cda492aeb8a097c62f45fa75.jpg?width=800",
-    "tags": [
-      "office"
-    ],
-    "excluded": false,
-    "howto": true,
-    "title_ja": "「Excelが苦手」を30日で卒業するロードマップ〜初心者から“仕事で使える中級者”になる21スキル〜",
-    "hashtags": [
-      "Excel",
-      "スキルアップ"
-    ],
     "classified": true
   },
   {

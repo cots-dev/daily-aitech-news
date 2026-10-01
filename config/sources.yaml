@@ -19,7 +19,7 @@ sources:
     site: https://forest.watch.impress.co.jp/
     group: Office・Windowsの使い方
     enabled: true
-    keyword_filter: true   # 汎用フリーソフトサイトのため、AI/Office/Windows関連のみ抽出
+    keyword_filter: false  # フリーソフト記事もWindows Tipsの対象のため絞り込まず、Geminiの判定に任せる
     max_items: 20
 
   - name: ITmedia PC USER

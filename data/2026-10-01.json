@@ -18,8 +18,7 @@
       "Windows11",
       "アップデート",
       "不具合情報"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "2875acdf0111dabdd99f07af8337eb7f5bc1749b",
@@ -39,8 +38,7 @@
       "Chrome",
       "Edge",
       "セキュリティ"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "2b8aef405907a892146df8f1612ab26918d81293",
@@ -58,8 +56,7 @@
       "WSL",
       "Linux",
       "Docker"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "230f7db5dbc03061be7c684f58746d8c289acc91",
@@ -80,8 +77,7 @@
       "付箋紙21",
       "Windows",
       "デスクトップアプリ"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "bd972bd68e7ba68405ecb7c148a118e27f77f19f",
@@ -101,8 +97,7 @@
       "OpenAI",
       "ChatGPT",
       "ChatGPTPro"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "43f0e7058045dbf84914ee8c65dbbc67baa90dae",
@@ -122,8 +117,7 @@
       "Excel",
       "データ整理",
       "業務効率化"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "51f1860a25f013197440a418daa135d1f177dec0",
@@ -143,8 +137,7 @@
       "OpenAI",
       "GPT6",
       "AIニュース"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "625bff37b47f758f0a9fc382958acba5abf0e4b2",
@@ -468,27 +461,6 @@
     "classified": true
   },
   {
-    "id": "dd6a04d987d42753e4bc9dcc575e614ec405bbf0",
-    "title": "白紙で1時間悩んでいた申請書が、15分で書けるようになった",
-    "url": "https://note.com/jazzy_dunlin625/n/naeef82aa8489",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-10-01T05:51:01+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319398263/rectangle_large_type_2_b33895d2035499d0ad82adc0a07f11d0.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "白紙で1時間悩んでいた申請書が、15分で書けるようになった",
-    "hashtags": [
-      "Copilot",
-      "申請書作成",
-      "業務効率化"
-    ],
-    "classified": true
-  },
-  {
     "id": "b46a9dfb4d763db0e15b5b99d9b57ff5b71e49a7",
     "title": "Microsoft Fabric IQの更新。「売上はいくら？」にAIが答える前に揃えたいこと",
     "url": "https://note.com/ai_tips_katsuyou/n/n649c7b593e51",
@@ -566,27 +538,6 @@
       "Copilot",
       "見積書",
       "AIエージェント"
-    ],
-    "classified": true
-  },
-  {
-    "id": "4f5884f3657d8771f3969b8092e3a858b5eb51e8",
-    "title": "【2026 年最新版】AI ツール比較完全ガイド｜4 強の使い分けと 30 日で成果を出す実践プロンプト 20 選",
-    "url": "https://note.com/marin_29/n/n53c606de4158",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-10-01T00:06:50+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": null,
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "【2026 年最新版】AI ツール比較完全ガイド｜4 強の使い分けと 30 日で成果を出す実践プロンプト 20 選",
-    "hashtags": [
-      "AI比較",
-      "プロンプト",
-      "業務効率化"
     ],
     "classified": true
   },
@@ -669,25 +620,6 @@
     "classified": true
   },
   {
-    "id": "630b61dd5a39d37a1fc40c953323f848be9b0338",
-    "title": "「AIで月30万」の投稿、9割はここを見れば見抜けます",
-    "url": "https://note.com/cute_hosta948/n/n03e879c3f8ee",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-10-01T05:54:35+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316380252/rectangle_large_type_2_c0c40875d3a98c54cad69110dc1f4c8d.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "「AIで月30万」の投稿、9割はここを見れば見抜けます",
-    "hashtags": [
-      "副業",
-      "SNS",
-      "AI"
-    ],
-    "classified": true
-  },
-  {
     "id": "336859eb8a9178fb68525acdc1781e34ef605870",
     "title": "AIへの指示の育て方｜決めごとは、直したところから生まれていた（使わない言葉9つ）",
     "url": "https://note.com/ferretsenpai/n/n2a2ab328b221",
@@ -751,27 +683,6 @@
     "classified": true
   },
   {
-    "id": "3a8877164ca8138741afa7d63f5680c6191b9185",
-    "title": "修正依頼を減らす、副業向けプロンプトの書き方｜役割・対象・目的・条件・出力形式の5要素",
-    "url": "https://note.com/tsbase/n/n613abe4bebfd",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-10-01T05:47:38+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319392184/rectangle_large_type_2_b4dfe92509a4c4ebbd3623932304e3b7.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "修正依頼を減らす、副業向けプロンプトの書き方｜役割・対象・目的・条件・出力形式の5要素",
-    "hashtags": [
-      "プロンプト",
-      "AI活用",
-      "文章作成"
-    ],
-    "classified": true
-  },
-  {
     "id": "9ee0d045e6bb5b4b790ee4865277ba4ae55b90d8",
     "title": "【AIにまかせる技術】きれいになって、効かなくなる｜メモの畳み方",
     "url": "https://note.com/green_donguri/n/nb8f3a481d86b",
@@ -788,55 +699,6 @@
       "思考整理",
       "AI"
     ],
-    "classified": true
-  },
-  {
-    "id": "f3022dff83a30e54e2d590e64a857c9867b83380",
-    "title": "【第５回（最終回）・ニューロダイバーシティファンタジー（感覚・異能の多様性）小説の書き方】【実践編】頭の中の「面白そう」を物語に変える共創型AIプロンプト",
-    "url": "https://note.com/serene_hebe1710/n/nde45dee64545",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-10-01T04:54:30+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319393092/rectangle_large_type_2_fe7bed84f7cf8e2304595de9a8096c80.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "【第５回（最終回）・ニューロダイバーシティファンタジー（感覚・異能の多様性）小説の書き方】【実践編】頭の中の「面白そう」を物語に変える共創型AIプロンプト",
-    "hashtags": [
-      "小説執筆",
-      "創作",
-      "プロンプト"
-    ],
-    "classified": true
-  },
-  {
-    "id": "d0529af85af1778bb2dbfd178196e57ddee55913",
-    "title": "【コピペで使える】1日30分のスキマ時間で完結！ChatGPTで副業コンテンツをサクサク大量生成する技術",
-    "url": "https://note.com/clear0308/n/nc7338134496d",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-10-01T04:46:29+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319391449/rectangle_large_type_2_5c287255bdbf7d76a4a08169377f375e.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "【コピペで使える】1日30分のスキマ時間で完結！ChatGPTで副業コンテンツをサクサク大量生成する技術",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "790bb16155048174dc0f3b5539a8c22d0d897cfb",
-    "title": "【コピペで完了】SNS運用・副業記事の作成時間を1/5に減らすChatGPT神プロンプト5選",
-    "url": "https://note.com/alive_eel1871/n/nd928a1345020",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-10-01T04:25:57+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319392278/rectangle_large_type_2_82d5689e7484e78891ba6cc8e2d7add4.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "【コピペで完了】SNS運用・副業記事の作成時間を1/5に減らすChatGPT神プロンプト5選",
-    "hashtags": [],
     "classified": true
   },
   {
@@ -969,21 +831,6 @@
     "tags": [],
     "howto": false,
     "title_ja": "そのデータ移動、本当に必要？ 検査工具とExcelをつないだ業務改善",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "d5c3c338f00aaf5683a21f037c8a840211726254",
-    "title": "日本語CSVの文字化け・桁区切り修復ツール",
-    "url": "https://note.com/joyous_hyssop77/n/nc1567153225a",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-10-01T01:13:24+09:00",
-    "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319373802/rectangle_large_type_2_bbb509010acbbddfb01c050f620167db.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "日本語CSVの文字化け・桁区切り修復ツール",
     "hashtags": [],
     "classified": true
   },

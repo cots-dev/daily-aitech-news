@@ -32,8 +32,7 @@
       "Copilot",
       "Microsoft",
       "AIエージェント"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "1431b02271802940948011b3ac4dc91dab47f830",
@@ -47,8 +46,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "NPUで「Stable Diffusion 3.5」の画像生成ができる「HK NPU STUDIO」",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "d3a5cfe56cf4dbe016b01f686b9f42f0796c59a4",
@@ -69,8 +67,7 @@
       "MicrosoftEdge",
       "Windows11",
       "アップデート"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "eacc067c0a92e0a46ddc4d195d54f661c51240a6",
@@ -91,8 +88,7 @@
       "Windows11",
       "不具合",
       "アップデート"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "0eff0823ca3a8c703cd157d94aa1e32815ebab00",
@@ -112,8 +108,7 @@
       "Gemini",
       "Google",
       "生成AI"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "6d66641331b78e54a22314f23f4db4f27ff28a40",
@@ -127,8 +122,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "Rust/Goなどモダン言語のハンズオンからWeb・スマホアプリ開発まで！ 12冊が読み放題【読み放題！TechLib新着情報】",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "107793c3bfd25579cb4706a592421d6bcb2fe6b6",
@@ -149,8 +143,7 @@
       "Office",
       "Microsoft",
       "トラブル"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "9c59056476850e9974581eac55fef82d6c104624",
@@ -164,8 +157,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "「Kindle本 秋の特別セール」開催！『技術の泉』シリーズのAI本が安い！！／Google Apps Scriptの活用や、ローカルAIでの音楽生成、AIエージェント開発などが990円から",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "79b230a56f9b834a152d2d03fb0c1ac5740fa6c1",
@@ -179,8 +171,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "GPT-6 Astraのトークン消費をローカルAIで解決できるか？／Ryzen AI Max+ 395と128GBのメモリを搭載した「DAIV CX」によるゲーム開発活用事例",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "aa740680ab062ab8010d4cde5ffd3cacaad8e992",
@@ -194,8 +185,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "1446c2bd1259055fe0717162361b1d1304a16896",
@@ -468,28 +458,6 @@
     "classified": true
   },
   {
-    "id": "d8e666594336cddeb47d3a4f48a11641376f4835",
-    "title": "WordやExcelを「開かない」仕事が増える？Microsoftが新しいCopilotを発表",
-    "url": "https://note.com/asomana_support/n/n74b0a59dd739",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-09-26T05:30:43+09:00",
-    "published_display": "2026/9/26 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317555344/rectangle_large_type_2_449e2eb7d57909ffd33f6cc49e26e301.png?width=800",
-    "excluded": false,
-    "tags": [
-      "news",
-      "office"
-    ],
-    "howto": false,
-    "title_ja": "WordやExcelを「開かない」仕事が増える？Microsoftが新しいCopilotを発表",
-    "hashtags": [
-      "Copilot",
-      "Microsoft",
-      "Office"
-    ],
-    "classified": true
-  },
-  {
     "id": "b19ac5621a422cb410598902a47f652e84cac781",
     "title": "Google Gemini Live Avatarが実用フェーズへ、MicrosoftはCopilotを刷新、Meta「Muse」急伸、Sakana AIにシュミットフーバー参画【Creative AI Digest No.193 2026.09.26】",
     "url": "https://note.com/chihirodesign/n/ncb278d493c0e",
@@ -684,42 +652,6 @@
     "classified": true
   },
   {
-    "id": "ee74b3f402c4bd70d324d131ed61e208acb425fe",
-    "title": "【コピペで投稿作成】X（旧Twitter）で伸びる「投稿パターン10選」＆ChatGPTプロンプト",
-    "url": "https://note.com/science_sss/n/nd055de731c61",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-26T06:00:53+09:00",
-    "published_display": "2026/9/26 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317558483/rectangle_large_type_2_fa4527e568a96694957574a820c6aa7a.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "【コピペで投稿作成】X（旧Twitter）で伸びる「投稿パターン10選」＆ChatGPTプロンプト",
-    "hashtags": [
-      "ChatGPT",
-      "プロンプト",
-      "SNS活用"
-    ],
-    "classified": true
-  },
-  {
-    "id": "38618a31ba3a02d40aa4103ac04be9d217906e17",
-    "title": "今週のAI副業ニュースまとめ｜プロンプトで実際に試したこと",
-    "url": "https://note.com/large_quail9923/n/n5a095a549218",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-26T05:58:13+09:00",
-    "published_display": "2026/9/26 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317558119/rectangle_large_type_2_05ac7654a1a2dbd2eb4505eac7f457d5.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "今週のAI副業ニュースまとめ｜プロンプトで実際に試したこと",
-    "hashtags": [],
-    "classified": true
-  },
-  {
     "id": "3ac0e01beb3a998aeb394d171d6143c097a43d05",
     "title": "ChatGPTWork×Skillのマンガ制作をプラグインにしたら想定外の設定が増えた（笑）｜実際に使ったプロンプトあり",
     "url": "https://note.com/kuland/n/n43ff4955494f",
@@ -731,42 +663,6 @@
     "tags": [],
     "howto": false,
     "title_ja": "ChatGPTWork×Skillのマンガ制作をプラグインにしたら想定外の設定が増えた（笑）｜実際に使ったプロンプトあり",
-    "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "d4f0ddb50ed8288d746e5a8be00338aeee8f16c2",
-    "title": "【コピペで完了】仕事の時間を半分にする「即戦力ChatGPTプロンプト10選」【スプレッドシート/業務時短】",
-    "url": "https://note.com/science_sss/n/nce7bbaee77a6",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-26T05:46:21+09:00",
-    "published_display": "2026/9/26 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317557384/rectangle_large_type_2_90e81803965c6ff9055db4726eb9c876.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "【コピペで完了】仕事の時間を半分にする「即戦力ChatGPTプロンプト10選」【スプレッドシート/業務時短】",
-    "hashtags": [
-      "ChatGPT",
-      "プロンプト",
-      "業務効率化"
-    ],
-    "classified": true
-  },
-  {
-    "id": "c2dc44a5d930b124672e23ad9aa43c112bcf09d0",
-    "title": "noteのタイトル画像がピッタリに作れる！",
-    "url": "https://note.com/ms_1985/n/ne07f66093099",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-26T05:44:57+09:00",
-    "published_display": "2026/9/26 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/317555335/rectangle_large_type_2_99ee335b494581ddc4e5de058a1ba3c1.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "noteのタイトル画像がピッタリに作れる！",
     "hashtags": [],
     "classified": true
   },
@@ -969,27 +865,6 @@
     "howto": false,
     "title_ja": "自動化で減ったのは、作業時間よりストレスだった",
     "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "ee0e5ad5cd9ba24a72d0730f0ce775d31ee4fcb0",
-    "title": "未提出者への催促前に。確認待ちも分けるExcel照合シート",
-    "url": "https://note.com/oya_g/n/n5b8453a9868b",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-26T02:03:04+09:00",
-    "published_display": "2026/9/26 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/316909108/rectangle_large_type_2_5bc0e4c48f3592a2aa7fe134b5994b0b.png?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "未提出者への催促前に。確認待ちも分けるExcel照合シート",
-    "hashtags": [
-      "Excel",
-      "業務効率化",
-      "シート作成"
-    ],
     "classified": true
   },
   {

@@ -17,8 +17,7 @@
       "Windows11",
       "StartAllBack",
       "タスクバー"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "111acf99385c79f8e6467a5c802a6539ecca1b9b",
@@ -32,8 +31,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "第1回「国際AIクリエイターアワード2026」第2期作品公募を開始 ～11月に幕張メッセで授賞式／生成AI時代の優れたクリエイターとその作品を国際的に発掘・顕彰",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "1c74085962c1b3044c52ecc41559b407413ed518",
@@ -54,8 +52,7 @@
       "PDF",
       "Excel",
       "AIOCR"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "aa82bdd6d667e411a8bdf19ea977161a83444016",
@@ -76,8 +73,7 @@
       "Googleスプレッドシート",
       "Excel",
       "ピボットテーブル"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "85a6cbfaadb0cc77ca7ac3c5d48731211b0639b3",
@@ -98,8 +94,7 @@
       "Windows11",
       "InsiderPreview",
       "スマホ連携"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "3ff265142a5ced323a798610c6f599d71175deca",
@@ -113,8 +108,7 @@
     "tags": [],
     "howto": false,
     "title_ja": "「Python」のWindowsフルインストーラー引退に注目が集まる ～窓の杜アクセスランキング［2026/9/21～2026/9/27］",
-    "hashtags": [],
-    "classified": true
+    "hashtags": []
   },
   {
     "id": "fae88cfa75c22a39ba8446e2ef290c1df955f812",
@@ -135,8 +129,7 @@
       "Windows11",
       "OneDrive",
       "データ移行"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "2d2d36cd70e7c1d26de92976fe6a51e334d2eb36",
@@ -157,8 +150,7 @@
       "Excel",
       "新機能",
       "関数"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "e5e0925fd223833dffae1502b6d87d6a2cab70cd",
@@ -180,8 +172,7 @@
       "Clipchamp",
       "AI",
       "CopilotPC"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "8dcddd0c0d38dd6e1496dacec07bfa07e7b4a9e6",
@@ -202,8 +193,7 @@
       "PowerPoint",
       "Copilot",
       "プロンプト"
-    ],
-    "classified": true
+    ]
   },
   {
     "id": "75b5a5e68540d12818286235581f430273fd115e",
@@ -450,28 +440,6 @@
     "classified": true
   },
   {
-    "id": "2bf83fb1da20afc4f85eb44004fdfc5f4cb230d0",
-    "title": "AIがWord文書の書式設定を仕上げておいてくれます",
-    "url": "https://note.com/becoolusers/n/n40c928e66996",
-    "source": "note（ハッシュタグ: Copilot）",
-    "published": "2026-09-29T02:55:11+09:00",
-    "published_display": "2026/9/29 Tue",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/318663049/rectangle_large_type_2_759f00b405f934545d318ad912299b53.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai",
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "AIがWord文書の書式設定を仕上げておいてくれます",
-    "hashtags": [
-      "Word",
-      "Copilot",
-      "文書作成"
-    ],
-    "classified": true
-  },
-  {
     "id": "a50a24a453751d5ab2dec0267ba76e5f1779544c",
     "title": "【AI惑星探査レポート】星の砂を採掘するうさぎと、噛みつかれたAI",
     "url": "https://note.com/fit_impala9413/n/n2cb9b0dc2769",
@@ -693,21 +661,6 @@
     "classified": true
   },
   {
-    "id": "11607b9baa6cc522fa8faad66a16c4a5505e665c",
-    "title": "GPTイメージ2.5がエロすぎる！！",
-    "url": "https://note.com/open_owl9115/n/n5a00afd0c89e",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-29T05:31:54+09:00",
-    "published_display": "2026/9/29 Tue",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/318332227/rectangle_large_type_2_d1776cfc7b98f24a1eb7bb020a834e43.png?width=800",
-    "excluded": true,
-    "tags": [],
-    "howto": false,
-    "title_ja": "GPTイメージ2.5がエロすぎる！！",
-    "hashtags": [],
-    "classified": true
-  },
-  {
     "id": "9dced7d7435304aea6b90a93e40a349a845431d2",
     "title": "ChatGPTと作る｜クイズ・問題プロンプト10選",
     "url": "https://note.com/juicy_skink6439/n/na0ea5eddda43",
@@ -741,27 +694,6 @@
     "howto": false,
     "title_ja": "AIが牽引する映像制作のパラダイムシフト：ClaudeとMCPが創り出す新たな表現と収益化の未来",
     "hashtags": [],
-    "classified": true
-  },
-  {
-    "id": "da4ecc8be5008b57ecb726129299abab85ae3430",
-    "title": "AIに相談して終わる人へ「作りたい」を本当に形にする7つの方法",
-    "url": "https://note.com/chaosmaster414/n/n1ded1b1f67f1",
-    "source": "note（ハッシュタグ: プロンプト）",
-    "published": "2026-09-29T05:09:39+09:00",
-    "published_display": "2026/9/29 Tue",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/318672346/rectangle_large_type_2_7e34a2e6550bc773200d50e5160e4b3d.png?width=800",
-    "excluded": false,
-    "tags": [
-      "ai"
-    ],
-    "howto": true,
-    "title_ja": "AIに相談して終わる人へ「作りたい」を本当に形にする7つの方法",
-    "hashtags": [
-      "AI活用",
-      "仕事術",
-      "プロンプト"
-    ],
     "classified": true
   },
   {
@@ -896,27 +828,6 @@
       "UNIQUE関数",
       "Excel",
       "スプレッドシート"
-    ],
-    "classified": true
-  },
-  {
-    "id": "e4fbd90778efa49dedb080ae63b22d1699e96c22",
-    "title": "コンサル仕込み｜Excel操作を爆速にする「自分専用ショートカット」の作り方",
-    "url": "https://note.com/cpa_caffeine/n/n778aa5ca1091",
-    "source": "note（ハッシュタグ: Excel）",
-    "published": "2026-09-29T01:59:05+09:00",
-    "published_display": "2026/9/29 Tue",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/318657591/rectangle_large_type_2_f29bf356ffa2bda392fde355cd9a4d02.jpg?width=800",
-    "excluded": false,
-    "tags": [
-      "office"
-    ],
-    "howto": true,
-    "title_ja": "コンサル仕込み｜Excel操作を爆速にする「自分専用ショートカット」の作り方",
-    "hashtags": [
-      "Excel",
-      "ショートカット",
-      "時短ワザ"
     ],
     "classified": true
   },
