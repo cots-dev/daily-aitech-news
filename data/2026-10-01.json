@@ -2278,7 +2278,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T09:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Autodesk、FusionなどのAI機能を発表 設計作業の自動化や設計資産の再利用を支援",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "5913fefd1e35634f10367609e5ed66478c797bce",
@@ -2287,7 +2293,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T08:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AI主権はなぜ「切実な経営課題」になったのか モデル“禁輸”問題が示した「選択肢を持つこと」の重要性",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "8247ec0c4975ff3df58e99fd08eb4e0a0e79240d",
@@ -2296,7 +2308,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T07:30:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "日立とファナックがフィジカルAI協業 日立エッジAI×ファナックロボ有効性も検証",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "f604b1b11102e160a5613754ad21c4b8b5375abe",
@@ -2305,7 +2323,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T07:15:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「デジタルスレッドとAIで動かす」 富士ソフトがスマート工場で10％成長狙う",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "0641faf8ba4ea38c4b0a3ccdf572ac3b8c613cbf",
@@ -2314,7 +2338,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T07:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「FDE」は常駐SEのすげ替えなのか “人月商売の死”を打破したい国内SIer、打開策は意外なところに？",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "32a114ef8799dbe451a09895d0fb00146eea331d",
@@ -2323,7 +2353,13 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-01T12:25:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Omnissaが「Elara」を発表 AIエージェントの暴走を防ぐ“実行前の権限レイヤー”とは",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "b03d66b74c0732a40667354462aa151b3b1a4907",
@@ -2332,7 +2368,13 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-01T07:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AI投資で成果を出す企業は何が違うのか 厚労省が白書で示した「条件」",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "12638c388350e2becee66851066ffb22150825fc",
@@ -2341,7 +2383,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-01T21:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://ascii.jp/img/2026/10/01/4532815/s/6169811950128fa8.png"
+    "thumbnail": "https://ascii.jp/img/2026/10/01/4532815/s/6169811950128fa8.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "漆黒の約900gモバイル「VAIO SX12」が4万5000円引き！ 持ち歩く仕事PCを狙うなら注目",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "87d7d62ba7fdbd81dfd75f344626092f1547383c",
@@ -2350,7 +2398,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-01T18:26:39+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "クリエイター向けコミッションサービス「Goirai」、手数料が下がる「X連携特典」を開始 11月27日には秋葉原UDXの「The CREATORS」に出展",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "964e47e727159f4408c4f865615926e66c0322d9",
@@ -2359,7 +2413,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-01T15:47:26+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "a24f9bbf3e1abd60cbf716f8d7d8c2944b64514d",
@@ -2368,7 +2428,13 @@
     "source": "Windows Blog for Japan",
     "published": "2026-10-01T15:06:34+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1306391-hayete-announce-0x1080-6439k"
+    "thumbnail": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1306391-hayete-announce-0x1080-6439k",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Microsoft Defender でエージェント時代の SOC を再構想する",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "651cc736c845099692d6c07bdbdbf71fe7e01228",
@@ -2377,6 +2443,12 @@
     "source": "Windows Blog for Japan",
     "published": "2026-10-01T10:43:45+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Integrated Security Operations Center in Microsoft Defender",
+    "hashtags": [],
+    "classified": true
   }
 ]
