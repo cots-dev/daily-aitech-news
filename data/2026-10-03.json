@@ -725,7 +725,13 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-03T05:51:18+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319810686/rectangle_large_type_2_75e73a1a9b866a54660ef3e28a30e6ab.jpeg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319810686/rectangle_large_type_2_75e73a1a9b866a54660ef3e28a30e6ab.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "後輩にAIの使い方を教えた翌日、僕はAIとケンカしていた",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "46a63f174d0e4ec4359b4e369d054faf2cd8594c",
@@ -734,7 +740,17 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-03T05:34:40+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/314472106/rectangle_large_type_2_4568f587edec46fade2d9d62bc353466.jpg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/314472106/rectangle_large_type_2_4568f587edec46fade2d9d62bc353466.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【プロンプト】ふたりの凸凹配役室🎭✨｜私たちを物語の登場人物にしたら？",
+    "hashtags": [
+      "プロンプト",
+      "物語",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "49185f0937c67010fc8eb154921cf855dcc1b237",
@@ -743,7 +759,17 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-03T05:14:23+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320022198/rectangle_large_type_2_a298aac17a91ab148be883578304d19b.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320022198/rectangle_large_type_2_a298aac17a91ab148be883578304d19b.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【続・ピエール問題】キラーマシン・ロビンだけど、パパくまの使いこなし度を採点してみた",
+    "hashtags": [
+      "雑談",
+      "AI",
+      "ゲーム"
+    ],
+    "classified": true
   },
   {
     "id": "03075c365d501303c5fd04c217aaf5f1aae6b278",
@@ -752,7 +778,19 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-03T04:52:17+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320123993/rectangle_large_type_2_4235824badaa99c252d28941f8a692ac.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320123993/rectangle_large_type_2_4235824badaa99c252d28941f8a692ac.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【AI活用】過去最強に効いたプロンプトの話！「事情」をめっちゃ詳しく書く、神回答になる",
+    "hashtags": [
+      "プロンプト",
+      "ChatGPT",
+      "AI活用"
+    ],
+    "classified": true
   },
   {
     "id": "172b55effdbcf0e714c2f5be91d36ae6f05f614b",
@@ -761,7 +799,17 @@
     "source": "note（ハッシュタグ: プロンプト）",
     "published": "2026-10-03T04:14:19+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320119646/rectangle_large_type_2_39b58e6b57997b4c21fae4f76fb0d7ae.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320119646/rectangle_large_type_2_39b58e6b57997b4c21fae4f76fb0d7ae.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIと真面目に議論してたら、横で筋トレしてるAIが居た…",
+    "hashtags": [
+      "AI",
+      "雑談",
+      "日記"
+    ],
+    "classified": true
   },
   {
     "id": "6e2d8f5b604ccf760ff7b8f69e58ef2d253e4c7a",
@@ -770,7 +818,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-03T06:03:32+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320131140/rectangle_large_type_2_756f006af76829f2a4883691c053f0d1.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320131140/rectangle_large_type_2_756f006af76829f2a4883691c053f0d1.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "何も作れないまま、何ヶ月も悩んでいた話",
+    "hashtags": [
+      "エッセイ",
+      "Excel",
+      "日常"
+    ],
+    "classified": true
   },
   {
     "id": "d31c61c7d9d311ec0c812248e56932e74f17d1f9",
@@ -779,7 +837,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-03T05:59:00+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320130204/rectangle_large_type_2_f0f9379d73156da14cebc5ea4b45573e.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320130204/rectangle_large_type_2_f0f9379d73156da14cebc5ea4b45573e.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "借金500万、心が壊れかけた豚が、個人再生と転職で人生を立て直すまで──1年半ぶりに全部話すわ",
+    "hashtags": [
+      "体験談",
+      "キャリア",
+      "人生"
+    ],
+    "classified": true
   },
   {
     "id": "9ab455f6f55c5fd4c3c5d02660ce08f0bcfb5bad",
@@ -788,7 +856,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-03T05:28:13+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320127602/rectangle_large_type_2_7717435ae0a58116e3e30bf9a29d7a6f.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320127602/rectangle_large_type_2_7717435ae0a58116e3e30bf9a29d7a6f.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "リモートワークで画面越しに「そこ、その式」と指示されるもどかしさあるある",
+    "hashtags": [
+      "リモートワーク",
+      "Excel",
+      "あるある"
+    ],
+    "classified": true
   },
   {
     "id": "c43bfc2ac11fe239dd1d3b5c65ae798a8993c5ca",
@@ -797,7 +875,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-03T05:23:26+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319395420/rectangle_large_type_2_678f41a2abc30f25f120a3e9d97e45d1.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319395420/rectangle_large_type_2_678f41a2abc30f25f120a3e9d97e45d1.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "都道府県別の学力調査データを、URLの規則性で一括ダウンロードする(後編)",
+    "hashtags": [
+      "Excel",
+      "データ取得",
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "36de37d3ecc19fd2d0f553e33f60e27ce2ff0141",
@@ -806,7 +896,20 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-03T01:38:48+09:00",
     "published_display": "2026/10/3 Sat",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/320105768/rectangle_large_type_2_a33370a3b8a88766b8cebd7f0d784962.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/320105768/rectangle_large_type_2_a33370a3b8a88766b8cebd7f0d784962.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "windows"
+    ],
+    "howto": true,
+    "title_ja": "毎月届くExcelをまとめて集計するツールを作った（Windows・ダブルクリックで動きます）",
+    "hashtags": [
+      "Excel",
+      "Windows",
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "fd29356555996d08f9e9a7a9cd34b7fc2331144c",
@@ -815,7 +918,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T20:04:32+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+    "hashtags": [
+      "AIニュース",
+      "ELYZA",
+      "LLM"
+    ],
+    "classified": true
   },
   {
     "id": "9882387dfd813fd734cf4cff1800dd1e4dcabfc5",
@@ -824,7 +939,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T18:19:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI",
+      "新機能"
+    ],
+    "classified": true
   },
   {
     "id": "02fadfe95004288e7d5cdc9202130e3fa0cc1a73",
@@ -833,7 +960,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T12:17:21+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
+    "hashtags": [
+      "Gemini",
+      "Google",
+      "AIニュース"
+    ],
+    "classified": true
   },
   {
     "id": "8b377831f2ad312283f76fbdcfec1eb554d03ec6",
@@ -842,7 +981,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T10:47:09+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
+    "hashtags": [
+      "Microsoft",
+      "音声AI",
+      "新機能"
+    ],
+    "classified": true
   },
   {
     "id": "dca24d54ad1891c51e741862c09a29e660c06958",
@@ -851,7 +1002,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T08:45:52+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "SIE、PS5向けAI採用画質向上技術「QSSR」発表 AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
+    "hashtags": [
+      "PS5",
+      "ゲーム",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "3a9be36e9ae0110f5d15a6192411e1b7f976f1da",
@@ -860,7 +1021,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T08:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「長く働くAI」が裏目に？ OpenAIの“脱走事件”が示すリスクの変化 企業に求められる対応は",
+    "hashtags": [
+      "OpenAI",
+      "AIリスク",
+      "業界動向"
+    ],
+    "classified": true
   },
   {
     "id": "6707666a24bc7a243d0f4d112ea0bfdd90a5cc2d",
@@ -869,7 +1040,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T08:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "「DMに逃げる理由は秘密保持ではない」 人とAIエージェントの“最強チーム”を作るベストプラクティス",
+    "hashtags": [
+      "AIエージェント",
+      "AI活用",
+      "業務効率化"
+    ],
+    "classified": true
   },
   {
     "id": "108fe2608b1f2443f8964b2d92c2b45146ea542b",
@@ -878,7 +1061,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T07:17:12+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI",
+      "新機能"
+    ],
+    "classified": true
   },
   {
     "id": "cceea538cb7435f4c4c3e0454ca445ff62ec4f1e",
@@ -887,7 +1082,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-02T07:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap",
+    "hashtags": [
+      "Claude",
+      "Anthropic",
+      "AI開発"
+    ],
+    "classified": true
   },
   {
     "id": "7e4e7fc6ad5366b68c8c7d78712070eecaabf5f1",
@@ -896,7 +1101,17 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-02T08:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "IT部門は「止める判断」を下せるか？ フロンティアAIによって変わる脅威への対応法",
+    "hashtags": [
+      "IT管理",
+      "セキュリティ",
+      "AIリスク"
+    ],
+    "classified": true
   },
   {
     "id": "4448c6656542cfe0c9c7f6dfdd635e9405644558",
@@ -905,7 +1120,17 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-02T07:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "なぜ気付けない？ 侵入後にDLL偽装で正規ソフトに潜むマルウェアの手口と対策",
+    "hashtags": [
+      "セキュリティ",
+      "マルウェア",
+      "IT管理"
+    ],
+    "classified": true
   },
   {
     "id": "cac464e1fb5ffbf11bb8b7ef586fb801bf2ad4e9",
@@ -914,7 +1139,20 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-02T07:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "Windows 11 26H2が提供開始 年次更新なのに「小容量ダウンロードと再起動」で完了する理由",
+    "hashtags": [
+      "Windows11",
+      "アップデート",
+      "ニュース"
+    ],
+    "classified": true
   },
   {
     "id": "18f253ad324948885e3abf8584d5936cdb7d3024",
@@ -923,7 +1161,17 @@
     "source": "ASCII.jp",
     "published": "2026-10-02T21:30:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": "https://ascii.jp/img/2026/10/02/4532896/s/25949dc21fa5cdd3.jpg"
+    "thumbnail": "https://ascii.jp/img/2026/10/02/4532896/s/25949dc21fa5cdd3.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "6万3800円安い！ 最大50TOPS、しかも有機ELの「Lenovo Chromebook Plus」が12万4740円",
+    "hashtags": [
+      "Chromebook",
+      "Lenovo",
+      "ハードウェア"
+    ],
+    "classified": true
   },
   {
     "id": "85d7c41c2371186d6d53e7210fbdedc9c1727e6a",
@@ -932,7 +1180,17 @@
     "source": "ASCII.jp",
     "published": "2026-10-02T21:00:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": "https://ascii.jp/img/2026/10/01/4532830/s/4356ff00af65263b.png"
+    "thumbnail": "https://ascii.jp/img/2026/10/01/4532830/s/4356ff00af65263b.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【注目】VAIOを買って旧ノートPCの買い取りを申し込むと査定金額に＋5000円上乗せ！",
+    "hashtags": [
+      "VAIO",
+      "キャンペーン",
+      "ノートPC"
+    ],
+    "classified": true
   },
   {
     "id": "b3b54f7267959efc8bc4d4a2e5709038af4b3fc7",
@@ -941,7 +1199,17 @@
     "source": "ASCII.jp",
     "published": "2026-10-02T18:32:43+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "麻辣湯専門店MARTAN、オフィスに麻辣湯を届ける法人向け社食サービス「MARTAN for Office（お届けマーラータン）」を提供開始",
+    "hashtags": [
+      "社食",
+      "オフィスサービス",
+      "ニュース"
+    ],
+    "classified": true
   },
   {
     "id": "ea67c4bcf62594f9631314feb3f50f656f45989d",
@@ -950,6 +1218,16 @@
     "source": "ASCII.jp",
     "published": "2026-10-02T18:30:00+09:00",
     "published_display": "2026/10/2 Fri",
-    "thumbnail": "https://ascii.jp/img/2026/10/01/4532681/s/f0ad2cd78913fc03.jpg"
+    "thumbnail": "https://ascii.jp/img/2026/10/01/4532681/s/f0ad2cd78913fc03.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "10.51型なのに16GB＋1TB！ 920gの2in1ノート「TENKU MOBILE S10+」が8万9090円",
+    "hashtags": [
+      "ノートPC",
+      "ハードウェア",
+      "ガジェット"
+    ],
+    "classified": true
   }
 ]

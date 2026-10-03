@@ -2152,7 +2152,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:59:53+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319709042/rectangle_large_type_2_abda90875094a156231de1d6feab6feb.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319709042/rectangle_large_type_2_abda90875094a156231de1d6feab6feb.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "買ってから分かる、は遅い。300円Excelの販売ページで足りなかったもの",
+    "hashtags": [
+      "Excel",
+      "エッセイ",
+      "雑感"
+    ],
+    "classified": true
   },
   {
     "id": "0c04a28dbcc2a3694eac91c0c2d6e4c2ad52c0c7",
@@ -2161,7 +2171,20 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:50:42+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319706939/rectangle_large_type_2_b87d1d31477dd1ac227ac9a38a45120b.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319706939/rectangle_large_type_2_b87d1d31477dd1ac227ac9a38a45120b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Geminiに事務仕事を3つ頼んでみた｜議事録・お断りメール・Excel関数で「できたこと」と「直したこと」",
+    "hashtags": [
+      "Gemini",
+      "Excel",
+      "AI活用"
+    ],
+    "classified": true
   },
   {
     "id": "087b57b44648a2e9b7b936dc38694db9c88726c7",
@@ -2170,7 +2193,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:44:30+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319705350/rectangle_large_type_2_c5a1f225430609917b46dfd7c9ae4b48.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319705350/rectangle_large_type_2_c5a1f225430609917b46dfd7c9ae4b48.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "渡せなかったExcel。50代の初仕事の、その後の話",
+    "hashtags": [
+      "エッセイ",
+      "キャリア",
+      "Excel"
+    ],
+    "classified": true
   },
   {
     "id": "2f1fe5cc0596d704fcaa1cd63d7d82ce46739c47",
@@ -2179,7 +2212,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:41:09+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319703793/rectangle_large_type_2_2f759696251b2ef82cd2693f961bddb9.jpg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319703793/rectangle_large_type_2_2f759696251b2ef82cd2693f961bddb9.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "紙、Excel、ハンコ。請求書は今日も旅をする。",
+    "hashtags": [
+      "コラム",
+      "業務改善",
+      "Excel"
+    ],
+    "classified": true
   },
   {
     "id": "453c6cc6e9d83c424283ba7609bbe15069a9bc28",
@@ -2188,7 +2231,17 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:37:03+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319703043/rectangle_large_type_2_d59cb0bab04d4bd31dbea4fa1ef3fce6.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319703043/rectangle_large_type_2_d59cb0bab04d4bd31dbea4fa1ef3fce6.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Excel台帳は、なぜなくならないのか― 「あるある」8選",
+    "hashtags": [
+      "Excel",
+      "あるある",
+      "コラム"
+    ],
+    "classified": true
   },
   {
     "id": "ef94079d700b8fe79c8074a3e5ecd155122d96da",
@@ -2197,7 +2250,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:30:56+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/319701482/rectangle_large_type_2_1b2cefedb990336b162c714d6def5735.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319701482/rectangle_large_type_2_1b2cefedb990336b162c714d6def5735.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ヒストグラムの作り方——Excelで区間（階級）を決めて、規格線まで入れる手順",
+    "hashtags": [
+      "Excel",
+      "ヒストグラム",
+      "グラフ"
+    ],
+    "classified": true
   },
   {
     "id": "785b48222f2679aa9773c5dd9bbfe5c30de9f781",
@@ -2206,7 +2271,20 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-01T22:19:07+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/318925292/rectangle_large_type_2_59a1806a591bc4b915910eadff87b8db.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/318925292/rectangle_large_type_2_59a1806a591bc4b915910eadff87b8db.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "windows"
+    ],
+    "howto": true,
+    "title_ja": "毎日10分の無駄をなくす｜パソコン仕事を速くする小技５選",
+    "hashtags": [
+      "時短テク",
+      "Excel",
+      "Windows"
+    ],
+    "classified": true
   },
   {
     "id": "04440a51faf7404258645b3543f6c68427086bb5",
@@ -2215,7 +2293,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T18:01:23+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE",
+    "hashtags": [
+      "AIニュース",
+      "企業動向",
+      "HENNGE"
+    ],
+    "classified": true
   },
   {
     "id": "d25b604a013f7959f1f27e43c1b6307e71a8efa8",
@@ -2224,7 +2312,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T18:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
+    "hashtags": [
+      "AI",
+      "データセンター",
+      "業界動向"
+    ],
+    "classified": true
   },
   {
     "id": "bbb7c21212bc1afb542f7e7dd175016289f28354",
@@ -2233,7 +2331,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T15:06:55+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
+    "hashtags": [
+      "OpenAI",
+      "AIニュース",
+      "業界動向"
+    ],
+    "classified": true
   },
   {
     "id": "6763076a1f04a2daf59a910193d68413f3d30acf",
@@ -2242,7 +2350,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T14:02:06+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Argon」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+    "hashtags": [
+      "Gemini",
+      "Google",
+      "AIニュース"
+    ],
+    "classified": true
   },
   {
     "id": "2c93e591cef7faf9739e90622c5e15055973212c",
@@ -2251,7 +2371,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T13:07:07+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "引退した人型ロボ、“溶けた鋼の海”に沈む アーノルド・シュワルツェネッガー氏が提案 米企業が動画公開",
+    "hashtags": [
+      "ロボット",
+      "話題",
+      "エンタメ"
+    ],
+    "classified": true
   },
   {
     "id": "a080c84e7e90d9878696d8f86a373542c44b6576",
@@ -2260,7 +2390,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T11:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「AIを使えば早くできるでしょ」と言われがち――エンジニアを困らせる\"勘違い\"の正体とは？",
+    "hashtags": [
+      "エンジニア",
+      "AI開発",
+      "コラム"
+    ],
+    "classified": true
   },
   {
     "id": "4293385ca0756fa01fcf74183a1d30cec4d6decf",
@@ -2269,7 +2409,17 @@
     "source": "ITmedia AI+",
     "published": "2026-10-01T11:00:00+09:00",
     "published_display": "2026/10/1 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
+    "hashtags": [
+      "AWS",
+      "AIエージェント",
+      "開発運用"
+    ],
+    "classified": true
   },
   {
     "id": "2897e731dbe3c4cf76df877dfd06bdb9341f35d7",
