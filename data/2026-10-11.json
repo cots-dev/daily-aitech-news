@@ -1,0 +1,616 @@
+[
+  {
+    "id": "16f8e1cd7d902c0422ec0057b44ca6ee059f2810",
+    "title": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-10-11T06:00:00+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開",
+    "hashtags": [
+      "Claude",
+      "MistralAI",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "945265d0d8a1914337e3c7b677ed992394dfc671",
+    "title": "【本日みつけたお買い得品】AmazonでRTX Spark搭載MSIノートが予約開始。109万9,800円から",
+    "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147329.html",
+    "source": "PC Watch",
+    "published": "2026-10-10T12:47:13+09:00",
+    "published_display": "2026/10/10 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【本日みつけたお買い得品】AmazonでRTX Spark搭載MSIノートが予約開始。109万9,800円から",
+    "hashtags": [
+      "ノートPC",
+      "Amazon",
+      "セール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f144428735f74c191aeb979d931d53a26666ce97",
+    "title": "PhpSpreadsheetで巨大Excel出力時にメモリ不足で死ぬ問題、C++コアライブラリ（phposbxl）で解決した話",
+    "url": "https://qiita.com/osb-office/items/481a04de7f4553681ea4",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-11T07:04:44+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "PhpSpreadsheetで巨大Excel出力時にメモリ不足で死ぬ問題、C++コアライブラリ（phposbxl）で解決した話",
+    "hashtags": [
+      "Excel",
+      "PHP",
+      "プログラミング"
+    ],
+    "classified": true
+  },
+  {
+    "id": "57304e0fa5b1871df5d31f524856626645cfd302",
+    "title": "Excelで「1人だけ我慢」させないシフト表を自動で作る（標準のソルバーだけ・手順つき）",
+    "url": "https://qiita.com/abe_shunsuke/items/ce03e0fb629e6be3e543",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-10T22:47:19+09:00",
+    "published_display": "2026/10/10 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excelで「1人だけ我慢」させないシフト表を自動で作る（標準のソルバーだけ・手順つき）",
+    "hashtags": [
+      "Excel",
+      "ソルバー",
+      "シフト作成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3b3994abb3636d11c24efd332e7d37661eda9f25",
+    "title": "Excel の2列のデータを比較する方法：VBA と Python によるアプローチ",
+    "url": "https://qiita.com/rafluctua/items/d7e94480bedf21dcb9ba",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-10T16:35:30+09:00",
+    "published_display": "2026/10/10 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Excel の2列のデータを比較する方法：VBA と Python によるアプローチ",
+    "hashtags": [
+      "Excel",
+      "VBA",
+      "Python"
+    ],
+    "classified": true
+  },
+  {
+    "id": "21282951908142587afa805a027cc9fce26e782a",
+    "title": "Excel VBAの全モジュールを一括エクスポートするマクロ（.bas/.cls/.frm）と、ハマりどころ",
+    "url": "https://qiita.com/minipc_lab/items/53c7e08f2d3a792f0cb3",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-10T10:43:49+09:00",
+    "published_display": "2026/10/10 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Excel VBAの全モジュールを一括エクスポートするマクロ（.bas/.cls/.frm）と、ハマりどころ",
+    "hashtags": [
+      "Excel",
+      "VBA",
+      "マクロ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3f5aa6046618560ef6aa06e8ead7a9d73a1068c3",
+    "title": "【AIニュース10/10】Copilot、AIエージェントに”安全柵”と組織管理を一斉強化",
+    "url": "https://note.com/fair_godwit407/n/nddd4f0d8b78c",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:54:58+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323041683/rectangle_large_type_2_630f8458241767e9bec6996c41d986f8.png?width=800",
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "【AIニュース10/10】Copilot、AIエージェントに”安全柵”と組織管理を一斉強化",
+    "hashtags": [
+      "Copilot",
+      "AIエージェント",
+      "Microsoft"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2bb7b7fe2c18c1e3fbd10bdefbb201e628aa45cf",
+    "title": "評価コメントを書くたびに手が止まる管理職へ｜下書きはAI、評価と責任は人間",
+    "url": "https://note.com/sales_mgr_memo/n/na377702ce25d",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:54:09+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323041765/rectangle_large_type_2_a9fb24ea591fccb4f438528e35102c47.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "評価コメントを書くたびに手が止まる管理職へ｜下書きはAI、評価と責任は人間",
+    "hashtags": [
+      "AI活用",
+      "評価コメント",
+      "管理職"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9766eb4265d4737ca708af17859dac0d31a32ff3",
+    "title": "第5話　AIは、理解しているのか",
+    "url": "https://note.com/novel_sable6509/n/n4da06cb9e385",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:48:39+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323040464/rectangle_large_type_2_f6e2256147454cc412a55ea883acef84.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "第5話　AIは、理解しているのか",
+    "hashtags": [
+      "生成AI",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8c56c6613e1033678ef77f21ccfc5466f657282d",
+    "title": "Microsoft  Copilot  Teach （指導）で　学習アクティビティ②空欄補充問題",
+    "url": "https://note.com/atchyxx/n/n5f5db58c6eeb",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:45:30+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/319481008/rectangle_large_type_2_57c531f23b3dd815f87431656eb3ac6a.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Microsoft Copilot Teach （指導）で 学習アクティビティ②空欄補充問題",
+    "hashtags": [
+      "Copilot",
+      "AI活用",
+      "教育"
+    ],
+    "classified": true
+  },
+  {
+    "id": "12b9f8f0635edfb453b9d508da19a3e65e1257b8",
+    "title": "第4話　生成AIは、何を作っているのか",
+    "url": "https://note.com/novel_sable6509/n/n440247ecf342",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:42:18+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323038709/rectangle_large_type_2_2b622c67187c211b0cea887a5614ff75.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "第4話　生成AIは、何を作っているのか",
+    "hashtags": [
+      "生成AI",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "87ea49cc94b2097197a04c9d07a4761715ff7e0b",
+    "title": "第3話　AIの学習は、人間の勉強とは違う",
+    "url": "https://note.com/novel_sable6509/n/ndc800bcea296",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:36:17+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323037430/rectangle_large_type_2_00d9546f056ddc39f6c12b7239c81e17.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "第3話　AIの学習は、人間の勉強とは違う",
+    "hashtags": [
+      "生成AI",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a3968a280847a59e73a085de45c54aa384ef41ae",
+    "title": "🎨【日本語でOK】限られた色で魅せる！手書き線画とミニマルカラーで描くエモいアニメ風少女の世界✨",
+    "url": "https://note.com/hoshizoramochi/n/n84b16f4fe5ac",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:30:16+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/322424591/rectangle_large_type_2_04a03b8f79a3b9ab6117d3ba4dc48d4b.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "🎨【日本語でOK】限られた色で魅せる！手書き線画とミニマルカラーで描くエモいアニメ風少女の世界✨",
+    "hashtags": [
+      "画像生成AI",
+      "イラスト",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "57d3c759a547a6de237ebcbd88a01c13b6ced065",
+    "title": "第2話　AIは、急に現れたわけではない",
+    "url": "https://note.com/novel_sable6509/n/ne0520a5af2fe",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:28:03+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323034435/rectangle_large_type_2_1528a2b161863723a3e676bee0bc793f.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "第2話　AIは、急に現れたわけではない",
+    "hashtags": [
+      "生成AI",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "bd3e343159f5f7e5e7bddb5f1dfab4900d019a85",
+    "title": "第1話　AIは、ChatGPTだけじゃない",
+    "url": "https://note.com/novel_sable6509/n/n290fef5dfe33",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:17:23+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323032303/rectangle_large_type_2_d1234a09d13e7b2cd5f07597cb6272e0.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "第1話　AIは、ChatGPTだけじゃない",
+    "hashtags": [
+      "生成AI",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c3c673a266aa4e2a4b7f84a3541c504fd018af30",
+    "title": "Copilotって何？今のパソコンで使えるの？",
+    "url": "https://note.com/kuj_eda5589/n/n15ff7e61c389",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-11T08:16:07+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323032911/rectangle_large_type_2_49c189b0fd3cfd9944a5b25d24f7d820.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Copilotって何？今のパソコンで使えるの？",
+    "hashtags": [
+      "Copilot",
+      "生成AI",
+      "初心者向け"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5527bb190a5db49e1f0fac0008cda4390f1cc3ad",
+    "title": "記事が増えたので、マガジンで整理しました｜目的別・読む順番ガイド",
+    "url": "https://note.com/seisei_ai_1st/n/nd86257d7f050",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-11T09:06:06+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323044572/rectangle_large_type_2_e22b6bf2d0c31e8ff5d925861a6260d1.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "記事が増えたので、マガジンで整理しました｜目的別・読む順番ガイド",
+    "hashtags": [
+      "マガジン",
+      "お知らせ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c82181ed0276920b849a3ab064e073ba1c2e8101",
+    "title": "AIの文章が「それっぽいのに薄い」原因は3つ|プロンプトの直し方を前後比較とテンプレで整理",
+    "url": "https://note.com/ai_life_note_jp/n/n05c7b2c434c8",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-11T09:04:56+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323046007/rectangle_large_type_2_2eb135dfbb3d8e2e0a1ec91f833fc948.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "AIの文章が「それっぽいのに薄い」原因は3つ|プロンプトの直し方を前後比較とテンプレで整理",
+    "hashtags": [
+      "プロンプト",
+      "文章作成",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d8dd43cf0d92a57a3c70b944d65ed0b4077a87d3",
+    "title": "『ショート記事』【AIさんがあの部活と川岸（🧒🌊 / 👩🎨 / 🧑🎺）を生成してみる？】中学校の川ガキくんの川遊びに、美術部のミナさんと吹奏楽部のユウさんがついてきたら、川が三つに増えてしまった",
+    "url": "https://note.com/genichi968/n/n31a44e1bd6f4",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-11T08:58:37+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323043917/rectangle_large_type_2_c65d9536b0dc5bf3f40f2917ae3ccf3b.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "『ショート記事』【AIさんがあの部活と川岸（🧒🌊 / 👩🎨 / 🧑🎺）を生成してみる？】中学校の川ガキくんの川遊びに、美術部のミナさんと吹奏楽部のユウさんがついてきたら、川が三つに増えてしまった",
+    "hashtags": [
+      "創作",
+      "画像生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c8a383ddf637142a72d8a4f9eb3b3087297b1a8f",
+    "title": "# 第10回　前髪あり？ そらワシにもあるわ！ 頭頂部は薄いけど。",
+    "url": "https://note.com/numada_yuruwo/n/nd6f2b490fe9a",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-11T08:57:14+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323042946/rectangle_large_type_2_7f11305bc01283f5258b043c7380e905.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "# 第10回　前髪あり？ そらワシにもあるわ！ 頭頂部は薄いけど。",
+    "hashtags": [
+      "雑談",
+      "日記"
+    ],
+    "classified": true
+  },
+  {
+    "id": "13393e92b68d3fc4e65e4ce79c848c1c07b377bd",
+    "title": "【AI活用術】商談の前にAIがお客様役に。ひとりでロープレ練習｜コピペで使えるプロンプト付き",
+    "url": "https://note.com/yamamasa1006/n/nbed6b46b5fab",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-11T08:53:38+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323042035/rectangle_large_type_2_ab61099073b033c15c6238b22729a5eb.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【AI活用術】商談の前にAIがお客様役に。ひとりでロープレ練習｜コピペで使えるプロンプト付き",
+    "hashtags": [
+      "プロンプト",
+      "営業",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7c23768a5de340086ddf8e0a91440a9c8e461871",
+    "title": "【MOS 365 vs 2019】転職活動でExcelスキルを客観的に証明するための選び方と優先順位",
+    "url": "https://note.com/tetekkotekko/n/n49b30d24e7d0",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T09:02:16+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323044792/rectangle_large_type_2_81c41d631d78146b44240c65c16eb57c.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【MOS 365 vs 2019】転職活動でExcelスキルを客観的に証明するための選び方と優先順位",
+    "hashtags": [
+      "Excel",
+      "MOS",
+      "資格"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d8f42789d772dbc23cabb33c5650d3a2bdab3c4d",
+    "title": "AIで転記した結果を、正解表と1マスずつ照合する方法｜今回のExcelでは「=」が小さい「ァ」を見落とした",
+    "url": "https://note.com/kotsukotsu_jimu/n/n857c9e47ff8c",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:58:51+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323043857/rectangle_large_type_2_9dfa1cc42d9d1b63c82de5fd9f15e665.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "AIで転記した結果を、正解表と1マスずつ照合する方法｜今回のExcelでは「=」が小さい「ァ」を見落とした",
+    "hashtags": [
+      "Excel",
+      "データ照合",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "50be446c06c28d6246d3249efc46812a702837e0",
+    "title": "プログラミング未経験でも大丈夫。AIと一緒に、最初の自動化をやってみませんか?",
+    "url": "https://note.com/super_hawk3242/n/n76fcd202f0eb",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:44:47+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "プログラミング未経験でも大丈夫。AIと一緒に、最初の自動化をやってみませんか?",
+    "hashtags": [
+      "Excel",
+      "業務効率化",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5157dde2dff6563197e03b42e3e92fc04e2cdd9c",
+    "title": "飲食店の「原価率」を、Excelの表1枚で自動計算できるようにした話(AIと作りました)",
+    "url": "https://note.com/alert_alpaca8519/n/nfbe303c1ca68",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:32:51+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/322382477/rectangle_large_type_2_b9b96571dd272f1ce2e6be52ec53e00a.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "飲食店の「原価率」を、Excelの表1枚で自動計算できるようにした話(AIと作りました)",
+    "hashtags": [
+      "Excel",
+      "原価計算",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4aa80f397905f354eb249ca0b5ae7fee71dca5f8",
+    "title": "Claude Code で「毎月のExcel集計」を一言で終わらせる方法｜非エンジニア向け・コピペで使える依頼文つき",
+    "url": "https://note.com/shigotoai_lab/n/n2f8bce3918f8",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:29:32+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323036791/rectangle_large_type_2_ef9a5e77e362cd1cd911ab1d7d7bb3d4.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Claude Code で「毎月のExcel集計」を一言で終わらせる方法｜非エンジニア向け・コピペで使える依頼文つき",
+    "hashtags": [
+      "Claude",
+      "Excel",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "969af94fc352a9c54459ad0b14051f5caa5f1764",
+    "title": "AIに作ってもらった集計表、どう確かめる？｜照合が「OK」でも12マスまちがっていた（わざと入れたまちがいで試した）",
+    "url": "https://note.com/kotsukotsu_jimu/n/n983b7c3f6ffd",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:27:57+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323018176/rectangle_large_type_2_a3da367c546b24f6c084ba50e28fd085.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "AIに作ってもらった集計表、どう確かめる？｜照合が「OK」でも12マスまちがっていた（わざと入れたまちがいで試した）",
+    "hashtags": [
+      "Excel",
+      "データ検証",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "48ac7d295424c03778da249aed52ee695ac73d83",
+    "title": "Excel SUMIFS ワイルドカードで勘定科目コードを前方一致集計｜部門別経費を月2時間→10分にした3手順",
+    "url": "https://note.com/tender_clam9623/n/n7d2b18482d20",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:17:43+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323033284/rectangle_large_type_2_cb5bc7e1e06cc9c97d95f2272544537c.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excel SUMIFS ワイルドカードで勘定科目コードを前方一致集計｜部門別経費を月2時間→10分にした3手順",
+    "hashtags": [
+      "Excel",
+      "SUMIFS",
+      "関数"
+    ],
+    "classified": true
+  },
+  {
+    "id": "73b2a1a7ec3d69963c3dd50acf9e5e2a0bf5b9fe",
+    "title": "ひとり情シスが半日かかった障害から学んだ、Excelで作るネットワーク構成図",
+    "url": "https://note.com/hitori_jousys_m/n/n87a85b244f36",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-11T08:11:36+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/322892546/rectangle_large_type_2_d4240a969b5b0e588764aa1f3980ecbb.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ひとり情シスが半日かかった障害から学んだ、Excelで作るネットワーク構成図",
+    "hashtags": [
+      "情シス",
+      "Excel",
+      "ネットワーク"
+    ],
+    "classified": true
+  },
+  {
+    "id": "de2da367ed6bd8e11765f2fc6d3757df72375911",
+    "title": "AIの文章を見抜けた専門家はわずか36％　「ヒューマンファイアウォール」崩壊の現実",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/11/news006.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-10-11T07:00:00+09:00",
+    "published_display": "2026/10/11 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIの文章を見抜けた専門家はわずか36％　「ヒューマンファイアウォール」崩壊の現実",
+    "hashtags": [
+      "セキュリティ",
+      "生成AI",
+      "ニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0f3f8f148004bfd0e44fa7b595eef7f82c4244a6",
+    "title": "【秋の特別セール開催】セアボルのAIノイキャン搭載「集音器」シリーズが最大48%OFF！会話が弾む最新イヤーカフ型『Liberte』など全4モデルでシニアの外出をサポート",
+    "url": "https://ascii.jp/elem/000/004/441/4441767/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-10T16:15:06+09:00",
+    "published_display": "2026/10/10 Sat",
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【秋の特別セール開催】セアボルのAIノイキャン搭載「集音器」シリーズが最大48%OFF！会話が弾む最新イヤーカフ型『Liberte』など全4モデルでシニアの外出をサポート",
+    "hashtags": [
+      "セール",
+      "ハードウェア",
+      "集音器"
+    ],
+    "classified": true
+  }
+]
