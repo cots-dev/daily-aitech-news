@@ -686,7 +686,19 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-15T08:36:14+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/324512808/rectangle_large_type_2_fa674b7e850244d7ffd4fc4f864bf9ac.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/324512808/rectangle_large_type_2_fa674b7e850244d7ffd4fc4f864bf9ac.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "電子帳簿保存法の索引簿の作り方｜Excelで連番・日付・金額・取引先を1行に書き、フィルターで探す（要るかどうかの見分け方も）",
+    "hashtags": [
+      "Excel",
+      "電子帳簿保存法",
+      "経理"
+    ],
+    "classified": true
   },
   {
     "id": "a0175764e18543fec55bb56b902b7db46e79ab4a",
@@ -695,7 +707,13 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-15T08:10:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/324214349/rectangle_large_type_2_152b354c7ee494e98d3f2b01f5bd7818.png?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/324214349/rectangle_large_type_2_152b354c7ee494e98d3f2b01f5bd7818.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【スキルを育てる】第6回（最終回） Officeでスキルが動いたら ― PowerPoint、Word、Excelへ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "dda14e65ed7250bcef556d6998f5d03317a71435",
@@ -704,7 +722,13 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-15T07:44:50+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://assets.st-note.com/production/uploads/images/324500277/rectangle_large_type_2_1f772eeda51fffb355d756ed882c1c1b.jpeg?width=800"
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/324500277/rectangle_large_type_2_1f772eeda51fffb355d756ed882c1c1b.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Excel時短本おすすめ10選｜コピペ残業をゼロにする選び方",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "bdfa241d2298623bd6b1c1f809551323a9f52595",
@@ -713,7 +737,13 @@
     "source": "note（ハッシュタグ: Excel）",
     "published": "2026-10-15T07:41:51+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "工事写真台帳を月末にまとめて作ると詰まる理由。一人親方でも続く「毎日10分」に分ける方法",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c62e6910607db26f2c45953e2f1de8d3ac5e88d7",
@@ -722,7 +752,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-15T08:00:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？　日立など5社、横浜と北九州をつないで実証",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c9986c5a15e45de4ab13712227a46ec68606106a",
@@ -731,7 +767,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-15T08:00:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIの安全性測る「物差し」を日本でも――AISI村上所長に聞く展望　相次ぐサイバー攻撃への対応は",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "5d1dd6018d68dcc298e7c5f0ff5191556e10fdb7",
@@ -740,7 +782,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-15T06:30:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "IFS最大イベントで新産業用AI発表　対話と自律実行で「眠る40％」を解き放つ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "5d9e3a3db8bf9bb1cbadc7d2de0c76e99d63ec70",
@@ -749,7 +797,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T19:43:31+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+    "hashtags": [
+      "Claude",
+      "Anthropic",
+      "AIニュース"
+    ],
+    "classified": true
   },
   {
     "id": "9727039a58c2c320bb1e7672ebea1358c0331b6a",
@@ -758,7 +818,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T18:20:35+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Anthropic共同創業者「サイバー攻撃、オープンモデル悪用の可能性」",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "09329565120ff4d02a2417ea153252e47f0b6f74",
@@ -767,7 +833,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T17:45:00+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "日立が「木造データセンター」展開　“鉄とコンクリ”から木材へ、“見た目がオシャレ”以外の価値は？",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "01f449dc1dfa250caaf91648fb885330842d7678",
@@ -776,7 +848,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T16:53:35+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「AIがAIを作れるようになる確率は2027年に50%超」　Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "7ccc985d00ddb74082ff22a7bde39e38968753b9",
@@ -785,7 +863,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T14:58:28+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "デンマークの880万人分流出、原因はパスワード「123456」　ハッカー「侵入は難しくなかった」　現地報道",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "9c83062f1d80f8117d155f39401a2ff9ca340202",
@@ -794,7 +878,19 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T14:06:36+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Googleの新モデル「Gemini 4 Argon」一般提供開始　使えるプラン、価格",
+    "hashtags": [
+      "Google",
+      "Gemini",
+      "AI"
+    ],
+    "classified": true
   },
   {
     "id": "9c17d3cb2d4fda0bb05d675f67812d8f9a7062e3",
@@ -803,7 +899,13 @@
     "source": "ITmedia AI+",
     "published": "2026-10-14T09:24:42+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に　AIでゲームを探す機能も",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "76bfd2ebf03d06ae46d9b83c3e2d340dcd409ecf",
@@ -812,7 +914,13 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-14T10:00:00+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Active Directoryが“人質”に　ランサムウェアを使わない恐喝攻撃の手口とは",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "88edf99efcf1200695ceea3968d30d938cecdcaf",
@@ -821,7 +929,13 @@
     "source": "ITmedia エンタープライズ",
     "published": "2026-10-14T09:30:00+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "中堅・中小でもIT支出は増加優勢1300社調査で浮かび上がった、「データ主権」「ソブリンAI」への意識",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "b6cf792bd663492ef17943e3aef05af7b5c3e7dc",
@@ -830,7 +944,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-15T08:00:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://ascii.jp/img/2026/10/14/4538286/s/d5f6900385b75fbe.jpg"
+    "thumbnail": "https://ascii.jp/img/2026/10/14/4538286/s/d5f6900385b75fbe.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「手作業での脆弱性管理はやがて破綻する」 日本IBMが示すフロンティアAI時代の自律型セキュリティ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "4b4dd0ec9cee88ef4fe885d6ee7485454c6bde98",
@@ -839,7 +959,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-15T07:20:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://ascii.jp/img/2026/10/14/4538300/s/cceaca30d9664dee.jpg"
+    "thumbnail": "https://ascii.jp/img/2026/10/14/4538300/s/cceaca30d9664dee.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "約970gで最大15.5時間駆動！ HP「OmniBook 7 Aero」がプライム感謝祭先行セールで13万3900円",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "723800046df434bd7f76865c66818be47ac21d2a",
@@ -848,7 +974,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-15T07:00:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://ascii.jp/img/2026/10/13/4538148/s/eff7258d01597192.jpg"
+    "thumbnail": "https://ascii.jp/img/2026/10/13/4538148/s/eff7258d01597192.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "コンタクトセンターの問い合わせ対応からデータ分析までを自動化するAIサービス",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "fc3f2f8858b732656365cddc377809eaf041f296",
@@ -857,7 +989,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-15T07:00:00+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://ascii.jp/img/2026/10/08/4536192/s/8172ea2ec347cf9f.jpg"
+    "thumbnail": "https://ascii.jp/img/2026/10/08/4536192/s/8172ea2ec347cf9f.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIによる翻訳・検証と人の目による確認を融合させた英文開示支援サービス",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "3e6e55e3649bb8925d3d6cecf1317d8dc9809189",
@@ -866,7 +1004,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-15T06:55:18+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "オープンモデルは危険か？ AIの「民主化」と 安全性のジレンマ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "88cc0de51050b593b58a7d79a52b70cbe9eac1d8",
@@ -875,7 +1019,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-15T06:33:56+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "廃業企業のメールやSlackがAI訓練に、「葬儀屋」ビジネスが活況",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "ee5a86082ce57e8e235ce9379dd0220abcf914f7",
@@ -884,7 +1034,13 @@
     "source": "ASCII.jp",
     "published": "2026-10-14T20:00:00+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": "https://ascii.jp/img/2026/10/14/4538602/s/42694fa699647b7f.png"
+    "thumbnail": "https://ascii.jp/img/2026/10/14/4538602/s/42694fa699647b7f.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Microsoft Officeが最大21％オフ！ Amazonプライム感謝祭を見逃すな",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "578db9417246eb79af2cdb2897b3afd19f6d41e0",
@@ -893,7 +1049,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-15T04:37:56+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "みずほが数千人をAI開発者に転換　事務や営業、日本企業の働き方転機 - 日本経済新聞",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "4c6d1f094676f850fec6d1cd9d3d4f634a61d43d",
@@ -902,7 +1064,19 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-14T15:49:13+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる",
+    "hashtags": [
+      "Claude",
+      "動画編集",
+      "AI活用"
+    ],
+    "classified": true
   },
   {
     "id": "fae7f5573ccd3c81e8d3246648f30a8afdedaf6a",
@@ -911,7 +1085,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-14T22:39:43+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "つようら王11mini/microをMIT Licenseで公開しました | やねうら王 公式サイト",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "98bbc12833a2c8de869edaccd68769e83924071d",
@@ -920,7 +1100,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-14T22:35:02+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "仕組みを動く図で説明するエージェントスキルAnatomy公開",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "c8aff074cbd958a69372d2551cf0e6ed484227cd",
@@ -929,7 +1115,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-15T01:29:36+09:00",
     "published_display": "2026/10/15 Thu",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "7bfd20c2ec87f954716daf87f84375bc8fd5b76f",
@@ -938,7 +1130,13 @@
     "source": "はてなブックマーク（総合 人気エントリ）",
     "published": "2026-10-14T11:55:15+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Anthropic Claude 公式コード近代化プラグイン (README)",
+    "hashtags": [],
+    "classified": true
   },
   {
     "id": "2dcf158589a14f9c39c4f4e730b957c92c1ce34d",
@@ -947,7 +1145,21 @@
     "source": "Windows Blog for Japan",
     "published": "2026-10-14T17:44:22+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "新しい Microsoft Copilot アプリに Office が登場",
+    "hashtags": [
+      "Copilot",
+      "Microsoft",
+      "Office"
+    ],
+    "classified": true
   },
   {
     "id": "5e61a91e58ac9121d453ae3d35f9668c591d88e6",
@@ -956,7 +1168,19 @@
     "source": "Windows Blog for Japan",
     "published": "2026-10-14T10:37:25+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Copilot の価格モデルの進化",
+    "hashtags": [
+      "Copilot",
+      "Microsoft",
+      "料金"
+    ],
+    "classified": true
   },
   {
     "id": "631461d8ae8c7b36d9f3132f055db30ec16ce103",
@@ -965,6 +1189,12 @@
     "source": "Windows Blog for Japan",
     "published": "2026-10-14T10:33:00+09:00",
     "published_display": "2026/10/14 Wed",
-    "thumbnail": null
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "プラグイン レジストリのご紹介 – Microsoft Copilot 向けプラグインの検出とガバナンスを 1 か所で",
+    "hashtags": [],
+    "classified": true
   }
 ]
