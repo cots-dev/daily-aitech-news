@@ -1,0 +1,799 @@
+[
+  {
+    "id": "e791158d62e222d4eb6995e3708e0e07e6101092",
+    "title": "【アップデート情報】窓の杜収録ソフト　10月19日　～「Adobe Acrobat Reader」「Apache OpenOffice」「GeekUninstaller」など",
+    "url": "https://forest.watch.impress.co.jp/docs/update/library/2148962.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T07:30:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "【アップデート情報】窓の杜収録ソフト 10月19日 ～「Adobe Acrobat Reader」「Apache OpenOffice」「GeekUninstaller」など",
+    "hashtags": [
+      "フリーソフト",
+      "アップデート",
+      "Windows"
+    ],
+    "classified": true
+  },
+  {
+    "id": "39c7fe21d1161643193a31e08673fcd918fa9ce2",
+    "title": "【Excel】Web版のExcelでも作業を自動化！ CopilotでOffice Scriptsを作る【いまさら聞けないExcelの使い方講座】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2148977.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T06:55:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【Excel】Web版のExcelでも作業を自動化！ CopilotでOffice Scriptsを作る",
+    "hashtags": [
+      "Excel",
+      "Copilot",
+      "OfficeScripts"
+    ],
+    "classified": true
+  },
+  {
+    "id": "889c03420b6726f736792f03e9ef5e1e168af0ff",
+    "title": "PCからAndroidを操作できるGUIアプリ「Escrcpy」v3.3.1、既存の全機能が無償に／課金体系の見直しにともなう“橋渡し”リリース",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2148364.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T06:45:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "PCからAndroidを操作できるGUIアプリ「Escrcpy」v3.3.1、既存の全機能が無償に／課金体系の見直しにともなう“橋渡し”リリース",
+    "hashtags": [
+      "Escrcpy",
+      "Windows",
+      "便利ツール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "099473844eadbceba7230924d00f69bf1414367e",
+    "title": "【レビュー】【NVIDIA RTX Spark実機レビュー】Arm版Marvel Rivalsでfps最大約1.8倍に",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/review/2149084.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T06:24:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【NVIDIA RTX Spark実機レビュー】Arm版Marvel Rivalsでfps最大約1.8倍に",
+    "hashtags": [
+      "NVIDIA",
+      "GPU",
+      "レビュー"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3c9ef1ea4ee188a2ac5627ac61351aafba5dced2",
+    "title": "改札もコンビニもAI質問も手首で。スマートウォッチは今ここまで来た",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2148214.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T06:04:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "改札もコンビニもAI質問も手首で。スマートウォッチは今ここまで来た",
+    "hashtags": [
+      "スマートウォッチ",
+      "ウェアラブル"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e2addafe7b75461343c55ce30de9272c777f6d6e",
+    "title": "Excelで「誰にどの仕事を任せるか」を自動で決める（標準のソルバーだけ・手順つき）",
+    "url": "https://qiita.com/abe_shunsuke/items/a597e6d89739fb29ffa2",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-18T22:59:10+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excelで「誰にどの仕事を任せるか」を自動で決める（標準のソルバーだけ・手順つき）",
+    "hashtags": [
+      "Excel",
+      "ソルバー",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8da6b666a761402889ddcc0522277ee189bec66d",
+    "title": "銀行明細と仕訳帳が突き合わない夜 — AIに任せるのは照合まで、充当先の確認は数式で行う",
+    "url": "https://qiita.com/yoshitokinosita/items/428a64c2ea5bc18a9d80",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-18T12:00:52+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "銀行明細と仕訳帳が突き合わない夜 — AIに任せるのは照合まで、充当先の確認は数式で行う",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "経理"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8cdcd4decfa9099e862eefb43680ecc2e7dbac49",
+    "title": "VBAのインデント整形を自作するときに考えること（Select Case・1行If・行継続・ラベル）",
+    "url": "https://qiita.com/minipc_lab/items/b288318b89ecbd20cdf1",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-18T10:18:54+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "VBAのインデント整形を自作するときに考えること（Select Case・1行If・行継続・ラベル）",
+    "hashtags": [
+      "VBA",
+      "プログラミング",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "473bdabcc3bc6e1a2e7428cb4b69de18d2d4fa84",
+    "title": "Power Automate でSharePointリストとDataverseのどちらをデータソースに使うか——大企業導入で判断した5つの基準",
+    "url": "https://qiita.com/Sidejob/items/4a680f85fdb7ae97b6c7",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-10-18T19:30:03+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Power Automate でSharePointリストとDataverseのどちらをデータソースに使うか——大企業導入で判断した5つの基準",
+    "hashtags": [
+      "PowerAutomate",
+      "SharePoint",
+      "Dataverse"
+    ],
+    "classified": true
+  },
+  {
+    "id": "406017f839aaf9be891fb4f5c69de0c0c65996a1",
+    "title": "ダイエットを始めました。相棒はCopilotです。",
+    "url": "https://note.com/yokanotebai/n/ne6330dd6927d",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T07:37:27+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325944126/rectangle_large_type_2_ae226f153b860acbc8072481966392d3.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ダイエットを始めました。相棒はCopilotです。",
+    "hashtags": [
+      "Copilot",
+      "ダイエット",
+      "日記"
+    ],
+    "classified": true
+  },
+  {
+    "id": "131ec1b784f2ec86da0a529922a4c8bdd7290056",
+    "title": "🤣「蒸留、蒸留って言ってるが、何それ？」AI業界で何が起きているのか？CopilotとChatGPTに聞いてみた！🔥執筆：ChatGPT協議共同ライター",
+    "url": "https://note.com/tarou_wakamatsu/n/n619aaad51c23",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T07:08:55+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325938038/rectangle_large_type_2_ae0bf72f16418e120ec871b87223ff61.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「蒸留、蒸留って言ってるが、何それ？」AI業界で何が起きているのか？CopilotとChatGPTに聞いてみた！",
+    "hashtags": [
+      "AI",
+      "Copilot",
+      "ChatGPT"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5303bbedc131a56c2687b6f09986e06c80957a92",
+    "title": "【DAY112】17日は42,513PV、18日は303,669PV。25日で526万PV、フォロワー603人",
+    "url": "https://note.com/deep_gibbon1526/n/n3080edfad089",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T06:54:03+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325934311/rectangle_large_type_2_28f4139a3ce1d9440badab062a1ecd2a.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【DAY112】17日は42,513PV、18日は303,669PV。25日で526万PV、フォロワー603人",
+    "hashtags": [
+      "PV報告",
+      "note",
+      "運営報告"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6e04c7d30d7895cc8f117c5f5d31b2436278aae9",
+    "title": "【AI画像生成】赤と黒の衝撃 🌹 フォトリアルな「儚く壊れそうな舞台」を描く日本語プロンプト3選 ✨",
+    "url": "https://note.com/hoshizoramochi/n/n96884e48c1e4",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T06:30:40+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/322924961/rectangle_large_type_2_a8e6987420ce8d01518f407d1fea00be.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【AI画像生成】赤と黒の衝撃 🌹 フォトリアルな「儚く壊れそうな舞台」を描く日本語プロンプト3選 ✨",
+    "hashtags": [
+      "AI画像生成",
+      "プロンプト",
+      "画像生成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f8852146b3a5f0adac0aaa379539f1af09cdcb1b",
+    "title": "仕事のAIを動かすのは、まだ人の指示が67%。自動化は急がなくて足ります",
+    "url": "https://note.com/datsusara40/n/n375ec8cab27d",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T06:18:07+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325928768/rectangle_large_type_2_0406671e13fb9ebfe0d8b2cc08eb7aca.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "仕事のAIを動かすのは、まだ人の指示が67%。自動化は急がなくて足ります",
+    "hashtags": [
+      "AI活用",
+      "業務自動化",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "278aca0f059c3a81898f3fe244bdafb5e6ce1d74",
+    "title": "379話　シーブリーズ☆プリキュア風　第3話　ハロウィンパーティ【魔女っ娘編】波打際スケッチ　Sketches of the Shoreline　～AIと創る青春物語～",
+    "url": "https://note.com/brainy_thyme2046/n/necc3b7d0ca56",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T05:23:58+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325206641/rectangle_large_type_2_1912e68996c1f09d697fc2119c2c00af.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "379話 シーブリーズ☆プリキュア風 第3話 ハロウィンパーティ【魔女っ娘編】波打際スケッチ Sketches of the Shoreline ～AIと創る青春物語～",
+    "hashtags": [
+      "AI創作",
+      "小説",
+      "エンタメ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5dafd54829fa477df0f036e863ab7897ac7752b1",
+    "title": "レスバ観戦日記 ～香ばしい香りに誘われて～",
+    "url": "https://note.com/akibarex/n/nda01b7fe3479",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T01:05:19+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325901529/rectangle_large_type_2_0828f424694103ad4ee53013131856bf.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "レスバ観戦日記 ～香ばしい香りに誘われて～",
+    "hashtags": [
+      "日記",
+      "雑談"
+    ],
+    "classified": true
+  },
+  {
+    "id": "879861de7a9a0b30584712b330251c7d5b299be8",
+    "title": "うまくいった資料の作り方を、Copilotのスキルにしてみた。",
+    "url": "https://note.com/yonnana_ai/n/nfe983c24fd8a",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-19T01:02:16+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325901701/rectangle_large_type_2_e998a077352c3c8e5786258f4c80383e.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "うまくいった資料の作り方を、Copilotのスキルにしてみた。",
+    "hashtags": [
+      "Copilot",
+      "資料作成",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8fc13766f4be2d5d2ab67eec839a9491cc230911",
+    "title": "【Copilot実務編】＃1　会議メモの「未決」を決定に変えない　Agent Builderで点検係を設計する",
+    "url": "https://note.com/idea_shelf/n/ndcb0ec9d1d81",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-18T23:35:56+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/324762970/rectangle_large_type_2_a71ba6fd415646c57a55c6ad97aa921d.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "【Copilot実務編】＃1 会議メモの「未決」を決定に変えない Agent Builderで点検係を設計する",
+    "hashtags": [
+      "Copilot",
+      "AgentBuilder",
+      "議事録"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7462d9b19d4a9803c1728c5d070e5055d8da8550",
+    "title": "CopilotをRAG的に使い倒す方法（その3：Notebooksの活用）",
+    "url": "https://note.com/holy_parrot2322/n/n6c32a3d988c5",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-18T23:28:13+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325875269/rectangle_large_type_2_25b9100c9b74132876c91055818a33f7.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "CopilotをRAG的に使い倒す方法（その3：Notebooksの活用）",
+    "hashtags": [
+      "Copilot",
+      "Notebooks",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f5dec10aa8021235e91a1bc1612a9add1f524623",
+    "title": "【53days】ゲームやテレビのダラダラから自然に抜け出す！過去の記憶を活かして自分にご褒美時間を贈る「あなた専用の気持ち切り替えAIプロンプト」",
+    "url": "https://note.com/soccersnowkozou/n/nefb4f9848fb2",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-19T07:43:30+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/324862582/rectangle_large_type_2_262d866c8c7d844931686458367a903c.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【53days】ゲームやテレビのダラダラから自然に抜け出す！過去の記憶を活かして自分にご褒美時間を贈る「あなた専用の気持ち切り替えAIプロンプト」",
+    "hashtags": [
+      "プロンプト",
+      "習慣化",
+      "ライフハック"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8f990966a5468b2cd9c59d3db4ba277754b80961",
+    "title": "AI に仕事を任せ始めた人へ：指示は「やってはいけないこと」から書くと失敗が減る",
+    "url": "https://note.com/ai_banto_yakob/n/nf4ecfa0da448",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-19T07:43:29+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325604343/rectangle_large_type_2_eaaacef03c3769936f85f89152ff1fee.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "AI に仕事を任せ始めた人へ：指示は「やってはいけないこと」から書くと失敗が減る",
+    "hashtags": [
+      "AI",
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0ef3c2daab8a21df3ebcce07da20d6494df41d6a",
+    "title": "経理のChatGPT活用20選｜日次・月次・年次・社内対応に分けて、すぐ試せる短いプロンプト例つき【経理1年目からOK】",
+    "url": "https://note.com/saborikeiri/n/n11fbbee6789c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-19T07:31:41+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325942635/rectangle_large_type_2_bf7f86c644d902edc4ceacab5437f0cd.jpg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "経理のChatGPT活用20選｜日次・月次・年次・社内対応に分けて、すぐ試せる短いプロンプト例つき【経理1年目からOK】",
+    "hashtags": [
+      "ChatGPT",
+      "経理",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5f17984b6e4c5912783c322a8f2d79877838c749",
+    "title": "【🎉企画参加】🧁魔女パレットと、科学の魔法菓子店の夢😴",
+    "url": "https://note.com/novel_woolpallet/n/n2fed3713d2ae",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-19T07:30:51+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325941359/rectangle_large_type_2_473ff536192f315d146212bc7d37309b.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【🎉企画参加】🧁魔女パレットと、科学の魔法菓子店の夢😴",
+    "hashtags": [
+      "創作",
+      "物語"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ab4070f5413fd4dc22c93554ba5125e50f29f8e1",
+    "title": "【Excel】関数エラー（#N/A, #VALUE!）をAIで一発修正・原因特定するプロンプト集",
+    "url": "https://note.com/rokuhachi0402/n/n59a19b7af9ef",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-19T07:28:41+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323658817/rectangle_large_type_2_e1ca75b10004726895f4afe98d2975e9.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【Excel】関数エラー（#N/A, #VALUE!）をAIで一発修正・原因特定するプロンプト集",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "42fd1c34073aeff8c51304f54e055cf0ff4c9097",
+    "title": "転記作業をAIで効率化する前に決める3つ｜納品書PDFをExcelに写す実験から",
+    "url": "https://note.com/kotsukotsu_jimu/n/n1c9f317313a6",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-19T07:46:55+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325347846/rectangle_large_type_2_b1f2815396cb026baf010aa52fedaba2.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "転記作業をAIで効率化する前に決める3つ｜納品書PDFをExcelに写す実験から",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "23ebac7601f5f08571ba7b89b232ed026527250c",
+    "title": "値上げは怖い。でも、値上げしないリスクも考えていますか？",
+    "url": "https://note.com/shigotorakulab/n/n8f10b5b34d8a",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-19T07:46:33+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325945634/rectangle_large_type_2_8f5fb1cb0a50466ae4b1a1e7be582b5a.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "値上げは怖い。でも、値上げしないリスクも考えていますか？",
+    "hashtags": [
+      "ビジネス",
+      "経営"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4c5d4d5adc129abccf06e7675d7188a98d135494",
+    "title": "経理のExcel関数をAIに作ってもらう頼み方と確かめ方｜XLOOKUP・VLOOKUP・SUMIFS・ピボットテーブル",
+    "url": "https://note.com/saborikeiri/n/nf0897074a6a1",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-19T07:32:13+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325942718/rectangle_large_type_2_8a85edfbed0818af3cb3e9f75fd4cd89.jpg?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "経理のExcel関数をAIに作ってもらう頼み方と確かめ方｜XLOOKUP・VLOOKUP・SUMIFS・ピボットテーブル",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "関数"
+    ],
+    "classified": true
+  },
+  {
+    "id": "86a5219b8bff77e976122e5b5cb7f0729507bd5a",
+    "title": "関数が思い出せなくても大丈夫｜Excelの数式はAIに日本語で頼めば出てくる",
+    "url": "https://note.com/ai_hacklog/n/ne4b29eb44d25",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-19T06:33:47+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325898894/rectangle_large_type_2_1427bdd3748d05e45c809bf7ece790fe.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "関数が思い出せなくても大丈夫｜Excelの数式はAIに日本語で頼めば出てくる",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "数式"
+    ],
+    "classified": true
+  },
+  {
+    "id": "27be3086c0d65a94fba4510fc0708ace110d175f",
+    "title": "単価×数量を電卓で計算していませんか？かけ算は「*」で｜Excel活用 02",
+    "url": "https://note.com/real_shrew8404/n/n2abd760afdba",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-19T06:14:40+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325928202/rectangle_large_type_2_da8948444c7e643171433ebe54085e7e.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "単価×数量を電卓で計算していませんか？かけ算は「*」で｜Excel活用 02",
+    "hashtags": [
+      "Excel",
+      "数式",
+      "時短"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2758d6083a350cfd05651449e716aafe7bd6b14f",
+    "title": "100個のExcelを開かずに探す！ AIで、ファイル横断検索ツールを作ってみよう_DX019",
+    "url": "https://note.com/ken_act/n/nc0a266110966",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-19T05:41:37+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/323389200/rectangle_large_type_2_ebe152c29b352a8ff8528fe636e9b708.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "100個のExcelを開かずに探す！ AIで、ファイル横断検索ツールを作ってみよう_DX019",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "943cdcdc610531962425704b13919f1bab2d8d0c",
+    "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは　データ活用“逆算”の鉄則",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T07:00:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+    "hashtags": [
+      "生成AI",
+      "NEC",
+      "自治体"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e0eddf9b45b4f6239d6c270d86af6666683c8f1c",
+    "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-18T08:00:00+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+    "hashtags": [
+      "AIエージェント",
+      "データベース",
+      "セキュリティ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2379eeca987ab438b677a9642d76d988e5cdcf39",
+    "title": "GPT-4o級モデルが自宅のPCで動いた！　ローカルAIの常識を変える「Strata」",
+    "url": "https://ascii.jp/elem/000/004/443/4443584/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-19T07:30:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://ascii.jp/img/2026/10/19/4540209/s/fe64dc2fecf516dc.png",
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」",
+    "hashtags": [
+      "AI",
+      "ローカルAI",
+      "Strata"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b417cac3d0605176f7db91c2194960473d5ab77c",
+    "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開",
+    "url": "https://ascii.jp/elem/000/004/443/4443113/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-19T07:30:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://ascii.jp/img/2026/10/16/4539306/s/cbdfa1bff3b69bde.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開",
+    "hashtags": [
+      "RPA",
+      "AI",
+      "業務改善"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a89fd402a32207e9f8d5ac5872885f600e0a5ab0",
+    "title": "自然言語で業務手順をコード化、チーム運用と制御を備えたAIエージェント実行基盤",
+    "url": "https://ascii.jp/elem/000/004/443/4443388/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-19T07:00:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://ascii.jp/img/2026/10/16/4539539/s/710155a75ad7efd1.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "自然言語で業務手順をコード化、チーム運用と制御を備えたAIエージェント実行基盤",
+    "hashtags": [
+      "AIエージェント",
+      "業務自動化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e31297c67a10fc95a92f9dd1ce0f4512318cdff9",
+    "title": "プロダクトではなく、市場の「課題」を愛せよ Hello Tomorrow CEO アルノー氏が語るディープテック社会実装への鍵",
+    "url": "https://ascii.jp/elem/000/004/439/4439877/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-19T06:00:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://ascii.jp/img/2026/10/05/4534082/s/7ca5e07620afa277.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "プロダクトではなく、市場の「課題」を愛せよ Hello Tomorrow CEO アルノー氏が語るディープテック社会実装への鍵",
+    "hashtags": [
+      "ディープテック",
+      "スタートアップ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "349569023f00a910ad4e82b69bacebabe74f0aa9",
+    "title": "米国で相次ぐ原発の「出力増強」、AIの電力需要を賄えるか？",
+    "url": "https://ascii.jp/elem/000/004/443/4443585/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-19T05:53:21+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "米国で相次ぐ原発の「出力増強」、AIの電力需要を賄えるか？",
+    "hashtags": [
+      "AI",
+      "電力問題",
+      "エネルギー"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b68744ea80e5259e9cecfbc844b7e71840754e87",
+    "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
+    "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-18T18:18:39+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった",
+    "hashtags": [
+      "iPhone",
+      "iOS",
+      "バッテリー"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f1073754b8e021e34d4cdc5e5dae8843ac342d51",
+    "title": "How employment is changing at Anthropic",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-17T16:07:57+09:00",
+    "published_display": "2026/10/17 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Anthropicにおける雇用の変化について",
+    "hashtags": [
+      "Anthropic",
+      "採用",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "af455bd87cb1eeb9150e2cc3acb12171fed4a792",
+    "title": "アップル iPhone Duo、「並外れた予約需要」。すでに出荷予定は2027年1月下旬以降、高額転売も | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/10/18/5603.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-18T20:33:45+09:00",
+    "published_display": "2026/10/18 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "アップル iPhone Duo、「並外れた予約需要」。すでに出荷予定は2027年1月下旬以降、高額転売も",
+    "hashtags": [
+      "iPhone",
+      "Apple",
+      "スマホ"
+    ],
+    "classified": true
+  }
+]
