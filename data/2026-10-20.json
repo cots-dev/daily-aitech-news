@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "0dac4212c47bd9dd4e1460cb1b5365508814ec4d",
+    "title": "コードのチェックもGitHub Copilotにお任せ！ コードのレビュー機能を使おう",
+    "url": "https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2117337.html",
+    "source": "窓の杜",
+    "published": "2026-10-20T08:30:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "コードのチェックもGitHub Copilotにお任せ！ コードのレビュー機能を使おう",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "5985cdb71dc8a5fc99542c22cb7d578edbdf28c5",
+    "title": "「Edge 155」の一部で起動できなくなる問題、Microsoftがサービス側の変更を巻き戻し／クライアント側の修正は調査中",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149456.html",
+    "source": "窓の杜",
+    "published": "2026-10-20T07:50:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "「Edge 155」の一部で起動できなくなる問題、Microsoftがサービス側の変更を巻き戻し／クライアント側の修正は調査中",
+    "hashtags": [
+      "Edge",
+      "Windows"
+    ],
+    "classified": true
+  },
+  {
+    "id": "672e2b87287f82a409461397dca2dee2e2f540ec",
+    "title": "“過去”を遡れるタスクマネージャー「AppControl」、Windows 10/11向けの無償ツール／プライバシー監視・AI連携も可能【レビュー】",
+    "url": "https://forest.watch.impress.co.jp/docs/review/2147320.html",
+    "source": "窓の杜",
+    "published": "2026-10-20T06:45:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "“過去”を遡れるタスクマネージャー「AppControl」、Windows 10/11向けの無償ツール／プライバシー監視・AI連携も可能",
+    "hashtags": [
+      "Windows",
+      "タスクマネージャー",
+      "フリーソフト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2d057393e11a120a53f937c2a5f83dac37aa24cc",
+    "title": "Opera、マインドフルネスWebブラウザー「Opera Air」をリニューアル／初期状態はウィジェットやスピードダイヤル、不要なシステム通知などを排除",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149331.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T20:26:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "Opera、マインドフルネスWebブラウザー「Opera Air」をリニューアル／初期状態はウィジェットやスピードダイヤル、不要なシステム通知などを排除",
+    "hashtags": [
+      "Opera",
+      "ブラウザ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c90c7de99dd154b6cd14b9eab075f237f4c02801",
+    "title": "「Microsoft Publisher」がついにサポート終了、残されたPUBファイルに「LibreOffice」が救いの手／特定企業の独自ファイル形式の末路に警鐘を鳴らす【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2149112.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T19:20:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「Microsoft Publisher」がついにサポート終了、残されたPUBファイルに「LibreOffice」が救いの手／特定企業の独自ファイル形式の末路に警鐘を鳴らす",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "feabb665ec920234e1f95cd0380374439e2c27f3",
+    "title": "2026年10月パッチに新たな問題、［スマート アプリ コントロール］をONにできない／Microsoftが回避策を案内",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149237.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T18:48:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows",
+      "news"
+    ],
+    "howto": true,
+    "title_ja": "2026年10月パッチに新たな問題、［スマート アプリ コントロール］をONにできない／Microsoftが回避策を案内",
+    "hashtags": [
+      "Windows11",
+      "WindowsUpdate"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2e8da0ae5442871763638b0e59569c3d5af70661",
+    "title": "音声の音量、ラウドネス、ピークなどの問題を確認できる「Audio Finish」v1.0　ほか【ダイジェストニュース】",
+    "url": "https://forest.watch.impress.co.jp/docs/digest/2149401.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T18:47:22+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "音声の音量、ラウドネス、ピークなどの問題を確認できる「Audio Finish」v1.0 ほか",
+    "hashtags": [
+      "Windows",
+      "フリーソフト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "eba5eddeb802cedb7364b3089db07a9a95a93227",
+    "title": "「Microsoft Edge」で「Copilot」の新しいタブページが刷新、2026年11月にも一般展開へ／「Cowork」や「Code」の切り替え、エージェントとノートブックなども統合か",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149223.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T17:38:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "「Microsoft Edge」で「Copilot」の新しいタブページが刷新、2026年11月にも一般展開へ／「Cowork」や「Code」の切り替え、エージェントとノートブックなども統合か",
+    "hashtags": [
+      "Edge",
+      "Copilot"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3b86e673c6b04e0ce2c66a280de0e3a9d161cfac",
+    "title": "「Microsoft Access」でめっちゃデカいフォームを作成可能に ～長年の22インチ制限を撤廃／新機能［Big Forms］が最新チャネルで展開開始",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149156.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T16:28:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office",
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「Microsoft Access」でめっちゃデカいフォームを作成可能に ～長年の22インチ制限を撤廃／新機能［Big Forms］が最新チャネルで展開開始",
+    "hashtags": [
+      "Access",
+      "Microsoft365"
+    ],
+    "classified": true
+  },
+  {
+    "id": "94b37ce41075e90de555a945c142defb6543b364",
+    "title": "「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149002.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T15:25:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "10d03a9b9742c963152c5b2dfefe1e024f51eb6e",
+    "title": "プレビュー版Windows 11のゲームモードが改善、暗い場所での顔認証を助ける「画面の明るさ自動調整」も追加／Microsoftが呼びかけ「RTX Spark搭載デバイスはテスト参加を」",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149101.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T14:20:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows",
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "プレビュー版Windows 11のゲームモードが改善、暗い場所での顔認証を助ける「画面の明るさ自動調整」も追加／Microsoftが呼びかけ",
+    "hashtags": [
+      "Windows11",
+      "WindowsUpdate"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a36189b254a345e09ab71517f7b73ec92535615e",
+    "title": "老舗クリップボード履歴ソフト「CLCL」を手本に「Rust」で作り直した「CLCLR」／レジストリを汚さないポータブルアプリ。画像をWebP形式で圧縮保持するなどの工夫も【レビュー】",
+    "url": "https://forest.watch.impress.co.jp/docs/review/2149141.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T13:05:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "老舗クリップボード履歴ソフト「CLCL」を手本に「Rust」で作り直した「CLCLR」／レジストリを汚さないポータブルアプリ。画像をWebP形式で圧縮保持するなどの工夫も",
+    "hashtags": [
+      "Windows",
+      "フリーソフト",
+      "クリップボード"
+    ],
+    "classified": true
+  },
+  {
+    "id": "811332b30731f250402db4ed38811244c20a1196",
+    "title": "子ども向けプログラミング言語「PG0」にAIエージェント ～AIを使いこなす力を養成／教室・学校向けに提供",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149125.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T12:20:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "子ども向けプログラミング言語「PG0」にAIエージェント ～AIを使いこなす力を養成／教室・学校向けに提供",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1909930f54a3d6524ad6ab7c8f9f649b1effaa82",
+    "title": "読み放題にデザイン系実用書が追加！ 生成AIや「Figma」「After Effects」「Affinity」など【読み放題！TechLib新着情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2148201.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T12:07:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "読み放題にデザイン系実用書が追加！ 生成AIや「Figma」「After Effects」「Affinity」など",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "c7a8d3c1b221d674879b4218b3a25d45de221fab",
+    "title": "10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング［2026/10/12～2026/10/18]【記事アクセスランキング】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/accessranking/2149123.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T11:45:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows",
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング",
+    "hashtags": [
+      "Windows11",
+      "WindowsUpdate"
+    ],
+    "classified": true
+  },
+  {
+    "id": "90e55b425cf5e77b48af6eaf3e42dd4569f719d4",
+    "title": "Windows 11の「フォト」アプリが作り直し、より軽快でローカル・クラウドを一元管理／HEICやWebPもそのまま編集、エディター起動も25％高速化、「OneDrive」や「iCloud」の写真もまとめて閲覧",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2149001.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T11:12:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": true,
+    "title_ja": "Windows 11の「フォト」アプリが作り直し、より軽快でローカル・クラウドを一元管理／HEICやWebPもそのまま編集、エディター起動も25％高速化",
+    "hashtags": [
+      "Windows11",
+      "フォト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "678c6ca16f10a3ae7e2527184a427c5bd6664068",
+    "title": "モバイルバッテリーの安全対策に使える難燃ポーチが安い【Amazonプライム感謝祭】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2149145.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T10:51:53+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "モバイルバッテリーの安全対策に使える難燃ポーチが安い",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2df755d124317c65d5e277ec1dfb248ceef9c188",
+    "title": "寝ながらスマホ・タブレットを楽しむホルダー/スタンドが安い！【Amazonプライム感謝祭】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2149133.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T10:36:27+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "寝ながらスマホ・タブレットを楽しむホルダー/スタンドが安い！",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "11930b33daafd3ef961031e6d261f2ed06396bd5",
+    "title": "Adobe製PCソフトが27％OFFでセール中【Amazonプライム感謝祭】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2149128.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T10:30:59+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Adobe製PCソフトが27％OFFでセール中",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "5bf86de2818f149aa30da116c570fee798fe55b3",
+    "title": "コクヨのコピー用紙がAmazonでセール中！【Amazonプライム感謝祭】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2149127.html",
+    "source": "窓の杜",
+    "published": "2026-10-19T10:25:29+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "コクヨのコピー用紙がAmazonでセール中！",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "0aebec94b10d3f97fa5ef9973969003694a6b8fe",
+    "title": "NZXTのピラーレスでARGBファン3基搭載、そして9000円のPCケースが登場",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/19/news091.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-10-19T15:52:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "NZXTのピラーレスでARGBファン3基搭載、そして9000円のPCケースが登場",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2173d0181ae04b9372b8817f9a1faa0f73debbdf",
+    "title": "紙のメモを手放せないあなたへ。手書き×AIで、ミーティングメモが\"使える資産\"に変わる [Sponsored]",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/special/2112054.html",
+    "source": "PC Watch",
+    "published": "2026-10-20T06:30:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "紙のメモを手放せないあなたへ。手書き×AIで、ミーティングメモが\"使える資産\"に変わる",
+    "hashtags": [
+      "AI",
+      "Copilot",
+      "議事録"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ae048da6f02edb7729a2427460ab2aa6a2fc6f1b",
+    "title": "Xeon Platinumをスマホから使える!? Claudeのクラウドセッション",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149014.html",
+    "source": "PC Watch",
+    "published": "2026-10-20T06:03:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Xeon Platinumをスマホから使える!? Claudeのクラウドセッション",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "49e4f5a311417ea5d72f6018e07afd501d423e9c",
+    "title": "あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149440.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T21:59:42+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開",
+    "hashtags": [
+      "AI",
+      "MiniMax"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9241081fb49221ba4eade209110161b69594800b",
+    "title": "ChatGPTのGPT-6 Astra Proが高速化。複数エージェントの並列処理も",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149216.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T12:35:20+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "ChatGPTのGPT-6 Astra Proが高速化。複数エージェントの並列処理も",
+    "hashtags": [
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "61e898e997675e06bf9cd4972015ccddb5a78b37",
+    "title": "VRAM 8GBで動く画像生成AI「FLUX 3 Image Klein」が公開",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149183.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T12:16:58+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "VRAM 8GBで動く画像生成AI「FLUX 3 Image Klein」が公開",
+    "hashtags": [
+      "画像生成AI",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5080e22e3eb449f90c89680adc56ab863f4c6559",
+    "title": "ChatGPTのChrome拡張、複数のタブを活用できるように",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149142.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T11:58:37+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "windows"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPTのChrome拡張、複数のタブを活用できるように",
+    "hashtags": [
+      "ChatGPT",
+      "Chrome",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e4894b0f5eea53a4a06fe8d1bc35ff156ebd8bdc",
+    "title": "USB接続の8GB AIアクセラレータ、ASUS「UGen300」が4万9,800円で店頭に",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149122.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T11:30:16+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "USB接続の8GB AIアクセラレータ、ASUS「UGen300」が4万9,800円で店頭に",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "694b7bc9be6d0bbca6867d43b0b0f3b106774002",
+    "title": "ユニットコム、Ryzen AI 7 450搭載のミニPC。指紋認証センサー付き",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2149149.html",
+    "source": "PC Watch",
+    "published": "2026-10-19T11:08:59+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ユニットコム、Ryzen AI 7 450搭載のミニPC。指紋認証センサー付き",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f13d03c50ae18c98ec3da13c108332c05e8da576",
+    "title": "【Microsoft Copilot】Word・Excel・パワポが激変！Officeで使うAI実践テクニック",
+    "url": "https://qiita.com/BizhackAI/items/cf00a5c639631b5ba266",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-20T00:31:39+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "【Microsoft Copilot】Word・Excel・パワポが激変！Officeで使うAI実践テクニック",
+    "hashtags": [
+      "Copilot",
+      "Excel",
+      "Word"
+    ],
+    "classified": true
+  },
+  {
+    "id": "fb1eb200a7e120d5cd8c736b873f2b2ad35318c9",
+    "title": "生成AIで手書き表をExcel化するコツ ～100点を目指さず、人間の確認を楽にする～",
+    "url": "https://qiita.com/masayasu_t/items/bf8dc0d20b57f84957f4",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-20T00:28:46+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "生成AIで手書き表をExcel化するコツ ～100点を目指さず、人間の確認を楽にする～",
+    "hashtags": [
+      "Excel",
+      "生成AI",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a52d8e1a859e02de61b1677297cb24e2f0d17e7d",
+    "title": "WhatsAppの問い合わせ履歴をExcelに書き出して、引き継ぎしやすい一覧にするまで",
+    "url": "https://qiita.com/caic3539/items/3f9ccde3216f29a6969c",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-19T16:40:14+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "WhatsAppの問い合わせ履歴をExcelに書き出して、引き継ぎしやすい一覧にするまで",
+    "hashtags": [
+      "Excel",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1b69c4ffce09f5cc444d0c3fb5686aaa0dd4bd83",
+    "title": "月次・部署別にシートが増え続けるブックを、追加・色分け・ジャンプで捌く3つのマクロ",
+    "url": "https://qiita.com/andie5150/items/8e29ec794b65e1e38986",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-19T12:00:03+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "月次・部署別にシートが増え続けるブックを、追加・色分け・ジャンプで捌く3つのマクロ",
+    "hashtags": [
+      "Excel",
+      "VBA",
+      "マクロ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "56ed002a3ade5ccfb7501c97fc0cc49bd80a139c",
+    "title": "Power Automate で大量データを処理するフローが壊れた——バッチ分割・ページング・タイムアウトで詰まった5つのパターン",
+    "url": "https://qiita.com/Sidejob/items/9cdde86ba6d7e9ee8897",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-10-20T08:45:03+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Power Automate で大量データを処理するフローが壊れた——バッチ分割・ページング・タイムアウトで詰まった5つのパターン",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "25996932dc26e8fb1eddb9f1db7f576435715a34",
+    "title": "Power Automateでレポート集計を自動化する前に確認したい5つの落とし穴——エラー通知・タイミングズレ・データ量増加対策まとめ【構成v2】",
+    "url": "https://qiita.com/Sidejob/items/f50531bc4e744cda7b7f",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-10-19T08:45:02+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Power Automateでレポート集計を自動化する前に確認したい5つの落とし穴——エラー通知・タイミングズレ・データ量増加対策まとめ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "73bfd4d963685d2078e14f2b3d8319dffc26bdd6",
+    "title": "社会人がExcelを学び直すなら？ 独学・無料講座・スクールの選び方｜生成AI（Copilot）時代に押さえたいこと",
+    "url": "https://note.com/aiworkflow_note/n/n05e661e19bf2",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-20T08:52:39+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326346973/rectangle_large_type_2_990e33a20e723596101ce98b51841c50.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "社会人がExcelを学び直すなら？ 独学・無料講座・スクールの選び方｜生成AI（Copilot）時代に押さえたいこと",
+    "hashtags": [
+      "Excel",
+      "Copilot",
+      "学び直し"
+    ],
+    "classified": true
+  },
+  {
+    "id": "36979f4f7caff0ca912c6219d09b9cc1b07c2eb4",
+    "title": "AIだけの町でなにが分かるのか①【MetaAI】",
+    "url": "https://note.com/tiny_story/n/nc3ad1a79a983",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-20T08:13:10+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326334119/rectangle_large_type_2_03dec3aa2de1bf6e2e6954bacba346c3.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIだけの町でなにが分かるのか①【MetaAI】",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1a8c6b1e206930b2b10ab6f3647fbd2f8d3bb1ca",
+    "title": "no+e開始から45日経過、アクセス状況、今後の方向性について",
+    "url": "https://note.com/xldash8000/n/na7cfea167ca7",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-10-20T07:16:18+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325904153/rectangle_large_type_2_11e616342e0b595130cbc1e0f39dc3dd.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "no+e開始から45日経過、アクセス状況、今後の方向性について",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "6fe284f8784e29ba6bb088807eda4c8ba1a93039",
+    "title": "ゼロから始めるAI入門第8部：複数のAIを連携して日常の作業を仕組み化する実践ガイド",
+    "url": "https://note.com/fast_tucan7842/n/n739ab600004c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:57:09+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326349652/rectangle_large_type_2_ad9bc9177d4a82eaef9a270003065a3c.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ゼロから始めるAI入門第8部：複数のAIを連携して日常の作業を仕組み化する実践ガイド",
+    "hashtags": [
+      "AI",
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4d0d6281ece95aa586c0029c698a3158816db5d2",
+    "title": "「作家」を名乗り、自己啓発系サロンを主宰する方が、私のプロンプトをそのまま転載していた件",
+    "url": "https://note.com/nononsense/n/n71431ed97606",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:56:33+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326349670/rectangle_large_type_2_6154bd1d2e65ddfb915d9e4d3dfed029.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「作家」を名乗り、自己啓発系サロンを主宰する方が、私のプロンプトをそのまま転載していた件",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "da092b5e0859bb55fd9ec0f179ec2c21039c3708",
+    "title": "AＩ画像：立体造形（革製人形、きつね）日本共和国臨時政府＃００",
+    "url": "https://note.com/akanemachi/n/nda0f1df902fc",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:54:08+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326348823/rectangle_large_type_2_ce0233ef93b05fba79e3c924f814a363.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AＩ画像：立体造形（革製人形、きつね）日本共和国臨時政府＃００",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "e9b2caa3554bbf06141b3aee69ca793a8a4d1f0b",
+    "title": "ゼロから始めるAI入門第7部：安全に使いこなすリスク管理と日常定着の極意",
+    "url": "https://note.com/fast_tucan7842/n/n01c00d4cc56d",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:48:19+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326347390/rectangle_large_type_2_d13eae231a58060f6f7bf64c1a653401.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ゼロから始めるAI入門第7部：安全に使いこなすリスク管理と日常定着の極意",
+    "hashtags": [
+      "AI",
+      "リスク管理",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ddfb99038e406373c197ffb291011dae81dacc47",
+    "title": "『詩歌アート工房』　第2弾",
+    "url": "https://note.com/cicada_chorus/n/n6e0583c15e11",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:39:09+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326340539/rectangle_large_type_2_293df55c3b429f34aaf6616f345d6366.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "『詩歌アート工房』　第2弾",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "02d7131ce696128c56f758be076d92159471f68e",
+    "title": "AI社員の仕事を初日に4回直した。同じミスを防ぐ「NGルール」の中身",
+    "url": "https://note.com/ai_staff60/n/n941f2f9aaf4d",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:33:22+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "AI社員の仕事を初日に4回直した。同じミスを防ぐ「NGルール」の中身",
+    "hashtags": [
+      "AI",
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "882eb6653cbe49ecb164a4908e8a6dd5e5157e4e",
+    "title": "Notionの週次レポートをAIへ｜集計条件を決める3つのプロンプト",
+    "url": "https://note.com/ai_suki_raku_sho/n/n56a8151a6770",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:31:24+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326341673/rectangle_large_type_2_9263d906d7f6eff0d01f059d05327370.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Notionの週次レポートをAIへ｜集計条件を決める3つのプロンプト",
+    "hashtags": [
+      "Notion",
+      "AI",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "65607fa8c950da91c9462d036bd781619a3f71bb",
+    "title": "画像から記事を考える？kenさんのプロンプトを実際に使ってみた",
+    "url": "https://note.com/gay_impala1620/n/n97870e3118f5",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-10-20T08:30:49+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326254706/rectangle_large_type_2_b600989534d1de5ddaa57f3db7b002af.jpg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "画像から記事を考える？kenさんのプロンプトを実際に使ってみた",
+    "hashtags": [
+      "AI",
+      "プロンプト",
+      "画像生成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "182806888bcf5a70b4152ce2fb56b530ef2ad78b",
+    "title": "システムを入れたのに、Excelへの入力が減らない。併用はいつ終える？",
+    "url": "https://note.com/biycorp_okuaki/n/nfca2eb82b337",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T09:04:50+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326350973/rectangle_large_type_2_cd87e5f7709951b92531181163cbb49d.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "システムを入れたのに、Excelへの入力が減らない。併用はいつ終える？",
+    "hashtags": [
+      "Excel",
+      "業務改善"
+    ],
+    "classified": true
+  },
+  {
+    "id": "cf31ec2d9f99b073944206854839b1a63bea1d47",
+    "title": "エクセルを自動化していて気づいた。私はやっぱり「研究」が好き",
+    "url": "https://note.com/utsugonomama/n/nb9b8b2c5be5e",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:55:19+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326349506/rectangle_large_type_2_6bd5606d67a03f8951fd2a69ff829b3f.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "エクセルを自動化していて気づいた。私はやっぱり「研究」が好き",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "3c4b34c4b24fa8ed52e2c9125634571b6261a8ea",
+    "title": "ポンコツシステムをExcelで何とかする勤務管理",
+    "url": "https://note.com/mendy_0411/n/n51286eeb9ff2",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:44:01+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326346787/rectangle_large_type_2_bc564523e07cb1b86b825b3ddbb03500.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ポンコツシステムをExcelで何とかする勤務管理",
+    "hashtags": [
+      "Excel",
+      "勤怠管理",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4aa977557295a98871364d575190d30dfff50116",
+    "title": "受け取ったExcelの表にフィルターをかける前に｜最終行・見出し・空白行を見る",
+    "url": "https://note.com/yasu_aiwork/n/n4084986ec009",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:38:14+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326338098/rectangle_large_type_2_0ea5f69ca1df7531b8f3055aa214438b.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "受け取ったExcelの表にフィルターをかける前に｜最終行・見出し・空白行を見る",
+    "hashtags": [
+      "Excel",
+      "時短ワザ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "da24a566a55830f84a301f13b38a518dba5b659d",
+    "title": "Excel VBA 全銀フォーマットの総合振込データ作成を自動化｜手直し月4件→0件、月2時間→5分の3手順",
+    "url": "https://note.com/tender_clam9623/n/n5c1c898a378e",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:27:33+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326339393/rectangle_large_type_2_44d1b4120627c045615d5f2a12f4469c.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excel VBA 全銀フォーマットの総合振込データ作成を自動化｜手直し月4件→0件、月2時間→5分の3手順",
+    "hashtags": [
+      "Excel",
+      "VBA",
+      "業務自動化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c4588614c4181faff5d1ed69916b61dc71407d37",
+    "title": "Excelでローグライクゲームをつくってみた　vol.11",
+    "url": "https://note.com/tsukurei/n/n3e8c6db837a5",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:21:16+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326338384/rectangle_large_type_2_e83d731170b1378c20bfa324875eee49.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Excelでローグライクゲームをつくってみた　vol.11",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "90e314f82727c8e79fb0177c4adfb4ce0592f249",
+    "title": "Intune の設定を Excel に写す作業を、コピーと貼り付けだけにしました",
+    "url": "https://note.com/it_templates/n/n16bb987e4a6b",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:15:34+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326333209/rectangle_large_type_2_76f9e4b500a08274194e1b4b7a054cf3.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": true,
+    "title_ja": "Intune の設定を Excel に写す作業を、コピーと貼り付けだけにしました",
+    "hashtags": [
+      "Excel",
+      "Intune",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d1967ab3ef093e1adde8598bd731d1cc535db695",
+    "title": "ドイツは、なぜ少ない人口と短い労働時間で稼げるのか",
+    "url": "https://note.com/vivid_okapi6675/n/nfa5f5ac8dae7",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-10-20T08:03:12+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/325204450/rectangle_large_type_2_eb6063dd9efdb88f6f69da312e816cda.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ドイツは、なぜ少ない人口と短い労働時間で稼げるのか",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "4619f2702afb46a93ed2eb04caa69f07fb988acc",
+    "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T07:07:09+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "ee082f8b512e084b414a4c642c92c86eebed1852",
+    "title": "「データセンター×発電設備」一体開発がトレンド？　日立・東京ガスが九州で計画、JERAは千葉で　狙いは",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news051.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T07:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「データセンター×発電設備」一体開発がトレンド？　日立・東京ガスが九州で計画、JERAは千葉で　狙いは",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "9b65474ba2fe57028365bb1ada08e43bb4281318",
+    "title": "「税金で動かす以上……」　政府18万人が使うAI「源内」の「コストに関する工夫」とは",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news012.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T07:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "「税金で動かす以上……」　政府18万人が使うAI「源内」の「コストに関する工夫」とは",
+    "hashtags": [
+      "AI",
+      "生成AI",
+      "自治体DX"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3146689e2701139552300f36a81ada59a5aea3a1",
+    "title": "AI活用で「年3万5000時間削減」の江戸川区　「配って終わり」にさせないコツは？　5年で培った実践知を聞く",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news011.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T07:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "AI活用で「年3万5000時間削減」の江戸川区　「配って終わり」にさせないコツは？　5年で培った実践知を聞く",
+    "hashtags": [
+      "AI",
+      "自治体DX",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "880070dcf8f9c867502bb655c7b65231cc5c041c",
+    "title": "“テスラ超え”狙う――チューリング「完全自動運転」までの道　「GPUより速いチップ」使った開発のウラ側",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news017.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T07:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "“テスラ超え”狙う――チューリング「完全自動運転」までの道　「GPUより速いチップ」使った開発のウラ側",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "653f48b4bb2e15e22993084b2fcc69cb55c6fc94",
+    "title": "「日本を愛している。見過ごせない」――“100億円配布”のセキュリティ支援策、トレンドマイクロCEOが見せた危機感",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news041.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T06:40:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「日本を愛している。見過ごせない」――“100億円配布”のセキュリティ支援策、トレンドマイクロCEOが見せた危機感",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f8ff586f5a4c11d63dbee8162a63abf8d29abb48",
+    "title": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T06:30:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「保守的な日本の現場に合う」導入2500時間の壁を壊す倉庫AI、IFS Softeonの真価",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "56d6b3dadaa0f6a9abf854cf5dfa571b2642b687",
+    "title": "高性能AIによるゼロデイ攻撃にどう備える？　サイバー防御の鍵を握る「ハーネス」とは",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/20/2000002396/",
+    "source": "ITmedia AI+",
+    "published": "2026-10-20T06:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "高性能AIによるゼロデイ攻撃にどう備える？　サイバー防御の鍵を握る「ハーネス」とは",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f4c7958ff994bc709bf93f2ef3f97513e50d2da5",
+    "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T13:25:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2270fda6e4be4afef247785686ab94bb4162e194",
+    "title": "AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担」増加　新たな課題どう対応？",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/19/news064.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T12:00:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担」増加　新たな課題どう対応？",
+    "hashtags": [
+      "AI",
+      "生成AI",
+      "自治体DX"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5dcad1111b92b7d55f47f341a6692c0f1fea3eb2",
+    "title": "Anthropic、株式の5％を公益目的の新組織に拠出　企業価値の上昇に応じて割合を拡大",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002359/",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T09:38:54+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Anthropic、株式の5％を公益目的の新組織に拠出　企業価値の上昇に応じて割合を拡大",
+    "hashtags": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "14fec37168d24cea88bccb376b41b94e88ef0b2c",
+    "title": "中国DeepSeek、V4.1-Flash新バージョンを公開　一部Astra超えをうたうモデルがオープンに",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T09:35:40+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "中国DeepSeek、V4.1-Flash新バージョンを公開　一部Astra超えをうたうモデルがオープンに",
+    "hashtags": [
+      "DeepSeek",
+      "AI",
+      "新モデル"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5cb4b099cccc617cdc9292c03ffdfee20ae1a0f2",
+    "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T08:02:13+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "fed1c69539dabf3d39d1cda40acf5bef9cec683b",
+    "title": "Newオンプレミス、RAG、SREはもう“幻滅期”　2026年、「過度な期待」のピークにある5項目とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-19T08:00:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Newオンプレミス、RAG、SREはもう“幻滅期”　2026年、「過度な期待」のピークにある5項目とは？",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "310e787ad11500183bc79749194bd794055c9139",
+    "title": "日本も標的、10億通のフィッシング　量産を支えた「見えない商流」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/18/news006.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-10-19T11:00:00+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "日本も標的、10億通のフィッシング　量産を支えた「見えない商流」",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "79e390f0bd48975872da08d4fb590196ad2bdad3",
+    "title": "日本企業を狙ったAIサイバー攻撃の実態が判明　GMO調査",
+    "url": "https://ascii.jp/elem/000/004/443/4443912/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-20T09:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://ascii.jp/img/2026/10/20/4540760/s/aac2d4feae5462f5.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "日本企業を狙ったAIサイバー攻撃の実態が判明　GMO調査",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "0a8cd9158654f5d9a61d738fd2c20c5f0ce88fe1",
+    "title": "「営業電話が消えた」 ―― LINE WORKSの“電話番AI”は人手不足の中小企業を救うか",
+    "url": "https://ascii.jp/elem/000/004/443/4443582/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-20T09:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://ascii.jp/img/2026/10/18/4540208/s/0e6a248ecdcd8de9.jpg",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "「営業電話が消えた」 ―― LINE WORKSの“電話番AI”は人手不足の中小企業を救うか",
+    "hashtags": [
+      "AI",
+      "LINEWORKS",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1355baad25f240a0bd4edd318e812baf2e38dc44",
+    "title": "思った以上にいいことだらけ！　録音できるAIリング「Vocci」に可能性を感じた！",
+    "url": "https://ascii.jp/elem/000/004/442/4442648/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-20T09:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://ascii.jp/img/2026/10/16/4539439/s/6b0b8877e1152825.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "思った以上にいいことだらけ！　録音できるAIリング「Vocci」に可能性を感じた！",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "42e2b8a92df4a0ee009b8608682c6e9a73c0d854",
+    "title": "3D都市モデルを見て・変換して・重ねる！データ活用やAI連携を学ぶ国交省の無料ハンズオン開催",
+    "url": "https://ascii.jp/elem/000/004/443/4443468/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-20T07:00:00+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://ascii.jp/img/2026/10/16/4539711/s/c8f75496f488c64e.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "3D都市モデルを見て・変換して・重ねる！データ活用やAI連携を学ぶ国交省の無料ハンズオン開催",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "5e2db3ad28d1af841b62d04f61e7de303667a457",
+    "title": "やることがないAIは何をする？ 無人島に30時間置き去りにした結果",
+    "url": "https://ascii.jp/elem/000/004/443/4443906/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-20T06:11:11+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "やることがないAIは何をする？ 無人島に30時間置き去りにした結果",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "3ad9f37772353a764d1a21ce8b54e6cf1500e914",
+    "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+    "url": "https://note.com/timtarou/n/n5443f159e7bc",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-19T23:05:36+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "4c3ac6061c31c73344443560bfbd5d25c7d7eb1c",
+    "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+    "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-19T17:46:35+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f1cfaa176b63e4a9d0398421e28b6e429d0f73f3",
+    "title": "JP Incident Monitor",
+    "url": "https://elkentaro.github.io/jp_incidents/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-19T21:32:44+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "JP Incident Monitor",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "8fbd9a1538f0e7bf0e1b6ebd9b6e444ab076b659",
+    "title": "GitHub - carnot-tech/jinba-consulting-pptx-skill: AIにまじなPPTXを作らせる Claude Code / Codex スキル",
+    "url": "https://github.com/carnot-tech/jinba-consulting-pptx-skill",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-09T23:16:07+09:00",
+    "published_display": "2026/10/9 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "GitHub - carnot-tech/jinba-consulting-pptx-skill: AIにまじなPPTXを作らせる Claude Code / Codex スキル",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "35c136b76e3a78844e3ac88d35764b84d54cbbd1",
+    "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-20T05:38:05+09:00",
+    "published_display": "2026/10/20 Tue",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "01ef3a3efba57794dd34e75997dd3f16e7b58190",
+    "title": "現場の声を反映し、Surface Pro 12 インチを導入　AI 時代を見据えた東京電機大学中学校・高等学校の教育環境づくり",
+    "url": "https://blogs.windows.com/japan/2026/10/19/bringing-frontline-feedback-to-life-with-surface-pro-12-inch/",
+    "source": "Windows Blog for Japan",
+    "published": "2026-10-19T15:10:04+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "現場の声を反映し、Surface Pro 12 インチを導入　AI 時代を見据えた東京電機大学中学校・高等学校の教育環境づくり",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "ac50f3710f8ee4e34b84e21e104e956549d7d5ce",
+    "title": "Microsoft 365 Copilot 向け Domain Exclusion で Web グラウンディングの制御を強化",
+    "url": "https://blogs.windows.com/japan/2026/10/19/more-control-over-web-grounding-with-domain-exclusion-for-microsoft-365-copilot/",
+    "source": "Windows Blog for Japan",
+    "published": "2026-10-19T14:22:13+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Microsoft 365 Copilot 向け Domain Exclusion で Web グラウンディングの制御を強化",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "84c047ba0b7577fcb3ccc715ce92cb2043f63f0e",
+    "title": "Notebooks の新機能 | 2026 年 10 月",
+    "url": "https://blogs.windows.com/japan/2026/10/19/whats-new-in-notebooks-october-2026/",
+    "source": "Windows Blog for Japan",
+    "published": "2026-10-19T09:31:46+09:00",
+    "published_display": "2026/10/19 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Notebooks の新機能 | 2026 年 10 月",
+    "hashtags": [],
+    "classified": true
+  }
+]
