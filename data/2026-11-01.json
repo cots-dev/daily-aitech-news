@@ -1,0 +1,682 @@
+[
+  {
+    "id": "1f09378ec1bf048931f607d7f3dd9f68d61bd664",
+    "title": "Googleが最先端モデル「Gemini 4 Carbon」を発表／OpenAIが新モデル「GPT-6.1 Terra」を発表　API料金は従来の半額",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/01/news003.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-11-01T06:00:00+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Googleが最先端モデル「Gemini 4 Carbon」を発表／OpenAIが新モデル「GPT-6.1 Terra」を発表 API料金は従来の半額",
+    "hashtags": [
+      "Gemini",
+      "OpenAI",
+      "GPT"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6ecdb79c870a04536d74f341943f2830c83fb221",
+    "title": "数量の切り上げで1つ多くなる：Math.ceil と浮動小数点の誤差を、12桁に丸めてから切り上げて避ける（JavaScript）",
+    "url": "https://qiita.com/MisaNeco/items/20fdc941e57d7f305516",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-10-31T10:49:24+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "数量の切り上げで1つ多くなる：Math.ceil と浮動小数点の誤差を、12桁に丸めてから切り上げて避ける（JavaScript）",
+    "hashtags": [
+      "JavaScript",
+      "プログラミング"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5c2928183d084859264ecd3376aeab80e3d39e29",
+    "title": "Power Platform Community Conference 2026で発表されたCopilot Studio新機能を企業展開担当者の視点で読む",
+    "url": "https://qiita.com/Sidejob/items/c0af6cf26cc9b82eb766",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-10-31T19:30:03+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Power Platform Community Conference 2026で発表されたCopilot Studio新機能を企業展開担当者の視点で読む",
+    "hashtags": [
+      "PowerPlatform",
+      "CopilotStudio"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a229833be4ec76074e26380e5cdc3f12f778df14",
+    "title": "☔ 土砂降りの交差点を、光る傘でひとり歩く「LEDの傘とスクランブル交差点」を普通の日本語だけで描く3つの魔法【ChatGPT・Gemini・Copilot対応】",
+    "url": "https://note.com/hoshizoramochi/n/nb2fa5b1e60ed",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T07:39:08+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/328234951/rectangle_large_type_2_a6de93b06df5171c0b9167ccd312f057.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "土砂降りの交差点を、光る傘でひとり歩く「LEDの傘とスクランブル交差点」を普通の日本語だけで描く3つの魔法【ChatGPT・Gemini・Copilot対応】",
+    "hashtags": [
+      "画像生成",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "736df83c32a34781a03a22d5ba8d5ea0d2c11fc5",
+    "title": "【DAY125】969万PV・フォロワー1,942人。それでも「伸ばしたい」でいいと思う",
+    "url": "https://note.com/deep_gibbon1526/n/n3305104d71fe",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T07:18:42+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330754806/rectangle_large_type_2_e374327d07fbac45012798d2de01573d.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【DAY125】969万PV・フォロワー1,942人。それでも「伸ばしたい」でいいと思う",
+    "hashtags": [
+      "note"
+    ],
+    "classified": true
+  },
+  {
+    "id": "853f7c27eb7e3b6ca3b4fafce349b19e507af682",
+    "title": "第３２回：AIにも苦手なことがある？万能に見える生成AIの意外な弱点",
+    "url": "https://note.com/igoshi_walker/n/n2546379320ef",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T06:45:51+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330743851/rectangle_large_type_2_59378133bf1d7c73cf08e4b7c0d76962.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "第32回：AIにも苦手なことがある？万能に見える生成AIの意外な弱点",
+    "hashtags": [
+      "生成AI",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6fdd9cdaf28505b3f71ad3bcd5b8886599e86a91",
+    "title": "AIに仕事を任せるはずが、AIの設計書を100回直すことになった話",
+    "url": "https://note.com/fujimo_202305/n/n99c021404984",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T05:27:39+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330737983/rectangle_large_type_2_d328af479be0b4a4aaa81c7e46a9b76a.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIに仕事を任せるはずが、AIの設計書を100回直すことになった話",
+    "hashtags": [
+      "エッセイ",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d650a5d32a62481ff0ab8908e108785282c7a8f3",
+    "title": "バレンシアマラソン　どう走る？",
+    "url": "https://note.com/otsutome_nin/n/n1500daabfb7c",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T04:36:45+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330734797/rectangle_large_type_2_afd777b62e99596492bb08e5bac326c7.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "バレンシアマラソン どう走る？",
+    "hashtags": [
+      "マラソン",
+      "趣味"
+    ],
+    "classified": true
+  },
+  {
+    "id": "151c67f83aecdc91f292b8b1ff1f239c49d00c10",
+    "title": "メンバーシップ名変更のお知らせ【未来OS観測所－探索遊戯】←【ハルシネーション遊戯】",
+    "url": "https://note.com/show_ando/n/nc8beeadc1ba0",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T04:00:00+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "メンバーシップ名変更のお知らせ【未来OS観測所－探索遊戯】←【ハルシネーション遊戯】",
+    "hashtags": [
+      "お知らせ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ff8aef31bafd669893a75202be72ba12b4614547",
+    "title": "GitHub Copilotが、止まったプルリクエストを見張って自動で直す「Agent Merge」。テストの失敗も変更の衝突もAIが修正、取り込む判断は人のまま",
+    "url": "https://note.com/adhd_bakusoku/n/nc5bbbe533275",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T02:41:34+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330725456/rectangle_large_type_2_94aadf82242f3d6e5019ce7ca3e11a6e.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "GitHub Copilotが、止まったプルリクエストを見張って自動で直す「Agent Merge」。テストの失敗も変更の衝突もAIが修正、取り込む判断は人のまま",
+    "hashtags": [
+      "GitHubCopilot",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ff666868263bef60898d5a0166be30163f70680c",
+    "title": "知らないから、分からない",
+    "url": "https://note.com/mariya_g_chan143/n/n6b77d2ec8aea",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-01T01:27:12+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/326213841/rectangle_large_type_2_87f0e2b7a7af5114e31204891edb4458.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "知らないから、分からない",
+    "hashtags": [
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a7da15c742cc93004a4bbd889797fc516c7703e2",
+    "title": "未確定性を操作する自然言語とLLMによる「逆向き仕様形成」",
+    "url": "https://note.com/noted_orca4585/n/nbb75f2a4481b",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:52:16+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "未確定性を操作する自然言語とLLMによる「逆向き仕様形成」",
+    "hashtags": [
+      "LLM",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "66b9396a34ded2301d21715338816d07f8c47b06",
+    "title": "生成AIを仕事で使いこなす第一歩初心者でも今日から始められる実践活用術",
+    "url": "https://note.com/miurak2025/n/nb98058673091",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:51:09+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330780173/rectangle_large_type_2_f5225babf864992a5ab485d887d4bd3f.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "生成AIを仕事で使いこなす第一歩初心者でも今日から始められる実践活用術",
+    "hashtags": [
+      "生成AI",
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6e48610586ace2feda389cee6b641e0f237b7246",
+    "title": "AIで商品説明を書く副業、何を納品する？商品メモから説明文1本を作るプロンプト",
+    "url": "https://note.com/kei_ai_jissen/n/n229251f175cc",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:49:52+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330779133/rectangle_large_type_2_4ed790e7238a38f1f1b5e509fc8e3d62.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIで商品説明を書く副業、何を納品する？商品メモから説明文1本を作るプロンプト",
+    "hashtags": [
+      "副業",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8122c4dfda8e4d219cc85a164a691093e3e06f1e",
+    "title": "魔王軍入軍証を作成する",
+    "url": "https://note.com/niboshi_strikes/n/nadfe15a775af",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:44:37+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330777944/rectangle_large_type_2_a77605d423134bcfeec41298e8824006.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "魔王軍入軍証を作成する",
+    "hashtags": [
+      "創作",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "977ca058342ec31abdb3160be8826701847f9854",
+    "title": "一億円で、何をやめる？",
+    "url": "https://note.com/prime_walrus9789/n/n3994708ebc51",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:41:33+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330457485/rectangle_large_type_2_1cc0f351271b85e5b36770d2397d81f5.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "一億円で、何をやめる？",
+    "hashtags": [
+      "雑談"
+    ],
+    "classified": true
+  },
+  {
+    "id": "541be2459c6dbe1edff5b672d8de9d7ea1613efa",
+    "title": "【保存版】AIに毎回説明している人へ。最初の1週間で入れる「しつけ」10個",
+    "url": "https://note.com/moral_yarrow639/n/nb08f1ee9b080",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:31:58+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【保存版】AIに毎回説明している人へ。最初の1週間で入れる「しつけ」10個",
+    "hashtags": [
+      "AI",
+      "プロンプト",
+      "ChatGPT"
+    ],
+    "classified": true
+  },
+  {
+    "id": "62df03ebdc975669379a3d4d271bb845d0bbafdf",
+    "title": "おとぎ話は、ふたりを知らない【ノベルプロンプト配布】",
+    "url": "https://note.com/cozy_tiger2650/n/n0f7fc88ed4e3",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:28:30+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330772385/rectangle_large_type_2_8cc951a512fddaf880718ae9b25f45ef.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "おとぎ話は、ふたりを知らない【ノベルプロンプト配布】",
+    "hashtags": [
+      "創作",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8cbcc5804db81174c0de025006e744b214623d7b",
+    "title": "【無料プロンプト】童心　ジャングルジム遊戯【AI画像生成　Free Prompt】",
+    "url": "https://note.com/leal_rat3172/n/nce6454b71672",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-01T08:27:46+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330772268/rectangle_large_type_2_d4a0d84a7ea763cd4ecf43fa4759fd07.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【無料プロンプト】童心 ジャングルジム遊戯【AI画像生成 Free Prompt】",
+    "hashtags": [
+      "画像生成",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3b73a562a7c5de4d4159449fa3d1bbb05a461d4c",
+    "title": "申告期限の一覧があっても、納付の案内を忘れてしまう理由",
+    "url": "https://note.com/excel_templ/n/n6f545093d47e",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:35:57+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330775143/rectangle_large_type_2_532c587fff435094f8d8946e22ccf0a6.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "申告期限の一覧があっても、納付の案内を忘れてしまう理由",
+    "hashtags": [
+      "経理",
+      "業務コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f894fbefa91435a62fbea71c8ac405ca0385518f",
+    "title": "紙の一覧表からExcelへ。やり方は変えずに「自分にしかできない作業」をなくす",
+    "url": "https://note.com/katsuzo_kaizen/n/n6229c46b76ab",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:30:04+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330691023/rectangle_large_type_2_b9b7dcd874ec7bb155ddc1517e4ef17b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "紙の一覧表からExcelへ。やり方は変えずに「自分にしかできない作業」をなくす",
+    "hashtags": [
+      "Excel",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "805ede001cf2a3f4d40dca877b702bda8196c0bd",
+    "title": "10％値上げしたら、売れる数が何％減っても大丈夫？ 利益を守る「意外な境界線」",
+    "url": "https://note.com/shigotorakulab/n/nb98b6d868b07",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:27:45+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330772896/rectangle_large_type_2_44f9eaa9c9bb730cd0724440ab3c8009.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "10％値上げしたら、売れる数が何％減っても大丈夫？ 利益を守る「意外な境界線」",
+    "hashtags": [
+      "経営",
+      "ビジネス"
+    ],
+    "classified": true
+  },
+  {
+    "id": "346e3246c1f0fd44744fdc935f99b601a512b601",
+    "title": "ChatGPTでExcelの表記ゆれを5分で直す｜社名・全角半角を揃える質問の型3つ",
+    "url": "https://note.com/aixxxrx/n/n52bd83450a2d",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:22:45+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330771381/rectangle_large_type_2_0ee5c30a56d132d086693482f0fe5000.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPTでExcelの表記ゆれを5分で直す｜社名・全角半角を揃える質問の型3つ",
+    "hashtags": [
+      "ChatGPT",
+      "Excel",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2e0302e5d45ae49d8407b513aca8b42d9c58c14d",
+    "title": "50代のおっさん、AIに競馬データベースを作らせてみた！",
+    "url": "https://note.com/great_sable896/n/nab089e29b972",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:09:48+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330767675/rectangle_large_type_2_8cee7590d536f1dc6c15fc934bbeea03.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "50代のおっさん、AIに競馬データベースを作らせてみた！",
+    "hashtags": [
+      "競馬",
+      "趣味"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0a68892f7d439c2c90db5041b425c3533fd2e5ec",
+    "title": "Excel 有給休暇管理表 EDATE×MINで付与日数と2年時効の繰越を自動計算｜年5日未消化を月4件→0件にした3手順",
+    "url": "https://note.com/tender_clam9623/n/n78d2820d0efd",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:08:14+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330767077/rectangle_large_type_2_9619773a3b41e14981fe9266d01a5db4.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excel 有給休暇管理表 EDATE×MINで付与日数と2年時効の繰越を自動計算｜年5日未消化を月4件→0件にした3手順",
+    "hashtags": [
+      "Excel",
+      "関数",
+      "労務管理"
+    ],
+    "classified": true
+  },
+  {
+    "id": "dca39088ab0a6a39daa8d7ca292f9b2eef3949c8",
+    "title": "同じ番号なのにVLOOKUPが#N/Aになる原因は「数値と文字」｜ISTEXTで確かめて&\"\"でそろえる",
+    "url": "https://note.com/tsukiawase_lab/n/n52c2c8675e55",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:05:32+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330379453/rectangle_large_type_2_71d68ed02e0f00f7d597bad8110c496b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "同じ番号なのにVLOOKUPが#N/Aになる原因は「数値と文字」｜ISTEXTで確かめて&\"\"でそろえる",
+    "hashtags": [
+      "Excel",
+      "VLOOKUP",
+      "トラブルシューティング"
+    ],
+    "classified": true
+  },
+  {
+    "id": "45c703e552fc39a65c06c03e5f1a85d769b1e36f",
+    "title": "ExcelのXLOOKUP・COUNTIFS・FILTERもAIに作ってもらう｜関数名を知らなくても使えるプロンプト12個とチェックリスト",
+    "url": "https://note.com/kary_098/n/ncb8bd6bc4be9",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-01T08:01:55+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/330765173/rectangle_large_type_2_98e1903cf66b73469c92f991867a8e4c.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ExcelのXLOOKUP・COUNTIFS・FILTERもAIに作ってもらう｜関数名を知らなくても使えるプロンプト12個とチェックリスト",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0b30c6250260d2de3c8bf77d40955258d2c27bc1",
+    "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+    "source": "ITmedia AI+",
+    "published": "2026-10-31T09:00:00+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
+    "hashtags": [
+      "Claude",
+      "新機能",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "80496dca239df2d5d9bec0cd34b46b3aef88cd73",
+    "title": "もはや“デスクトップ並み”に快適、ROG20周年のポータブルゲーミングPC「ROG Xbox Ally X20」",
+    "url": "https://ascii.jp/elem/000/004/445/4445700/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-31T22:20:00+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": "https://ascii.jp/img/2026/10/26/4543594/s/ba36902b0eed7c1d.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "もはや“デスクトップ並み”に快適、ROG20周年のポータブルゲーミングPC「ROG Xbox Ally X20」",
+    "hashtags": [
+      "ハードウェア",
+      "ゲーミングPC"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6469deb380daa2fab7a8801cd3a1b0f36b564511",
+    "title": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
+    "url": "https://ascii.jp/elem/000/004/447/4447544/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-10-31T16:34:01+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売",
+    "hashtags": [
+      "ハードウェア",
+      "防犯カメラ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9715cfd227dcd5e4717196b1eb0f3c55acf22545",
+    "title": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+    "url": "https://sizu.me/hayatosc/posts/oxi9cff8k2bn",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-31T12:55:45+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+    "hashtags": [
+      "セキュリティ",
+      "1Password"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a300b1232f75084b885f94bd07f71a7c33727f85",
+    "title": "「歳の差恋愛の漫画のキモさ」論、ついに「ガラスの仮面」にも飛び火する",
+    "url": "https://posfie.com/@OOEDO4/p/MQVFwW5",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-31T10:38:21+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「歳の差恋愛の漫画のキモさ」論、ついに「ガラスの仮面」にも飛び火する",
+    "hashtags": [
+      "雑感",
+      "マンガ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2276aa07f37c0c7e4c4fb852b223700b766e4d94",
+    "title": "ガム1枚かむだけで数百のマイクロプラスチックが唾液に放出　25年研究",
+    "url": "https://www.cnn.co.jp/fringe/35254250.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-31T18:07:15+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ガム1枚かむだけで数百のマイクロプラスチックが唾液に放出 25年研究",
+    "hashtags": [
+      "ニュース",
+      "健康"
+    ],
+    "classified": true
+  },
+  {
+    "id": "bf8185fc8d0abeeaa92e2a0f6eb1d039ca58cd31",
+    "title": "OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/10/31/5657.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-31T16:41:11+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る",
+    "hashtags": [
+      "OpenAI",
+      "AI",
+      "ニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ea7edc82e8f8fc0369298cbb351004b8d97cd293",
+    "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+    "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-01T00:02:52+09:00",
+    "published_display": "2026/11/1 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+    "hashtags": [
+      "ClaudeCode",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c888ce4f0c4a74dea3bf7ef7a9202e859c614338",
+    "title": "These hidden Windows services are hogging your CPU (and how to shut them down)",
+    "url": "https://www.makeuseof.com/windows-services-hogging-cpu/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-10-31T21:12:29+09:00",
+    "published_display": "2026/10/31 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": true,
+    "title_ja": "CPUを圧迫している隠れたWindowsサービス（とそれを停止する方法）",
+    "hashtags": [
+      "Windows",
+      "設定",
+      "トラブルシューティング"
+    ],
+    "classified": true
+  }
+]
