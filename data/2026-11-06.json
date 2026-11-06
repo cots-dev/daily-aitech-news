@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "afa20c031fca6d516ca93d2192b03c2fe4427336",
+    "title": "MicrosoftのAIターミナル「Intelligent Terminal 0.3」、過去最大のアップデート／エージェントとタブを縦に並べるサイドバー導入、ウィンドウを閉じても動きつづけるヘッドレスモードも追加",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2154135.html",
+    "source": "窓の杜",
+    "published": "2026-11-06T10:16:55+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "MicrosoftのAIターミナル「Intelligent Terminal 0.3」、過去最大のアップデート",
+    "hashtags": [
+      "Windows",
+      "AI",
+      "ターミナル"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b2a2b847b81d4d9726cf5b660c20d571f7b6b82f",
+    "title": "終活ソフト「編みノート」が約8年ぶりのメジャー更新、デザイン刷新したv2.0.0が公開／Mac版や有料版が登場、v1.0で書いた内容もそのまま読み込める",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2154116.html",
+    "source": "窓の杜",
+    "published": "2026-11-06T08:55:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "終活ソフト「編みノート」が約8年ぶりのメジャー更新、デザイン刷新したv2.0.0が公開",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "84413aad40744c80f2c62baf3959ffbc62e87d84",
+    "title": "【アップデート情報】窓の杜収録ソフト　11月6日　～「Visual Studio 2026」「Audacity」「WWWC」など",
+    "url": "https://forest.watch.impress.co.jp/docs/update/library/2154087.html",
+    "source": "窓の杜",
+    "published": "2026-11-06T07:30:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【アップデート情報】窓の杜収録ソフト 11月6日 ～「Visual Studio 2026」「Audacity」「WWWC」など",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d4c2eaca0e9ef47d3bf385513bf17dabdf00efe5",
+    "title": "世界のライブカメラを覗ける「たま旅ライブ」 ～ご当地のラジオも楽しめる！／2,600台以上を5言語で、［紅葉］などのテーマページも充実【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2154117.html",
+    "source": "窓の杜",
+    "published": "2026-11-06T06:45:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "世界のライブカメラを覗ける「たま旅ライブ」 ～ご当地のラジオも楽しめる！",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "b9b8334a783b15a5635d99942b96cd9dcb04c9ba",
+    "title": "「Apache OpenOffice 4.1.17」で修正された脆弱性12件が新たに公開、9件は「Important」／v4.1.16以前を使っているなら早めの更新を",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153965.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T18:32:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「Apache OpenOffice 4.1.17」で修正された脆弱性12件が新たに公開、9件は「Important」",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "9ee8175116f04c31a39d436d1b381236f2a45dd8",
+    "title": "テキストを縦書き表示してPDFやWord文書に保存できる無料Chrome拡張「綴箱」v1.2.0　ほか【ダイジェストニュース】",
+    "url": "https://forest.watch.impress.co.jp/docs/digest/2154072.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T18:23:19+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "テキストを縦書き表示してPDFやWord文書に保存できる無料Chrome拡張「綴箱」v1.2.0",
+    "hashtags": [
+      "Word",
+      "PDF",
+      "拡張機能"
+    ],
+    "classified": true
+  },
+  {
+    "id": "383d91b2207241114ff58a61d2c2bac36a5c4976",
+    "title": "翻訳特化LLM「PLaMo 3 Translate」がオープンウェイトで公開、スマホでもオフライン翻訳／0.8Bから31Bまで4サイズ、年商10億円以下なら事前登録で商用も無償",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153912.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T17:25:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "翻訳特化LLM「PLaMo 3 Translate」がオープンウェイトで公開、スマホでもオフライン翻訳",
+    "hashtags": [
+      "AI",
+      "翻訳",
+      "LLM"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3bfe75ba4d70429a100e7ce7b8f50a788f1199f1",
+    "title": "「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153899.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T16:17:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "5597c8b45a1ba4c672966b5cbd4e390a915f517f",
+    "title": "旧デスクトップ版「ChatGPT Classic」が2027年1月30日で提供終了へ／チャット履歴は新しい「ChatGPT」アプリへ引き継ぎ可能",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153858.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T15:07:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "旧デスクトップ版「ChatGPT Classic」が2027年1月30日で提供終了へ",
+    "hashtags": [
+      "ChatGPT",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "13839d3436a5031a042097c8d3f89acca63aee0c",
+    "title": "画像編集ソフト「GIMP 3.2.8」が公開 ～Windows 11の新しい印刷ダイアログに対応／右から左に書く言語のテキスト編集を改善、多数のセキュリティ修正も",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153763.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T14:05:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "画像編集ソフト「GIMP 3.2.8」が公開 ～Windows 11の新しい印刷ダイアログに対応",
+    "hashtags": [
+      "Windows11",
+      "GIMP",
+      "画像編集"
+    ],
+    "classified": true
+  },
+  {
+    "id": "21cb23399ba506d6c8f10b1b9d49a2411144a847",
+    "title": "OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上／API向けに「Flare」「Sunburst」の2モデル、SVG書き出しや編集箇所の指定も",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153881.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T13:03:20+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上",
+    "hashtags": [
+      "OpenAI",
+      "ChatGPT",
+      "画像生成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3a57b25624c41feff30c0a4784bb777a01e6dc8f",
+    "title": "キオクシアのmicroSDカード＆USBメモリが安い！【AmazonスマイルSale】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2153806.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T12:40:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "キオクシアのmicroSDカード＆USBメモリが安い！【AmazonスマイルSale】",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2b251f717dace8dc6faf1abc197679d26b4719e1",
+    "title": "寒さをふっとば～す！足湯を楽しめる電熱フットバスが7,840円【AmazonスマイルSale】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2153777.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T12:25:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "寒さをふっとば～す！足湯を楽しめる電熱フットバスが7,840円【AmazonスマイルSale】",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "91cd2be590286ec99e4e67e2321446953d000279",
+    "title": "あぐらをかいてゆったり座れる「あぐらチェア」が13,320円から！【AmazonスマイルSale】【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2153781.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T12:20:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "あぐらをかいてゆったり座れる「あぐらチェア」が13,320円から！【AmazonスマイルSale】",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "17ebd161771ded038d8d805e6575ac8e1de0ff46",
+    "title": "フリーのピクセルフォント「でんきチップ」がJIS第1水準漢字に対応、2,965文字を追加／ライセンスは「SIL Open Font License」（OFL-1.1）、商用も可",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153762.html",
+    "source": "窓の杜",
+    "published": "2026-11-05T11:10:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "フリーのピクセルフォント「でんきチップ」がJIS第1水準漢字に対応、2,965文字を追加",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "560a8ee78929a4b4c2e7083c6c1215f4a09bd277",
+    "title": "Windows PC向けゲームの「ロード待ち」はなぜ起こる？　背景に過去との「互換性」",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news082.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-11-05T17:45:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Windows PC向けゲームの「ロード待ち」はなぜ起こる？ 背景に過去との「互換性」",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "cb98ea84e3d67ecc91b20a342dcc61f787aa182b",
+    "title": "「あの件」で話が通じるAI秘書。ChatGPT「dots」の本質は常時稼働ではない",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2154157.html",
+    "source": "PC Watch",
+    "published": "2026-11-06T06:25:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "「あの件」で話が通じるAI秘書。ChatGPT「dots」の本質は常時稼働ではない",
+    "hashtags": [
+      "ChatGPT",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d1860e16e67624a1d56b1a931108dcbb173b3bef",
+    "title": "MSI、Ryzen 9 9955HX3DとRTX 5090/5080搭載の18型ゲーミングノート",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2154163.html",
+    "source": "PC Watch",
+    "published": "2026-11-06T06:12:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "MSI、Ryzen 9 9955HX3DとRTX 5090/5080搭載の18型ゲーミングノート",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "c0094f9a9b42cfe51cd2ea127c97656aa3569025",
+    "title": "BlenderもCADも動かすAI、Tencent「Hy4」が数日中に重み公開へ",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2154064.html",
+    "source": "PC Watch",
+    "published": "2026-11-05T18:56:20+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "BlenderもCADも動かすAI、Tencent「Hy4」が数日中に重み公開へ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "6ad211591ce8de9e9df75043c2f78de4a2612392",
+    "title": "Kimi K3.1 Proの重み公開、無償で商用利用も原則可能",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153969.html",
+    "source": "PC Watch",
+    "published": "2026-11-05T17:34:19+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Kimi K3.1 Proの重み公開、無償で商用利用も原則可能",
+    "hashtags": [
+      "AI",
+      "LLM"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b0e08ca3911c4a6f51e86670b1c5f9063cab1faa",
+    "title": "ChatGPTの画像生成が50%高速化。GIFアニメにも対応",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153942.html",
+    "source": "PC Watch",
+    "published": "2026-11-05T14:14:23+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "ChatGPTの画像生成が50%高速化。GIFアニメにも対応",
+    "hashtags": [
+      "ChatGPT",
+      "画像生成",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e293e17b2d06316df30ccae5ecb7d1b87ef345a6",
+    "title": "Razer、マグネシウム合金ボディ採用で1,337台限定のコントローラ",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153803.html",
+    "source": "PC Watch",
+    "published": "2026-11-05T11:12:41+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Razer、マグネシウム合金ボディ採用で1,337台限定のコントローラ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "18f506a242a6280e6b38a828980a33adc9ed5e9f",
+    "title": "PFN、スマホで動く翻訳LLM「PLaMo 3 Translate」公開",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153784.html",
+    "source": "PC Watch",
+    "published": "2026-11-05T10:56:46+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "PFN、スマホで動く翻訳LLM「PLaMo 3 Translate」公開",
+    "hashtags": [
+      "AI",
+      "翻訳",
+      "LLM"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6bc577835b92e707f589767e8287d4af000fb1e7",
+    "title": "Windowsイベントログを集計してExcel報告書にする方法（PowerShellでのCSV書き出しから）",
+    "url": "https://qiita.com/doguniru/items/187e2af43a44f7ccf400",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-06T08:49:27+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Windowsイベントログを集計してExcel報告書にする方法（PowerShellでのCSV書き出しから）",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "b3e387b2a6ee9a0e1e8a4f3ae663dbba19f5d6bb",
+    "title": "Pythonの round() は四捨五入じゃない：Excelから移ると消費税が1円ずれる話",
+    "url": "https://qiita.com/macky_UR/items/0451760237524dc7aa63",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-05T23:57:59+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Pythonの round() は四捨五入じゃない：Excelから移ると消費税が1円ずれる話",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f85b3371f8de361d275c993acee84ad79327d81c",
+    "title": "MAPS",
+    "url": "https://qiita.com/AdammSwallow/items/b61e8e4b91b775f74690",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-05T17:48:22+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "MAPS",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "bc0a818624d3d5e7cb6802a5be384e5b83a92bae",
+    "title": "退職者が残した謎の.xlsmをAIに読ませてみた(AI VBA Rescue)",
+    "url": "https://qiita.com/liushuyao/items/df4c7adad24f29d0e161",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-05T15:09:55+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "退職者が残した謎の.xlsmをAIに読ませてみた(AI VBA Rescue)",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "88d5ca7a3f476c988e4ddf0cc38ffdd9eefb171a",
+    "title": "言葉の行き先",
+    "url": "https://note.com/fuyuka_v_studio2/n/n56c183725042",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-06T10:21:11+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332768022/rectangle_large_type_2_88f6382258f428a58b34344e82b4ce33.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "言葉の行き先",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "378a1526918ecb71857b35405b400080b4963ace",
+    "title": "ChatGPT・Gemini・Copilot・Claude・Grok｜自分の入力をAIの学習に使わせない設定の場所（2026年11月に確かめた版）",
+    "url": "https://note.com/keiri_xl_zero/n/necfc54768925",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-06T09:56:07+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332760277/rectangle_large_type_2_9da908e28ee150d905f6c91802167e05.png?width=800",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPT・Gemini・Copilot・Claude・Grok｜自分の入力をAIの学習に使わせない設定の場所（2026年11月に確かめた版）",
+    "hashtags": [
+      "ChatGPT",
+      "Copilot",
+      "Gemini"
+    ],
+    "classified": true
+  },
+  {
+    "id": "50446147ac6f161989ecaa3cc522ceb9b2f7f350",
+    "title": "【日記】厄介",
+    "url": "https://note.com/rg1985621/n/n8122f1887186",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-06T08:32:45+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332737867/rectangle_large_type_2_217e56c41cd53bff571347ba6aaa34e8.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【日記】厄介",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "326261b211d8e4bf1ae7e83bbeb921969312af49",
+    "title": "AIに、「もしあなたが書いた文章を読んで、誰かが救われたとしたら、それをどう考える？」と聞いてみた",
+    "url": "https://note.com/fuyuka_v_studio2/n/na0e880748a7d",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-06T08:27:37+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332736335/rectangle_large_type_2_3c5406bf89a7800633b951aea25a350c.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIに、「もしあなたが書いた文章を読んで、誰かが救われたとしたら、それをどう考える？」と聞いてみた",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "378f9efa835ef09f851c72548ecfd17ad8a0e43b",
+    "title": "Copilot Chat（無料）と有料版の違いは？士業事務所の使う前チェック",
+    "url": "https://note.com/shigyoai/n/n241a4bdfc5e2",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-06T08:01:05+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Copilot Chat（無料）と有料版の違いは？士業事務所の使う前チェック",
+    "hashtags": [
+      "Copilot",
+      "Microsoft365",
+      "ビジネス"
+    ],
+    "classified": true
+  },
+  {
+    "id": "832f7f4c897f0ff19289add18b767ce2db0c3ae0",
+    "title": "【添削プロンプト5種】AI丸投げの説明文は監査で止まる。聞き返し31回→8回に",
+    "url": "https://note.com/calm_yak830/n/na7f87849e61f",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-06T10:18:52+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332768315/rectangle_large_type_2_3b281dcec51dae4b58fbec0b5d29a76c.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【添削プロンプト5種】AI丸投げの説明文は監査で止まる。聞き返し31回→8回に",
+    "hashtags": [
+      "プロンプト",
+      "AI活用",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "fe0501125303d9e79e127417ba03a31318b65210",
+    "title": "1年かけて分かった、AIに任せる順番の結論",
+    "url": "https://note.com/teachershu/n/n9f371d5b1289",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-06T10:15:06+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/329252928/rectangle_large_type_2_f6299be4582beebd40ffa003e3c2451a.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "1年かけて分かった、AIに任せる順番の結論",
+    "hashtags": [
+      "AI活用",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "17120f4b7810c62e29442761b63afd5b6cab19a9",
+    "title": "ブラウザ版AIに画像をアップすると「読めない」と言われるのはなぜ？原因とシンプルな解決策",
+    "url": "https://note.com/cellpromote_tech/n/n8c136c585377",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-06T10:14:25+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332487236/rectangle_large_type_2_6d358dce684141365f0ba6afcdb0fe75.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ブラウザ版AIに画像をアップすると「読めない」と言われるのはなぜ？原因とシンプルな解決策",
+    "hashtags": [
+      "ChatGPT",
+      "画像認識",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "5bd9b89937b221182b6de38a5b66b33f83d0a10e",
+    "title": "構成はできたのに、タイトルが決まらない人へ｜生成AIで記事のタイトルを10個作るプロンプト",
+    "url": "https://note.com/pomerido/n/n42b98e362f97",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-06T10:01:54+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332716630/rectangle_large_type_2_31d46cafad95c8f0124d464cc67eee2f.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "構成はできたのに、タイトルが決มาらない人へ｜生成AIで記事のタイトルを10個作るプロンプト",
+    "hashtags": [
+      "プロンプト",
+      "生成AI",
+      "文章作成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7ad2b0b80f96103ed1a01ffc7c0ad883d141c0cc",
+    "title": "EC価格計算はAIに計算させる前が大事、4項目を聞く確認プロンプト",
+    "url": "https://note.com/hakoniwa_ai_lab/n/n9749db8b333c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-06T10:01:13+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332763202/rectangle_large_type_2_ff599466955ccb071a6628144f5d10a9.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "EC価格計算はAIに計算させる前が大事、4項目を聞く確認プロンプト",
+    "hashtags": [
+      "プロンプト",
+      "AI活用",
+      "ビジネス"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2bebb3e9bf0ee25f8aab94e3c7df17bc2da97339",
+    "title": "AIに頼む前に整理しろって言われても",
+    "url": "https://note.com/brainy_curlew332/n/n5ac22f57da32",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-06T10:23:53+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332769606/rectangle_large_type_2_6a9a51c53c9e13cda0dd1ece23711074.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIに頼む前に整理しろって言われても",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "84317128af4b644c1e32b39f9caddf24a6d3dea1",
+    "title": "AIが出した数字と日付、本当に正しい？12回の実験結果と、すぐ使える確かめ方・チェックリスト",
+    "url": "https://note.com/mzc_lab/n/n939b324a62e6",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-06T10:10:46+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332765064/rectangle_large_type_2_9a8d779e41d071cbf9b258148d5a314f.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "AIが出した数字と日付、本当に正しい？12回の実験結果と、すぐ使える確かめ方・チェックリスト",
+    "hashtags": [
+      "Excel",
+      "AI活用",
+      "データ検証"
+    ],
+    "classified": true
+  },
+  {
+    "id": "15cc3bd78b5938dbb2b66641542aa5a54d5ee7ff",
+    "title": "年賀状のビジネス例文｜取引先・お客様への文例と添え書きの一言、賀詞の選び方、エクセルで文面の点検と宛名の印刷",
+    "url": "https://note.com/nagi_0606/n/nb4244e0c4aa1",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-06T09:32:30+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332754560/rectangle_large_type_2_5e6398963e16e5dea23e2b638671a654.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "年賀状のビジネス例文｜取引先・お客様への文例と添え書きの一言、賀詞の選び方、エクセルで文面の点検と宛名の印刷",
+    "hashtags": [
+      "Excel",
+      "Word",
+      "ビジネスメール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a12e994241d8680d0a68bf608e324f0a94300fe5",
+    "title": "Excelが読み取り専用で開く。使用者が自分の名前になるロックの原因と直し方",
+    "url": "https://note.com/thetalabo_ai/n/n871c533e806e",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-06T09:09:21+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332043621/rectangle_large_type_2_a99ca9fef3a875507d690ebb8d2eabdd.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excelが読み取り専用で開く。使用者が自分の名前になるロックの原因と直し方",
+    "hashtags": [
+      "Excel",
+      "ファイル共有",
+      "トラブルシューティング"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9e650453dd592ee3e7d2b14e5ac0329eea753460",
+    "title": "価格の変動率、何％から異常と見る？目安の決め方",
+    "url": "https://note.com/aire_works/n/nede3d745073a",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-06T08:45:51+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "価格の変動率、何％から異常と見る？目安の決め方",
+    "hashtags": [
+      "Excel",
+      "データ分析",
+      "ビジネス"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ed1469465390d1d606617cc9a24beb85f72ea2f3",
+    "title": "Excelの表記ゆれ、どこまで直していい？AIには修正候補だけ作ってもらう",
+    "url": "https://note.com/trialnotes/n/n4bdaf6856858",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-06T08:26:59+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332735548/rectangle_large_type_2_c08418a94b16c77f2a39620029e3a250.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Excelの表記ゆれ、どこまで直していい？AIには修正候補だけ作ってもらう",
+    "hashtags": [
+      "Excel",
+      "AI",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "982c5cc35ee32cee97597d80a92bd645d9c73ce5",
+    "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T09:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+    "hashtags": [
+      "AI",
+      "生成AI",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0ee7a6cef3fd169569537c61665e6fd3e9f4f99f",
+    "title": "エンタープライズSaaSにもバイブコーディングの波　三井住友系が顧客ごとのカスタマイズに活用　安定性をどう確保？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T08:52:51+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "エンタープライズSaaSにもバイブコーディングの波 三井住友系が顧客ごとのカスタマイズに活用 安定性をどう確保？",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "a2e90ce9f32cb99cf4c1131bb4ffc08b015de790",
+    "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T08:49:28+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
+    "hashtags": [
+      "Claude",
+      "Anthropic",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c545f0b221ac06a61ec2d67a8a6f9c043feeff76",
+    "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T08:30:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「給与維持の週休3日制」AI効率化で実現 しかし社員が喜ばず……なぜ？ 「ライザAI」提供企業で起きたこと",
+    "hashtags": [
+      "AI",
+      "働き方改革",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ac2a63f4c9a8082e2802cc64130911f0081d39ab",
+    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T07:57:34+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "816085af55ef8ae89431063e3dfb99dc698d73bd",
+    "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T07:03:55+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "55ac0643c8a21542946de7d83fab5b46df5136ec",
+    "title": "SaaSの「ツギハギ管理」に悩んだクラシル、管理費24％を削減したAI時代のツール集約",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002909/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T07:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "SaaSの「ツギハギ管理」に悩んだクラシル、管理費24％を削減したAI時代のツール集約",
+    "hashtags": [
+      "AI",
+      "SaaS",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6ff3ee8efed8a6c111781f4fce973c1c7971727f",
+    "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T06:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "00871f037e12dea8d276a8d6c4b00d5d05daad01",
+    "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
+    "source": "ITmedia AI+",
+    "published": "2026-11-06T05:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「48ドルの返金が4800ドルに」 AIエージェントの暴走を止める、本番運用の勘所",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "60fbc478a4b58ad336c3a4bf5aaf536f23949c76",
+    "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-05T13:24:50+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN 0.8?31Bの4サイズ オンデバイスにも対応",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d4d2b57875a7fe6bfe9b272e99653c6b94fe770b",
+    "title": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-05T13:05:02+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "フジテレビ、全ドラマでAI活用できる体制へ 2027年10月めど 「救命病棟２４時」で先行導入",
+    "hashtags": [
+      "AI",
+      "生成AI",
+      "エンタメ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "cd7c28a910807e4ad100d0544104b82c3d9b0509",
+    "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-05T10:59:38+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
+    "hashtags": [
+      "OpenAI",
+      "画像生成AI",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9918d2a36d083d31277bae276a2d2f28e0802193",
+    "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-05T09:58:31+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "AI生成画像の「99％を検出」するChrome拡張機能が登場 米スタートアップ",
+    "hashtags": [
+      "AI",
+      "Chrome拡張機能",
+      "セキュリティ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "fcf74e7613f44524f71faff3c244203f184af1fb",
+    "title": "Windows10月の更新で社内Wi-Fi・VPNに影響も　IT部門が対応すべき直近の“期限”を整理",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news020.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-11-06T09:30:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Windows10月の更新で社内Wi-Fi・VPNに影響も IT部門が対応すべき直近の“期限”を整理",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "ae2155728ec0cdfe30b01b183a52f474da9eed06",
+    "title": "アーキテクチャの比較表で勝った案を本当に選ぶべきか　AIに任せきれない検証と合意のプロセス",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news003.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-11-06T07:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "アーキテクチャの比較表で勝った案を本当に選ぶべきか AIに任せきれない検証と合意のプロセス",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "9b796c8635d978c7a22cfb008aea1c68e7feab42",
+    "title": "AIエージェントの導入率はトップ、しかし監視は追い付かず　KnowBe4調査が示す日本企業のいびつな実態",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news022.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-11-06T07:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIエージェントの導入率はトップ、しかし監視は追い付かず KnowBe4調査が示す日本企業のいびつな実態",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "375a51927a271d6409f5c59fb8478eaca7bb7c8b",
+    "title": "「AIリスクは価値を上回る速さで増大している」　Gartnerが示すCIOの3つの行動",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news007.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-11-06T07:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「AIリスクは価値を上回る速さで増大している」 Gartnerが示すCIOの3つの行動",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "570a21c0a62ea7dea5c7ec7a40deec525c4c8bf3",
+    "title": "メモリ8GBのPCはまだ戦える？　Windows 11更新でマルチタスクが最大40％高速化",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news013.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-11-06T07:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "メモリ8GBのPCはまだ戦える？ Windows 11更新でマルチタスクが最大40％高速化",
+    "hashtags": [
+      "Windows11",
+      "PC",
+      "パフォーマンス"
+    ],
+    "classified": true
+  },
+  {
+    "id": "220524ce79e616bde2aea19471b7ba854a3e25e3",
+    "title": "18型4K＋・120Hzの大画面！ MSI「Raider A18 HX A9W」、RTX 5090／5080搭載",
+    "url": "https://ascii.jp/elem/000/004/449/4449072/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-06T10:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://ascii.jp/img/2026/11/06/4548488/s/d936d132afe2e54b.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "18型4K＋・120Hzの大画面！ MSI「Raider A18 HX A9W」、RTX 5090／5080搭載",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "7ab1b92446c6ba37231484a99eda850578a87e37",
+    "title": "あの人気シリーズの全部入りアンドロイドが登場！ 2026年モデルもしっかりいいか確認",
+    "url": "https://ascii.jp/elem/000/004/449/4449057/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-06T10:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://ascii.jp/img/2026/07/27/4505452/s/aa118d866400b8e3.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "あの人気シリーズの全部入りアンドロイドが登場！ 2026年モデルもしっかりいいか確認",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "e04dffe485e5c80e5cbe20aa7e8e75c4bcd485ca",
+    "title": "導入済み生成AIから建築の工程管理を直接操作、作業集計や日程変更に対応するMCPサーバー",
+    "url": "https://ascii.jp/elem/000/004/448/4448970/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-06T10:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://ascii.jp/img/2026/11/05/4548226/s/59e675a9fbfa3271.jpg",
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "導入済み生成AIから建築の工程管理を直接操作、作業集計や日程変更に対応するMCPサーバー",
+    "hashtags": [
+      "AI",
+      "生成AI",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "59b4dc389d4074b46ce1969574ae7e6904fecb72",
+    "title": "20万円出すなら、32GBメモリも有機ELも欲しい。Core Ultra 7搭載のAcer「Swift Go 14 AI」がAmazonスマイルSALEで値下げ",
+    "url": "https://ascii.jp/elem/000/004/448/4448892/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-06T07:00:00+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": "https://ascii.jp/img/2026/11/05/4548161/s/0aff67824b0867b6.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "20万円出すなら、32GBメモリも有機ELも欲しい。Core Ultra 7搭載のAcer「Swift Go 14 AI」がAmazonスマイルSALEで値下げ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "64799622727682fee1fd12127e7d91087877088d",
+    "title": "有機ELの黒か、液晶の明るさか。タッチ対応OLED版とM6版、2つの新型MacBook Proの選び方",
+    "url": "https://ascii.jp/elem/000/004/449/4449040/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-05T23:00:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": "https://ascii.jp/img/2026/11/05/4548271/s/ba900841441a6385.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "有機ELの黒か、液晶の明るさか。タッチ対応OLED版とM6版、2つの新型MacBook Proの選び方",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "46acfae44032fc8be23d589fc087336b07959508",
+    "title": "買い切りOffice付きで13万円台！ Core i7搭載の国内生産ノート、NEC「LAVIE N15 Slim」",
+    "url": "https://ascii.jp/elem/000/004/448/4448390/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-05T21:50:00+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": "https://ascii.jp/img/2026/11/04/4547599/s/02e10c34cbe1bc3f.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "買い切りOffice付きで13万円台！ Core i7搭載の国内生産ノート、NEC「LAVIE N15 Slim」",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "6bf87826c57535365eba29436b8975bbed9692fe",
+    "title": "*sshole · sshhole.com",
+    "url": "https://sshhole.com/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-05T21:50:42+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "*sshole · sshhole.com",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "0d20685811017131da232859c507a1e440f8b4ac",
+    "title": "PR投げたらClaudeがレビューしてくれる仕組みを作ってみた",
+    "url": "https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-05T07:42:31+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "PR投げたらClaudeがレビューしてくれる仕組みを作ってみた",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "26f52d001882229abe14496e835ff8a8cc130311",
+    "title": "子どもはスマホっぽいものを欲しがるので、本人に欲しいアプリの設計書を書いてもらいClaude Codeで作ってM5Stack Tab 5 に実装したら画期的にウケていた",
+    "url": "https://togetter.com/li/2767019",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-05T23:53:45+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "子どもはスマホっぽいものを欲しがるので、本人に欲しいアプリの設計書を書いてもらいClaude Codeで作ってM5Stack Tab 5 に実装したら画期的にウケていた",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "2af6762519a44f4e357f782f818b31149c0b6652",
+    "title": "Microsoft 365 Insights Agent でユーザー フィードバックを探る",
+    "url": "https://blogs.windows.com/japan/2026/11/06/explore-user-feedback-with-microsoft-365-insights-agent/",
+    "source": "Windows Blog for Japan",
+    "published": "2026-11-06T09:58:08+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Microsoft 365 Insights Agent でユーザー フィードバックを探る",
+    "hashtags": [
+      "Microsoft365",
+      "Copilot",
+      "Office"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f19c77f288a6ce5725515fd76bc7e1746a4b597b",
+    "title": "Microsoft Copilot の新機能 | 2026 年 10 月",
+    "url": "https://blogs.windows.com/japan/2026/11/06/whats-new-in-microsoft-copilot-october-2026/",
+    "source": "Windows Blog for Japan",
+    "published": "2026-11-06T07:28:51+09:00",
+    "published_display": "2026/11/6 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "Microsoft Copilot の新機能 | 2026 年 10 月",
+    "hashtags": [
+      "Copilot",
+      "Microsoft",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "636758f29d1dcb083fbf318ca63b129202118530",
+    "title": "移動しながら働くためのエンジニアリング: Surface は 12 インチの Pro に向けて 5G をどう設計したか",
+    "url": "https://blogs.windows.com/japan/2026/11/05/surfaceitpro-engineering-for-work-in-motion-how-surface-designed-5g-for-a-12-inch-pro-4561243/",
+    "source": "Windows Blog for Japan",
+    "published": "2026-11-05T13:58:12+09:00",
+    "published_display": "2026/11/5 Thu",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "移動しながら働くためのエンジニアリング: Surface は 12 インチの Pro に向けて 5G をどう設計したか",
+    "hashtags": [],
+    "classified": true
+  }
+]
