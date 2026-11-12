@@ -78,6 +78,8 @@ def normalize_for_display(a: dict) -> dict:
             seen.add(h.lower())
             tags.append(h)
     a["hashtags"] = tags[:MAX_HASHTAGS]
+    if a.get("published"):
+        a["published_display"] = date_with_dow(a["published"])
 
     a["is_english"] = not JAPANESE_RE.search(a.get("title", ""))
     a["open_url"] = TRANSLATE_URL + quote(a["url"], safe="") if a["is_english"] else a["url"]
@@ -94,9 +96,13 @@ def load_day(path: Path) -> list:
     return articles
 
 
+WEEKDAYS_JA = "月火水木金土日"
+
+
 def date_with_dow(date: str) -> str:
-    dow = datetime.strptime(date, "%Y-%m-%d").strftime("%a").lower()
-    return f"{date} ({dow})"
+    """「2026-11-12」→「2026/11/12（木）」。ヘッダーと記事の日付表記をそろえる。"""
+    d = datetime.strptime(date[:10], "%Y-%m-%d")
+    return f"{d:%Y/%m/%d}（{WEEKDAYS_JA[d.weekday()]}）"
 
 
 def build_source_groups(sources: list) -> list:
