@@ -1,0 +1,887 @@
+[
+  {
+    "id": "027ce5181d214cbb836df49a73d80944196f867a",
+    "title": "タッチパッドジェスチャーやショートカットキーをカスタマイズ「win-plus」v1.1.0　ほか【ダイジェストニュース】",
+    "url": "https://forest.watch.impress.co.jp/docs/digest/2156423.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T18:42:43+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "タッチパッドジェスチャーやショートカットキーをカスタマイズ「win-plus」v1.1.0 ほか",
+    "hashtags": [
+      "Windows",
+      "フリーソフト",
+      "便利ツール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a63a6b02eb85703a6a61057e63fefcea6af8da84",
+    "title": "「paint.net 5.2」が公開 ～8種類の新効果、レイヤーエンジン・ファイルプラグインを刷新／「Wine」を介したLinux/Macでの動作も実験的にサポート",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156339.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T18:26:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "「paint.net 5.2」が公開 ～8種類の新効果、レイヤーエンジン・ファイルプラグインを刷新／「Wine」を介したLinux/Macでの動作も実験的にサポート",
+    "hashtags": [
+      "paintnet",
+      "画像編集",
+      "フリーソフト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e36a1b86f8d4f26a87949e61313f137d00dc9f44",
+    "title": "「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156215.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T17:42:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1365c6d19ef1d8e19e62856b11f3b0d03e071985",
+    "title": "たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T16:43:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す",
+    "hashtags": [
+      "生成AI",
+      "LLM",
+      "翻訳"
+    ],
+    "classified": true
+  },
+  {
+    "id": "295224a9b96131fe255240249b03c8a2540299a0",
+    "title": "「PowerShell 7.7」が一般公開 ～.NET 11ベース、セキュリティ強化や新コマンドを追加／2年サポートの「標準期間サポート」（STS）リリース",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156192.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T16:13:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「PowerShell 7.7」が一般公開 ～.NET 11ベース、セキュリティ強化や新コマンドを追加／2年サポートの「標準期間サポート」（STS）リリース",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "e5c615ea92a81ce365f927a1e9d73357d1037094",
+    "title": "「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【18:55追記】／悪意ある攻撃ではない模様。現在復旧作業中で回復の初期段階、しかし依然障害継続中【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156298.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T15:22:11+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大",
+    "hashtags": [
+      "Microsoft365",
+      "障害",
+      "ニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4796b23c2e9fa0c86fbe4222d88fe6969dc769a5",
+    "title": "2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156181.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T15:07:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中",
+    "hashtags": [
+      "Windows11",
+      "アップデート",
+      "不具合"
+    ],
+    "classified": true
+  },
+  {
+    "id": "54a62b27690549ed1b6558635e642748d3f2533e",
+    "title": "2026年は“AI動画のカンブリア爆発”！ 今年を代表する作品を一気見できるAIテレビ「AiCuTV」を作ったよ【生成AIストリーム】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2156066.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T14:04:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "2026年は“AI動画のカンブリア爆発”！ 今年を代表する作品を一気見できるAIテレビ「AiCuTV」を作ったよ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "63d17b836b7abab658edffd75a0891ba96c1458a",
+    "title": "Apple「11インチiPad Air（M4）が11％OFF！Amazonでセール中【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2156109.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T13:54:30+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "11インチiPad Air（M4）が11％OFF！Amazonでセール中",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "a28ab1257a8997e1a805c353d079ac01a219aa25",
+    "title": "ゲームを自動で高解像度化！「Auto SR」がROG XBOX Allyでプレビュー卒業、AMD Copilot+ PCにも拡大／最大120fpsのパフォーマンスモードも",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2155715.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T13:05:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "ゲームを自動で高解像度化！「Auto SR」がROG XBOX Allyでプレビュー卒業、AMD Copilot+ PCにも拡大／最大120fpsのパフォーマンスモードも",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "1896f1bff76e32859ed48424fb13ecc7eab4e2fe",
+    "title": "「Amazon Music Unlimited」が最初の3か月無料！Amazonの音楽聴き放題サービス【本日みつけたお買い得情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2156227.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T12:53:34+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「Amazon Music Unlimited」が最初の3か月無料！Amazonの音楽聴き放題サービス",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "c7cca4c31c5a8d30c872b9005bea47f561bc9e76",
+    "title": "『キン肉マン』『暗殺教室』『ヒカルの碁』など50％還元！Amazonマンガ毎週末セール／『To LOVEるダークネス』『SPY×FAMILY』『斉木楠雄のΨ難』など6,000点以上が実質半額【Book Watch/セール情報】",
+    "url": "https://forest.watch.impress.co.jp/docs/bookwatch/sale/2156220.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T12:49:43+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "『キン肉マン』『暗殺教室』『ヒカルの碁』など50％還元！Amazonマンガ毎週末セール／『To LOVEるダークネス』『SPY×FAMILY』『斉木楠雄のΨ難』など6,000点以上が実質半額",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "22d9b4f502f227f52036ce298ec05a7dddda7838",
+    "title": "Mozillaからちょっと早いクリスマスプレゼント、「Firefox」内蔵の無料VPNが上限なしに／2027年1月末までの期間限定",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156162.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T12:25:43+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "Mozillaからちょっと早いクリスマスプレゼント、「Firefox」内蔵の無料VPNが上限なしに／2027年1月末までの期間限定",
+    "hashtags": [
+      "Firefox",
+      "VPN",
+      "ブラウザ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "9aed5e1b1c457db8a08257890e4be64f088246d7",
+    "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
+    "source": "窓の杜",
+    "published": "2026-11-13T11:05:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
+    "hashtags": [
+      "Gemini",
+      "Google",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f0bdf55fb9a096d589d31df1e011014262dc0189",
+    "title": "PCゲームの「起動に時間がかかりすぎる問題」と「プチフリーズ」はなぜ起こる？　その原因を乗り越える取り組みも",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news079.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-11-13T17:00:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "PCゲームの「起動に時間がかかりすぎる問題」と「プチフリーズ」はなぜ起こる？ その原因を乗り越える取り組みも",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "36777dbd194f18599388e1157015294c302925ab",
+    "title": "パナソニック コネクト、Core Ultra シリーズ3を搭載した堅牢10型Windowsタブレット",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/13/news071.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-11-13T11:39:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "パナソニック コネクト、Core Ultra シリーズ3を搭載した堅牢10型Windowsタブレット",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "592e0a0bc7364764004f346abe50e9191b73f6c2",
+    "title": "議事録も資料も会議が終わる前にできている、Claude Meetings",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2156234.html",
+    "source": "PC Watch",
+    "published": "2026-11-14T06:00:00+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "議事録も資料も会議が終わる前にできている、Claude Meetings",
+    "hashtags": [
+      "Claude",
+      "生成AI",
+      "議事録"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e5cfd73376ca73d83d715433397340347c12ff19",
+    "title": "セキュアブート証明書の期限切れも解説、JEITAのWindows 11資料",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2156183.html",
+    "source": "PC Watch",
+    "published": "2026-11-13T12:40:39+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "セキュアブート証明書の期限切れも解説、JEITAのWindows 11資料",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "5372262acdb8258e69570b4b61cffe19a1cdfb0f",
+    "title": "【本日みつけたお買い得品】iPad Airが約1万5千円引き！AppleCare+付きAmazonでセール",
+    "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156158.html",
+    "source": "PC Watch",
+    "published": "2026-11-13T11:12:13+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "iPad Airが約1万5千円引き！AppleCare+付きAmazonでセール",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "344470e1667c4656fa6dde6bf6ecf98042ae5e34",
+    "title": "Google、安くて速い「Gemini 4 Hydrogen」。AI指標はArgon上回る",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2156118.html",
+    "source": "PC Watch",
+    "published": "2026-11-13T11:05:32+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Google、安くて速い「Gemini 4 Hydrogen」。AI指標はArgon上回る",
+    "hashtags": [
+      "Gemini",
+      "Google",
+      "生成AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "39796014d521060ce63501646a4002204003a36f",
+    "title": "メールが読めない、Teamsにつながらない。Microsoft 365で大規模障害",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2156144.html",
+    "source": "PC Watch",
+    "published": "2026-11-13T11:04:48+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "メールが読めない、Teamsにつながらない。Microsoft 365で大規模障害",
+    "hashtags": [
+      "Microsoft365",
+      "Teams",
+      "障害"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3f2189cff09a1b098c72686e44af9885de72df68",
+    "title": "【Excel VBA】「処理」ではなく「モノ」を探してみる",
+    "url": "https://qiita.com/vba-design-lab/items/5b80b723ebf89c0aaa4a",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-14T09:37:41+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【Excel VBA】「処理」ではなく「モノ」を探してみる",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "74eb24652a3539b9fff6ce3b92eff655194660d3",
+    "title": "API の JSON や Web の表を、Excel で崩れない CSV にする（ネスト展開・改行・先頭ゼロ）",
+    "url": "https://qiita.com/ebhow/items/8a27f58a892f20e1c732",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-13T20:20:55+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "API の JSON や Web の表を、Excel で崩れない CSV にする（ネスト展開・改行・先頭ゼロ）",
+    "hashtags": [
+      "Excel",
+      "CSV",
+      "データ整形"
+    ],
+    "classified": true
+  },
+  {
+    "id": "90b42f8bfe354801800c40b58dc14125e8372c02",
+    "title": "【Python×Excel業務改善】openpyxlで読み込んだExcelの欠損データを判定する",
+    "url": "https://qiita.com/Takamatsu15/items/dc7b39dd527401f4a3a6",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-13T18:32:09+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【Python×Excel業務改善】openpyxlで読み込んだExcelの欠損データを判定する",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "582886cfd51744274d6f7102339934d8bc982a9b",
+    "title": "先月の支払管理表を複写したら合計だけが合わなかった — 式のずれをAIに列挙させ、$の位置は人が決める",
+    "url": "https://qiita.com/yoshitokinosita/items/e9ff0f63311179ef313d",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-13T12:00:56+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "先月の支払管理表を複写したら合計だけが合わなかった — 式のずれをAIに列挙させ、$の位置は人が決める",
+    "hashtags": [
+      "Excel",
+      "生成AI",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "333855ad8cb8fb71524bd3ee04c98f491e4f4e23",
+    "title": "Power Platform 2026年10月・11月アップデート確認：企業AI担当者が整理した変化3点（速報・2026年11月）",
+    "url": "https://qiita.com/Sidejob/items/aa7be4816e19db2b13e2",
+    "source": "Qiita（タグ: powerautomate）",
+    "published": "2026-11-13T19:30:03+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Power Platform 2026年10月・11月アップデート確認：企業AI担当者が整理した変化3点（速報・2026年11月）",
+    "hashtags": [
+      "PowerPlatform",
+      "PowerAutomate",
+      "アップデート"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7566f43a47b3cbe45d00906a04f7cc3f8189579f",
+    "title": "AIセキュリティを考えていたら、防御より免疫の話になった件",
+    "url": "https://note.com/akibarex/n/n1f66d9cda5ab",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T10:12:45+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335869342/rectangle_large_type_2_9592c1a68e30af0aa1de7712579f9c3e.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIセキュリティを考えていたら、防御より免疫の話になった件",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "8a90132583a32406f43167d6c8aa7390d0d51de0",
+    "title": "月末集計で「合計が合わない」時に、最初に疑うべき5つの原因",
+    "url": "https://note.com/ayaka_method/n/nc48f368cc5b4",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T09:50:39+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "月末集計で「合計が合わない」時に、最初に疑うべき5つの原因",
+    "hashtags": [
+      "Excel",
+      "トラブル対処",
+      "集計"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b8ce6482a981164bbe110e43692fb50cbcacc5d0",
+    "title": "EMAの『AI利用の原則とルール』を読んでみた ― 当局はCopilotをどう縛るか",
+    "url": "https://note.com/akihikolabo/n/n31a8c1d97683",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T09:40:24+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335456739/rectangle_large_type_2_a1eb16cccbd502ae5fb931b6e8ba7ded.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "EMAの『AI利用の原則とルール』を読んでみた ― 当局はCopilotをどう縛るか",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "f63f3c4d9c5ff6d1f15dda4fea6073cf6a08791a",
+    "title": "歩数とかカウントする系アプリ",
+    "url": "https://note.com/toyotaku3/n/na16adf3f0396",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T09:34:48+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335013510/rectangle_large_type_2_39dbc2f0bcff7be92f4d475c193c549d.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "歩数とかカウントする系アプリ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "bea8fd69fabf25d95c210caf797df1b7eb91dece",
+    "title": "Copilotが1日止まった日。AIなしで仕事してみて、分かったこと",
+    "url": "https://note.com/issy_fujitsu/n/nd7d91f3f7885",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T08:58:13+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335844003/rectangle_large_type_2_6be846c54a2ac467a328bcb428dfdcef.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Copilotが1日止まった日。AIなしで仕事してみて、分かったこと",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "dbead7ad7de69f364b4c1f8dbebc9e6cc2b17993",
+    "title": "Copilotに聞いても解決しなかった。DLPの「ビジネス／非ビジネス」に躓いた話",
+    "url": "https://note.com/tawashi_ai_4989/n/n23d17c98c889",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T08:45:28+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335840137/rectangle_large_type_2_e2fccfb955d094b2cef054c1464d2cb4.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Copilotに聞いても解決しなかった。DLPの「ビジネス／非ビジネス」に躓いた話",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "627d3254bd256f37da94e221769ab62ae5ffd868",
+    "title": "Copilotで作ったPowerPointはそのまま使える？3回出力して分かった修正の大変さ",
+    "url": "https://note.com/hijirinlog08/n/n061abd87fa8a",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-14T08:43:37+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335840176/rectangle_large_type_2_268b1ceba2fcf666609cdb07d9f8361c.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Copilotで作ったPowerPointはそのまま使える？3回出力して分かった修正の大変さ",
+    "hashtags": [
+      "Copilot",
+      "PowerPoint",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "dfd52b4a4509ad68b671197853fc5281b7882e18",
+    "title": "「内定をもらったけれど、本当にこの会社でいいの？」失敗しない決断を下すためのAI「内定承諾・辞退」判断メソッド",
+    "url": "https://note.com/akalog_room/n/na25719435b8c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-14T10:15:15+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335870084/rectangle_large_type_2_64f4a1812a18b7f876c21ac3ddd20249.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「内定をもらったけれど、本当にこの会社でいいの？」失敗しない決断を下すためのAI「内定承諾・辞退」判断メソッド",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "6fde0ec4b86d8d0708160876f7eb600be9fc02e2",
+    "title": "【ビジネスコミュニケーション】具体と抽象で伝わるコミュニケーション",
+    "url": "https://note.com/teachershu/n/n665ca0116a47",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-14T10:15:07+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335294993/rectangle_large_type_2_fd99a64c25df38def2037fd9f3874f17.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【ビジネスコミュニケーション】具体と抽象で伝わるコミュニケーション",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "218fdcb744674676dad3a351ec620fdb6f979e3c",
+    "title": "職場で見かける「あぶないAI使い」2つのタイプ。道具に使われる人たち",
+    "url": "https://note.com/yayamaru_life/n/n1aa3289a619c",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T10:03:32+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335859206/rectangle_large_type_2_45031616c2054c28fb191de2e4dd0075.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "職場で見かける「あぶないAI使い」2つのタイプ。道具に使われる人たち",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "8877bdade687c48ae177948bd26293e3d1de19bd",
+    "title": "副業の経費、「これって経費？」と迷ったときの分け方",
+    "url": "https://note.com/keikeiwobbuffet/n/nc43b3aed6dc2",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:57:26+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "副業の経費、「これって経費？」と迷ったときの分け方",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "b2721c4795f6301246422b68198c55d5d2915ae6",
+    "title": "請求したのに入っていない？を見つける表｜振込名と金額で照らし、手数料の差引も拾う式",
+    "url": "https://note.com/haru_aitool/n/nbf6e245fe931",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:55:12+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/329415590/rectangle_large_type_2_4b52ddef445dda187f718d874390c9bf.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "請求したのに入っていない？を見つける表｜振込名と金額で照らし、手数料の差引も拾う式",
+    "hashtags": [
+      "Excel",
+      "関数",
+      "経理"
+    ],
+    "classified": true
+  },
+  {
+    "id": "18f8ba8728c2bbd8de7398e32731eaf78d0117c2",
+    "title": "フリーランスの「請求したのに、入金されたか分からない」をなくす管理シートを作りました",
+    "url": "https://note.com/sane_violet3033/n/n552338497f48",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:53:06+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "フリーランスの「請求したのに、入金されたか分からない」をなくす管理シートを作りました",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d2bdca356bd28bf2393d8f8c7c7195b0779f6602",
+    "title": "医事コンのCSV、名称で出せると知らなかった話",
+    "url": "https://note.com/marumama129/n/n4c2b135c5be5",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:41:03+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/332707647/rectangle_large_type_2_7c1fcdd9dcf3d3b1c9fc908f5db7ead7.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "医事コンのCSV、名称で出せると知らなかった話",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "c3c5f505812dc862330de09083209827f87d099c",
+    "title": "【お知らせ】このnoteのプロフィールと発信内容が新しくなります！",
+    "url": "https://note.com/syuho/n/n56462f21f93d",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:25:26+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335850463/rectangle_large_type_2_8c4a908d6fdc452c72e9dfff18a9392c.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【お知らせ】このnoteのプロフィールと発信内容が新しくなります！",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "a6f2d0e720d0624b0824764edc8a4da57162fe69",
+    "title": "お歳暮のお礼状の例文｜取引先・個人・親戚への書き方と出す時期、送り状の文例も（エクセルの住所録からはがき・封筒に宛名印刷）",
+    "url": "https://note.com/nagi_0606/n/n28b1f7e34f43",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:14:58+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335850028/rectangle_large_type_2_2c37e43206ad287e312472ce5d06a4c7.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "お歳暮のお礼状の例文｜取引先・個人・親戚への書き方と出す時期、送り状の文例も（エクセルの住所録からはがき・封筒に宛名印刷）",
+    "hashtags": [
+      "Excel",
+      "宛名印刷",
+      "お礼状"
+    ],
+    "classified": true
+  },
+  {
+    "id": "d32bc66a3d22390f534fe758c007f86d4e36db57",
+    "title": "入金はあるのに、請求一覧の確認が終わらない理由",
+    "url": "https://note.com/biycorp_okuaki/n/n4db39150577f",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-14T09:11:00+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335848877/rectangle_large_type_2_bbe5494fce133ea8ff609fd5345cb5d4.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "入金はあるのに、請求一覧の確認が終わらない理由",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "360d40e70480d157a07938f8210b6897cd941c5f",
+    "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+    "source": "ITmedia AI+",
+    "published": "2026-11-14T07:30:00+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "89cb341fdfcf2886d99bfa696314ca204676a30b",
+    "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-13T12:00:00+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "5899022d27b59aa691314a1741848718536bcccc",
+    "title": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "url": "https://joisino.hatenablog.com/entry/searchrecbook",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-13T19:50:54+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "d31019f1706c6aef85533039c83958e3d5380be1",
+    "title": "人間＋AIを「チーム」としてプロセスを再設計する",
+    "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-13T23:24:54+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "人間＋AIを「チーム」としてプロセスを再設計する",
+    "hashtags": [
+      "AI活用",
+      "業務改善",
+      "組織設計"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3a96982b3aa4c9957406cd850aa33a1aa7e59e43",
+    "title": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-14T06:47:23+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」 | NHKニュース",
+    "hashtags": [
+      "Microsoft",
+      "障害情報",
+      "ニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c147822c87f36aba029488fc67baa66affa2998f",
+    "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+    "url": "https://ktlog.net/posts/claude-code-ai-ecosystem",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-13T14:21:58+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "b1784afe4b18f9977615555d3ba115b8b459b996",
+    "title": "楽園追放 心のレゾナンス：12年ぶり続編の挑戦　3DCGの現在地、AIと人間らしさ　水島精二監督インタビュー - MANTANWEB（まんたんウェブ）",
+    "url": "https://mantan-web.jp/article/20261112dog00m200059000a.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-14T07:02:09+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "楽園追放 心のレゾナンス：12年ぶり続編の挑戦 3DCGの現在地、AIと人間らしさ 水島精二監督インタビュー - MANTANWEB（まんたんウェブ）",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "7e5c3e9977e00e23821e9913cfe0b9abf24da2a8",
+    "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+    "url": "https://togetter.com/li/2770106",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-13T22:27:08+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+    "hashtags": [],
+    "classified": true
+  }
+]
