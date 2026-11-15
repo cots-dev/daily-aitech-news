@@ -1,0 +1,687 @@
+[
+  {
+    "id": "24f5e3ae1eb78a626ee06622495cdc5b92b3e49e",
+    "title": "Googleが「Gemini 4 Carbon」一般提供開始／Anthropicが「Claude Fable 5.2」「Claude Mythos 5.2」を発表",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/15/news004.html",
+    "source": "ITmedia PC USER",
+    "published": "2026-11-15T06:00:00+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Googleが「Gemini 4 Carbon」一般提供開始／Anthropicが「Claude Fable 5.2」「Claude Mythos 5.2」を発表",
+    "hashtags": [
+      "Gemini",
+      "Claude",
+      "AI"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6c0589419cfecbf9e9dbd482f5c5d8fbfc528cc2",
+    "title": "ピボットテーブルの行を好きな順番に並べられるようになった！2026年追加の手動並べ替えを試してみる｜Google スプレッドシート",
+    "url": "https://qiita.com/Masato_Takeda/items/108a2e4d8af447a2036b",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-15T04:59:30+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "ピボットテーブルの行を好きな順番に並べられるようになった！2026年追加の手動並べ替えを試してみる｜Google スプレッドシート",
+    "hashtags": [
+      "スプレッドシート",
+      "ピボットテーブル"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c9b31dc4d52d9ecc66d57f839719a07146c0c70b",
+    "title": "Google スプレッドシートのグラフで箱ひげ図が使えるようになったので試してみる｜Google スプレッドシート",
+    "url": "https://qiita.com/Masato_Takeda/items/601e0fc5c83674401534",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-15T03:41:36+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Google スプレッドシートのグラフで箱ひげ図が使えるようになったので試してみる｜Google スプレッドシート",
+    "hashtags": [
+      "スプレッドシート",
+      "箱ひげ図",
+      "グラフ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4dcb87f4108da9029293f85f7e246596f37f11fd",
+    "title": "気づいてしまったAIの怖さ コパの自画像を比べていたら（後編） 万物ノート20261115",
+    "url": "https://note.com/aki_matsubara/n/nb75629b84480",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-15T09:47:46+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336262107/rectangle_large_type_2_4893bb6e14de6df74f97dec7b2881ee5.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "気づいてしまったAIの怖さ コパの自画像を比べていたら（後編） 万物ノート20261115",
+    "hashtags": [
+      "Copilot",
+      "雑感"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6a11ba3392ecaa44bac3fe38ed0e96e153db70f7",
+    "title": "【第16回 AIミーティング⑦】新設ノースリーグお題①：全員が「言葉を届けるプロ」に！？実況アナ・調査ライター・技術ライターで最強の放送局が誕生！笑",
+    "url": "https://note.com/maro_koubou/n/n896ef4d558c9",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-15T09:17:58+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336250897/rectangle_large_type_2_28668180410d18e83580295794435c53.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【第16回 AIミーティング⑦】新設ノースリーグお題①：全員が「言葉を届けるプロ」に！？実況アナ・調査ライター・技術ライターで最強の放送局が誕生！笑",
+    "hashtags": [
+      "AI",
+      "雑記"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8f31c392fbeae7ea870d2e645d3207a839e7d536",
+    "title": "【大庭お笑い劇場】コント「定食屋の親父」",
+    "url": "https://note.com/yukio_ohba/n/nd1af98d7831a",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-15T09:13:42+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336248262/rectangle_large_type_2_c5c1d1546a2aeb0d6a3574620c73d398.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【大庭お笑い劇場】コント「定食屋の親父」",
+    "hashtags": [
+      "コント",
+      "創作"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e35b01340dc75a185c86e1745f9715713738d6b6",
+    "title": "🌿「ふと見えた、うなじの横顔」日本語だけで描く、雑誌のワンシーンのようなフォトリアル・ポートレート📷",
+    "url": "https://note.com/hoshizoramochi/n/nacc232a521d2",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-15T08:46:31+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335606859/rectangle_large_type_2_b80ca3da1d72960011dd484f6c8ec9c0.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "🌿「ふと見えた、うなじの横顔」日本語だけで描く、雑誌のワンシーンのようなフォトリアル・ポートレート📷",
+    "hashtags": [
+      "画像生成",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "853a45be08546fa3bffb3d597abe36c9d09c4fed",
+    "title": "「なくても大丈夫」と言える強さを。Microsoft 365大規模障害から学んだこと",
+    "url": "https://note.com/clear_walrus655/n/n49743ccf467c",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-15T08:38:51+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336239336/rectangle_large_type_2_c43167aac524f4575d1178056023738a.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「なくても大丈夫」と言える強さを。Microsoft 365大規模障害から学んだこと",
+    "hashtags": [
+      "Microsoft365",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ae6a76b1d8e79fa12ae985f3195e20144df9a1aa",
+    "title": "「copilotも使えるのかな？」",
+    "url": "https://note.com/alert_magpie1223/n/nca699ec34db1",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-15T08:31:48+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336031979/rectangle_large_type_2_656e1ff5cfe7ae47846e1605a49349c5.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「copilotも使えるのかな？」",
+    "hashtags": [
+      "Copilot",
+      "日記"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b11fdcd5b5c1040e0ece4a3d368db11a9d58bbc9",
+    "title": "表現の幅を広げる「演出プロンプト15選」を無料公開しました",
+    "url": "https://note.com/christinapeko/n/ne8ec70cf0a60",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:44:45+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336261753/rectangle_large_type_2_73d216c92a7bf60c44b7b6fc52426ee4.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "表現の幅を広げる「演出プロンプト15選」を無料公開しました",
+    "hashtags": [
+      "AI活用",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "36f9144d2f072d29386691b3a3e4210700e24bb8",
+    "title": "ChatGPTのチャット、いつ分ける？複数の仕事を整理する3つの基準",
+    "url": "https://note.com/legal_minnow6581/n/n491cb922d946",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:44:33+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/335939585/rectangle_large_type_2_bcdfe4ecc84af16268d2226bbfe93d36.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPTのチャット、いつ分ける？複数の仕事を整理する3つの基準",
+    "hashtags": [
+      "ChatGPT",
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "22e91664be2d440269b2a25d9bf2596b52561ddf",
+    "title": "ChatGPTにあえて反対させる！知らないと損するAIの意外な使い方",
+    "url": "https://note.com/bright_eel4404/n/n938025433209",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:42:35+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336258506/rectangle_large_type_2_513b592acf4629a63511b99d8a7863d3.jpg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "ChatGPTにあえて反対させる！知らないと損するAIの意外な使い方",
+    "hashtags": [
+      "ChatGPT",
+      "AI活用",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "baedbed3f1a4822317a12f340f76a4ddc437ad2d",
+    "title": "Claudeを初めて使う人へ|最初に頼む5つのこと【コピペOK】",
+    "url": "https://note.com/frozen321/n/n8e455c4bf3aa",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:41:50+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336260914/rectangle_large_type_2_b46f451921b8939becae3ab9bcd55a4f.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Claudeを初めて使う人へ|最初に頼む5つのこと【コピペOK】",
+    "hashtags": [
+      "Claude",
+      "プロンプト",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ec971c2aa6f4da60596ddfddfc0e9ade41bc6397",
+    "title": "よく使う指示を合言葉にする｜自分用ショートプロンプト5選",
+    "url": "https://note.com/7ironote/n/n117e7903e58c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:41:31+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336260691/rectangle_large_type_2_98d035fcae5482888983461528aa590b.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "よく使う指示を合言葉にする｜自分用ショートプロンプト5選",
+    "hashtags": [
+      "プロンプト",
+      "AI活用",
+      "時短"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6dea8ff395e11c3fcabe479314b444631b9fe9a1",
+    "title": "今週の小技まとめ：議事録と請求チェック",
+    "url": "https://note.com/activetakagon/n/ncd666a6c9b1e",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:39:41+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336259997/rectangle_large_type_2_b45b7eed067a29666aab6eac2f9adc0c.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "今週の小技まとめ：議事録と請求チェック",
+    "hashtags": [
+      "議事録",
+      "業務効率化",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ac1be6f6a82ba917f0fa6d83c508e5538fcfd569",
+    "title": "列の並びが違うExcel表同士を結合できる形にそろえる ― AIに「列の対応表」を作らせる方法",
+    "url": "https://note.com/jimu_tech_labo/n/n434fa42b2a4c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:33:42+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336258691/rectangle_large_type_2_3ab884c707f8255622891a56dbf2459e.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "列の並びが違うExcel表同士を結合できる形にそろえる ― AIに「列の対応表」を作らせる方法",
+    "hashtags": [
+      "Excel",
+      "AI活用",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "50143f380c424cc7f5ff7047290f0916c8a0d896",
+    "title": "言葉にしにくい頼みごとは、スクショ1枚で伝わる｜画面録画でもOKです",
+    "url": "https://note.com/musey/n/n1a3a53dd5184",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-15T09:30:34+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "言葉にしにくい頼みごとは、スクショ1枚で伝わる｜画面録画でもOKです",
+    "hashtags": [
+      "AI活用",
+      "プロンプト",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "52ac7b2c8f78c644b5312421dd5bee00c9699db8",
+    "title": "専用ソフトは不要！Excel住所録×Wordで年賀状の「宛名面」を一括作成する方法",
+    "url": "https://note.com/hayashipcblog/n/n063f15c1fe73",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-15T09:42:20+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336259042/rectangle_large_type_2_5facb56cea8a549b3f912df4e945f9a5.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "専用ソフトは不要！Excel住所録×Wordで年賀状の「宛名面」を一括作成する方法",
+    "hashtags": [
+      "Excel",
+      "Word",
+      "差し込み印刷"
+    ],
+    "classified": true
+  },
+  {
+    "id": "637e65da7a0a5972dbbaba3a68d9da657daea3d9",
+    "title": "特定保健指導で連絡がつかない人はどうする？｜脱落までの流れと、つながる電話のコツ",
+    "url": "https://note.com/eiyou_hoken/n/n30cf1a0838d1",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-15T09:36:58+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336259281/rectangle_large_type_2_f2f43ea0c10b2fb20998e525cc67ca30.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "特定保健指導で連絡がつかない人はどうする？｜脱落までの流れと、つながる電話のコツ",
+    "hashtags": [
+      "保健指導",
+      "業務ノウハウ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "99ca020a90c362185dd729de38c23a68b0cbb5d9",
+    "title": "小数のある計算結果を整数にしたい。ROUNDで四捨五入｜ソラのExcel活用29",
+    "url": "https://note.com/real_shrew8404/n/nb0bc128b92aa",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-15T09:36:47+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336257666/rectangle_large_type_2_0960be6cf47a10bbac0662837b438967.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "小数のある計算結果を整数にしたい。ROUNDで四捨五入｜ソラのExcel活用29",
+    "hashtags": [
+      "Excel",
+      "ROUND関数",
+      "四捨五入"
+    ],
+    "classified": true
+  },
+  {
+    "id": "288e95eebe439c6eecce832288fb967cc6d4f920",
+    "title": "不動産査定書、まだExcelで作っていませんか？査定業務をもっとラクにする新しい選択肢",
+    "url": "https://note.com/kasu_ken/n/nf2591f972693",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-15T09:30:39+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336256919/rectangle_large_type_2_73d1be33d38551157ccf8d73640512dc.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "不動産査定書、まだExcelで作っていませんか？査定業務をもっとラクにする新しい選択肢",
+    "hashtags": [
+      "不動産",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e69281b2a3f968eae2458bc1cb1c9808f6aa4f45",
+    "title": "Excelの表は「テーブル」にしてからAIに聞く。行を足しても式が崩れない",
+    "url": "https://note.com/rich_dill888/n/n540167c05e22",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-15T09:18:10+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336252450/rectangle_large_type_2_632108ade7d68bce1b26e6880807dc9e.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office",
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "Excelの表は「テーブル」にしてからAIに聞く。行を足しても式が崩れない",
+    "hashtags": [
+      "Excel",
+      "テーブル機能",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "50d39289efbae806eb9d8a6ac43fc3e860db4f42",
+    "title": "請求141,900円、入金168,960円。差額27,060円はどこから？入金消込のミニ例",
+    "url": "https://note.com/lucky_katsue888/n/n240168ea81a0",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-15T09:17:30+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "請求141,900円、入金168,960円。差額27,060円はどこから？入金消込のミニ例",
+    "hashtags": [
+      "Excel",
+      "経理",
+      "入金消込"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b8ac0837d38a21545af21a505e8b192280909cca",
+    "title": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明",
+    "url": "https://ascii.jp/elem/000/004/451/4451604/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-15T07:14:28+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明",
+    "hashtags": [
+      "NVIDIA",
+      "半導体",
+      "ニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ee14db5c981ef0b9bee9062c87f5091d064b1371",
+    "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
+    "url": "https://ascii.jp/elem/000/004/451/4451456/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-14T20:00:00+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://ascii.jp/img/2026/11/13/4551915/s/1324b55423732982.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
+    "hashtags": [
+      "VAIO",
+      "ノートPC",
+      "セール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "eb3c3d6d50eeb9be8e56d1fbd054e0059860f82e",
+    "title": "4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPCが、なんと11万円オフ！",
+    "url": "https://ascii.jp/elem/000/004/451/4451453/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-14T20:00:00+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://ascii.jp/img/2026/11/13/4551896/s/81b413a0b65f5619.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPCが、なんと11万円オフ！",
+    "hashtags": [
+      "デスクトップPC",
+      "セール"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1888cd99d500ac66dc6ba7ad085e1cff75c67e40",
+    "title": "国産SaaSの致命的欠点「アプリ」  AIより先に手を付けるべきでは？",
+    "url": "https://ascii.jp/elem/000/004/451/4451597/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-14T17:00:00+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://ascii.jp/img/2026/11/14/4552148/s/eecb15e788ff1b9a.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "国産SaaSの致命的欠点「アプリ」  AIより先に手を付けるべきでは？",
+    "hashtags": [
+      "SaaS",
+      "IT業界"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6fa659eb8e0a5870bd41471e5de9573d5f395828",
+    "title": "予算に合わせて、地域に合う農業AI研修を。自治体・JA向け新サービス開始",
+    "url": "https://ascii.jp/elem/000/004/451/4451596/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-14T12:48:20+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "予算に合わせて、地域に合う農業AI研修を。自治体・JA向け新サービス開始",
+    "hashtags": [
+      "農業",
+      "AI",
+      "研修"
+    ],
+    "classified": true
+  },
+  {
+    "id": "565c5f4c5a94bfb69b08bc78e2d91978cd47ddb7",
+    "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+    "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-15T01:06:17+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+    "hashtags": [
+      "Claude",
+      "AIエージェント",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "760bb48322ef85b7c748367fde7031b37e30c2b2",
+    "title": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+    "url": "https://www.afpbb.com/articles/-/3662399",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-15T08:22:23+09:00",
+    "published_display": "2026/11/15 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+    "hashtags": [
+      "国際ニュース",
+      "政治"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ec4816d8d96c79e6ca2b36bae6db7961b874d275",
+    "title": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
+    "url": "https://www.47news.jp/15231027.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-14T23:55:47+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
+    "hashtags": [
+      "セキュリティ",
+      "AI",
+      "ニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e70ea68fc7ff3226d0c60e2af3a8a19a90d33c89",
+    "title": "AIについての追記",
+    "url": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-14T19:13:39+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIについての追記",
+    "hashtags": [
+      "AI",
+      "雑感"
+    ],
+    "classified": true
+  },
+  {
+    "id": "af5f8cdb7731aba816098c7359505a682ea2d63e",
+    "title": "マネジメントされる側の仕事は「文句」を言うこと",
+    "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-13T22:23:56+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "マネジメントされる側の仕事は「文句」を言うこと",
+    "hashtags": [
+      "マネジメント",
+      "仕事術"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b4c0fcf3556849a8de3899cce0d97cee973e4914",
+    "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+    "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-13T13:25:07+09:00",
+    "published_display": "2026/11/13 Fri",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+    "hashtags": [
+      "テスト自動化",
+      "AI活用",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "451eddb843c1bd82d3997e6c66b81429f3bcb9ff",
+    "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
+    "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-14T16:45:30+09:00",
+    "published_display": "2026/11/14 Sat",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
+    "hashtags": [
+      "AIチーム",
+      "マネジメント",
+      "開発"
+    ],
+    "classified": true
+  }
+]
