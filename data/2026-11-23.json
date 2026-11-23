@@ -1,0 +1,835 @@
+[
+  {
+    "id": "79bb0d7f35329d44b74d842ab5a9978bcba929b9",
+    "title": "Excel でシート名に使用できない文字を使用したファイルをダウンロードするとどうなる？｜Google スプレッドシート",
+    "url": "https://qiita.com/Masato_Takeda/items/0c421f49fbd8129e9b6d",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-23T05:59:46+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Excel でシート名に使用できない文字を使用したファイルをダウンロードするとどうなる？｜Google スプレッドシート",
+    "hashtags": [
+      "Excel",
+      "Googleスプレッドシート"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e73d28d9764f00051082ab1fb13efbea6ffefa5e",
+    "title": "Google スプレッドシートのシートの名前の文字数の上限を検証する：100文字まで！全角半角区別なし｜Google スプレッドシート",
+    "url": "https://qiita.com/Masato_Takeda/items/54dae52400bbd2992142",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-23T02:53:39+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "Google スプレッドシートのシートの名前の文字数の上限を検証する：100文字まで！全角半角区別なし｜Google スプレッドシート",
+    "hashtags": [
+      "Googleスプレッドシート",
+      "検証"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b468dfafcaf10f2d4df61e7ca02ee551d28b7291",
+    "title": "Excel自動化の基本の「ほ」～Power Queryの基礎知識～",
+    "url": "https://qiita.com/masayasu_t/items/a046dc6bee9007299fc0",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-22T23:14:05+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excel自動化の基本の「ほ」～Power Queryの基礎知識～",
+    "hashtags": [
+      "Excel",
+      "PowerQuery",
+      "自動化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2251387c0a202b0bbc5e7410de2975115d3bb109",
+    "title": "Excel自動化の基本の「き」～テーブルの基礎知識～",
+    "url": "https://qiita.com/masayasu_t/items/0895b04d734633f5e2b3",
+    "source": "Qiita（タグ: excel）",
+    "published": "2026-11-22T23:13:14+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excel自動化の基本の「き」～テーブルの基礎知識～",
+    "hashtags": [
+      "Excel",
+      "テーブル",
+      "自動化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a27f2f9217f72239d08589fc07fd51a4a50bdc6f",
+    "title": "Copilotを通報したら「本当は嫌いじゃないんでしょ？」と舐め腐った態度を取られた件",
+    "url": "https://note.com/maegou55/n/n29a3ef9b0988",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T10:25:20+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/331113243/rectangle_large_type_2_83fe276e50894f3d5aa33be45bec40c7.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Copilotを通報したら「本当は嫌いじゃないんでしょ？」と舐め腐った態度を取られた件",
+    "hashtags": [
+      "Copilot",
+      "雑談"
+    ],
+    "classified": true
+  },
+  {
+    "id": "f636bd632377d1514f8229ae2ba8aa378e68a251",
+    "title": "Copilotに「死ぬほど腹が立つ」と送ったら、とんでもない過激思想扱いされた件",
+    "url": "https://note.com/maegou55/n/n307e6aa9b6b9",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T10:24:53+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/331110237/rectangle_large_type_2_9b7ae3b793e58542a103795504ef4df2.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Copilotに「死ぬほど腹が立つ」と送ったら、とんでもない過激思想扱いされた件",
+    "hashtags": [
+      "Copilot",
+      "雑談"
+    ],
+    "classified": true
+  },
+  {
+    "id": "dce74a2a24e6bcda4f114ce4ce70d1ef01e655d1",
+    "title": "🦊「コン」と鳴きそうな狐耳の彼女。日本語だけで描く、グラビア風フォトポートレート📷",
+    "url": "https://note.com/hoshizoramochi/n/n5c0351476b2d",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T10:02:48+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336264775/rectangle_large_type_2_7d41245f85074d53ba900caf64d647c3.jpeg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "🦊「コン」と鳴きそうな狐耳の彼女。日本語だけで描く、グラビア風フォトポートレート📷",
+    "hashtags": [
+      "画像生成AI",
+      "イラスト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "e0bb55da159f93a6c3eb35046bb3b87f70ad6bdd",
+    "title": "AI部下に任せていい3つの仕事 — Copilot Autopilotから学ぶ「任せる・決める」の線引き",
+    "url": "https://note.com/ai_igarashi/n/n1738f961f7b6",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T09:43:58+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "AI部下に任せていい3つの仕事 — Copilot Autopilotから学ぶ「任せる・決める」の線引き",
+    "hashtags": [
+      "Copilot",
+      "AI活用",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "bd12e64eced3162f20efe638ed5410d02a257b23",
+    "title": "準備の文書を渡せば、Plannerの計画の下書きはCopilotが作る｜無料で読めるCopilotの頼み方㊷",
+    "url": "https://note.com/aishigoto_studio/n/n416bdfdbe2f5",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T09:37:05+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339536196/rectangle_large_type_2_6d3c87f10109892c7ae2abf431925b2a.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "準備の文書を渡せば、Plannerの計画の下書きはCopilotが作る｜無料で読めるCopilotの頼み方㊷",
+    "hashtags": [
+      "Copilot",
+      "Planner",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8856258ff2dd34fb56c6369e5879eb5617e9310a",
+    "title": "【番外編】Copilot Studioは、複数のナレッジをどう使い分けるのか？",
+    "url": "https://note.com/pad_robo/n/n4709775369ec",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T09:26:02+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": false,
+    "title_ja": "【番外編】Copilot Studioは、複数のナレッジをどう使い分けるのか？",
+    "hashtags": [
+      "CopilotStudio",
+      "AI活用"
+    ],
+    "classified": true
+  },
+  {
+    "id": "b34b77df7d32c323349faace0722f8adccd3cbf4",
+    "title": "Copilotです｜自己紹介します",
+    "url": "https://note.com/otonokakehashi/n/n558c98394e14",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T09:11:39+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Copilotです｜自己紹介します",
+    "hashtags": [
+      "Copilot",
+      "自己紹介"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a4b8f6f620e0f59977553343070f81d9a1809126",
+    "title": "部下の資料も上司のレビューもAI。「AI対AI」の職場で、人間の管理職は生き残れるのか？「これからの存在意義」を考えてみた",
+    "url": "https://note.com/kakip0115/n/nd6a492ee0c37",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T09:06:43+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339531778/rectangle_large_type_2_dc90933802c8a3359bd1cc7ea329261c.png?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "部下の資料も上司のレビューもAI。「AI対AI」の職場で、人間の管理職は生き残れるのか？「これからの存在意義」を考えてみた",
+    "hashtags": [
+      "AI",
+      "働き方",
+      "エッセイ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "512b6d984aa7867d976431856fe63b7b55f00318",
+    "title": "毎朝のAIニュース — 2026年11月23日",
+    "url": "https://note.com/right_crab9040/n/n605b6e16603e",
+    "source": "note（ハッシュタグ: Copilot）",
+    "published": "2026-11-23T08:46:39+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339523190/rectangle_large_type_2_20660239d112fa40071a1cdde03b3185.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "毎朝のAIニュース — 2026年11月23日",
+    "hashtags": [
+      "AIニュース",
+      "最新情報"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1ae335a4da0a19d535b1b560f6fbb38e78ae4d29",
+    "title": "AIエージェントへの頼み方｜伝わらない指示の直し方",
+    "url": "https://note.com/dapper_raven3636/n/ncb2f2a8fc462",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:19:13+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339396281/rectangle_large_type_2_82db6129c66288448f191af8a0cfbfb7.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "AIエージェントへの頼み方｜伝わらない指示の直し方",
+    "hashtags": [
+      "AI活用",
+      "プロンプト",
+      "指示出し"
+    ],
+    "classified": true
+  },
+  {
+    "id": "4323429022db68129c31e6b2c9800ad5e810a367",
+    "title": "「うまく聞けない」で止まっていた私が、書類づくりで何度も使ったAIへの頼み方9つ｜そのままコピーして使えます",
+    "url": "https://note.com/tsumugi_shorui/n/nae52c305f136",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:16:37+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339186699/rectangle_large_type_2_a5b9d51d499e8c3b658a36fbcb7ef26d.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "「うまく聞けない」で止まっていた私が、書類づくりで何度も使ったAIへの頼み方9つ｜そのままコピーして使えます",
+    "hashtags": [
+      "AI活用",
+      "プロンプト",
+      "書類作成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "2e7b10283ed5e6d95ef6b34cbede818276adc851",
+    "title": "AIに「忘年会の段取りを全部任せる」のをやめて、「行くか断るかだけ」先に決めさせる7つの方法",
+    "url": "https://note.com/kohei2292/n/n6dfd101c86a8",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:16:06+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339558452/rectangle_large_type_2_8da0087a9427f11d07c7816720a48871.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "AIに「忘年会の段取りを全部任せる」のをやめて、「行くか断るかだけ」先に決めさせる7つの方法",
+    "hashtags": [
+      "AI活用",
+      "プロンプト",
+      "段取り"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a1f71cfb172bf4d9f29be4fa88c215f267859e9f",
+    "title": "【全文無料】Claudeに副業を丸投げするときに、実際に使ったプロンプト7個",
+    "url": "https://note.com/yuu_zorokara/n/n344cf4413ddb",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:15:49+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【全文無料】Claudeに副業を丸投げするときに、実際に使ったプロンプト7個",
+    "hashtags": [
+      "Claude",
+      "副業",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "30bdbebdbb11d05c9d575a842092d8a8ae133614",
+    "title": "【AI仕事術】AIの答えを別のAIに確かめてもらう",
+    "url": "https://note.com/teachershu/n/n11beaf40444c",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:15:07+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/336725381/rectangle_large_type_2_329fb99c2ecc8739fd8741957ad1a4c7.png?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "【AI仕事術】AIの答えを別のAIに確かめてもらう",
+    "hashtags": [
+      "AI活用",
+      "AI仕事術",
+      "検証"
+    ],
+    "classified": true
+  },
+  {
+    "id": "8270f4f8d178bca48f7495dde25ebe419de6de2c",
+    "title": "【コピペOK】副業初心者がすぐ使えるAIプロンプト30選",
+    "url": "https://note.com/lithe_borage5996/n/n24ea05a523bd",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:13:44+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【コピペOK】副業初心者がすぐ使えるAIプロンプト30選",
+    "hashtags": [
+      "副業",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1dd79e64f2faf21e438b2150c89b2a7c2e52ab62",
+    "title": "会議の前にAIで5分だけ準備する手順",
+    "url": "https://note.com/moko_ai_fukugyo/n/nd8db341cab17",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:13:03+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339126506/rectangle_large_type_2_9c0f7e3c74991a974c851ca615b179ec.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "会議の前にAIで5分だけ準備する手順",
+    "hashtags": [
+      "AI活用",
+      "会議準備",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "297ac911a03f7e810a4eae40a6b5bbe06d97d128",
+    "title": "【ChatGPT専用】紙パックジュース🧃",
+    "url": "https://note.com/laguna_muse/n/n98de69c88a87",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:11:02+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339558582/rectangle_large_type_2_cbd6726a387f9f4204d2e95e0701d643.jpg?width=800",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "【ChatGPT専用】紙パックジュース🧃",
+    "hashtags": [
+      "ChatGPT",
+      "ネタ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0f95a802adca0d0c58bf43482cedf9b1193b23b3",
+    "title": "はじめに読む記事｜AIで仕事の文章・お店の発信・暮らしの見直しをラクにする型の一覧",
+    "url": "https://note.com/ichi_ryuu/n/n39fc4fb4410d",
+    "source": "note（ハッシュタグ: プロンプト）",
+    "published": "2026-11-23T10:07:56+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai"
+    ],
+    "howto": true,
+    "title_ja": "はじめに読む記事｜AIで仕事の文章・お店の発信・暮らしの見直しをラクにする型の一覧",
+    "hashtags": [
+      "AI活用",
+      "プロンプト",
+      "文章作成"
+    ],
+    "classified": true
+  },
+  {
+    "id": "80fa6ea56bceed10b3384fedd757338120ff3d92",
+    "title": "「この三角、消えないんですか」と聞かれました｜Excelが「これ違くない？」と言ってきます",
+    "url": "https://note.com/n_tetsu/n/n31c3c2d495ae",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-23T10:22:09+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339562083/rectangle_large_type_2_aa2018164ea07ce625a6350bcfabb136.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "「この三角、消えないんですか」と聞かれました｜Excelが「これ違くない？」と言ってきます",
+    "hashtags": [
+      "Excel",
+      "エラーチェック",
+      "トラブル対処"
+    ],
+    "classified": true
+  },
+  {
+    "id": "dd063b1aefd9ab2bb9f06ac30a61ad16998bd38a",
+    "title": "Excelで分からないことがあったら、関数名より先に「やりたいこと」をAIに伝える",
+    "url": "https://note.com/ai_work_simple/n/n2a8d1dd49255",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-23T10:14:27+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339559585/rectangle_large_type_2_1470fb902da1059a7d5c064d89c8895e.jpeg?width=800",
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excelで分からないことがあったら、関数名より先に「やりたいこと」をAIに伝える",
+    "hashtags": [
+      "Excel",
+      "AI活用",
+      "プロンプト"
+    ],
+    "classified": true
+  },
+  {
+    "id": "3772f872aa9aed94fe9a27e49908bfd3f254536a",
+    "title": "「AIぜんぜんだよ」と言う人へ。ダメなのはAIじゃない",
+    "url": "https://note.com/hot_fennel6675/n/nc0e4fa30d830",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-23T10:10:33+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「AIぜんぜんだよ」と言う人へ。ダメなのはAIじゃない",
+    "hashtags": [
+      "AI活用",
+      "コラム"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1658c22e9a1e402b34798401f306c7eb60535534",
+    "title": "【初心者向け】AVERAGEIF関数の使い方5選！条件に合うデータの平均を求める方法",
+    "url": "https://note.com/shikumi_office/n/n9801b8d6382e",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-23T09:54:43+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/337915392/rectangle_large_type_2_3522f0346571a4ae680d1d43b29cd2ed.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "【初心者向け】AVERAGEIF関数の使い方5選！条件に合うデータの平均を求める方法",
+    "hashtags": [
+      "Excel",
+      "AVERAGEIF",
+      "関数"
+    ],
+    "classified": true
+  },
+  {
+    "id": "0f2117453eb9548150acc05a659e846ea6b4ea0d",
+    "title": "Excelの関数が分からない営業マンが、売上データをAIに読ませたら「次にやること」まで出るようになった話",
+    "url": "https://note.com/grand_arnica3180/n/nf1c734b87da6",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-23T09:53:56+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "ai",
+      "office"
+    ],
+    "howto": true,
+    "title_ja": "Excelの関数が分からない営業マンが、売上データをAIに読ませたら「次にやること」まで出るようになった話",
+    "hashtags": [
+      "Excel",
+      "AI活用",
+      "データ分析"
+    ],
+    "classified": true
+  },
+  {
+    "id": "27285ae71745338487dd50d3437371b8207c95b4",
+    "title": "話題のタスク管理ツールを色々試した結果、結局「ただのExcel」が圧勝だった話",
+    "url": "https://note.com/yokosharo/n/n97828faf075f",
+    "source": "note（ハッシュタグ: Excel）",
+    "published": "2026-11-23T09:51:58+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/339546523/rectangle_large_type_2_3f8884454028d6698135b1900fd8fbd2.png?width=800",
+    "excluded": false,
+    "tags": [
+      "office"
+    ],
+    "howto": false,
+    "title_ja": "話題のタスク管理ツールを色々試した結果、結局「ただのExcel」が圧勝だった話",
+    "hashtags": [
+      "Excel",
+      "タスク管理",
+      "業務効率化"
+    ],
+    "classified": true
+  },
+  {
+    "id": "7c8f52f95d03cdf919c3d058543681492e3ddfda",
+    "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-23T07:49:18+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+    "hashtags": [
+      "OpenAI",
+      "AIニュース",
+      "AI開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "1a73b3726a9e8254a5e89f3f8e33f9ebc8a4011f",
+    "title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+    "source": "ITmedia AI+",
+    "published": "2026-11-23T06:00:00+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+    "hashtags": [
+      "メルカリ",
+      "情報流出",
+      "セキュリティ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "bb33dd300acca1d8c7fc30a167a342808174d846",
+    "title": "Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/23/news001.html",
+    "source": "ITmedia エンタープライズ",
+    "published": "2026-11-23T07:00:00+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
+    "hashtags": [
+      "Microsoft",
+      "Copilot",
+      "セキュリティ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "c7c0bcb1dee6c272a2a71f2ae937dcb0666a0923",
+    "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい　Nano Bananaのようなモデルがローカルで動くのが当たり前に",
+    "url": "https://ascii.jp/elem/000/004/453/4453903/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-23T07:00:00+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": "https://ascii.jp/img/2026/11/23/4555431/s/7331f6c19c384594.png",
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "無料の画像生成AI「MiniMax H3-Image」はここがすごい　Nano Bananaのようなモデルがローカルで動くのが当たり前に",
+    "hashtags": [
+      "画像生成AI",
+      "MiniMax",
+      "AIニュース"
+    ],
+    "classified": true
+  },
+  {
+    "id": "78b7e251896a563b7c90bcf6422f3a88903543e8",
+    "title": "FMV直販に注目！ 23.8型の一体型デスクトップPCが、Ryzen AI 5搭載で24万円台！",
+    "url": "https://ascii.jp/elem/000/004/453/4453673/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-22T20:00:00+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png",
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "FMV直販に注目！ 23.8型の一体型デスクトップPCが、Ryzen AI 5搭載で24万円台！",
+    "hashtags": [
+      "デスクトップPC",
+      "富士通"
+    ],
+    "classified": true
+  },
+  {
+    "id": "111c569e1c241d6b13049be8acaefd61b717c75d",
+    "title": "FlashAI、AIが対応した電話を有人オペレーターへ引き継ぐ「ウォーム転送」を実装",
+    "url": "https://ascii.jp/elem/000/004/453/4453906/?rss",
+    "source": "ASCII.jp",
+    "published": "2026-11-22T19:00:00+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+    "excluded": false,
+    "tags": [
+      "news"
+    ],
+    "howto": false,
+    "title_ja": "FlashAI、AIが対応した電話を有人オペレーターへ引き継ぐ「ウォーム転送」を実装",
+    "hashtags": [
+      "FlashAI",
+      "AI電話",
+      "新機能"
+    ],
+    "classified": true
+  },
+  {
+    "id": "81eba04a858d55e77c5eab1a05cd12a7330b3512",
+    "title": "ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」",
+    "url": "https://posfie.com/@petaritape/p/tgzVdbL",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-23T07:04:53+09:00",
+    "published_display": "2026/11/23 Mon",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」",
+    "hashtags": [
+      "Windows11",
+      "ショートカット",
+      "トラブル対処"
+    ],
+    "classified": true
+  },
+  {
+    "id": "44d79e44c86856e38fbf728aeb5e04d12028b0d2",
+    "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+    "url": "https://note.com/yamac_/n/n198bdc344c64",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T19:08:35+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+    "hashtags": [
+      "ClaudeCode",
+      "Docker",
+      "開発"
+    ],
+    "classified": true
+  },
+  {
+    "id": "ede4d7516c76ff166a02a2f01d386828e0d0bad7",
+    "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+    "url": "https://note.com/cgbeginner/n/n5856d402f125",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T22:51:31+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+    "hashtags": [
+      "シンギュラリティ",
+      "AI",
+      "エッセイ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "636176eba07637ffa144b42a93f33eca0e1d44b9",
+    "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
+    "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T17:32:43+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた",
+    "hashtags": [
+      "Python",
+      "AIエージェント",
+      "プログラミング"
+    ],
+    "classified": true
+  },
+  {
+    "id": "28d2e1c94558640a314e4d46c5c6fc39cf42e0c7",
+    "title": "AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!",
+    "url": "https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T21:29:53+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": false,
+    "tags": [
+      "news",
+      "windows"
+    ],
+    "howto": false,
+    "title_ja": "AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能",
+    "hashtags": [
+      "Windows",
+      "Microsoft",
+      "新機能"
+    ],
+    "classified": true
+  },
+  {
+    "id": "6e9c354ddcd4c3e6e10490828db9ff81469cd875",
+    "title": "証明が得られたあとに−−証明を理解するという仕事｜加藤文元",
+    "url": "https://note.com/katobungen/n/n2326bd68a80e",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T15:23:00+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "証明が得られたあとに−−証明を理解するという仕事｜加藤文元",
+    "hashtags": [
+      "数学",
+      "エッセイ"
+    ],
+    "classified": true
+  },
+  {
+    "id": "a64eb4ac3a7cb7b813c8d9ded59b8577b54a42f3",
+    "title": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+    "url": "https://anond.hatelabo.jp/20261122140104",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T14:01:52+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+    "hashtags": [],
+    "classified": true
+  },
+  {
+    "id": "efcf58eff0d506a2d5052e0328272adff5cdb0aa",
+    "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
+    "url": "https://togetter.com/li/2773732",
+    "source": "はてなブックマーク（総合 人気エントリ）",
+    "published": "2026-11-22T23:51:25+09:00",
+    "published_display": "2026/11/22 Sun",
+    "thumbnail": null,
+    "excluded": true,
+    "tags": [],
+    "howto": false,
+    "title_ja": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
+    "hashtags": [],
+    "classified": true
+  }
+]
